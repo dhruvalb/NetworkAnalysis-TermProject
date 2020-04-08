@@ -1,0 +1,562 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,293291680,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,135791472,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1526,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,24,Angola,AGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,52826608,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,24,Angola,AGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5286085,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11672808,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,73001,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,97285,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,630007,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,447221,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1807684,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,44,Bahamas,BHS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,240491,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,48,Bahrain,BHR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3540,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,52,Barbados,BRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10558,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,58,Belgium-Luxembourg,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1046079,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,58,Belgium-Luxembourg,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5052979,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,68,Bolivia (Plurinational State of),BOL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3179,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13460057,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2398083,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4232367,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7882186,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,132,Cabo Verde,CPV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1000060,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,132,Cabo Verde,CPV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1625428,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,140,Central African Rep.,CAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2532,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,355326,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11496,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15164,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,587,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3155,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,178,Congo,COG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,138972,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,178,Congo,COG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7629,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,180,Dem. Rep. of the Congo,COD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,730970,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,47896,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17064,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,228257,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,200,Czechoslovakia,CSK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16895,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,200,Czechoslovakia,CSK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,236210,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10518872,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2359629,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17451,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1541,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,77054,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,230,Fmr Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,733,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,46530,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,392533,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8349168,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5411549,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,254,French Guiana,GUF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1552,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3971359,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14436331,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,292,Gibraltar,GIB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1651,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,292,Gibraltar,GIB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,59544,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,463915,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,654065,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,320,Guatemala,GTM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,695,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,332,Haiti,HTI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16372,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16421,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,52123,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,54268,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10645615,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5326,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,356,"India, excl. Sikkim",IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1911,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8371,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4598,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5270,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,368,Iraq,IRQ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5932,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1140217,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,568250,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,48394,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,229365,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2192981,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10199624,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,388,Jamaica,JAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3268,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,388,Jamaica,JAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,27966,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,300333,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3812821,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,111764,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,55239,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1566,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9085,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,161303,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,446,"China, Macao SAR",MAC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,483066,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,446,"China, Macao SAR",MAC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,88406,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,450,Madagascar,MDG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,24071,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,454,Malawi,MWI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,620662,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,454,Malawi,MWI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14298,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11974,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,79047,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,29619,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,480,Mauritius,MUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2285,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,95571,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,22415,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,590017,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,60712,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,508,Mozambique,MOZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,37120532,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,508,Mozambique,MOZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3514090,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5091279,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3753380,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,532,Neth. Antilles and Aruba,ANT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,107444,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,540,New Caledonia,NCL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,946,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,75067,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,49927,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8365,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16658823,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1103159,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4254,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,590,"Fmr Panama, excl.Canal Zone",PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,270664,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,600,Paraguay,PRY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1928,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,600,Paraguay,PRY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,843,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3926,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16747,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1431,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,556718,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1192438,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,185251,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,624,Guinea-Bissau,GNB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,28455,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,624,Guinea-Bissau,GNB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2158226,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,626,Timor-Leste,TLS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,443903,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,626,Timor-Leste,TLS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,88908,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5612951,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,666,Saint Pierre and Miquelon,SPM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,506,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,678,Sao Tome and Principe,STP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1848905,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,678,Sao Tome and Principe,STP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,272308,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,682,Saudi Arabia,SAU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,27734,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,686,Senegal,SEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,69064,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,690,Seychelles,SYC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1248,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,25529,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9548,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,706,Somalia,SOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3728,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,711,So. African Customs Union,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4185617,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,711,So. African Customs Union,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3477043,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19145642,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3111513,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,740,Suriname,SUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,72167,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4270576,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2601286,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2714035,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4374285,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,37137,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,780,Trinidad and Tobago,TTO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,125643,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,364826,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,810,Fmr USSR,SUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21298,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,73431,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5510745,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19776748,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,837,Bunkers,,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,71581,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,841,USA (before 1981),USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,46785872,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,841,USA (before 1981),USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,24381748,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6377623,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,315703,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,868,Fmr Rep. of Vietnam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,906,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,868,Fmr Rep. of Vietnam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1746,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,890,Fmr Yugoslavia,YUG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11522,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,894,Zambia,ZMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5029,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,899,"Areas, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10699298,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,899,"Areas, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,87837,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,247980736,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,147115152,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,4,Afghanistan,AFG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,312274,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,24,Angola,AGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,30950842,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,24,Angola,AGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,245630,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,610730,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1154977,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4483161,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,544564,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4419618,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,268919,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,44,Bahamas,BHS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8678,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,58,Belgium-Luxembourg,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1651157,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,58,Belgium-Luxembourg,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4512045,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,68,Bolivia (Plurinational State of),BOL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,146898,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,22851776,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2795337,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,615888,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,108,Burundi,BDI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,210641,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,120,Cameroon,CMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19548,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2713523,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,268821,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,132,Cabo Verde,CPV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,520721,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,132,Cabo Verde,CPV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,194882,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,138395,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,148,Chad,TCD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1951888,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1750,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,23796,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,169006,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,690098,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,46695,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,178,Congo,COG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1122644,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,180,Dem. Rep. of the Congo,COD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1418864,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,29116,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,200,Czechoslovakia,CSK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,32770,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,200,Czechoslovakia,CSK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,803860,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,204,Benin,BEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,187052,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,210284,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1150981,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,218,Ecuador,ECU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1788,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,230,Fmr Ethiopia,ETH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11488,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,961914,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,187945,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6441243,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,18697700,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,254,French Guiana,GUF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,39520,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,266,Gabon,GAB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,102101,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,270,Gambia,GMB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2660072,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,274417,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10912963,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12407364,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,292,Gibraltar,GIB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9808,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,292,Gibraltar,GIB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,38474,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2795240,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,498582,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,320,Guatemala,GTM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,854310,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,340,Honduras,HND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3284,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,44100,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4583,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,726549,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,356,"India, excl. Sikkim",IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,37225,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,133923,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,60982,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10084,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,368,Iraq,IRQ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1562770,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,477765,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,738452,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2501986,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4031839,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14131318,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1309728,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4526,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3136095,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4626750,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16500,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,994,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1240725,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,430,Liberia,LBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2995,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,446,"China, Macao SAR",MAC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4199,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,450,Madagascar,MDG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,261918,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,454,Malawi,MWI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3240,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2737884,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,23645,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,466,Mali,MLI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,201461,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,470,Malta,MLT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17467,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,470,Malta,MLT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,35580,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3835479,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,795767,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11897,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,156187,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4308020,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2276209,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,508,Mozambique,MOZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,23734554,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,508,Mozambique,MOZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,436281,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2573449,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7227167,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,532,Neth. Antilles and Aruba,ANT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,41948,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2588924,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,72745,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,558,Nicaragua,NIC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2285968,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,562,Niger,NER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3571032,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1083467,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1712161,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,971566,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6547026,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9006,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,590,"Fmr Panama, excl.Canal Zone",PAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,287302,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,600,Paraguay,PRY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,85981,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,624733,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9209,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,22183,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,105647,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2862,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1524350,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,624,Guinea-Bissau,GNB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2651801,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,624,Guinea-Bissau,GNB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,50111,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,626,Timor-Leste,TLS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8440,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,626,Timor-Leste,TLS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2067,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,274555,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1996685,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,678,Sao Tome and Principe,STP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,525190,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,678,Sao Tome and Principe,STP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,22449,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,682,Saudi Arabia,SAU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,27588,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,686,Senegal,SEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,815329,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,694,Sierra Leone,SLE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2825,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,183991,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19104,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,706,Somalia,SOM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,807,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,711,So. African Customs Union,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2777179,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,711,So. African Customs Union,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,187203,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4153891,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10870693,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,736,Fmr Sudan,SDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9641990,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3695600,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1807025,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,953177,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2936572,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2298139,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,142733,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,197135,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,268966,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17481508,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,210120,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,800,Uganda,UGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1664786,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,810,Fmr USSR,SUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,249022,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1876125,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10571683,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,39873228,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,834,United Rep. of Tanzania,TZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,555173,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,837,Bunkers,,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1294,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,841,USA (before 1981),USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17248414,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,841,USA (before 1981),USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4031847,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,858,Uruguay,URY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,194068,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,858,Uruguay,URY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,69022,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,862,Venezuela,VEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,590,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,862,Venezuela,VEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,336707,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,868,Fmr Rep. of Vietnam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,40036,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,868,Fmr Rep. of Vietnam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6964,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,890,Fmr Yugoslavia,YUG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,235034,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,894,Zambia,ZMB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2414,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,899,"Areas, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4533683,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,899,"Areas, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,40481,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,153888576,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,22096302,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,24,Angola,AGO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9873647,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,24,Angola,AGO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,394138,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,48,Bahrain,BHR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,12995608,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,58,Belgium-Luxembourg,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3507138,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,58,Belgium-Luxembourg,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,510802,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1361,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,132,Cabo Verde,CPV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1784,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,132,Cabo Verde,CPV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,381140,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,170,Colombia,COL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,11192,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,200,Czechoslovakia,CSK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,59504,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5577,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3010510,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5080,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7115288,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2407,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4892758,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2221,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,292,Gibraltar,GIB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,10846,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,364,Iran,IRN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8096140,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,368,Iraq,IRQ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,41004412,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,372,Ireland,IRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,26370,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6545502,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,557476,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,49736,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,430,Liberia,LBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1794,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,454,Malawi,MWI,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,49038,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,504,Morocco,MAR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,862,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,508,Mozambique,MOZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1256227,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,508,Mozambique,MOZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,129532,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6541291,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2400665,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,532,Neth. Antilles and Aruba,ANT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,905508,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,579,Norway,NOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,41324,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1771075,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,624,Guinea-Bissau,GNB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,33249,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,624,Guinea-Bissau,GNB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,982057,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,678,Sao Tome and Principe,STP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,100692,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,682,Saudi Arabia,SAU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,30389032,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,711,So. African Customs Union,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,770,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,711,So. African Customs Union,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1343564,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5237872,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1306079,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,407037,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,49027,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,28169,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,764,Thailand,THA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,277853,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,780,Trinidad and Tobago,TTO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,200689,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4565619,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3151326,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,837,Bunkers,,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7708795,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,841,USA (before 1981),USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7903080,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,862,Venezuela,VEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,91665,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,899,"Areas, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,45224,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,899,"Areas, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5125,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,392447744,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,458171904,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,4,Afghanistan,AFG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6600,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,20,Andorra,AND,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3256,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,24,Angola,AGO,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,76342824,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,24,Angola,AGO,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,25204652,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,32,Argentina,ARG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,61685,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,32,Argentina,ARG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,66931,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,36,Australia,AUS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,71346,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,36,Australia,AUS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2303880,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,40,Austria,AUT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,8715565,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,40,Austria,AUT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,8983201,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,44,Bahamas,BHS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,255875,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,48,Bahrain,BHR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,9176,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,52,Barbados,BRB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,12295,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,58,Belgium-Luxembourg,BEL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,21616624,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,58,Belgium-Luxembourg,BEL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,17452692,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,68,Bolivia (Plurinational State of),BOL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,114605,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,76,Brazil,BRA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,412685,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,76,Brazil,BRA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1862888,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,100,Bulgaria,BGR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,70474,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,104,Myanmar,MMR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,10308,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,116,Cambodia,KHM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2128,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,124,Canada,CAN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,9218591,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,124,Canada,CAN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6436544,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,132,Cabo Verde,CPV,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,129174,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,132,Cabo Verde,CPV,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3079169,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,140,Central African Rep.,CAF,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,22768,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,144,Sri Lanka,LKA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,34657,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,148,Chad,TCD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,12330,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,152,Chile,CHL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,455935,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,156,China,CHN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,249079,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,156,China,CHN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,8590,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,170,Colombia,COL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,87958,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,178,Congo,COG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,12008,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,180,Dem. Rep. of the Congo,COD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,131904,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,180,Dem. Rep. of the Congo,COD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,780137,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,188,Costa Rica,CRI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,56295,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,196,Cyprus,CYP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,638910,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,200,Czechoslovakia,CSK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,882719,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,200,Czechoslovakia,CSK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,614343,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,204,Benin,BEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3481,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,208,Denmark,DNK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2445184,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,208,Denmark,DNK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,16489380,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,214,Dominican Rep.,DOM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,94126,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,218,Ecuador,ECU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,127799,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,222,El Salvador,SLV,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,20099,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,242,Fiji,FJI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3341,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,246,Finland,FIN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4288833,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,246,Finland,FIN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,15229528,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,251,France,FRA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,22919200,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,251,France,FRA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,16338689,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,254,French Guiana,GUF,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4863,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,262,Djibouti,DJI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1281,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,266,Gabon,GAB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1191,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,270,Gambia,GMB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,17141,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,270,Gambia,GMB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,817,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,20610,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,53008,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,48118880,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,26807518,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,292,Gibraltar,GIB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4769,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,292,Gibraltar,GIB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,223376,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,300,Greece,GRC,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,192365,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,300,Greece,GRC,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1348316,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,312,Guadeloupe,GLP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,157893,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,320,Guatemala,GTM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,342325,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,332,Haiti,HTI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,7368,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,340,Honduras,HND,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,59727,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,169055,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,484894,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,348,Hungary,HUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4541,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,348,Hungary,HUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,28059,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,352,Iceland,ISL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,553296,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,356,"India, excl. Sikkim",IND,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,338268,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,360,Indonesia,IDN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,514,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,360,Indonesia,IDN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,258965,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,364,Iran,IRN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3563,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,364,Iran,IRN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,348833,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,368,Iraq,IRQ,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,267872,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,372,Ireland,IRL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,153239,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,372,Ireland,IRL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3974085,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,376,Israel,ISR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,206185,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,376,Israel,ISR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,676833,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,381,Italy,ITA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,15607783,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,381,Italy,ITA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,8081742,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2904,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,388,Jamaica,JAM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,744,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,388,Jamaica,JAM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,103494,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,392,Japan,JPN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,16718495,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,392,Japan,JPN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1145545,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,400,Jordan,JOR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,72000,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,410,Rep. of Korea,KOR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,56850,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,410,Rep. of Korea,KOR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,72316,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,418,Lao People's Dem. Rep.,LAO,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,535,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,422,Lebanon,LBN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,622562,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,430,Liberia,LBR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3456,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,446,"China, Macao SAR",MAC,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,847541,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,446,"China, Macao SAR",MAC,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,81581,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,450,Madagascar,MDG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,707,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,454,Malawi,MWI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,11527,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,454,Malawi,MWI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,26339,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,458,Malaysia,MYS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,22827,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,458,Malaysia,MYS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,364743,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,466,Mali,MLI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3825,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,470,Malta,MLT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2388,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,470,Malta,MLT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,391363,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,480,Mauritius,MUS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,42744,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,484,Mexico,MEX,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,765295,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,484,Mexico,MEX,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,199132,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,490,"Other Asia, nes",,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3651,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,490,"Other Asia, nes",,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,56321,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,504,Morocco,MAR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,103727,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,504,Morocco,MAR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3046643,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,508,Mozambique,MOZ,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1753006,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,508,Mozambique,MOZ,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,29240616,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,512,Oman,OMN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,760,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,528,Netherlands,NLD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,10075767,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,528,Netherlands,NLD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6776350,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,532,Neth. Antilles and Aruba,ANT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,38973,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,540,New Caledonia,NCL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,14326,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,554,New Zealand,NZL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,622091,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,558,Nicaragua,NIC,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,89703,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,562,Niger,NER,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,764,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,566,Nigeria,NGA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,158431,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,579,Norway,NOR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3603945,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,579,Norway,NOR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,9522260,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,586,Pakistan,PAK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,159870,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,586,Pakistan,PAK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1474532,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,590,"Fmr Panama, excl.Canal Zone",PAN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,38532,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,590,"Fmr Panama, excl.Canal Zone",PAN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,78734,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,592,Fmr Panama-Canal-Zone,PCZ,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,73045,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,600,Paraguay,PRY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6244,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,604,Peru,PER,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,560692,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,604,Peru,PER,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,561236,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,608,Philippines,PHL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2998,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,608,Philippines,PHL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,319343,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,616,Poland,POL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,77718,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,616,Poland,POL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,85742,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,624,Guinea-Bissau,GNB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,94049,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,624,Guinea-Bissau,GNB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5349551,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,626,Timor-Leste,TLS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2615,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,626,Timor-Leste,TLS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,452171,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,638,Réunion,REU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1845,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,642,Romania,ROU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,92372,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,642,Romania,ROU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,248208,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,678,Sao Tome and Principe,STP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,54336,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,678,Sao Tome and Principe,STP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,907132,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,682,Saudi Arabia,SAU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,293897,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,694,Sierra Leone,SLE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5555,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,702,Singapore,SGP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,708,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,702,Singapore,SGP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,309327,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,711,So. African Customs Union,ZAF,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,317414,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,711,So. African Customs Union,ZAF,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2375262,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,720,Fmr Dem. Yemen,YMD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,9840,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,724,Spain,ESP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,16690921,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,724,Spain,ESP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4164783,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,740,Suriname,SUR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,40542,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,752,Sweden,SWE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,26014850,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,752,Sweden,SWE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,31238888,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,757,Switzerland,CHE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,24601244,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,757,Switzerland,CHE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,11447064,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,760,Syria,SYR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,10483,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,764,Thailand,THA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,7699,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,764,Thailand,THA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,467882,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,780,Trinidad and Tobago,TTO,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,83180,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,788,Tunisia,TUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,27236,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,788,Tunisia,TUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,938,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,792,Turkey,TUR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,15253,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,792,Turkey,TUR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,375917,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,826,United Kingdom,GBR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,62530232,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,826,United Kingdom,GBR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,137087040,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,837,Bunkers,,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,41806,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,841,USA (before 1981),USA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,13538530,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,841,USA (before 1981),USA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,43129544,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,849,US Misc. Pacific Isds,,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,11476,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,858,Uruguay,URY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,11346,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,858,Uruguay,URY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,51398,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,862,Venezuela,VEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1720318,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,868,Fmr Rep. of Vietnam,VNM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,80269,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,886,Fmr Arab Rep. of Yemen,YEM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1260,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,890,Fmr Yugoslavia,YUG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,36575,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,890,Fmr Yugoslavia,YUG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,92028,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,894,Zambia,ZMB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1004947,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,894,Zambia,ZMB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,111290,,,0
+S1,1972,1972,1972,1,0,1,Import,620,Portugal,PRT,899,"Areas, nes",,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,260974,,,0
+S1,1972,1972,1972,1,0,2,Export,620,Portugal,PRT,899,"Areas, nes",,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2194883,,,0

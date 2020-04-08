@@ -1,0 +1,1350 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,24900838285,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,29412320670,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,4,Afghanistan,AFG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2568,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,4,Afghanistan,AFG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1210581,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,8,Albania,ALB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,920091,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,230723,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,273282969,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,16,American Samoa,ASM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,63774,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,20,Andorra,AND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,151963,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,24,Angola,AGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,85158184,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,28,Antigua and Barbuda,ATG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,297974,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,28,Antigua and Barbuda,ATG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,259090,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,31,Azerbaijan,AZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2449665,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,31,Azerbaijan,AZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3071255,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,338776327,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2222038,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,44943122,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,68938456,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,65706128,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,294794471,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,44,Bahamas,BHS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5759388,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,44,Bahamas,BHS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1577579,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,48,Bahrain,BHR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3746926,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,50,Bangladesh,BGD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,121089116,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,50,Bangladesh,BGD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5432964,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,51,Armenia,ARM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1892859,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,52,Barbados,BRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,308430,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,60,Bermuda,BMU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,53471,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,64,Bhutan,BTN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4660,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,68,Bolivia (Plurinational State of),BOL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2941219,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,68,Bolivia (Plurinational State of),BOL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,229819,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,70,Bosnia Herzegovina,BIH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5351588,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,70,Bosnia Herzegovina,BIH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2917540,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,72,Botswana,BWA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,28721,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1020787304,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,100182398,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,84,Belize,BLZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,452362,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,84,Belize,BLZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,336227,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,86,Br. Indian Ocean Terr.,IOT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,41396,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,90,Solomon Isds,SLB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,101938,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,92,Br. Virgin Isds,VGB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19114,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,96,Brunei Darussalam,BRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,310727,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12033472,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16668741,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,104,Myanmar,MMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1490815,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,104,Myanmar,MMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1171978,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,108,Burundi,BDI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5568701,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,108,Burundi,BDI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5824310,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,112,Belarus,BLR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1825062,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,112,Belarus,BLR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,32166394,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,116,Cambodia,KHM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2425785,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,120,Cameroon,CMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,99711061,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,120,Cameroon,CMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,33709066,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,241396578,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,93478674,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,132,Cabo Verde,CPV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,239792,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,132,Cabo Verde,CPV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16363480,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,136,Cayman Isds,CYM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,62965,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,140,Central African Rep.,CAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,212053,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,140,Central African Rep.,CAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1950374,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3743765,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5978046,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,148,Chad,TCD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2675871,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,62143915,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12204935,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,211382948,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,60799536,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,166,Cocos Isds,CCK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,36574,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,417496310,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6466662,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,174,Comoros,COM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,39606,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,174,Comoros,COM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2335975,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,175,Mayotte,MYT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1527038,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,178,Congo,COG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3661203,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,178,Congo,COG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13859962,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,180,Dem. Rep. of the Congo,COD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3851276,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,180,Dem. Rep. of the Congo,COD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,48238331,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,552136348,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1460481,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,191,Croatia,HRV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,72516,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,191,Croatia,HRV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18800836,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,192,Cuba,CUB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,285128,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,192,Cuba,CUB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9308250,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15690087,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,38840584,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,203,Czechia,CZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,49699496,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,203,Czechia,CZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,166937724,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,204,Benin,BEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,869994,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,204,Benin,BEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8042841,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,199591985,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,298396833,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,212,Dominica,DMA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19879,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,62641920,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10146745,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,434127170,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2450345,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,222,El Salvador,SLV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10076202,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,222,El Salvador,SLV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,124140,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,226,Equatorial Guinea,GNQ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17649,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,226,Equatorial Guinea,GNQ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5703647,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,231,Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,38802898,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,231,Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16011219,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,232,Eritrea,ERI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,984877,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,233,Estonia,EST,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6874367,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,233,Estonia,EST,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18679403,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,234,Faeroe Isds,FRO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,84750,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,80818,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,242,Fiji,FJI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,214249,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,242,Fiji,FJI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,229777,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,43498305,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,150296749,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5613681896,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6756319430,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,258,French Polynesia,PYF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,181793,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,258,French Polynesia,PYF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,902372,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,262,Djibouti,DJI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3806107,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,266,Gabon,GAB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10765931,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,268,Georgia,GEO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7331255,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,268,Georgia,GEO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3508289,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,270,Gambia,GMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1224945,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,270,Gambia,GMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2037843,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,275,State of Palestine,PSE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1724857,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,275,State of Palestine,PSE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,33237,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,276,Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2952527853,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,276,Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5134826443,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,124991143,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21342755,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,292,Gibraltar,GIB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,96931,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,296,Kiribati,KIR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14797,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,50492689,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,330427105,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,308,Grenada,GRD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,347928,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,308,Grenada,GRD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,309092,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,316,Guam,GUM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,550011,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,320,Guatemala,GTM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17495693,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,320,Guatemala,GTM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1106741,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,324,Guinea,GIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10384046,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,324,Guinea,GIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5363964,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,328,Guyana,GUY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3112434,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,328,Guyana,GUY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,833966,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,332,Haiti,HTI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1144588,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,332,Haiti,HTI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2727272,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,336,Holy See (Vatican City State),VAT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16812,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,340,Honduras,HND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,67487107,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,340,Honduras,HND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1635542,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,913969,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,43521418,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,69284184,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,123212090,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,95621368,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11439677,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,103197628,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,44889375,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14025426,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7272892,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,368,Iraq,IRQ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2672470,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,269218298,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,235745185,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,113983873,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,61092134,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,745803389,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1206451275,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,260318342,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,26209687,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,388,Jamaica,JAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1182631,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,388,Jamaica,JAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13671173,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3584822,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,203061958,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,398,Kazakhstan,KAZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2638287,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,398,Kazakhstan,KAZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4115212,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,82497,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16610449,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,55204127,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1370419,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,137715,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13475561,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,107500560,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,414,Kuwait,KWT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17756,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,414,Kuwait,KWT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17484375,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,417,Kyrgyzstan,KGZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,262586,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,417,Kyrgyzstan,KGZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,383298,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,418,Lao People's Dem. Rep.,LAO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1348793,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,418,Lao People's Dem. Rep.,LAO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2833674,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,408774,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,32525921,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,426,Lesotho,LSO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,32963,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,428,Latvia,LVA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2323715,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,428,Latvia,LVA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16277156,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,430,Liberia,LBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,668471,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,430,Liberia,LBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2742747,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,434,Libya,LBY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,786036,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,434,Libya,LBY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,37435493,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,440,Lithuania,LTU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,23541667,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,440,Lithuania,LTU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,26314420,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,442,Luxembourg,LUX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,98938280,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,442,Luxembourg,LUX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,579509955,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,446,"China, Macao SAR",MAC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,90112,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,450,Madagascar,MDG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5592059,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,450,Madagascar,MDG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5287214,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,454,Malawi,MWI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3869532,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,454,Malawi,MWI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,160759,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,29283485,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,28221708,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,462,Maldives,MDV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,46859,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,462,Maldives,MDV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,540964,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,466,Mali,MLI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1834455,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,466,Mali,MLI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6538699,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,292235,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,22425820,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,478,Mauritania,MRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,36298,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,478,Mauritania,MRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14717470,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,480,Mauritius,MUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7260596,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,480,Mauritius,MUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3337129,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,43194265,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,41361586,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3254374,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,29329738,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,496,Mongolia,MNG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,571048,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,498,Rep. of Moldova,MDA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,647286,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,498,Rep. of Moldova,MDA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1196313,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,499,Montenegro,MNE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,101067,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,59767267,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,51083187,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,508,Mozambique,MOZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,96436,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,508,Mozambique,MOZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4618155,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,512,Oman,OMN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,242499,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,512,Oman,OMN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4632917,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,516,Namibia,NAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5255404,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,516,Namibia,NAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2979942,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,520,Nauru,NRU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,47724,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,524,Nepal,NPL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16968,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,524,Nepal,NPL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,252611,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5831308522,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5777279811,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,530,Neth. Antilles,ANT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,150215,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,530,Neth. Antilles,ANT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1573481,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,533,Aruba,ABW,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,206468,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,533,Aruba,ABW,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,390665,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,540,New Caledonia,NCL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12522,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,540,New Caledonia,NCL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4329408,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,425643302,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10721242,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,558,Nicaragua,NIC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11606643,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,558,Nicaragua,NIC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4953941,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,562,Niger,NER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2053299,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,562,Niger,NER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1223275,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,68412665,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,33675685,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,574,Norfolk Isds,NFK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14130,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,577,"Other Africa, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,129998,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2620050,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,100043974,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,581,United States Minor Outlying Islands,UMI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1409,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,584,Marshall Isds,MHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,29055,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14059970,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2414277,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,591,Panama,PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,99724975,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,591,Panama,PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3287620,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,598,Papua New Guinea,PNG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19083730,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,598,Papua New Guinea,PNG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,191385,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,600,Paraguay,PRY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2318395,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,600,Paraguay,PRY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,186840,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,83437452,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7615529,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19024058,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,35266260,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,612,Pitcairn,PCN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,33986,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,217299689,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,287871842,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,66884736,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,183459791,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,624,Guinea-Bissau,GNB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,557747,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,626,Timor-Leste,TLS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3199,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,626,Timor-Leste,TLS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,278254,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,634,Qatar,QAT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21949,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,634,Qatar,QAT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9859140,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9717905,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,58695970,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,643,Russian Federation,RUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14018244,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,643,Russian Federation,RUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,569179522,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,646,Rwanda,RWA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3290491,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,646,Rwanda,RWA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5877277,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,662,Saint Lucia,LCA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,985066,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,666,Saint Pierre and Miquelon,SPM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3790213,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,666,Saint Pierre and Miquelon,SPM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3819,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,674,San Marino,SMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,223,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,674,San Marino,SMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18316,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,678,Sao Tome and Principe,STP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1969704,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,678,Sao Tome and Principe,STP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1654232,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,156554,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,66833352,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,686,Senegal,SEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,24757571,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,686,Senegal,SEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10816061,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,688,Serbia,SRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18965730,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,688,Serbia,SRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7964371,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,690,Seychelles,SYC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,812826,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,690,Seychelles,SYC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2475100,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,694,Sierra Leone,SLE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20954651,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,694,Sierra Leone,SLE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3111260,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,699,India,IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,181322848,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,699,India,IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8290569,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3627519,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,46355094,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,703,Slovakia,SVK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,29686071,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,703,Slovakia,SVK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,37480373,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,134004541,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13606884,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,705,Slovenia,SVN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1787430,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,705,Slovenia,SVN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,23497658,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,706,Somalia,SOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,389720,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,710,South Africa,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,77457726,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,710,South Africa,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,34098311,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,716,Zimbabwe,ZWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,262602,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,716,Zimbabwe,ZWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,118714,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,789729554,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,870840462,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,736,Fmr Sudan,SDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6803271,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,736,Fmr Sudan,SDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7677076,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2816892,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3786883,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,748,Eswatini,SWZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1187085,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,117567779,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,378700203,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,82973139,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,143697432,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,760,Syria,SYR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,530800,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,760,Syria,SYR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13715456,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,762,Tajikistan,TJK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1449029,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,100861538,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,33461421,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,768,Togo,TGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,26618127,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,768,Togo,TGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7083245,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,776,Tonga,TON,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,107067,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,780,Trinidad and Tobago,TTO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,155046,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,780,Trinidad and Tobago,TTO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2272042,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3058360,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,37426341,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3750628,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15357395,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,158765931,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,26994763,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,795,Turkmenistan,TKM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2512460,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,800,Uganda,UGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,74778187,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,800,Uganda,UGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3896709,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,804,Ukraine,UKR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3175671,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,804,Ukraine,UKR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,25987952,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,807,North Macedonia,MKD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2440089,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,807,North Macedonia,MKD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1819996,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,46840393,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,27200207,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,675332361,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2853291687,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,27793950,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6415180,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,837,Bunkers,,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,400725,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,842,USA,USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,363802029,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,244605968,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,854,Burkina Faso,BFA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2605392,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,854,Burkina Faso,BFA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6166665,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,24753903,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,982084,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,860,Uzbekistan,UZB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1291224,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,860,Uzbekistan,UZB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1046554,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7426814,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,57412923,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,882,Samoa,WSM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,111978,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,887,Yemen,YEM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6401726,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,887,Yemen,YEM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9853701,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,894,Zambia,ZMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1029666,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,894,Zambia,ZMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,834893,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16935089169,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10867231985,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,4,Afghanistan,AFG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4233339,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,4,Afghanistan,AFG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,298811,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,8,Albania,ALB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,202249,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,8,Albania,ALB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12716,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,12,Algeria,DZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9872946,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,12,Algeria,DZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15291353,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,20,Andorra,AND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,52967,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,24,Angola,AGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1871118,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,24,Angola,AGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4568109,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,31,Azerbaijan,AZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1242674,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,84303574,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2109645,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,594221032,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16182436,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,97424277,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,205186413,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,44,Bahamas,BHS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3584,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,44,Bahamas,BHS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,88985,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,48,Bahrain,BHR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,117147,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,48,Bahrain,BHR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,113959,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,50,Bangladesh,BGD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,325702,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,50,Bangladesh,BGD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1886685,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,51,Armenia,ARM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8021714,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,51,Armenia,ARM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,138072,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,52,Barbados,BRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12165,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,60,Bermuda,BMU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,224569,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,68,Bolivia (Plurinational State of),BOL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,37067924,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,68,Bolivia (Plurinational State of),BOL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,113514,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,70,Bosnia Herzegovina,BIH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1922809,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,70,Bosnia Herzegovina,BIH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1570147,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,72,Botswana,BWA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1261953,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,72,Botswana,BWA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,55297,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1289091891,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10852196,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,84,Belize,BLZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,209553,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,90,Solomon Isds,SLB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,824246,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,90,Solomon Isds,SLB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1159,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,92,Br. Virgin Isds,VGB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,540012,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,25671353,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12991255,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,104,Myanmar,MMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3422214,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,104,Myanmar,MMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5314,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,108,Burundi,BDI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,127364,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,108,Burundi,BDI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,123498,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,112,Belarus,BLR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14219356,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,112,Belarus,BLR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12424454,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,116,Cambodia,KHM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,93688,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,120,Cameroon,CMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,77215444,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,120,Cameroon,CMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,32091683,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,657589299,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,22275989,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,132,Cabo Verde,CPV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,47666,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,136,Cayman Isds,CYM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14441,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,140,Central African Rep.,CAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,290555,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,140,Central African Rep.,CAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2296325,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1516961,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,98551,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,148,Chad,TCD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,272455,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,148,Chad,TCD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,539254,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,118245135,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5053986,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,111093092,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,702216957,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,162,Christmas Isds,CXR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8988,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,588903,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,945511,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,174,Comoros,COM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,124932,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,175,Mayotte,MYT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,440015,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,178,Congo,COG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9508465,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,178,Congo,COG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1332543,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,180,Dem. Rep. of the Congo,COD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,87977984,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,180,Dem. Rep. of the Congo,COD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3961374,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,188,Costa Rica,CRI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16827957,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,188,Costa Rica,CRI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,143567,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,191,Croatia,HRV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2956102,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,191,Croatia,HRV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4471447,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,192,Cuba,CUB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3685,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,192,Cuba,CUB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,99353,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6143004,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2038871,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,203,Czechia,CZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,28230909,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,203,Czechia,CZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,93175974,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,204,Benin,BEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19934802,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,204,Benin,BEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1150345,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,82921652,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,23492866,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,214,Dominican Rep.,DOM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1440578,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,218,Ecuador,ECU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1854581,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,218,Ecuador,ECU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,281554,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,226,Equatorial Guinea,GNQ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,23924,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,226,Equatorial Guinea,GNQ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,854878,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,231,Ethiopia,ETH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1407415,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,231,Ethiopia,ETH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,26472,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,233,Estonia,EST,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9544951,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,233,Estonia,EST,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3088891,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,234,Faeroe Isds,FRO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3420,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,242,Fiji,FJI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16713,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,73873509,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,247862391,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2687848522,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1897392080,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,258,French Polynesia,PYF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,57692,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,262,Djibouti,DJI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,611131,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,262,Djibouti,DJI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,154518,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,266,Gabon,GAB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19663475,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,266,Gabon,GAB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7756828,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,268,Georgia,GEO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1560029,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,268,Georgia,GEO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1596960,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,270,Gambia,GMB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,635287,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,270,Gambia,GMB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1086555,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,275,State of Palestine,PSE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1504863,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,276,Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2500218322,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,276,Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2104616330,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6614514,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1298327,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,292,Gibraltar,GIB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19174,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11018779,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,33966464,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,304,Greenland,GRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,483472,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,320,Guatemala,GTM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,141911,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,320,Guatemala,GTM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,135957,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,324,Guinea,GIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5616883,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,324,Guinea,GIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,355621,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,328,Guyana,GUY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,68284,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,332,Haiti,HTI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3859,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,334,Heard Island and McDonald Islands,HMD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,62613,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,340,Honduras,HND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,25856348,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,340,Honduras,HND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,67939,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2260370,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,53317996,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,26269769,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,18646168,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,352,Iceland,ISL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5986514,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,352,Iceland,ISL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1130809,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,131508404,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,34247226,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12658047,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13977768,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,368,Iraq,IRQ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,52221,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,368,Iraq,IRQ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,65499,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,177428887,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,32007585,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,89940496,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8411998,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,174434799,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,358347596,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14449567,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2760916,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,388,Jamaica,JAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1646,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,388,Jamaica,JAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6729,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,80546974,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,150157928,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,398,Kazakhstan,KAZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14195342,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,398,Kazakhstan,KAZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,823119,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,400,Jordan,JOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2429365,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,400,Jordan,JOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2861882,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,20148655,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1790711,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,45592693,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,34677216,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,414,Kuwait,KWT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,363201,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,414,Kuwait,KWT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,512723,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,417,Kyrgyzstan,KGZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15716,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,417,Kyrgyzstan,KGZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,21491,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,418,Lao People's Dem. Rep.,LAO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4200,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,418,Lao People's Dem. Rep.,LAO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,115724,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3787735,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1768376,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,426,Lesotho,LSO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19903,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,428,Latvia,LVA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,26663541,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,428,Latvia,LVA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2691162,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,430,Liberia,LBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,867606,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,430,Liberia,LBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,64521,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,434,Libya,LBY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6011492,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,434,Libya,LBY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1108090,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,440,Lithuania,LTU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,26719304,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,440,Lithuania,LTU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19390526,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,442,Luxembourg,LUX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,130260948,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,442,Luxembourg,LUX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,294438722,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,446,"China, Macao SAR",MAC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,213887,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,450,Madagascar,MDG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1370096,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,450,Madagascar,MDG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4190367,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,454,Malawi,MWI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,158218,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,145885382,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8402525,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,462,Maldives,MDV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,466,Mali,MLI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3132961,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,466,Mali,MLI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,532586,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,470,Malta,MLT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,88449,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,470,Malta,MLT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1234554,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,478,Mauritania,MRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,93471266,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,478,Mauritania,MRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,241054,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,480,Mauritius,MUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1371483,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,480,Mauritius,MUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1700655,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,93276232,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10526449,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14900294,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,22850136,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,498,Rep. of Moldova,MDA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,88825,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,498,Rep. of Moldova,MDA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2188642,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,499,Montenegro,MNE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8198,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,72547321,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,21443462,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,508,Mozambique,MOZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,675047,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,508,Mozambique,MOZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,264215,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,512,Oman,OMN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5882,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,512,Oman,OMN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,131542,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,516,Namibia,NAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,346475,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,516,Namibia,NAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7880,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,520,Nauru,NRU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,26709,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,524,Nepal,NPL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,24317,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,524,Nepal,NPL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,24972,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2940302572,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2309860196,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,530,Neth. Antilles,ANT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,908063,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,530,Neth. Antilles,ANT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,133498,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,533,Aruba,ABW,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,455410,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,540,New Caledonia,NCL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,178217,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,548,Vanuatu,VUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,526653,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,37162829,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,797319,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,558,Nicaragua,NIC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,524633,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,558,Nicaragua,NIC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,127245,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,562,Niger,NER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14288,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,562,Niger,NER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4007128,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12130956,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2086510,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,577,"Other Africa, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,451490,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,37965791,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,26907673,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,584,Marshall Isds,MHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1008824,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4496891,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17146022,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,591,Panama,PAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,22938,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,591,Panama,PAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,177298,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,598,Papua New Guinea,PNG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1327838,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,600,Paraguay,PRY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4637804,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,287722626,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,271968,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12895012,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3372420,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,68406465,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,101410261,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,40382654,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,59020872,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,624,Guinea-Bissau,GNB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,46401,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,634,Qatar,QAT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17766,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,634,Qatar,QAT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,372072,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,37673986,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,21658802,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,643,Russian Federation,RUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,299796924,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,643,Russian Federation,RUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,52494667,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,646,Rwanda,RWA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,129821,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,646,Rwanda,RWA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1144296,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,674,San Marino,SMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17441,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,674,San Marino,SMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,273411,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,678,Sao Tome and Principe,STP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,240853,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,40933343,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8008327,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,686,Senegal,SEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7384220,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,686,Senegal,SEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1880142,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,688,Serbia,SRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2374790,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,688,Serbia,SRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7147304,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,690,Seychelles,SYC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,129100,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,690,Seychelles,SYC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9727,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,694,Sierra Leone,SLE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7701824,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,694,Sierra Leone,SLE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7184,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,699,India,IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,69538236,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,699,India,IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,100853738,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19214900,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3007726,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,703,Slovakia,SVK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8263529,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,703,Slovakia,SVK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,28671881,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17275535,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6953351,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,705,Slovenia,SVN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3682614,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,705,Slovenia,SVN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,21645593,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,706,Somalia,SOM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,438637,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,706,Somalia,SOM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14512,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,710,South Africa,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,195088378,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,710,South Africa,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,44218156,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,716,Zimbabwe,ZWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,823654,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,716,Zimbabwe,ZWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2188,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,327438858,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,194566218,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,736,Fmr Sudan,SDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4548803,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,736,Fmr Sudan,SDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,91508,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,287748,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15159,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,748,Eswatini,SWZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,259264,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,306939699,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,190108173,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,30710709,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,50980216,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,760,Syria,SYR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5887911,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,760,Syria,SYR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5724852,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,762,Tajikistan,TJK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1581140,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,28142436,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,21800293,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,768,Togo,TGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2939363,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,768,Togo,TGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1389089,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,780,Trinidad and Tobago,TTO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,717817,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,780,Trinidad and Tobago,TTO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,65471,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8209746,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8405745,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16653493,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8900951,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,124425798,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,318251600,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,795,Turkmenistan,TKM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1118718,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,795,Turkmenistan,TKM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5799,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,800,Uganda,UGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,580335,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,800,Uganda,UGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,71297,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,804,Ukraine,UKR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,38821899,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,804,Ukraine,UKR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,22615766,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,807,North Macedonia,MKD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1111424,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,807,North Macedonia,MKD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,403778,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12412945,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,120318671,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,690237981,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,427111403,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,834,United Rep. of Tanzania,TZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1180364,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,834,United Rep. of Tanzania,TZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,238420,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,837,Bunkers,,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,143564,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,842,USA,USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,943562640,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,76493425,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,854,Burkina Faso,BFA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1104,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,854,Burkina Faso,BFA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,688489,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,858,Uruguay,URY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,25933662,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,858,Uruguay,URY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,638843,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,860,Uzbekistan,UZB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5447695,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,860,Uzbekistan,UZB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,556233,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,862,Venezuela,VEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,28566381,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,862,Venezuela,VEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1408427,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,887,Yemen,YEM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1328737,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,887,Yemen,YEM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2976,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,894,Zambia,ZMB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,388263,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,48091268995,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,30571850083,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,8,Albania,ALB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,63173,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,12,Algeria,DZA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1780533781,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,12,Algeria,DZA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,27361272,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,20,Andorra,AND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,77632,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,24,Angola,AGO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,33622989,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,24,Angola,AGO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,146322,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,28,Antigua and Barbuda,ATG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,32901,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,31,Azerbaijan,AZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9988268,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,31,Azerbaijan,AZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,11460117,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,32,Argentina,ARG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,183444643,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,412841895,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7904025,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6227465,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,104506113,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,44,Bahamas,BHS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,88271,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,48,Bahrain,BHR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,397529,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,50,Bangladesh,BGD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,659888,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,51,Armenia,ARM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,277145,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,52,Barbados,BRB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,128890,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,68,Bolivia (Plurinational State of),BOL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,21826,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,70,Bosnia Herzegovina,BIH,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,160,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,70,Bosnia Herzegovina,BIH,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1489538,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,76,Brazil,BRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,16430523,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,76,Brazil,BRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,79787270,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,84,Belize,BLZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5445,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,96,Brunei Darussalam,BRN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8303116,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,100,Bulgaria,BGR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1677454,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,100,Bulgaria,BGR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8039256,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,108,Burundi,BDI,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2596964,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,112,Belarus,BLR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2102749,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,112,Belarus,BLR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4463406,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,120,Cameroon,CMR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2259079,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,33914167,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,52394500,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,132,Cabo Verde,CPV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1113962,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,136,Cayman Isds,CYM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,37208229,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,140,Central African Rep.,CAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,42243,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,144,Sri Lanka,LKA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,379519,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,148,Chad,TCD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,28155,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,152,Chile,CHL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,27813785,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,117695596,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,14723161,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,170,Colombia,COL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,40308458,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,170,Colombia,COL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,293956,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,178,Congo,COG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,199645,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,180,Dem. Rep. of the Congo,COD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1435554,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,188,Costa Rica,CRI,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,82184,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,191,Croatia,HRV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1285205,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,191,Croatia,HRV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,10052792,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,192,Cuba,CUB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2855247,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,196,Cyprus,CYP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5200689,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,203,Czechia,CZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2790360,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,203,Czechia,CZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,22082490,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,204,Benin,BEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,62622926,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,36913206,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,74581120,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,214,Dominican Rep.,DOM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,161,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,214,Dominican Rep.,DOM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,511428,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,218,Ecuador,ECU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,203601,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,222,El Salvador,SLV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,104336,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,226,Equatorial Guinea,GNQ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3147318,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,231,Ethiopia,ETH,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,279467,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,233,Estonia,EST,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,71591426,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,233,Estonia,EST,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,19753515,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,234,Faeroe Isds,FRO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1668831,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7535,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,343013140,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,78841148,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2171117562,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6049720488,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,258,French Polynesia,PYF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,222948,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,262,Djibouti,DJI,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,56279,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,266,Gabon,GAB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,39274101,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,268,Georgia,GEO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,33,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,268,Georgia,GEO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1001188,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,270,Gambia,GMB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,197685,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,276,Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1822613298,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,276,Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3439457132,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,288,Ghana,GHA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8591,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,288,Ghana,GHA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,130532255,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,292,Gibraltar,GIB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7676673,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,292,Gibraltar,GIB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,127558056,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,300,Greece,GRC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,17410998,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,300,Greece,GRC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,20671918,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,304,Greenland,GRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,50032,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,320,Guatemala,GTM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3656,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,320,Guatemala,GTM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,38533,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,324,Guinea,GIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2794614,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,336,Holy See (Vatican City State),VAT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4002,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,340,Honduras,HND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,46450,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,344,"China, Hong Kong SAR",HKG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,18,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,344,"China, Hong Kong SAR",HKG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2603874,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,348,Hungary,HUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3345366,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,348,Hungary,HUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,13644330,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,352,Iceland,ISL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4735,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,352,Iceland,ISL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,16105587,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,360,Indonesia,IDN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,13299593,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,360,Indonesia,IDN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2116243,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,364,Iran,IRN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,373340,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,364,Iran,IRN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,12778516,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,368,Iraq,IRQ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,294,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,368,Iraq,IRQ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4114,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,372,Ireland,IRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5741249,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,372,Ireland,IRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,94425347,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,376,Israel,ISR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4781,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,376,Israel,ISR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,34973848,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,182190179,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,192219302,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,384,Côte d'Ivoire,CIV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,11908,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,384,Côte d'Ivoire,CIV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4482805,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,388,Jamaica,JAM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,232,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,207833502,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8509843,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,398,Kazakhstan,KAZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,104573367,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,398,Kazakhstan,KAZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5358761,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,400,Jordan,JOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,464831,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,404,Kenya,KEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1573817,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,410,Rep. of Korea,KOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,15337266,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,410,Rep. of Korea,KOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2569595,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,414,Kuwait,KWT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,37712657,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,414,Kuwait,KWT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2833774,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,417,Kyrgyzstan,KGZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2819358,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,422,Lebanon,LBN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4934751,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,428,Latvia,LVA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4010151,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,428,Latvia,LVA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1593654,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,430,Liberia,LBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,272682,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,434,Libya,LBY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,130976325,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,434,Libya,LBY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2797290,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,440,Lithuania,LTU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,40176259,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,440,Lithuania,LTU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6033267,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,442,Luxembourg,LUX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,155135013,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,442,Luxembourg,LUX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2144928088,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,450,Madagascar,MDG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,66602,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,458,Malaysia,MYS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,37,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,458,Malaysia,MYS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9724737,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,462,Maldives,MDV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,940,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,466,Mali,MLI,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,507558,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,470,Malta,MLT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,81285,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,470,Malta,MLT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7817161,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,478,Mauritania,MRT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,29071224,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,480,Mauritius,MUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,46787,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,484,Mexico,MEX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,11965575,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,484,Mexico,MEX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,32646716,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,490,"Other Asia, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6360154,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,490,"Other Asia, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2656549,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,498,Rep. of Moldova,MDA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,956622,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,499,Montenegro,MNE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,303047,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,504,Morocco,MAR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,35701544,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,504,Morocco,MAR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,44485121,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,508,Mozambique,MOZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,26267,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,512,Oman,OMN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,822589,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,512,Oman,OMN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1468132,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,516,Namibia,NAM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,74349,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,26527120402,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8368915319,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,530,Neth. Antilles,ANT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,26624382,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,530,Neth. Antilles,ANT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,59814,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,533,Aruba,ABW,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4126241,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,533,Aruba,ABW,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5001,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,540,New Caledonia,NCL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,241527,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,554,New Zealand,NZL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,44,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,554,New Zealand,NZL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,986908,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,558,Nicaragua,NIC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,24326257,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,562,Niger,NER,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,12248207,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,566,Nigeria,NGA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,18223060,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,566,Nigeria,NGA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,349004696,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,577,"Other Africa, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,28741712,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,579,Norway,NOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3746613294,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,579,Norway,NOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,114990485,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,586,Pakistan,PAK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,446980,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,591,Panama,PAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,61945,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,600,Paraguay,PRY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,12784,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,604,Peru,PER,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1542,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,604,Peru,PER,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,554969,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,608,Philippines,PHL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1306,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,608,Philippines,PHL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,232679,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,49835782,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,86744232,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,620,Portugal,PRT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9530494,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,620,Portugal,PRT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,73271941,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,634,Qatar,QAT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,628992713,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,634,Qatar,QAT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2474623,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2508722,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,12564652,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,643,Russian Federation,RUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3721147339,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,643,Russian Federation,RUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,75325140,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,646,Rwanda,RWA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1069567,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,646,Rwanda,RWA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,85774,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,34844665,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,15777018,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,686,Senegal,SEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,53917784,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,688,Serbia,SRB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5392011,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,690,Seychelles,SYC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5813,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,694,Sierra Leone,SLE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,477391,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,699,India,IND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,80725070,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,699,India,IND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9733448,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9919247,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,14742676,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,703,Slovakia,SVK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1233,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,703,Slovakia,SVK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5879522,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,20079402,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2844501,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,705,Slovenia,SVN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,360261,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,705,Slovenia,SVN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8882189,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,710,South Africa,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,228598539,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,710,South Africa,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,56821845,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,716,Zimbabwe,ZWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6079,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,183567026,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,400133820,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,736,Fmr Sudan,SDN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,359405,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,61064,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,376681842,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,78909611,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,31299460,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,517611449,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,760,Syria,SYR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,40848743,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,760,Syria,SYR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,99824,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,762,Tajikistan,TJK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,104893,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,764,Thailand,THA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,120,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3242932,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,768,Togo,TGO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,40523218,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,780,Trinidad and Tobago,TTO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,225984,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,99724959,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,15780930,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,788,Tunisia,TUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,177,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,788,Tunisia,TUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,41458824,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5386553,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,41176400,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,795,Turkmenistan,TKM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,95147,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,800,Uganda,UGA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,339179,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,804,Ukraine,UKR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,62387015,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,804,Ukraine,UKR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,14261862,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,807,North Macedonia,MKD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1169713,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,818,Egypt,EGY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,113571395,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,818,Egypt,EGY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,10215779,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3080002598,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1063181146,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,834,United Rep. of Tanzania,TZA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,461916,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,837,Bunkers,,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3805746554,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,842,USA,USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,672331577,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1828008726,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,854,Burkina Faso,BFA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1295936,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,858,Uruguay,URY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5954,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,860,Uzbekistan,UZB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4547009,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,860,Uzbekistan,UZB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,446140,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,862,Venezuela,VEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,425172215,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,862,Venezuela,VEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,219695,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,887,Yemen,YEM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,20060155,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,894,Zambia,ZMB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,215344,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,71960599569,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,86943412091,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,4,Afghanistan,AFG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16258,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,4,Afghanistan,AFG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,800349,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,8,Albania,ALB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1122837,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,8,Albania,ALB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1848974,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,10,Antarctica,ATA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,341531,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,12,Algeria,DZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5554955,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,12,Algeria,DZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,151609550,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,20,Andorra,AND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,57032,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,20,Andorra,AND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1271499,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,24,Angola,AGO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,249230696,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,24,Angola,AGO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,24014388,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,28,Antigua and Barbuda,ATG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,158931,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,31,Azerbaijan,AZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,64215,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,31,Azerbaijan,AZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4994627,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,32,Argentina,ARG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,26655736,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,32,Argentina,ARG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,50774594,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,36,Australia,AUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,472199001,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,36,Australia,AUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,257811706,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,40,Austria,AUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,712268768,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,40,Austria,AUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,668676910,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,44,Bahamas,BHS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,289626,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,48,Bahrain,BHR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,35075021,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,48,Bahrain,BHR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,22511070,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,50,Bangladesh,BGD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,34997577,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,50,Bangladesh,BGD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5068771,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,51,Armenia,ARM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,87032163,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,51,Armenia,ARM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,105054889,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,52,Barbados,BRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2150346,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,60,Bermuda,BMU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,344,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,60,Bermuda,BMU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,53165,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,64,Bhutan,BTN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,108796,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,68,Bolivia (Plurinational State of),BOL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,274001,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,68,Bolivia (Plurinational State of),BOL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,758236,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,70,Bosnia Herzegovina,BIH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7194245,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,70,Bosnia Herzegovina,BIH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11669885,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,72,Botswana,BWA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,50688864,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,72,Botswana,BWA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,51043913,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,74,Bouvet Island,BVT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7170,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,76,Brazil,BRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,989904758,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,76,Brazil,BRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,150352669,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,84,Belize,BLZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,73429,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,90,Solomon Isds,SLB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,719,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,92,Br. Virgin Isds,VGB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,350205,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,92,Br. Virgin Isds,VGB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,286943,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,96,Brunei Darussalam,BRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,738629,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,100,Bulgaria,BGR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,821698555,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,100,Bulgaria,BGR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,65442717,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,104,Myanmar,MMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,193617,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,104,Myanmar,MMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,242090,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,108,Burundi,BDI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3165,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,108,Burundi,BDI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1828177,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,112,Belarus,BLR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,34634688,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,112,Belarus,BLR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,23678425,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,116,Cambodia,KHM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,830435,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,116,Cambodia,KHM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,27588412,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,120,Cameroon,CMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1463050,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,120,Cameroon,CMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,24710238,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,124,Canada,CAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,859063450,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,124,Canada,CAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,412623096,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,132,Cabo Verde,CPV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,832415,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,136,Cayman Isds,CYM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,21597,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,140,Central African Rep.,CAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,30387782,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,140,Central African Rep.,CAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,352209,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,144,Sri Lanka,LKA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,301242830,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,144,Sri Lanka,LKA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,292089234,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,148,Chad,TCD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,148,Chad,TCD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,780417,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,152,Chile,CHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,35623743,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,152,Chile,CHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,47920952,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,156,China,CHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5163023416,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,156,China,CHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1239985505,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,162,Christmas Isds,CXR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,534,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,162,Christmas Isds,CXR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15913,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,166,Cocos Isds,CCK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19888,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,170,Colombia,COL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,103680536,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,170,Colombia,COL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,25850829,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,174,Comoros,COM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3772,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,174,Comoros,COM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,370082,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,175,Mayotte,MYT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4938,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,175,Mayotte,MYT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1823594,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,178,Congo,COG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2799087,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,178,Congo,COG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,25491162,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,180,Dem. Rep. of the Congo,COD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,394617500,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,180,Dem. Rep. of the Congo,COD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,31230582,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,188,Costa Rica,CRI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1585222,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,188,Costa Rica,CRI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,21125870,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,191,Croatia,HRV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,18273243,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,191,Croatia,HRV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,37808583,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,192,Cuba,CUB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,33524,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,192,Cuba,CUB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2236253,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,196,Cyprus,CYP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1597342,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,196,Cyprus,CYP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,29122677,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,203,Czechia,CZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,562823179,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,203,Czechia,CZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,800488037,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,204,Benin,BEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,65013,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,204,Benin,BEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2117252,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,208,Denmark,DNK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,225502276,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,208,Denmark,DNK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,528388724,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,212,Dominica,DMA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,191751,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,212,Dominica,DMA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4503,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,214,Dominican Rep.,DOM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,88195571,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,214,Dominican Rep.,DOM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15190441,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,218,Ecuador,ECU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,231696,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,218,Ecuador,ECU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8784785,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,222,El Salvador,SLV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,149153,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,222,El Salvador,SLV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,440166,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,226,Equatorial Guinea,GNQ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4919002,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,231,Ethiopia,ETH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2572562,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,231,Ethiopia,ETH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4767304,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,232,Eritrea,ERI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,115820,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,233,Estonia,EST,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,23243457,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,233,Estonia,EST,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,48319598,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,234,Faeroe Isds,FRO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3015,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,234,Faeroe Isds,FRO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,367012,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,238,Falkland Isds (Malvinas),FLK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,47747,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10284,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,242,Fiji,FJI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,253524,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,246,Finland,FIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,949273528,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,246,Finland,FIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,375796873,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,251,France,FRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7246383002,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,251,France,FRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16125501107,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,258,French Polynesia,PYF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,399935,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,258,French Polynesia,PYF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12147651,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,260,Fr. South Antarctic Terr.,ATF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8644,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,262,Djibouti,DJI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1650975,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,266,Gabon,GAB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4139697,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,266,Gabon,GAB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15275846,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,268,Georgia,GEO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9947,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,268,Georgia,GEO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2435569,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,270,Gambia,GMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19002,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,270,Gambia,GMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3874548,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,275,State of Palestine,PSE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,28744,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,275,State of Palestine,PSE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,35635,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,276,Germany,DEU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8999088597,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,276,Germany,DEU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17283734758,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,288,Ghana,GHA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,23443292,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,288,Ghana,GHA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,22447372,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,292,Gibraltar,GIB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,378284,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,300,Greece,GRC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,113512881,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,300,Greece,GRC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,257812074,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,304,Greenland,GRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,26359,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,316,Guam,GUM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,27358,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,320,Guatemala,GTM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,363019,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,320,Guatemala,GTM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6202372,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,324,Guinea,GIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,38451919,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,324,Guinea,GIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12290699,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,328,Guyana,GUY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,26452509,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,328,Guyana,GUY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1323461,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,332,Haiti,HTI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19028,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,332,Haiti,HTI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,610505,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,340,Honduras,HND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,63788,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,340,Honduras,HND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2591524,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,616871127,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1642018002,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,348,Hungary,HUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,236728947,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,348,Hungary,HUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,304717431,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,352,Iceland,ISL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1035668,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,352,Iceland,ISL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,25097919,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,360,Indonesia,IDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,276851090,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,360,Indonesia,IDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,44004820,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,364,Iran,IRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,155401902,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,364,Iran,IRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,72388355,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,368,Iraq,IRQ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2737293,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,372,Ireland,IRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,62471855,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,372,Ireland,IRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,345612377,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,376,Israel,ISR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2765139808,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,376,Israel,ISR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3139979689,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,381,Italy,ITA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2384256060,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,381,Italy,ITA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3601964049,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7181670,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,24599067,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,388,Jamaica,JAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,70776,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,388,Jamaica,JAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3445038,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,392,Japan,JPN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,837169164,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,392,Japan,JPN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,421463867,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,398,Kazakhstan,KAZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,48518908,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,398,Kazakhstan,KAZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14502333,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,400,Jordan,JOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,911765,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,400,Jordan,JOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19247401,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,404,Kenya,KEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,620700,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,404,Kenya,KEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12124504,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,116374,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,256750,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,410,Rep. of Korea,KOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,739025314,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,410,Rep. of Korea,KOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,196286657,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,414,Kuwait,KWT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1599781,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,414,Kuwait,KWT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,33264629,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,417,Kyrgyzstan,KGZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,102,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,417,Kyrgyzstan,KGZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1189536,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,418,Lao People's Dem. Rep.,LAO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17844,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,418,Lao People's Dem. Rep.,LAO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4178233,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,422,Lebanon,LBN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,37204639,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,422,Lebanon,LBN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,113290792,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,426,Lesotho,LSO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,166159152,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,426,Lesotho,LSO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3960,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,428,Latvia,LVA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,18127984,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,428,Latvia,LVA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,51065748,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,430,Liberia,LBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,185559,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,430,Liberia,LBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,546720,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,434,Libya,LBY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12344251,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,434,Libya,LBY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,18489174,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,440,Lithuania,LTU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,32102867,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,440,Lithuania,LTU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,79052589,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,442,Luxembourg,LUX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,847351861,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,442,Luxembourg,LUX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,930924137,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,446,"China, Macao SAR",MAC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,196541,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,446,"China, Macao SAR",MAC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12128709,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,450,Madagascar,MDG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,327189,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,450,Madagascar,MDG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8257090,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,454,Malawi,MWI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,196475,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,458,Malaysia,MYS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,96255699,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,458,Malaysia,MYS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,71015371,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,462,Maldives,MDV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,68140,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,466,Mali,MLI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,71187,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,466,Mali,MLI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7077249,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,470,Malta,MLT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5473906,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,470,Malta,MLT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10988330,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,478,Mauritania,MRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12437029,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,480,Mauritius,MUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,34985971,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,480,Mauritius,MUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,30444929,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,484,Mexico,MEX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,173963444,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,484,Mexico,MEX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,158862285,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,490,"Other Asia, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,308491645,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,490,"Other Asia, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,90938790,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,496,Mongolia,MNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8696666,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,496,Mongolia,MNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,735124,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,498,Rep. of Moldova,MDA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,439364,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,498,Rep. of Moldova,MDA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17416513,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,499,Montenegro,MNE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,20846,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,499,Montenegro,MNE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2356509,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,500,Montserrat,MSR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,81798,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,504,Morocco,MAR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,18381420,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,504,Morocco,MAR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,187061657,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,508,Mozambique,MOZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,549850607,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,508,Mozambique,MOZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,485599,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,512,Oman,OMN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3418770,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,512,Oman,OMN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19596901,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,516,Namibia,NAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8365916,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,516,Namibia,NAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12308323,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,520,Nauru,NRU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2983,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,524,Nepal,NPL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3476387,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,524,Nepal,NPL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1269709,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,528,Netherlands,NLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8551957285,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,528,Netherlands,NLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8523116918,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,530,Neth. Antilles,ANT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,24790,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,530,Neth. Antilles,ANT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7035856,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,533,Aruba,ABW,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,254998,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,540,New Caledonia,NCL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,268902165,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,540,New Caledonia,NCL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8724424,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,548,Vanuatu,VUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,91502,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,548,Vanuatu,VUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,95393,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,554,New Zealand,NZL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2832117,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,554,New Zealand,NZL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,37915353,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,558,Nicaragua,NIC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,277931,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,562,Niger,NER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3024,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,562,Niger,NER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6974367,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,566,Nigeria,NGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,632403,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,566,Nigeria,NGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,88525364,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,570,Niue,NIU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,18372,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,574,Norfolk Isds,NFK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,25966,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,577,"Other Africa, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,102246,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,579,Norway,NOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,235380326,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,579,Norway,NOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,283276691,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,580,N. Mariana Isds,MNP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,18713,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,581,United States Minor Outlying Islands,UMI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,27303,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,584,Marshall Isds,MHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3185,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,585,Palau,PLW,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,55721,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,586,Pakistan,PAK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,195317323,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,586,Pakistan,PAK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,85977334,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,591,Panama,PAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,29934,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,591,Panama,PAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7403578,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,598,Papua New Guinea,PNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6303,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,598,Papua New Guinea,PNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6899,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,600,Paraguay,PRY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,46085,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,600,Paraguay,PRY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,311881,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,604,Peru,PER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,155977403,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,604,Peru,PER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,21129926,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,608,Philippines,PHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13462749,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,608,Philippines,PHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6814247,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,616,Poland,POL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,760561615,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,616,Poland,POL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1219581530,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,620,Portugal,PRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,278042853,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,620,Portugal,PRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,410636412,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,624,Guinea-Bissau,GNB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,65726,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,626,Timor-Leste,TLS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,36739,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,634,Qatar,QAT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1566551,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,634,Qatar,QAT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,90948501,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,642,Romania,ROU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,86831161,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,642,Romania,ROU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,240199893,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,643,Russian Federation,RUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2186949021,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,643,Russian Federation,RUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,562727394,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,646,Rwanda,RWA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,67800,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,646,Rwanda,RWA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1962069,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,659,Saint Kitts and Nevis,KNA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,35119,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,660,Anguilla,AIA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5198,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,662,Saint Lucia,LCA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,157334,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,666,Saint Pierre and Miquelon,SPM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,58544,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,60894,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,674,San Marino,SMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,644880,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,674,San Marino,SMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1597180,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,678,Sao Tome and Principe,STP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,192708,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11244553,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,682,Saudi Arabia,SAU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,189192037,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,686,Senegal,SEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,45920,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,686,Senegal,SEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17132737,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,688,Serbia,SRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,48284185,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,688,Serbia,SRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,23779037,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,690,Seychelles,SYC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3670,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,690,Seychelles,SYC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1020782,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,694,Sierra Leone,SLE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,116891749,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,694,Sierra Leone,SLE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2340939,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,699,India,IND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3236600309,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,699,India,IND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6334918340,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,18023683,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,164834861,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,703,Slovakia,SVK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,170442000,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,703,Slovakia,SVK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,208496147,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,153049039,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,704,Viet Nam,VNM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,61049294,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,705,Slovenia,SVN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,87541624,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,705,Slovenia,SVN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,108781642,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,706,Somalia,SOM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14029,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,710,South Africa,ZAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1572883291,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,710,South Africa,ZAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,293752854,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,716,Zimbabwe,ZWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13087770,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,716,Zimbabwe,ZWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,379598,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,724,Spain,ESP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1125671951,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2228195749,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,736,Fmr Sudan,SDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,136218,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,736,Fmr Sudan,SDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4795886,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,589,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6725639,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,748,Eswatini,SWZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,444903,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,748,Eswatini,SWZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,61216,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,752,Sweden,SWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1018953354,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,752,Sweden,SWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1140931032,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,832838843,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1500635598,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,760,Syria,SYR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16665145,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,760,Syria,SYR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,69192996,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,762,Tajikistan,TJK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2017786,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,762,Tajikistan,TJK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,185859,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,764,Thailand,THA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,541609507,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,764,Thailand,THA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,459611632,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,768,Togo,TGO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16734,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,768,Togo,TGO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4030885,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,772,Tokelau,TKL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9672,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,776,Tonga,TON,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8887,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,780,Trinidad and Tobago,TTO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,71487,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,780,Trinidad and Tobago,TTO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12580829,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1756675333,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1360286848,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,788,Tunisia,TUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,86260495,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,788,Tunisia,TUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,220786911,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,805911880,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,792,Turkey,TUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,638844194,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,795,Turkmenistan,TKM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,103465,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,795,Turkmenistan,TKM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,212452,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,796,Turks and Caicos Isds,TCA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10396,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,798,Tuvalu,TUV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16206,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,800,Uganda,UGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2340,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,800,Uganda,UGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1187992,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,804,Ukraine,UKR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,52177184,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,804,Ukraine,UKR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,132138315,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,807,North Macedonia,MKD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,184304478,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,807,North Macedonia,MKD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9539901,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,818,Egypt,EGY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,129910351,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,818,Egypt,EGY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,104146723,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5847719002,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5410973236,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,755301,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4571795,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,837,Bunkers,,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1426846,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,842,USA,USA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2005620105,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3473702752,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,854,Burkina Faso,BFA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,28202,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,854,Burkina Faso,BFA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2964431,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,858,Uruguay,URY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5288464,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,858,Uruguay,URY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2045518,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,860,Uzbekistan,UZB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,18001328,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,860,Uzbekistan,UZB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1896621,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,862,Venezuela,VEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,150187875,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,862,Venezuela,VEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13577475,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,887,Yemen,YEM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,329525,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,887,Yemen,YEM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15659663,,,0
+S4,2007,2007,2007,1,0,1,Import,56,Belgium,BEL,894,Zambia,ZMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3469774,,,0
+S4,2007,2007,2007,1,0,2,Export,56,Belgium,BEL,894,Zambia,ZMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,227573,,,0

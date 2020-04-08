@@ -1,0 +1,684 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,635596928,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,873201344,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,4,Afghanistan,AFG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,52008,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,4,Afghanistan,AFG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3033,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,964245,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,43692,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,24,Angola,AGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,406202,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,24,Angola,AGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4052864,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10831015,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1097185,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,27479264,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13505741,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,537753,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9383790,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,44,Bahamas,BHS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3327806,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,44,Bahamas,BHS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,271436,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,48,Bahrain,BHR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,157839,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,52,Barbados,BRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,116090,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,58,Belgium-Luxembourg,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2460054,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,58,Belgium-Luxembourg,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17370642,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,68,Bolivia (Plurinational State of),BOL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,49062,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,63940988,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,35037640,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1312431,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,108,Burundi,BDI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,61373,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,120,Cameroon,CMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2474062,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5847899,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7583625,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,857272,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,870351,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13256,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1355009,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9577923,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,779298,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,178,Congo,COG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6210,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,180,Dem. Rep. of the Congo,COD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,46936,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,180,Dem. Rep. of the Congo,COD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4255076,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6565944,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,110505,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,192,Cuba,CUB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2539183,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1558675,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,92679,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,200,Czechoslovakia,CSK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4568208,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,200,Czechoslovakia,CSK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9557254,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,204,Benin,BEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,64938,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,75076896,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,33993064,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,747561,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6038772,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4087440,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,222,El Salvador,SLV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2715935,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,222,El Salvador,SLV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,83064,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,226,Equatorial Guinea,GNQ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3154,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,230,Fmr Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1929486,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,230,Fmr Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20641,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,242,Fiji,FJI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11650,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,242,Fiji,FJI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10968,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10978240,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,24138176,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20342284,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,46327356,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,254,French Guiana,GUF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7360,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,266,Gabon,GAB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,30226,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,270,Gambia,GMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1319966,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1407880,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5780892,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17795996,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,47694540,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7131750,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,56259,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,292,Gibraltar,GIB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1270,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1125066,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9342023,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,312,Guadeloupe,GLP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1962,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,312,Guadeloupe,GLP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,788054,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,320,Guatemala,GTM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4766386,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,320,Guatemala,GTM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,71262,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,324,Guinea,GIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,257294,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,328,Guyana,GUY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11648,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,332,Haiti,HTI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,934802,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,332,Haiti,HTI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8472,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,340,Honduras,HND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2404023,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,340,Honduras,HND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6350,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,35134,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,626512,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,832083,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7274036,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4476491,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,567392,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,356,"India, excl. Sikkim",IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2001399,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,356,"India, excl. Sikkim",IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18336,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1175753,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2415,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,348790,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6196,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,368,Iraq,IRQ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,28527,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5155590,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,154421,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10416655,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2903921,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15084174,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,46627796,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,256034,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,559839,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,388,Jamaica,JAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,25753,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,388,Jamaica,JAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4230913,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1693075,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15044029,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8984,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,575515,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10186,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,414,Kuwait,KWT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,40222,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,418,Lao People's Dem. Rep.,LAO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1968,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,44058,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1205518,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,430,Liberia,LBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,32986,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,430,Liberia,LBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,206398,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,434,Libya,LBY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,340358,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,446,"China, Macao SAR",MAC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,487622,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,446,"China, Macao SAR",MAC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,36510,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,450,Madagascar,MDG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,247108,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,450,Madagascar,MDG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,49676,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,340140,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,70526,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,157516,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,480,Mauritius,MUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1296,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,659974,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1281102,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1732904,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9865811,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5902,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,508,Mozambique,MOZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,227668,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,508,Mozambique,MOZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1389539,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,512,Oman,OMN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,57874,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,23277248,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10351246,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,532,Neth. Antilles and Aruba,ANT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,50454,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,532,Neth. Antilles and Aruba,ANT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,578136,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4421523,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1333120,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,558,Nicaragua,NIC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,56942,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,558,Nicaragua,NIC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3002,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,562,Niger,NER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,27786,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,82442,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5318022,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,170505,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1366760,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,590,"Fmr Panama, excl.Canal Zone",PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5980177,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,590,"Fmr Panama, excl.Canal Zone",PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,286920,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,592,Fmr Panama-Canal-Zone,PCZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,494133,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,600,Paraguay,PRY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,333473,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,600,Paraguay,PRY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,40920,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,114240,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1922643,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6652439,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17415588,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3630040,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,31238104,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,634,Qatar,QAT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6880,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,638,Réunion,REU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14450,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,53632,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3552,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,646,Rwanda,RWA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8220,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,682,Saudi Arabia,SAU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,108148,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,686,Senegal,SEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6357720,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,686,Senegal,SEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3129,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,690,Seychelles,SYC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14232,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,694,Sierra Leone,SLE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,116278,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,59705,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,522617,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,706,Somalia,SOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1900,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,711,So. African Customs Union,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10869729,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,711,So. African Customs Union,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3726318,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,720,Fmr Dem. Yemen,YMD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5738,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,28769720,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,26602196,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,732,Western Sahara,ESH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,168004,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,736,Fmr Sudan,SDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,168918,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,740,Suriname,SUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,506338,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,740,Suriname,SUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,189416,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,52093728,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,118931704,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8755156,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14580501,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14461,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,42257,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,768,Togo,TGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,145786,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,780,Trinidad and Tobago,TTO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,104906,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,780,Trinidad and Tobago,TTO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1043801,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,784,United Arab Emirates,ARE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,33530,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,44820,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,743411,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7410322,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,800,Uganda,UGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,543334,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,800,Uganda,UGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11309,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,810,Fmr USSR,SUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1423379,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,810,Fmr USSR,SUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,38534,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,489391,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,227204,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,56047384,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,119207936,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,376061,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,23028,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,839,Special Categories,,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8454519,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,841,USA (before 1981),USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,60181816,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,841,USA (before 1981),USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,144297360,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,849,US Misc. Pacific Isds,,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8114,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,849,US Misc. Pacific Isds,,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2397,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,854,Burkina Faso,BFA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17182,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,450348,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1236441,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,886,Fmr Arab Rep. of Yemen,YEM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,22776,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,890,Fmr Yugoslavia,YUG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,603425,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,890,Fmr Yugoslavia,YUG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,342107,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,894,Zambia,ZMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,32264,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,899,"Areas, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,67154,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,899,"Areas, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,70477,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,998716544,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,574747648,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,4,Afghanistan,AFG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,27776,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,4,Afghanistan,AFG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1062,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,12,Algeria,DZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16944,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,12,Algeria,DZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,401660,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,24,Angola,AGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,20443,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,24,Angola,AGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,143226,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,391987,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,335361,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10061389,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,488247,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,603793,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3651460,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,48,Bahrain,BHR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12020,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,52,Barbados,BRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4482,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,58,Belgium-Luxembourg,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5653880,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,58,Belgium-Luxembourg,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14702455,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,30739284,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,480689,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,84,Belize,BLZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15567,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,134022,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,104,Myanmar,MMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2688422,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,120,Cameroon,CMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,41355,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,418541696,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3686389,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,172530,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2971697,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9318090,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,340547,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11260,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,178,Congo,COG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2600926,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,180,Dem. Rep. of the Congo,COD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,85053,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5504,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,200,Czechoslovakia,CSK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,328229,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,200,Czechoslovakia,CSK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1360244,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,28032090,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,18635188,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,214,Dominican Rep.,DOM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8118,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,218,Ecuador,ECU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11223,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,218,Ecuador,ECU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4482,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,230,Fmr Ethiopia,ETH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,51206,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,230,Fmr Ethiopia,ETH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7788,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,242,Fiji,FJI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1622408,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7463681,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12071892,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9314950,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,30112086,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,262,Djibouti,DJI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,45549,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,262,Djibouti,DJI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2760,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,266,Gabon,GAB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6290748,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,266,Gabon,GAB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1730,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,986536,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8608184,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,18216820,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,114932856,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8775747,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,211021,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1351014,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5983105,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,320,Guatemala,GTM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3798,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,324,Guinea,GIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1965,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,328,Guyana,GUY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,302268,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,328,Guyana,GUY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1962,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,332,Haiti,HTI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7701,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,332,Haiti,HTI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5482,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,340,Honduras,HND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,108129,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1406046,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17388,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,61636,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,307445,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,352,Iceland,ISL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,433535,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,352,Iceland,ISL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,212675,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,356,"India, excl. Sikkim",IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1594602,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,356,"India, excl. Sikkim",IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,72376,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1604194,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,20276,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,77105,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1428167,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,368,Iraq,IRQ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,20572,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1138913,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,425641,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1081490,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,604162,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12144773,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,18324140,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,179181,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,124137,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,388,Jamaica,JAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15425,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4533575,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1137438,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,400,Jordan,JOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,36266,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,260448,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,264952,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,408,Dem. People's Rep. of Korea,PRK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,335058,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5640,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,414,Kuwait,KWT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,28138,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1560583,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,155750,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,430,Liberia,LBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,102610,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,430,Liberia,LBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,67682,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,434,Libya,LBY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1182,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,434,Libya,LBY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,74135,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,450,Madagascar,MDG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2696,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,450,Madagascar,MDG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1922,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,454,Malawi,MWI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,443447,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3669027,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,46081,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,470,Malta,MLT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2062,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,305791,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,61118,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14790,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2934372,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2596605,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,508,Mozambique,MOZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,136146,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,508,Mozambique,MOZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,131098,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19983800,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,39261932,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4343208,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,194933,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,558,Nicaragua,NIC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,46987,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,558,Nicaragua,NIC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1890,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1961692,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,238306,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,337083,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5611,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,590,"Fmr Panama, excl.Canal Zone",PAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,607894,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,590,"Fmr Panama, excl.Canal Zone",PAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6328,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,592,Fmr Panama-Canal-Zone,PCZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2548,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,600,Paraguay,PRY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,39684,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,21930,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,304092,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3866001,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3245,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4132617,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7730239,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3063559,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1728809,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4294,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2885,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,654,Saint Helena,SHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,66149,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,686,Senegal,SEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,33195,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,686,Senegal,SEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2924,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,694,Sierra Leone,SLE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15609,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,694,Sierra Leone,SLE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,20289,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1129979,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13269,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,711,So. African Customs Union,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,29021380,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,711,So. African Customs Union,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,272474,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6769978,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15964275,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,736,Fmr Sudan,SDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,677670,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,736,Fmr Sudan,SDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2130,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,740,Suriname,SUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11703,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,185867984,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,33644816,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1131155,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4783903,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,760,Syria,SYR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2958,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,760,Syria,SYR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19265,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1853871,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,23957,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,780,Trinidad and Tobago,TTO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,23956,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,784,United Arab Emirates,ARE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1516,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2166588,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,31216,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4642736,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,892966,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,800,Uganda,UGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8868,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,810,Fmr USSR,SUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14497640,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,810,Fmr USSR,SUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3400677,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8192,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12939,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,36440704,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,128313608,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,834,United Rep. of Tanzania,TZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17850,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,834,United Rep. of Tanzania,TZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,626,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,839,Special Categories,,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11248168,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,839,Special Categories,,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,60303188,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,841,USA (before 1981),USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,72316144,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,841,USA (before 1981),USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,24988820,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,858,Uruguay,URY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,29697,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,862,Venezuela,VEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,726886,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,882,Samoa,WSM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,160358,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,890,Fmr Yugoslavia,YUG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,47756,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,890,Fmr Yugoslavia,YUG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,458571,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,894,Zambia,ZMB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4718,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,899,"Areas, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,46015,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,899,"Areas, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,42658,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,418826528,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,87186792,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2028962,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6199,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,44,Bahamas,BHS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2444027,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,48,Bahrain,BHR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1247766,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,58,Belgium-Luxembourg,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,55926680,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,58,Belgium-Luxembourg,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1016536,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,104,Myanmar,MMR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6747,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,35472,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,269229,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,200,Czechoslovakia,CSK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,458856,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,30299112,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7922876,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,59447,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3298671,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,11445580,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,129714,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4972,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,24475952,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3999675,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,300,Greece,GRC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,14618,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,348,Hungary,HUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,196236,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,352,Iceland,ISL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,16801,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,356,"India, excl. Sikkim",IND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,15494,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,372,Ireland,IRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,803702,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2475220,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,384,Côte d'Ivoire,CIV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3669,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4685,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2751,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,404,Kenya,KEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,114009,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,434,Libya,LBY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6074,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,40932892,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,989554,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,532,Neth. Antilles and Aruba,ANT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3617322,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,586,Pakistan,PAK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2328,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5648928,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,26577,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,677217,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,711,So. African Customs Union,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,674094,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,720,Fmr Dem. Yemen,YMD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,706632,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4522,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,27847526,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,62876456,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,98871,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,760,Syria,SYR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2670,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,764,Thailand,THA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3564,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,780,Trinidad and Tobago,TTO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9754603,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,898869,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,810,Fmr USSR,SUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,16840442,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,141294400,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3787153,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,841,USA (before 1981),USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,36828768,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,841,USA (before 1981),USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5364,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,862,Venezuela,VEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2302624,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,862,Venezuela,VEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1359723,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,890,Fmr Yugoslavia,YUG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,92526,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,899,"Areas, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4806,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,899,"Areas, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5158,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2285225728,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2612151296,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,4,Afghanistan,AFG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,133970,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,4,Afghanistan,AFG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2901,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,12,Algeria,DZA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1866,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,12,Algeria,DZA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3894671,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,24,Angola,AGO,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,13869,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,24,Angola,AGO,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1303057,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,32,Argentina,ARG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,228908,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,32,Argentina,ARG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,21296026,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,36,Australia,AUS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4044851,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,36,Australia,AUS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,8286040,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,40,Austria,AUT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,52797912,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,40,Austria,AUT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,17273490,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,44,Bahamas,BHS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,9138,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,44,Bahamas,BHS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1814717,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,48,Bahrain,BHR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,353050,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,52,Barbados,BRB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,109736,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,58,Belgium-Luxembourg,BEL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,126525464,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,58,Belgium-Luxembourg,BEL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,73724864,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,68,Bolivia (Plurinational State of),BOL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,269472,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,76,Brazil,BRA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1458248,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,76,Brazil,BRA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,19448636,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,84,Belize,BLZ,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,10886,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,96,Brunei Darussalam,BRN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,24914,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,100,Bulgaria,BGR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,62276,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,100,Bulgaria,BGR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,433345,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,104,Myanmar,MMR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,102700,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,104,Myanmar,MMR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,533382,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,120,Cameroon,CMR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,17568,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,120,Cameroon,CMR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,39417,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,124,Canada,CAN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,13311646,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,124,Canada,CAN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,32169700,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,144,Sri Lanka,LKA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,62421,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,144,Sri Lanka,LKA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,652693,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,152,Chile,CHL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,121620,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,152,Chile,CHL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,785534,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,156,China,CHN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4720013,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,156,China,CHN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,20760722,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,170,Colombia,COL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1575977,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,178,Congo,COG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,144712,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,178,Congo,COG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,21651,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,180,Dem. Rep. of the Congo,COD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,31022,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,180,Dem. Rep. of the Congo,COD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,699960,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,188,Costa Rica,CRI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,506866,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,192,Cuba,CUB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3669,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,192,Cuba,CUB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,812236,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,196,Cyprus,CYP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2014433,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,200,Czechoslovakia,CSK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,16356728,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,200,Czechoslovakia,CSK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,578301,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,204,Benin,BEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2860,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,208,Denmark,DNK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,143195456,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,208,Denmark,DNK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,187209312,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,214,Dominican Rep.,DOM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,890388,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,214,Dominican Rep.,DOM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,306807,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,218,Ecuador,ECU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,484180,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,222,El Salvador,SLV,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,32532,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,222,El Salvador,SLV,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,415934,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,230,Fmr Ethiopia,ETH,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1424,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,230,Fmr Ethiopia,ETH,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,128545,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,242,Fiji,FJI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,18964,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,246,Finland,FIN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,108930272,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,246,Finland,FIN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,52860616,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,251,France,FRA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,89711520,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,251,France,FRA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,87522464,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,262,Djibouti,DJI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,17059,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,266,Gabon,GAB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,146474,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,266,Gabon,GAB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,12048,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6535678,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6987561,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,346727168,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,445544000,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,288,Ghana,GHA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,113578,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,288,Ghana,GHA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6600352,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,292,Gibraltar,GIB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,22322,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,300,Greece,GRC,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4281357,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,300,Greece,GRC,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,8061871,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,320,Guatemala,GTM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,321751,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,324,Guinea,GIN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,9348,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,328,Guyana,GUY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,270380,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,332,Haiti,HTI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,220003,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,340,Honduras,HND,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4508,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,340,Honduras,HND,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,207539,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2049570,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4007442,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,348,Hungary,HUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,12827370,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,348,Hungary,HUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1861029,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,352,Iceland,ISL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,101883,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,352,Iceland,ISL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,8490428,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,356,"India, excl. Sikkim",IND,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4484805,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,356,"India, excl. Sikkim",IND,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1297196,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,360,Indonesia,IDN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1116,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,360,Indonesia,IDN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2262643,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,364,Iran,IRN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,466299,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,364,Iran,IRN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5086149,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,368,Iraq,IRQ,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2001289,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,372,Ireland,IRL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1664683,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,372,Ireland,IRL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,11722171,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,376,Israel,ISR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1024544,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,376,Israel,ISR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3718498,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,381,Italy,ITA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,30514124,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,381,Italy,ITA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,42443944,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,16792,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2552127,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,388,Jamaica,JAM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5370,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,388,Jamaica,JAM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,395322,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,392,Japan,JPN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,88962248,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,392,Japan,JPN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,19564724,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,400,Jordan,JOR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,252820,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,404,Kenya,KEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,58014,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,404,Kenya,KEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3409222,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,410,Rep. of Korea,KOR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,456230,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,410,Rep. of Korea,KOR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,194325,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,414,Kuwait,KWT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,343881,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,418,Lao People's Dem. Rep.,LAO,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,42962,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,422,Lebanon,LBN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,20893,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,422,Lebanon,LBN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1845242,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,430,Liberia,LBR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5503808,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,434,Libya,LBY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2888951,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,450,Madagascar,MDG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,20028,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,454,Malawi,MWI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,149369,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,458,Malaysia,MYS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,95968,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,458,Malaysia,MYS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1820144,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,470,Malta,MLT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,85029,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,470,Malta,MLT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,676927,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,478,Mauritania,MRT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,12988,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,480,Mauritius,MUS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,37625,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,484,Mexico,MEX,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,210787,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,484,Mexico,MEX,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,472156,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,490,"Other Asia, nes",,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1186391,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,490,"Other Asia, nes",,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1897067,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,504,Morocco,MAR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,10071,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,504,Morocco,MAR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,183675,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,508,Mozambique,MOZ,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,10944,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,508,Mozambique,MOZ,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1918739,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,512,Oman,OMN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,8994,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,528,Netherlands,NLD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,111091200,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,528,Netherlands,NLD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,114326504,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,532,Neth. Antilles and Aruba,ANT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,699349,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,540,New Caledonia,NCL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,58539,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,554,New Zealand,NZL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,661961,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,558,Nicaragua,NIC,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,211152,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,566,Nigeria,NGA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,112598,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,566,Nigeria,NGA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,7613216,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,586,Pakistan,PAK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,783793,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,586,Pakistan,PAK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1927853,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,590,"Fmr Panama, excl.Canal Zone",PAN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1024784,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,592,Fmr Panama-Canal-Zone,PCZ,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2112,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,592,Fmr Panama-Canal-Zone,PCZ,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,155560,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,600,Paraguay,PRY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,137500,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,604,Peru,PER,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,63176,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,604,Peru,PER,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1378240,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,608,Philippines,PHL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,361692,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,608,Philippines,PHL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1263938,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,616,Poland,POL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,19686672,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,616,Poland,POL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,8242325,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,620,Portugal,PRT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,25119940,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,620,Portugal,PRT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,9106577,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,634,Qatar,QAT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,132921,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,638,Réunion,REU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,320370,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,642,Romania,ROU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3325039,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,642,Romania,ROU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2392082,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,646,Rwanda,RWA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,9576,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,682,Saudi Arabia,SAU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,378775,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,686,Senegal,SEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,259960,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,694,Sierra Leone,SLE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,135752,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,702,Singapore,SGP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,534975,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,702,Singapore,SGP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3119733,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,706,Somalia,SOM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,21007,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,711,So. African Customs Union,ZAF,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1297890,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,711,So. African Customs Union,ZAF,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,11889079,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,720,Fmr Dem. Yemen,YMD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3428,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,724,Spain,ESP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,8845347,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,724,Spain,ESP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,21206284,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,732,Western Sahara,ESH,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,8211,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,736,Fmr Sudan,SDN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,799530,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,740,Suriname,SUR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4707,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,740,Suriname,SUR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,322082,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,752,Sweden,SWE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,584017984,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,752,Sweden,SWE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,372058752,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,757,Switzerland,CHE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,56858268,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,757,Switzerland,CHE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,40471724,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,760,Syria,SYR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,21542,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,760,Syria,SYR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,343446,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,764,Thailand,THA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,534366,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,764,Thailand,THA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1445222,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,768,Togo,TGO,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,44445,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,780,Trinidad and Tobago,TTO,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,599874,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,784,United Arab Emirates,ARE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,96663,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,788,Tunisia,TUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,62379,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,788,Tunisia,TUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,218884,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,792,Turkey,TUR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,430728,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,792,Turkey,TUR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,9046486,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,800,Uganda,UGA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,917111,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,810,Fmr USSR,SUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,19754236,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,810,Fmr USSR,SUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,27121832,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,818,Egypt,EGY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2930209,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,818,Egypt,EGY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1819035,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,826,United Kingdom,GBR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,333802784,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,826,United Kingdom,GBR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,537884608,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,14889,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1436079,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,839,Special Categories,,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,113267,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,839,Special Categories,,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,75946504,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,841,USA (before 1981),USA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,45003440,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,841,USA (before 1981),USA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,209638272,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,849,US Misc. Pacific Isds,,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5471,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,858,Uruguay,URY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,469283,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,858,Uruguay,URY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,116476,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,862,Venezuela,VEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6086514,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,866,Fmr Dem. Rep. of Vietnam,VDR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,7161,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,882,Samoa,WSM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,12079,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,886,Fmr Arab Rep. of Yemen,YEM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,13881,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,890,Fmr Yugoslavia,YUG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4766139,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,890,Fmr Yugoslavia,YUG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2114809,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,894,Zambia,ZMB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2942712,,,0
+S1,1972,1972,1972,1,0,1,Import,579,Norway,NOR,899,"Areas, nes",,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,237815,,,0
+S1,1972,1972,1972,1,0,2,Export,579,Norway,NOR,899,"Areas, nes",,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,261728,,,0

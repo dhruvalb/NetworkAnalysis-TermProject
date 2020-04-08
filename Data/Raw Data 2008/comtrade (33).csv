@@ -1,0 +1,981 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8096856579,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4433073234,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,4,Afghanistan,AFG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21306,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,8,Albania,ALB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5290611,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,8,Albania,ALB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,75804646,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,619970,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9291623,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,20,Andorra,AND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,168854,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,24,Angola,AGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,51982,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,31,Azerbaijan,AZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1444867,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,31,Azerbaijan,AZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,157117,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,127022897,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1145363,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2316601,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,55497891,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,84337971,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,56956780,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,44,Bahamas,BHS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,43,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,44,Bahamas,BHS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11400,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,48,Bahrain,BHR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,222,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,48,Bahrain,BHR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,364286,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,50,Bangladesh,BGD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1406581,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,50,Bangladesh,BGD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,27671,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,51,Armenia,ARM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,633684,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,56,Belgium,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,386987401,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,56,Belgium,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,58910214,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,68,Bolivia (Plurinational State of),BOL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,252364,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,68,Bolivia (Plurinational State of),BOL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,96964,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,70,Bosnia Herzegovina,BIH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,313346,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,70,Bosnia Herzegovina,BIH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6974731,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,72,Botswana,BWA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3247434,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,143654065,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,387453,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,234350703,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,246629727,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,104,Myanmar,MMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,63790,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,112,Belarus,BLR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,78801,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,112,Belarus,BLR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1902084,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,120,Cameroon,CMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,240379,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,120,Cameroon,CMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,58259,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,37705446,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,38082149,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,136,Cayman Isds,CYM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2349,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2631728,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4137,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16192701,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,111058,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,37093356,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2950536,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10253510,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,365751,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,174,Comoros,COM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,145080,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,175,Mayotte,MYT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,348479,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,178,Congo,COG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,24416,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,597316,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,133600,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,191,Croatia,HRV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4744799,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,191,Croatia,HRV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15262339,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,192,Cuba,CUB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5572,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,56647398,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,202700727,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,203,Czechia,CZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10210075,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,203,Czechia,CZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,56598561,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,228265167,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,37808511,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,60090,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,73060,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,43397319,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1107463,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,222,El Salvador,SLV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,46138,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,222,El Salvador,SLV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,54079,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,231,Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1499867,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,231,Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,211819,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,232,Eritrea,ERI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8982,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,233,Estonia,EST,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,241035,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,233,Estonia,EST,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1363140,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,234,Faeroe Isds,FRO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11495918,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,238,Falkland Isds (Malvinas),FLK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,159794,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,24222937,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,22608750,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1122000939,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,179321637,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,268,Georgia,GEO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,571571,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,268,Georgia,GEO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,613020,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,270,Gambia,GMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,555849,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,276,Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1200659399,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,276,Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,774339594,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2408952,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,46699,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,304,Greenland,GRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,141427,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,320,Guatemala,GTM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,75881,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,340,Honduras,HND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,127743,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1455318,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,155952209,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,42637187,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12632830,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,27815,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8698546,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,23474,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2342269,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3460853,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,368,Iraq,IRQ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,877559,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,48251387,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7050241,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7895490,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14399683,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,954781075,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,630562833,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,41137366,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,169541,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,388,Jamaica,JAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,49744,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,501778,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,25792849,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,398,Kazakhstan,KAZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,26722454,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,398,Kazakhstan,KAZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1712290,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,200139,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1041932,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3276960,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18985,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,794837,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,397288,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,414,Kuwait,KWT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,45638,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,414,Kuwait,KWT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2237586,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,417,Kyrgyzstan,KGZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1180001,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,417,Kyrgyzstan,KGZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,37667,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,545907,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4679988,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,428,Latvia,LVA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,740067,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,428,Latvia,LVA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4911860,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,434,Libya,LBY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6091852,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,440,Lithuania,LTU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2862031,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,440,Lithuania,LTU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13887837,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,442,Luxembourg,LUX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1724570,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,442,Luxembourg,LUX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,919162,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,450,Madagascar,MDG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2573161,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,450,Madagascar,MDG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,103020,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5251005,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,133368,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,462,Maldives,MDV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,44875,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,252275,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6684876,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,478,Mauritania,MRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7382078,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,478,Mauritania,MRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,313739,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,480,Mauritius,MUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1764697,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,480,Mauritius,MUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17113,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10553359,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4636462,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5962894,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,315808,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,498,Rep. of Moldova,MDA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9774550,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,498,Rep. of Moldova,MDA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2976375,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,499,Montenegro,MNE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,594817,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,24115053,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,597118,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,512,Oman,OMN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5548105,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,512,Oman,OMN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,91047,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,516,Namibia,NAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1204436,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1173688376,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,159997026,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,40833717,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2377234,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,558,Nicaragua,NIC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,84694,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1052933,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,50725,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,568,"Other Europe, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1021005,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,568,"Other Europe, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1293342,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,577,"Other Africa, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,25424,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12796314,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8170657,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,581,United States Minor Outlying Islands,UMI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4384,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,581,United States Minor Outlying Islands,UMI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,59866,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,584,Marshall Isds,MHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,294036,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3554172,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,39262,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,591,Panama,PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,591985,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,591,Panama,PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,183655,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,600,Paraguay,PRY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12083122,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,600,Paraguay,PRY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,31159,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1845074,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20398,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3443273,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2581428,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,82525426,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,109874048,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,23257115,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,41727536,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,634,Qatar,QAT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5114,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,634,Qatar,QAT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,163962,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,86086127,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,207631695,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,643,Russian Federation,RUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,91205414,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,643,Russian Federation,RUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,125248699,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,674,San Marino,SMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3158,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,682,Saudi Arabia,SAU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,122376,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,682,Saudi Arabia,SAU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19831656,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,686,Senegal,SEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,25117426,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,688,Serbia,SRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,62831905,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,688,Serbia,SRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,33214184,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,690,Seychelles,SYC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,417985,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,699,India,IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,108007057,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,699,India,IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,344694,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2130318,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,947949,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,703,Slovakia,SVK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9277811,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,703,Slovakia,SVK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15410049,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,704,Viet Nam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,22926649,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,704,Viet Nam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,605712,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,705,Slovenia,SVN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1656193,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,705,Slovenia,SVN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12966136,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,710,South Africa,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21860648,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,710,South Africa,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1509330,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,716,Zimbabwe,ZWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,115594,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,716,Zimbabwe,ZWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,35596,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,419851313,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,159195792,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,736,Fmr Sudan,SDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,52071,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,736,Fmr Sudan,SDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1495562,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,740,Suriname,SUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,54530,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,748,Eswatini,SWZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,137288,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,50596248,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,62923962,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8759867,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,44635501,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,760,Syria,SYR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,480688,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,760,Syria,SYR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,183274,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21678066,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11149943,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,768,Togo,TGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2952,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,780,Trinidad and Tobago,TTO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,682090,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,784,United Arab Emirates,ARE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,255262,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,784,United Arab Emirates,ARE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11821001,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12044429,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,47563854,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,160044468,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,52225571,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,800,Uganda,UGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3205161,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,800,Uganda,UGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20093,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,804,Ukraine,UKR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,152287487,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,804,Ukraine,UKR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,28718156,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,807,North Macedonia,MKD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,28423456,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,807,North Macedonia,MKD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,73195183,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,52837428,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4279802,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,162459606,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,345585210,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8889072,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,94944,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,837,Bunkers,,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,35691056,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,839,Special Categories,,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1047460,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,842,USA,USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,75895845,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,842,USA,USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,174387966,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1300293,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,47726,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,860,Uzbekistan,UZB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,166595,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,33849,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,887,Yemen,YEM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,57582,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,887,Yemen,YEM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,634041,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,899,"Areas, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,107143,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,899,"Areas, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4912827,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2499797361,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1232072575,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,4,Afghanistan,AFG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,81555,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,8,Albania,ALB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,40894899,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,8,Albania,ALB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9404312,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,12,Algeria,DZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7382523,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,12,Algeria,DZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7484119,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,20,Andorra,AND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,38715,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,28,Antigua and Barbuda,ATG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12012,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,28,Antigua and Barbuda,ATG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,537,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,31,Azerbaijan,AZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,167360,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,45104493,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,427368,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2776231,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1826734,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,42207052,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6359269,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,44,Bahamas,BHS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,456524,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,48,Bahrain,BHR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,25876,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,48,Bahrain,BHR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,21,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,50,Bangladesh,BGD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17668,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,50,Bangladesh,BGD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,870877,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,51,Armenia,ARM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,29262,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,56,Belgium,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,49982768,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,56,Belgium,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8354421,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,70,Bosnia Herzegovina,BIH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2325470,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,70,Bosnia Herzegovina,BIH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,21632727,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,80214510,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10046372,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,84,Belize,BLZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2471,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,140068550,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,39807783,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,104,Myanmar,MMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1486917,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,112,Belarus,BLR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1069874,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,112,Belarus,BLR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,39055,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,116,Cambodia,KHM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7247,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,120,Cameroon,CMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7206040,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,22071347,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7873364,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1562435,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,312301,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,39902,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2283,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,34437487,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,117689462,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1118853,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,178,Congo,COG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,799885,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,180,Dem. Rep. of the Congo,COD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,412509,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,188,Costa Rica,CRI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3850,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,191,Croatia,HRV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5840874,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,191,Croatia,HRV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,25666840,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,192,Cuba,CUB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,695611,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,192,Cuba,CUB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6287,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,66017874,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12463289,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,203,Czechia,CZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14160399,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,203,Czechia,CZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4055209,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,204,Benin,BEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,148503,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,51919920,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1050583,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,218,Ecuador,ECU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,323357,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,218,Ecuador,ECU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,736,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,231,Ethiopia,ETH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13847012,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,232,Eritrea,ERI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,582797,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,233,Estonia,EST,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,731859,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,233,Estonia,EST,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1609,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,90796129,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1534954,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,41993623,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,72911639,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,262,Djibouti,DJI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,130879,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,266,Gabon,GAB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,38615916,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,268,Georgia,GEO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,245287,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,268,Georgia,GEO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11806821,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,276,Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,67713950,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,276,Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,36342541,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14461490,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,736,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,320,Guatemala,GTM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,411,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,324,Guinea,GIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,375825,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19908,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5472193,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7140382,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2675173,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9137144,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13213535,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2775797,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,233151,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2372062,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,871784,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17471884,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5821930,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,104210428,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,174223227,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19991869,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1670046,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6204869,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,398,Kazakhstan,KAZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,18447237,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,400,Jordan,JOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1164984,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,400,Jordan,JOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,107466,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,131253,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3344070,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8817668,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,414,Kuwait,KWT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,153664,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,29877389,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,291185,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,428,Latvia,LVA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,172467,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,428,Latvia,LVA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,632132,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,430,Liberia,LBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,25643,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,434,Libya,LBY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,494706,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,434,Libya,LBY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,650116,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,440,Lithuania,LTU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,861178,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,440,Lithuania,LTU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,864170,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,442,Luxembourg,LUX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,600181,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,442,Luxembourg,LUX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,91939,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,450,Madagascar,MDG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,20716,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,454,Malawi,MWI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,185456,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,18011866,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,614510,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,466,Mali,MLI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17818,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,470,Malta,MLT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,520,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,470,Malta,MLT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,135283,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,478,Mauritania,MRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,262475,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,480,Mauritius,MUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,41174,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1065180,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,164562,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1734735,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3375555,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,498,Rep. of Moldova,MDA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6193375,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,498,Rep. of Moldova,MDA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1143424,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,499,Montenegro,MNE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1792197,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,499,Montenegro,MNE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,302720,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,18166336,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2840871,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,508,Mozambique,MOZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,241084,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,512,Oman,OMN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,232530,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,516,Namibia,NAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,48646,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,123538477,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14868451,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2580346,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,562,Niger,NER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,102143,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,944358,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3694,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,568,"Other Europe, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,295340,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12039677,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,690182,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,584,Marshall Isds,MHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3965,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4424291,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,21105101,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,591,Panama,PAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,136672,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,591,Panama,PAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,163507,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,600,Paraguay,PRY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,18788664,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,237739,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1053975,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3045432,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7337113,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3313476,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1709050,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,634,Qatar,QAT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,113219,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,110068758,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,40048308,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,643,Russian Federation,RUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,143659674,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,643,Russian Federation,RUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,27095940,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,674,San Marino,SMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7498,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,682,Saudi Arabia,SAU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6940817,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,682,Saudi Arabia,SAU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,28380648,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,686,Senegal,SEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,34834,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,688,Serbia,SRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,27748219,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,688,Serbia,SRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6114134,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,694,Sierra Leone,SLE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3165236,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,699,India,IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,43473288,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,699,India,IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14615590,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,687721,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1878841,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,703,Slovakia,SVK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10001746,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,703,Slovakia,SVK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,413746,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,704,Viet Nam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1805723,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,704,Viet Nam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,644019,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,705,Slovenia,SVN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,780305,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,705,Slovenia,SVN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,46039235,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,710,South Africa,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3348014,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,710,South Africa,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4260882,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,716,Zimbabwe,ZWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,142194,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16947070,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,25606017,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,736,Fmr Sudan,SDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6028663,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,736,Fmr Sudan,SDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,71986099,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1713181,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,256276,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,575998,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,760,Syria,SYR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,34970382,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,760,Syria,SYR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,596543,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,762,Tajikistan,TJK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7726,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4990832,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1762386,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,768,Togo,TGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,221077,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,784,United Arab Emirates,ARE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11710149,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,784,United Arab Emirates,ARE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3642047,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3642395,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4609789,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,58293971,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,177756547,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,795,Turkmenistan,TKM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,287953,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,800,Uganda,UGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,38341,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,804,Ukraine,UKR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,68618695,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,804,Ukraine,UKR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13972853,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,807,North Macedonia,MKD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,78735099,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,807,North Macedonia,MKD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9885198,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,27549337,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,91934437,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,120975223,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,21166397,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,834,United Rep. of Tanzania,TZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13741,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,837,Bunkers,,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,67719,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,839,Special Categories,,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4155,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,842,USA,USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,306789706,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,842,USA,USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,32535159,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,858,Uruguay,URY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8515439,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,858,Uruguay,URY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2649,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,860,Uzbekistan,UZB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13602,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,862,Venezuela,VEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,37652,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,887,Yemen,YEM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,225784,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,894,Zambia,ZMB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5041,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,899,"Areas, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1926251,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,20381244407,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6734886291,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,8,Albania,ALB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7859739,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,8,Albania,ALB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,296012385,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,12,Algeria,DZA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,316304140,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,12,Algeria,DZA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,32501311,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,28,Antigua and Barbuda,ATG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,20468403,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,31,Azerbaijan,AZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,91748992,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,31,Azerbaijan,AZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,405759,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,32,Argentina,ARG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,578,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,444243,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,49882,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,33094377,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9662858,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,44,Bahamas,BHS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,90316604,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,48,Bahrain,BHR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,16100212,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,48,Bahrain,BHR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,34406,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,50,Bangladesh,BGD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5454,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,52,Barbados,BRB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2606797,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,56,Belgium,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,31867291,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,56,Belgium,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,26420053,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,60,Bermuda,BMU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,27562276,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,68,Bolivia (Plurinational State of),BOL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,97302,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,70,Bosnia Herzegovina,BIH,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,42354,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,70,Bosnia Herzegovina,BIH,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,241484,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,76,Brazil,BRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8745909,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,76,Brazil,BRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,31686,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,84,Belize,BLZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1314225,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,86,Br. Indian Ocean Terr.,IOT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,83425,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,96,Brunei Darussalam,BRN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,247093,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,100,Bulgaria,BGR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,213808120,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,100,Bulgaria,BGR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,252256501,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,112,Belarus,BLR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1125043,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,112,Belarus,BLR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,41349,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,116,Cambodia,KHM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3965314,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,120,Cameroon,CMR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,88074,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,552679,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,621953,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,132,Cabo Verde,CPV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,81705,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,136,Cayman Isds,CYM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4765790,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,144,Sri Lanka,LKA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9919,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,152,Chile,CHL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,688092,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,398433,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2394410,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,170,Colombia,COL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2558485,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,174,Comoros,COM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2481693,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,184,Cook Isds,COK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,862529,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,191,Croatia,HRV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2169411,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,191,Croatia,HRV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,144451074,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,196,Cyprus,CYP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,21298667,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,196,Cyprus,CYP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,429759934,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,203,Czechia,CZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,260544,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,203,Czechia,CZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,14023848,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2569039,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,20834341,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,212,Dominica,DMA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,167579,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,214,Dominican Rep.,DOM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,489614,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,231,Ethiopia,ETH,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,468381,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,233,Estonia,EST,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2819439,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,233,Estonia,EST,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,301334,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,238,Falkland Isds (Malvinas),FLK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,19622002,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1905607,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4480812,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,86633404,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,114039215,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,266,Gabon,GAB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,68215,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,268,Georgia,GEO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,63524737,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,276,Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,49496286,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,276,Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,116629825,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,292,Gibraltar,GIB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,436102280,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,320,Guatemala,GTM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,417997,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,324,Guinea,GIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,41870,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,340,Honduras,HND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,402614,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,344,"China, Hong Kong SAR",HKG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,29420192,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,348,Hungary,HUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5869106,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,348,Hungary,HUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4843094,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,352,Iceland,ISL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8524,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,364,Iran,IRN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3534079510,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,364,Iran,IRN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,19226,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,368,Iraq,IRQ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,48410775,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,372,Ireland,IRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,57111,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,372,Ireland,IRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2037633,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,376,Israel,ISR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,78799593,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,376,Israel,ISR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,62003160,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,457093382,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,411471578,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,384,Côte d'Ivoire,CIV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,229506,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,388,Jamaica,JAM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,316337,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,44084,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,80071960,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,398,Kazakhstan,KAZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1118807077,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,398,Kazakhstan,KAZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,128658,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,400,Jordan,JOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3968785,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,404,Kenya,KEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,48696,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,408,Dem. People's Rep. of Korea,PRK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,736413,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,410,Rep. of Korea,KOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,34263964,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,410,Rep. of Korea,KOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2002712,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,414,Kuwait,KWT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1712754,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,422,Lebanon,LBN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,80192071,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,428,Latvia,LVA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1098428,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,428,Latvia,LVA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3518863,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,430,Liberia,LBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,155257449,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,434,Libya,LBY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2546620499,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,434,Libya,LBY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,123925263,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,440,Lithuania,LTU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,523587,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,440,Lithuania,LTU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8551905,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,442,Luxembourg,LUX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,14236,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,442,Luxembourg,LUX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2358819,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,458,Malaysia,MYS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3089,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,458,Malaysia,MYS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,45435,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,462,Maldives,MDV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2409,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,470,Malta,MLT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6612202,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,470,Malta,MLT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,284510065,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,478,Mauritania,MRT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,304896,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,484,Mexico,MEX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,78735805,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,490,"Other Asia, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1197884,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,496,Mongolia,MNG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,855889,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,498,Rep. of Moldova,MDA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,10372952,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,499,Montenegro,MNE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,217349656,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,504,Morocco,MAR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9059995,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,504,Morocco,MAR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,281492,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,512,Oman,OMN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,476905,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,516,Namibia,NAM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,64337,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,39570828,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,47933782,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,530,Neth. Antilles,ANT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4186,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,530,Neth. Antilles,ANT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,33147408,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,533,Aruba,ABW,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,11986591,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,533,Aruba,ABW,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,18967,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,548,Vanuatu,VUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1325195,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,554,New Zealand,NZL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,75140,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,566,Nigeria,NGA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,102971569,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,566,Nigeria,NGA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,12431455,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,568,"Other Europe, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,185609,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,579,Norway,NOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,335479749,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,579,Norway,NOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,22394595,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,584,Marshall Isds,MHL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,44629557,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,586,Pakistan,PAK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,344782,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,591,Panama,PAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2767,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,591,Panama,PAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,204469596,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,598,Papua New Guinea,PNG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,33106,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,608,Philippines,PHL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2869578,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,757630,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8298559,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,620,Portugal,PRT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,355962,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,620,Portugal,PRT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,17405632,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,634,Qatar,QAT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,270743,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,83056752,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,71762934,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,643,Russian Federation,RUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6283202533,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,643,Russian Federation,RUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,20805152,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,654,Saint Helena,SHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3568872,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,659,Saint Kitts and Nevis,KNA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2164828,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,670,Saint Vincent and the Grenadines,VCT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,442,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,670,Saint Vincent and the Grenadines,VCT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,28774737,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,674,San Marino,SMR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,823,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,678,Sao Tome and Principe,STP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,63827,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,682,Saudi Arabia,SAU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1934990334,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,682,Saudi Arabia,SAU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,87792404,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,686,Senegal,SEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,81656,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,688,Serbia,SRB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1759128,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,688,Serbia,SRB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,92222834,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,690,Seychelles,SYC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,644877,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,694,Sierra Leone,SLE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3587673,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,699,India,IND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,154000088,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,699,India,IND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5672905,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,702,Singapore,SGP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,72597559,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,702,Singapore,SGP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,131839489,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,703,Slovakia,SVK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,174845,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,703,Slovakia,SVK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7611696,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,704,Viet Nam,VNM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,154076,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,705,Slovenia,SVN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,38092,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,705,Slovenia,SVN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,265933935,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,710,South Africa,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7047647,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,710,South Africa,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2742455,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,21601324,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,108813294,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,736,Fmr Sudan,SDN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,77887,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,790227,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,36055004,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,17432755,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6102783,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,760,Syria,SYR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,65544689,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,760,Syria,SYR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,97087458,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,764,Thailand,THA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,98343,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,764,Thailand,THA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,906838,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,768,Togo,TGO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,176140,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,776,Tonga,TON,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,77659,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,780,Trinidad and Tobago,TTO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1287184,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,784,United Arab Emirates,ARE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,23104889,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,784,United Arab Emirates,ARE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,81326923,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,788,Tunisia,TUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6209212,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,169957442,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,481823284,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,795,Turkmenistan,TKM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,24377575,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,800,Uganda,UGA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1519,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,804,Ukraine,UKR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,306346855,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,804,Ukraine,UKR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,38503257,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,807,North Macedonia,MKD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,893301,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,807,North Macedonia,MKD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,122991670,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,818,Egypt,EGY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,187940706,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,818,Egypt,EGY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,19026012,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,16453181,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,180088199,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,834,United Rep. of Tanzania,TZA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,10579,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,837,Bunkers,,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,24956004,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,839,Special Categories,,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,14451933,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,842,USA,USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,252428035,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,842,USA,USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,683758292,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,860,Uzbekistan,UZB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,737630,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,862,Venezuela,VEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,95151572,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,862,Venezuela,VEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2262,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,899,"Areas, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1437957844,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12286203434,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6167005633,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,4,Afghanistan,AFG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4748,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,8,Albania,ALB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17213179,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,8,Albania,ALB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,183682302,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,12,Algeria,DZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5689468,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,12,Algeria,DZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,156746138,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,16,American Samoa,ASM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9419,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,24,Angola,AGO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,61089308,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,28,Antigua and Barbuda,ATG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,59716,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,31,Azerbaijan,AZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3837123,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,32,Argentina,ARG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3269180,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,32,Argentina,ARG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2081776,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,36,Australia,AUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17965020,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,36,Australia,AUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,59425322,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,40,Austria,AUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,235813843,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,40,Austria,AUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,32262104,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,44,Bahamas,BHS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5769,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,44,Bahamas,BHS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,136329,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,48,Bahrain,BHR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1698038,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,48,Bahrain,BHR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1831272,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,50,Bangladesh,BGD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2482451,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,50,Bangladesh,BGD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,456719,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,51,Armenia,ARM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,290732,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,51,Armenia,ARM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5335821,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,52,Barbados,BRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6651,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,56,Belgium,BEL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,314508044,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,56,Belgium,BEL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,57899030,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,70,Bosnia Herzegovina,BIH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2119948,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,70,Bosnia Herzegovina,BIH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13591617,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,72,Botswana,BWA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,45906,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,76,Brazil,BRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,24971771,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,76,Brazil,BRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,29527852,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,84,Belize,BLZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1186,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,100,Bulgaria,BGR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,689498098,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,100,Bulgaria,BGR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,666456877,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,104,Myanmar,MMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,488029,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,108,Burundi,BDI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,109791,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,112,Belarus,BLR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,512920,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,112,Belarus,BLR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1606864,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,116,Cambodia,KHM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,52082,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,120,Cameroon,CMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2226737,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,120,Cameroon,CMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10524922,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,124,Canada,CAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,56926077,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,124,Canada,CAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17098599,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,144,Sri Lanka,LKA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3587814,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,144,Sri Lanka,LKA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,349565,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,148,Chad,TCD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,33209,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,152,Chile,CHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,107595994,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,152,Chile,CHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8244821,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,156,China,CHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1017757289,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,156,China,CHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,35980029,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,170,Colombia,COL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,353383,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,170,Colombia,COL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,223513,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,174,Comoros,COM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13245,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,178,Congo,COG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,197548,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,178,Congo,COG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2649,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,180,Dem. Rep. of the Congo,COD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,224171,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,180,Dem. Rep. of the Congo,COD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,137781,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,188,Costa Rica,CRI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,164390,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,188,Costa Rica,CRI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,48896,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,191,Croatia,HRV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5117445,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,191,Croatia,HRV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16100051,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,192,Cuba,CUB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,25643,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,196,Cyprus,CYP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,104005469,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,196,Cyprus,CYP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,274272189,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,203,Czechia,CZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,58859166,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,203,Czechia,CZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,39205145,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,204,Benin,BEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2524564,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,208,Denmark,DNK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,33306216,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,208,Denmark,DNK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,21685289,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,212,Dominica,DMA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,38129,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,214,Dominican Rep.,DOM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,27727,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,214,Dominican Rep.,DOM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,827566,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,218,Ecuador,ECU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6259,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,218,Ecuador,ECU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,209,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,226,Equatorial Guinea,GNQ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12914,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,231,Ethiopia,ETH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,236879,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,231,Ethiopia,ETH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2804501,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,232,Eritrea,ERI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,84932,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,233,Estonia,EST,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2731266,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,233,Estonia,EST,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1358912,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,234,Faeroe Isds,FRO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,751,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,246,Finland,FIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,125677891,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,246,Finland,FIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17200415,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,251,France,FRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,433641081,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,251,France,FRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,307070263,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,258,French Polynesia,PYF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1249,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,266,Gabon,GAB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7610307,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,266,Gabon,GAB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,43290,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,268,Georgia,GEO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7185,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,268,Georgia,GEO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2654670,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,275,State of Palestine,PSE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6265,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,276,Germany,DEU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1222152129,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,276,Germany,DEU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,457072226,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,288,Ghana,GHA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3068693,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,288,Ghana,GHA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8517,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,292,Gibraltar,GIB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,57994,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,304,Greenland,GRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1319,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,308,Grenada,GRD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12086,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,320,Guatemala,GTM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,41982,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,320,Guatemala,GTM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,29649,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,324,Guinea,GIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,67444,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,324,Guinea,GIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10103274,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,20240907,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5562975,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,348,Hungary,HUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,36075233,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,348,Hungary,HUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,39447936,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,352,Iceland,ISL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,499332,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,360,Indonesia,IDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,51673551,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,360,Indonesia,IDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1475701,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,364,Iran,IRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,51744245,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,364,Iran,IRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5907825,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,368,Iraq,IRQ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2982,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,368,Iraq,IRQ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,35183,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,372,Ireland,IRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1955502,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,372,Ireland,IRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,26168159,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,376,Israel,ISR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,32993400,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,376,Israel,ISR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,54934955,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,381,Italy,ITA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2327384557,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,381,Italy,ITA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,900255150,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3650666,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10489353,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,392,Japan,JPN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,86201051,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,392,Japan,JPN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7944369,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,398,Kazakhstan,KAZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,250697633,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,398,Kazakhstan,KAZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,272780,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,400,Jordan,JOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15260,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,400,Jordan,JOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4133866,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,404,Kenya,KEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,124515,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,404,Kenya,KEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,185675,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,408,Dem. People's Rep. of Korea,PRK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,560623,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,410,Rep. of Korea,KOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,134250018,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,410,Rep. of Korea,KOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4864636,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,414,Kuwait,KWT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,44516,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,414,Kuwait,KWT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6874410,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,422,Lebanon,LBN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2746167,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,422,Lebanon,LBN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,18695321,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,428,Latvia,LVA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1849563,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,428,Latvia,LVA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1947994,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,430,Liberia,LBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2887,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,430,Liberia,LBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,103037,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,434,Libya,LBY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,39485842,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,434,Libya,LBY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,37099940,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,440,Lithuania,LTU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3430652,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,440,Lithuania,LTU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5484566,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,442,Luxembourg,LUX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,38846455,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,442,Luxembourg,LUX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8604042,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,446,"China, Macao SAR",MAC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11457,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,450,Madagascar,MDG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,27025,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,450,Madagascar,MDG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2123451,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,458,Malaysia,MYS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11712151,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,458,Malaysia,MYS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1013084,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,462,Maldives,MDV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11269,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,466,Mali,MLI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,91713,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,466,Mali,MLI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,34180,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,470,Malta,MLT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,313495,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,470,Malta,MLT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8556328,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,478,Mauritania,MRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2502,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,480,Mauritius,MUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9941,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,480,Mauritius,MUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,71151,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,484,Mexico,MEX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3542609,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,484,Mexico,MEX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6970376,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,490,"Other Asia, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,101781652,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,490,"Other Asia, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1567072,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,496,Mongolia,MNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16251,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,498,Rep. of Moldova,MDA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,147409,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,498,Rep. of Moldova,MDA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2896244,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,499,Montenegro,MNE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,94192255,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,499,Montenegro,MNE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15231841,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,504,Morocco,MAR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1757903,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,504,Morocco,MAR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,25892430,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,512,Oman,OMN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,123362,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,512,Oman,OMN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10770824,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,516,Namibia,NAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6989,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,524,Nepal,NPL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,74669,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,528,Netherlands,NLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,435460665,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,528,Netherlands,NLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,98547353,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,530,Neth. Antilles,ANT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,118636,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,540,New Caledonia,NCL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14878,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,548,Vanuatu,VUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,23038,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,554,New Zealand,NZL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,299811,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,554,New Zealand,NZL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3225107,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,558,Nicaragua,NIC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,27256,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,566,Nigeria,NGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,67484,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,566,Nigeria,NGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,77528152,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,568,"Other Europe, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,364441,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,568,"Other Europe, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12170,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,579,Norway,NOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,101915734,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,579,Norway,NOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11486215,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,584,Marshall Isds,MHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,31303,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,586,Pakistan,PAK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,55430377,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,586,Pakistan,PAK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2255787,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,591,Panama,PAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,68535,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,591,Panama,PAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1670743,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,604,Peru,PER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9777594,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,604,Peru,PER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,163747,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,608,Philippines,PHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,28793438,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,608,Philippines,PHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,329951,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,616,Poland,POL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,116485693,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,616,Poland,POL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,86962679,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,620,Portugal,PRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,71111791,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,620,Portugal,PRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,48713370,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,634,Qatar,QAT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,319077,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,634,Qatar,QAT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7306390,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,642,Romania,ROU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,222952571,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,642,Romania,ROU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,337945323,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,643,Russian Federation,RUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,483568060,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,643,Russian Federation,RUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,46240918,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,646,Rwanda,RWA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,65089,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,660,Anguilla,AIA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16560,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,674,San Marino,SMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,130182,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,674,San Marino,SMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,72829,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,682,Saudi Arabia,SAU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4424640,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,682,Saudi Arabia,SAU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19187655,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,686,Senegal,SEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11172,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,686,Senegal,SEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6657491,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,688,Serbia,SRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,79670013,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,688,Serbia,SRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,109689172,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,690,Seychelles,SYC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,40247,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,694,Sierra Leone,SLE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7593,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,699,India,IND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,192910244,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,699,India,IND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9690520,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,702,Singapore,SGP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2455392,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,702,Singapore,SGP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,28339330,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,703,Slovakia,SVK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,39070614,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,703,Slovakia,SVK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,18016266,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,704,Viet Nam,VNM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17597435,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,704,Viet Nam,VNM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6110666,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,705,Slovenia,SVN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,36911583,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,705,Slovenia,SVN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,22244964,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,710,South Africa,ZAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12035029,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,710,South Africa,ZAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4120132,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,716,Zimbabwe,ZWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,836,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,724,Spain,ESP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,523104698,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,724,Spain,ESP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,163728145,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,736,Fmr Sudan,SDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2995560,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,740,Suriname,SUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,24772,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,748,Eswatini,SWZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4071,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,752,Sweden,SWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,133527250,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,752,Sweden,SWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,27874087,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,757,Switzerland,CHE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,30202695,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,757,Switzerland,CHE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,25771395,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,760,Syria,SYR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11757927,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,760,Syria,SYR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,32740847,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,762,Tajikistan,TJK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,23625577,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,764,Thailand,THA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,26032256,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,764,Thailand,THA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1719013,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,780,Trinidad and Tobago,TTO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2620,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,784,United Arab Emirates,ARE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,30982174,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,784,United Arab Emirates,ARE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,63741145,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,788,Tunisia,TUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12075230,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,788,Tunisia,TUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15093912,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,792,Turkey,TUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,940376748,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,792,Turkey,TUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,190188177,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,795,Turkmenistan,TKM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,69326,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,795,Turkmenistan,TKM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,28104,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,800,Uganda,UGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,72654,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,804,Ukraine,UKR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,139085097,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,804,Ukraine,UKR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,26443297,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,807,North Macedonia,MKD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,220979897,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,807,North Macedonia,MKD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,252113875,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,818,Egypt,EGY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,122705695,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,818,Egypt,EGY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,37377156,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,826,United Kingdom,GBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,148803864,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,826,United Kingdom,GBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,246327422,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,110717,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,84841,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,837,Bunkers,,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4450,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,837,Bunkers,,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,35077119,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,839,Special Categories,,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,50936,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,839,Special Categories,,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2219545,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,842,USA,USA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,122080988,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,842,USA,USA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,372547644,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,858,Uruguay,URY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,37190,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,858,Uruguay,URY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,135572,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,860,Uzbekistan,UZB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,52514750,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,860,Uzbekistan,UZB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2313827,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,862,Venezuela,VEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6557879,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,862,Venezuela,VEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2067077,,,0
+S4,2008,2008,2008,1,0,2,Export,300,Greece,GRC,887,Yemen,YEM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1349751,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,894,Zambia,ZMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,29559690,,,0
+S4,2008,2008,2008,1,0,1,Import,300,Greece,GRC,899,"Areas, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,83177,,,0

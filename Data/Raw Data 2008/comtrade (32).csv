@@ -1,0 +1,785 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3969557000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6453647000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,8,Albania,ALB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,32000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,8,Albania,ALB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20938000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,913000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,31,Azerbaijan,AZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5112000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6494000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,132000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,177000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3652000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,329651000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,443876000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,48,Bahrain,BHR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,89000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,51,Armenia,ARM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2937000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,56,Belgium,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,96093000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,56,Belgium,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,113430000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,70,Bosnia Herzegovina,BIH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,525000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,70,Bosnia Herzegovina,BIH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,140428000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7839000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,585000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,90,Solomon Isds,SLB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,92,Br. Virgin Isds,VGB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,209000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17850000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,111248000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,112,Belarus,BLR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,112,Belarus,BLR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16860000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5163000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2857000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,140,Central African Rep.,CAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,660000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1149000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,901000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15459000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1647000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,946000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,36000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,180,Dem. Rep. of the Congo,COD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,80000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,184,Cook Isds,COK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,544000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,382000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,191,Croatia,HRV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,100511000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,191,Croatia,HRV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,193101000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,192,Cuba,CUB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,192,Cuba,CUB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1336000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11436000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6496000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,203,Czechia,CZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,251511000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,203,Czechia,CZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,225500000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,204,Benin,BEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,36000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,40909000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,31492000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,212,Dominica,DMA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1778000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,727000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,54000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,231,Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,151000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,233,Estonia,EST,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,830000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,233,Estonia,EST,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16696000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,238,Falkland Isds (Malvinas),FLK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,70000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2292000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17091000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,154700000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,204853000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,268,Georgia,GEO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,927000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,275,State of Palestine,PSE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,22000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,276,Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,910282000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,276,Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,788511000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,292,Gibraltar,GIB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,150000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,292,Gibraltar,GIB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,240000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,29204000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,139745000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,320,Guatemala,GTM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,36000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,324,Guinea,GIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,47000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,324,Guinea,GIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,43000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,989000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14208000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,41000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,814000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,54000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2796000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,462000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10719000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6638000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3817000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,46979000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,264567000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,654519000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,56000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,175000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,62377000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,398,Kazakhstan,KAZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16255000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5122000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5464000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,571000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,77000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,308000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,33298000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,414,Kuwait,KWT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2044000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,417,Kyrgyzstan,KGZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1828000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,93000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10996000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,428,Latvia,LVA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1632000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,428,Latvia,LVA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16115000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,434,Libya,LBY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4170000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,440,Lithuania,LTU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6475000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,440,Lithuania,LTU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,40776000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,442,Luxembourg,LUX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,421000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,442,Luxembourg,LUX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,76000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,446,"China, Macao SAR",MAC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,240000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1598000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,399000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,462,Maldives,MDV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,24000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,466,Mali,MLI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,682000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,480,Mauritius,MUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,50000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,795000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3322000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,496,Mongolia,MNG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1368000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,498,Rep. of Moldova,MDA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,151000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,498,Rep. of Moldova,MDA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17804000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,499,Montenegro,MNE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,62000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,499,Montenegro,MNE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7428000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5183000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1652000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,512,Oman,OMN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,29000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,524,Nepal,NPL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,65000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,532725000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,219340000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,238000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,287000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,222000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4758000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,762000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,216000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,591,Panama,PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,861000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,66000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,45000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,822000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,417829000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,341427000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8769000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8175000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,634,Qatar,QAT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,336000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,46105000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,942728000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,643,Russian Federation,RUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,909000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,643,Russian Federation,RUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,261929000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,682,Saudi Arabia,SAU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15554000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,686,Senegal,SEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,40000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,688,Serbia,SRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,77346000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,688,Serbia,SRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,89539000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,690,Seychelles,SYC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,690,Seychelles,SYC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,48000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,699,India,IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8100000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,699,India,IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,78000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,122000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,460000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,703,Slovakia,SVK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,227609000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,703,Slovakia,SVK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,367742000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,704,Viet Nam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3666000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,704,Viet Nam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7768000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,705,Slovenia,SVN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,51788000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,705,Slovenia,SVN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,184666000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,710,South Africa,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,140000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,710,South Africa,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,567000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,115276000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,65413000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,740,Suriname,SUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20228000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,42636000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7588000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,84652000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,760,Syria,SYR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,30000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,760,Syria,SYR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,258000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,762,Tajikistan,TJK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1738000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13994000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,75000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,784,United Arab Emirates,ARE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,784,United Arab Emirates,ARE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4884000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,426000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5656000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,25607000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,30335000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,795,Turkmenistan,TKM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,421000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,796,Turks and Caicos Isds,TCA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,26000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,800,Uganda,UGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,66000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,804,Ukraine,UKR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3303000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,804,Ukraine,UKR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,143778000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,807,North Macedonia,MKD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2174000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,807,North Macedonia,MKD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,22384000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3920000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,613000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,75122000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,142980000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,163000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,842,USA,USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,33682000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,842,USA,USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14220000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,347000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,198000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,860,Uzbekistan,UZB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,654000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,887,Yemen,YEM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,971000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1413993000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1986455000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,8,Albania,ALB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,80000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,8,Albania,ALB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,25000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,12,Algeria,DZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,24,Angola,AGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,18000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,31,Azerbaijan,AZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,174000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7793000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2657000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,430000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,93680000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,413527000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,48,Bahrain,BHR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,50,Bangladesh,BGD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1301000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,51,Armenia,ARM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,56,Belgium,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12739000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,56,Belgium,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10526000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,70,Bosnia Herzegovina,BIH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16262000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,70,Bosnia Herzegovina,BIH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,52536000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8194000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3995000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,92,Br. Virgin Isds,VGB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,24000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4928000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3457000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,112,Belarus,BLR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2425000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,112,Belarus,BLR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,121000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,120,Cameroon,CMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,119000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,599000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2813000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,106000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,117000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8710000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8503000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,28000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,99000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,188,Costa Rica,CRI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,414000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,191,Croatia,HRV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14361000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,191,Croatia,HRV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14151000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1835000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,927000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,203,Czechia,CZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,29249000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,203,Czechia,CZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,45714000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,204,Benin,BEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2731000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15660000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6004000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,218,Ecuador,ECU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,167000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,231,Ethiopia,ETH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,70000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,231,Ethiopia,ETH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,233,Estonia,EST,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2492000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,233,Estonia,EST,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,216000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6322000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,710000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,51576000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,47638000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,262,Djibouti,DJI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,329000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,266,Gabon,GAB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,268,Georgia,GEO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,38000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,275,State of Palestine,PSE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,276,Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,218456000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,276,Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,438160000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1428000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,292,Gibraltar,GIB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1948000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3455000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,320,Guatemala,GTM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,324,Guinea,GIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,256000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,324,Guinea,GIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,18000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2328000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,352,Iceland,ISL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16785000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,571000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,181000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,368,Iraq,IRQ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,309000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,226000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,121000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1620000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1756000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,56107000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,434666000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7412000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,314000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1059000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8470000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,398,Kazakhstan,KAZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1194000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,398,Kazakhstan,KAZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,171000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,400,Jordan,JOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,305000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,164000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,177000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,48000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3244000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1763000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,414,Kuwait,KWT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,417,Kyrgyzstan,KGZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,67000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,428,Latvia,LVA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3390000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,428,Latvia,LVA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,94000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,430,Liberia,LBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,434,Libya,LBY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,440,Lithuania,LTU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3643000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,440,Lithuania,LTU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1260000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,442,Luxembourg,LUX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,390000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,442,Luxembourg,LUX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,454,Malawi,MWI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4107000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1860000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,470,Malta,MLT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,91000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3863000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,496,Mongolia,MNG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,65000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,498,Rep. of Moldova,MDA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4116000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,498,Rep. of Moldova,MDA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,928000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,499,Montenegro,MNE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4176000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,499,Montenegro,MNE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,231000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,319000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,512,Oman,OMN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,516,Namibia,NAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,109392000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,91191000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,272000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,125000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,562,Niger,NER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,272000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,118000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2964000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,332000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,956000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,464000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1816000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,83000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,68000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,21877000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,27527000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,213000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1194000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,634,Qatar,QAT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,29000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,56825000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,56598000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,643,Russian Federation,RUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,181338000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,643,Russian Federation,RUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11356000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,674,San Marino,SMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,71000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,682,Saudi Arabia,SAU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,90000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,682,Saudi Arabia,SAU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,21000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,686,Senegal,SEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,686,Senegal,SEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,688,Serbia,SRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14328000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,688,Serbia,SRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,43021000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,690,Seychelles,SYC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,699,India,IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2049000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,699,India,IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2123000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6897000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,86000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,703,Slovakia,SVK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,149701000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,703,Slovakia,SVK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,74105000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,704,Viet Nam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,209000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,704,Viet Nam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,511000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,705,Slovenia,SVN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,18627000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,705,Slovenia,SVN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,55651000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,710,South Africa,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,349000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,710,South Africa,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,665000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6775000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,28765000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,740,Suriname,SUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,59000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,60510000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5652000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1746000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9287000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,760,Syria,SYR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,760,Syria,SYR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,83000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,762,Tajikistan,TJK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,121000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1549000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,563000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,768,Togo,TGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1294000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,780,Trinidad and Tobago,TTO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,20000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,784,United Arab Emirates,ARE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1448000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,784,United Arab Emirates,ARE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,421000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,107000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5664000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10712000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,800,Uganda,UGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,50000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,800,Uganda,UGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,804,Ukraine,UKR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,91706000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,804,Ukraine,UKR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9395000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,807,North Macedonia,MKD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,69000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,807,North Macedonia,MKD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,273000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1411000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,637000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,54634000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11489000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,834,United Rep. of Tanzania,TZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,62000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,834,United Rep. of Tanzania,TZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,45000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,842,USA,USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15486000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,842,USA,USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,18220000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,860,Uzbekistan,UZB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,497000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,860,Uzbekistan,UZB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,24000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,862,Venezuela,VEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,887,Yemen,YEM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9277569000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3345213000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,4,Afghanistan,AFG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,731000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,8,Albania,ALB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,17021000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,187000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,705724000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,653196000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,56,Belgium,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,16354000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,56,Belgium,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4120000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,70,Bosnia Herzegovina,BIH,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,76000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,70,Bosnia Herzegovina,BIH,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,156335000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,100,Bulgaria,BGR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1490000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,100,Bulgaria,BGR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2689000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,112,Belarus,BLR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,88911000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,112,Belarus,BLR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,398000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,12061000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,260000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,152,Chile,CHL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,40000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,108000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,806000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,188,Costa Rica,CRI,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,27000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,191,Croatia,HRV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,73476000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,191,Croatia,HRV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,396548000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,192,Cuba,CUB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,203,Czechia,CZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,148036000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,203,Czechia,CZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,38229000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,84000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3515000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,214,Dominican Rep.,DOM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,701000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,218,Ecuador,ECU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,26000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,231,Ethiopia,ETH,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,17000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,233,Estonia,EST,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,535000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,120000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,320000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,231002000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,809000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,268,Georgia,GEO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,36000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,276,Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,558236000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,276,Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,376290000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,300,Greece,GRC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,112000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,300,Greece,GRC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3119000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,320,Guatemala,GTM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,126000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,332,Haiti,HTI,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,344000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,344,"China, Hong Kong SAR",HKG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,360,Indonesia,IDN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1046000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,364,Iran,IRN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,414000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,372,Ireland,IRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,317000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,376,Israel,ISR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,108000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,376,Israel,ISR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5535000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,11193000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,17599000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,384,Côte d'Ivoire,CIV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,214000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,425000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,398,Kazakhstan,KAZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,97981000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,398,Kazakhstan,KAZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,161000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,400,Jordan,JOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,167000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,410,Rep. of Korea,KOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,198000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,414,Kuwait,KWT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,414,Kuwait,KWT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,615000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,422,Lebanon,LBN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,51000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,428,Latvia,LVA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,731000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,428,Latvia,LVA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,384000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,440,Lithuania,LTU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2381000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,440,Lithuania,LTU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,266000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,442,Luxembourg,LUX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,62000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,442,Luxembourg,LUX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,176000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,446,"China, Macao SAR",MAC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,271000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,470,Malta,MLT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,297000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,480,Mauritius,MUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,57000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,484,Mexico,MEX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,155000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,490,"Other Asia, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,190000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,498,Rep. of Moldova,MDA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7767000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,499,Montenegro,MNE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,372000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,504,Morocco,MAR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,704000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,512,Oman,OMN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,520,Nauru,NRU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,129000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,20747000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,15248000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,566,Nigeria,NGA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,280000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,579,Norway,NOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,70000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,586,Pakistan,PAK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,113000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,591,Panama,PAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,78000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,95044000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,117892000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,620,Portugal,PRT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,195000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,634,Qatar,QAT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,33000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,257720000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,237121000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,643,Russian Federation,RUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4941809000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,643,Russian Federation,RUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,15811000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,682,Saudi Arabia,SAU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,30000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,688,Serbia,SRB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,38664000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,688,Serbia,SRB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,363081000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,694,Sierra Leone,SLE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,129000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,699,India,IND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,113000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,702,Singapore,SGP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,32000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,703,Slovakia,SVK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,786418000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,703,Slovakia,SVK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,258449000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,705,Slovenia,SVN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,34404000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,705,Slovenia,SVN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,189564000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,710,South Africa,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,116000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3893000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1140000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1180000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,348000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,220658000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,314512000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,760,Syria,SYR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,764,Thailand,THA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6553000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,780,Trinidad and Tobago,TTO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,34000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,784,United Arab Emirates,ARE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,84000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,784,United Arab Emirates,ARE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,38000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,788,Tunisia,TUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,408000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,68000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3051000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,795,Turkmenistan,TKM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,170644000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,804,Ukraine,UKR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,437404000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,804,Ukraine,UKR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,61219000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,807,North Macedonia,MKD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1139000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,818,Egypt,EGY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,818,Egypt,EGY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1676000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5618000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2547000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,842,USA,USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,189003000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,842,USA,USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,61406000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,860,Uzbekistan,UZB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,124799000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,887,Yemen,YEM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14397439000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10169967000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,4,Afghanistan,AFG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,4,Afghanistan,AFG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,22000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,8,Albania,ALB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6161000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,8,Albania,ALB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3497000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,12,Algeria,DZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,77000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,12,Algeria,DZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3318000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,16,American Samoa,ASM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,24,Angola,AGO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,254000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,28,Antigua and Barbuda,ATG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,31,Azerbaijan,AZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,31,Azerbaijan,AZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3823000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,32,Argentina,ARG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10874000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,32,Argentina,ARG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1295000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,36,Australia,AUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,630000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,36,Australia,AUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6805000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,40,Austria,AUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1420937000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,40,Austria,AUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,788918000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,44,Bahamas,BHS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,81000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,44,Bahamas,BHS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,78000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,48,Bahrain,BHR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2035000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,48,Bahrain,BHR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,115000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,50,Bangladesh,BGD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,567000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,50,Bangladesh,BGD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,51,Armenia,ARM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,519000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,52,Barbados,BRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,56,Belgium,BEL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,286236000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,56,Belgium,BEL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,166536000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,60,Bermuda,BMU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,244000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,68,Bolivia (Plurinational State of),BOL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,70,Bosnia Herzegovina,BIH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,70895000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,70,Bosnia Herzegovina,BIH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,42716000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,76,Brazil,BRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,18458000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,76,Brazil,BRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7543000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,92,Br. Virgin Isds,VGB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,78000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,92,Br. Virgin Isds,VGB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,273000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,96,Brunei Darussalam,BRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,100,Bulgaria,BGR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,63050000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,100,Bulgaria,BGR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,130149000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,104,Myanmar,MMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,112,Belarus,BLR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,18986000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,112,Belarus,BLR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15354000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,116,Cambodia,KHM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,120,Cameroon,CMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,124,Canada,CAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12230000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,124,Canada,CAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14938000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,136,Cayman Isds,CYM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,97000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,140,Central African Rep.,CAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,144,Sri Lanka,LKA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1717000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,144,Sri Lanka,LKA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,49000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,152,Chile,CHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1808000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,156,China,CHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,219660000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,156,China,CHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,21761000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,170,Colombia,COL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,166000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,170,Colombia,COL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,74000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,178,Congo,COG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,63000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,188,Costa Rica,CRI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,188,Costa Rica,CRI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,206000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,191,Croatia,HRV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,82107000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,191,Croatia,HRV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,228507000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,192,Cuba,CUB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,167000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,196,Cyprus,CYP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2005000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,196,Cyprus,CYP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5678000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,203,Czechia,CZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,827229000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,203,Czechia,CZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,514656000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,208,Denmark,DNK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,96187000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,208,Denmark,DNK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,96853000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,214,Dominican Rep.,DOM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,67000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,218,Ecuador,ECU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,218,Ecuador,ECU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,222,El Salvador,SLV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,222,El Salvador,SLV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,231,Ethiopia,ETH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,419000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,231,Ethiopia,ETH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,87000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,233,Estonia,EST,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5795000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,233,Estonia,EST,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8309000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,246,Finland,FIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,200825000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,246,Finland,FIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,22246000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,251,France,FRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,507888000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,251,France,FRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,451354000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,266,Gabon,GAB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,268,Georgia,GEO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,647000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,270,Gambia,GMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,276,Germany,DEU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4168356000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,276,Germany,DEU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2673170000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,288,Ghana,GHA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4082000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,292,Gibraltar,GIB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,300,Greece,GRC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,34705000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,300,Greece,GRC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,27866000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,324,Guinea,GIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,20405000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4672000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,352,Iceland,ISL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,155000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,360,Indonesia,IDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7178000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,360,Indonesia,IDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,642000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,364,Iran,IRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,739000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,364,Iran,IRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1363000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,368,Iraq,IRQ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,148000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,372,Ireland,IRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6188000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,372,Ireland,IRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11650000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,376,Israel,ISR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8269000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,376,Israel,ISR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7438000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,381,Italy,ITA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1243544000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,381,Italy,ITA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,518356000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,68000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,392,Japan,JPN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,142513000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,392,Japan,JPN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,31435000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,398,Kazakhstan,KAZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,51000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,398,Kazakhstan,KAZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12166000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,400,Jordan,JOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,400,Jordan,JOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,554000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,404,Kenya,KEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,404,Kenya,KEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,410,Rep. of Korea,KOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,84771000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,410,Rep. of Korea,KOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7226000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,414,Kuwait,KWT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,414,Kuwait,KWT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1272000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,422,Lebanon,LBN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,157000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,422,Lebanon,LBN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1489000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,428,Latvia,LVA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11858000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,428,Latvia,LVA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13186000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,434,Libya,LBY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,355000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,440,Lithuania,LTU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7644000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,440,Lithuania,LTU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16294000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,442,Luxembourg,LUX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,54566000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,442,Luxembourg,LUX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,65465000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,446,"China, Macao SAR",MAC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,56000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,446,"China, Macao SAR",MAC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,450,Madagascar,MDG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,458,Malaysia,MYS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16869000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,458,Malaysia,MYS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2491000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,470,Malta,MLT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,847000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,470,Malta,MLT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,477000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,480,Mauritius,MUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,37000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,480,Mauritius,MUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,39000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,484,Mexico,MEX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5056000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,484,Mexico,MEX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4910000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,490,"Other Asia, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,24496000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,490,"Other Asia, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1745000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,496,Mongolia,MNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,496,Mongolia,MNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,43000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,498,Rep. of Moldova,MDA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5970000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,498,Rep. of Moldova,MDA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16561000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,499,Montenegro,MNE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4200000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,499,Montenegro,MNE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7154000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,504,Morocco,MAR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,81000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,504,Morocco,MAR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6019000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,512,Oman,OMN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,512,Oman,OMN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1111000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,516,Namibia,NAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,516,Namibia,NAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,42000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,524,Nepal,NPL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,28000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,528,Netherlands,NLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,539760000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,528,Netherlands,NLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,171827000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,530,Neth. Antilles,ANT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,554,New Zealand,NZL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,366000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,554,New Zealand,NZL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2337000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,566,Nigeria,NGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1020000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,579,Norway,NOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14704000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,579,Norway,NOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,34157000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,586,Pakistan,PAK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7823000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,586,Pakistan,PAK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3449000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,591,Panama,PAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,40000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,591,Panama,PAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,66000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,604,Peru,PER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,47000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,604,Peru,PER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,159000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,608,Philippines,PHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1052000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,608,Philippines,PHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,321000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,616,Poland,POL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,822221000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,616,Poland,POL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,641619000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,620,Portugal,PRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,28166000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,620,Portugal,PRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12136000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,634,Qatar,QAT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2835000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,642,Romania,ROU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,437610000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,642,Romania,ROU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,918952000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,643,Russian Federation,RUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,80526000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,643,Russian Federation,RUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,284814000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,674,San Marino,SMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,165000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,682,Saudi Arabia,SAU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,79000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,682,Saudi Arabia,SAU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16401000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,686,Senegal,SEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,686,Senegal,SEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,22000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,688,Serbia,SRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,98474000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,688,Serbia,SRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,177404000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,690,Seychelles,SYC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,215000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,690,Seychelles,SYC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,694,Sierra Leone,SLE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,699,India,IND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,21892000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,699,India,IND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,22403000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,702,Singapore,SGP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5945000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,702,Singapore,SGP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3564000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,703,Slovakia,SVK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,958627000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,703,Slovakia,SVK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,550542000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,704,Viet Nam,VNM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1054000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,704,Viet Nam,VNM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2066000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,705,Slovenia,SVN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,129766000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,705,Slovenia,SVN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,160121000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,710,South Africa,ZAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8932000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,710,South Africa,ZAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,33192000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,716,Zimbabwe,ZWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,40000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,724,Spain,ESP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,186890000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,724,Spain,ESP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,167567000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,736,Fmr Sudan,SDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,45000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,740,Suriname,SUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,752,Sweden,SWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,233027000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,752,Sweden,SWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,88231000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,757,Switzerland,CHE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,82417000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,757,Switzerland,CHE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,105557000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,760,Syria,SYR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1999000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,760,Syria,SYR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2272000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,762,Tajikistan,TJK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11200000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,764,Thailand,THA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8122000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,764,Thailand,THA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,491000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,768,Togo,TGO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,162000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,772,Tokelau,TKL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,780,Trinidad and Tobago,TTO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,44000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,784,United Arab Emirates,ARE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1528000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,784,United Arab Emirates,ARE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14308000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,788,Tunisia,TUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,927000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,788,Tunisia,TUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5032000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,792,Turkey,TUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,285086000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,792,Turkey,TUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,91389000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,795,Turkmenistan,TKM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,37000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,798,Tuvalu,TUV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,800,Uganda,UGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,804,Ukraine,UKR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,302010000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,804,Ukraine,UKR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,191589000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,807,North Macedonia,MKD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4450000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,807,North Macedonia,MKD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,20212000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,818,Egypt,EGY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3577000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,818,Egypt,EGY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9107000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,826,United Kingdom,GBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,228928000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,826,United Kingdom,GBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,338469000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,367000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,842,USA,USA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,182593000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,842,USA,USA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,114797000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,858,Uruguay,URY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,437000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,858,Uruguay,URY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,860,Uzbekistan,UZB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,860,Uzbekistan,UZB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,365000,,,0
+S4,2008,2008,2008,1,0,1,Import,348,Hungary,HUN,862,Venezuela,VEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2725000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,862,Venezuela,VEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,929000,,,0
+S4,2008,2008,2008,1,0,2,Export,348,Hungary,HUN,887,Yemen,YEM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,837000,,,0

@@ -1,0 +1,760 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1284962688,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2076705920,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,4,Afghanistan,AFG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,142638,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,8,Albania,ALB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4263538,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,24450804,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,24,Angola,AGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9893806,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5165298,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2504285,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,131044960,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3452665,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,961901,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,463741,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,44,Bahamas,BHS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1102,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,44,Bahamas,BHS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5033408,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,48,Bahrain,BHR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14720,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,52,Barbados,BRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,761082,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,52,Barbados,BRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3831684,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,58,Belgium-Luxembourg,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1939955,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,58,Belgium-Luxembourg,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,25871342,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,60,Bermuda,BMU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4020526,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,317963,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,40997,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,37166628,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21681060,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,84,Belize,BLZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2431935,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,84,Belize,BLZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,262794,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,843290,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,104,Myanmar,MMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1370134,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,120,Cameroon,CMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,496301,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,120,Cameroon,CMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5514,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6554504,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2364831,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1498849,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,223453,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6500972,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,229506848,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8269321,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1439242,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,174,Comoros,COM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11876,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,174,Comoros,COM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,613107,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,180,Dem. Rep. of the Congo,COD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2303222,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,180,Dem. Rep. of the Congo,COD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,93689,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10332921,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,851994,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,192,Cuba,CUB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10169102,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,192,Cuba,CUB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,50853548,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18509,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,966471,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,200,Czechoslovakia,CSK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,167485,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,200,Czechoslovakia,CSK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7404,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,204,Benin,BEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,43495,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9968416,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3684350,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3481943,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2735214,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5698087,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,330423,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,222,El Salvador,SLV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3715744,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,222,El Salvador,SLV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,546433,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,230,Fmr Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,110838,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,230,Fmr Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5301,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,242,Fiji,FJI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6842484,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,242,Fiji,FJI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,127313,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1108440,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1830290,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8666536,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19690900,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,254,French Guiana,GUF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,57868,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,270,Gambia,GMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,92342,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,160968,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9558188,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6600949,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,28460382,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7953580,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4408491,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,292,Gibraltar,GIB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21583,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2511156,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1436012,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,304,Greenland,GRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,30672,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,312,Guadeloupe,GLP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,164220,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,320,Guatemala,GTM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6257208,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,320,Guatemala,GTM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,427157,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,324,Guinea,GIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,42136,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,324,Guinea,GIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,35938,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,328,Guyana,GUY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,373149,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,328,Guyana,GUY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,722846,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,332,Haiti,HTI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20639,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,332,Haiti,HTI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4237800,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,340,Honduras,HND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18837408,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,340,Honduras,HND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,256498,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3764772,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3647826,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,476161,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1298092,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,40787,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,114815,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,356,"India, excl. Sikkim",IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16285629,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,356,"India, excl. Sikkim",IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4270589,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1175836,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5759463,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,642841,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,102626,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,368,Iraq,IRQ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,220424,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,368,Iraq,IRQ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1800677,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2754487,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4758503,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2680123,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7018450,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11479156,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,82385536,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1138309,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,157283,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,388,Jamaica,JAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1062539,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,388,Jamaica,JAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13193317,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,27538644,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,209852320,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,176857,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4401716,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,41154,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6709563,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,393849,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1806963,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,414,Kuwait,KWT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,55830,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,99769,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5812936,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,430,Liberia,LBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,408603,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,430,Liberia,LBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,452107,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,434,Libya,LBY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,717780,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,450,Madagascar,MDG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,496540,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,454,Malawi,MWI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,947713,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,454,Malawi,MWI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,40097,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,656678,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2169591,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1367074,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,478,Mauritania,MRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,166656,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,480,Mauritius,MUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18305824,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,480,Mauritius,MUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,30164,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,26738818,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15356553,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8660305,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6139402,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,194875,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2304533,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,508,Mozambique,MOZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3672035,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,508,Mozambique,MOZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,66183,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15317795,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,38566532,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,532,Neth. Antilles and Aruba,ANT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,809131,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,540,New Caledonia,NCL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,143879,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,33484782,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1616963,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,558,Nicaragua,NIC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1917504,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,558,Nicaragua,NIC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,476014,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5394116,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7463231,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2719294,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2512702,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,542180,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,24467116,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,590,"Fmr Panama, excl.Canal Zone",PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2872674,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,590,"Fmr Panama, excl.Canal Zone",PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,513517,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,600,Paraguay,PRY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,780786,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,600,Paraguay,PRY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,36074,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4218813,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12900690,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4598103,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11864739,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1592443,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20769232,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7062466,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4070249,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,624,Guinea-Bissau,GNB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,325677,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,634,Qatar,QAT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6021,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,343764,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8227914,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,658,"Saint Kitts, Nevis and Anguilla",KNA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,234326,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,658,"Saint Kitts, Nevis and Anguilla",KNA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5007069,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,666,Saint Pierre and Miquelon,SPM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13182,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,666,Saint Pierre and Miquelon,SPM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1807557,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,682,Saudi Arabia,SAU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1342783,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,686,Senegal,SEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,47613,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,690,Seychelles,SYC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5902681,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,690,Seychelles,SYC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5510,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,694,Sierra Leone,SLE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,522196,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,694,Sierra Leone,SLE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,35345,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2684693,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2129061,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,706,Somalia,SOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,268065,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,711,So. African Customs Union,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,42433760,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,711,So. African Customs Union,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1834913,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,720,Fmr Dem. Yemen,YMD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,67593,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,720,Fmr Dem. Yemen,YMD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8956,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10359309,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2940891,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,736,Fmr Sudan,SDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1070488,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,740,Suriname,SUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,717407,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,883365,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8442885,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7160171,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7354625,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,760,Syria,SYR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2565,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,760,Syria,SYR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7564036,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,218253,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,419094,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,768,Togo,TGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,458676,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,780,Trinidad and Tobago,TTO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1596244,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,780,Trinidad and Tobago,TTO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7602720,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,784,United Arab Emirates,ARE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,25918,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4100,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5465106,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1341874,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,64467,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,800,Uganda,UGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4487931,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,800,Uganda,UGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4828,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,810,Fmr USSR,SUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,48876,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,810,Fmr USSR,SUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,269212384,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,37817,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3208008,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,36633652,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,224406000,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2185422,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10610,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,841,USA (before 1981),USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,632098304,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,841,USA (before 1981),USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,540582208,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,849,US Misc. Pacific Isds,,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,352786,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,850,US Virgin Isds,VIR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8522,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,299815,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1353154,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6453696,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,868,Fmr Rep. of Vietnam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1407059,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,882,Samoa,WSM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15920,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,890,Fmr Yugoslavia,YUG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,378077,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,890,Fmr Yugoslavia,YUG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,255397,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,894,Zambia,ZMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,46552,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,899,"Areas, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,33345,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,899,"Areas, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,52128,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,827843072,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4235131392,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,8,Albania,ALB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,82959,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,12,Algeria,DZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2834004,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,374760,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6800245,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,42917832,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,52000772,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,23507,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5092943,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,44,Bahamas,BHS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,145707,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,44,Bahamas,BHS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,259160,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,52,Barbados,BRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,574853,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,58,Belgium-Luxembourg,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1172161,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,58,Belgium-Luxembourg,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,123976008,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,60,Bermuda,BMU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,921,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,60,Bermuda,BMU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,379416,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,462234,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8360,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7367268,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8953455,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,84,Belize,BLZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,413404,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,84,Belize,BLZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1232,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12539,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,503480,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,104,Myanmar,MMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,38336,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,120,Cameroon,CMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9871,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,120,Cameroon,CMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,606,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,513065,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,695551,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3350290,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1834851,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3558411,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7853130,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4923792,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6876568,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,180,Dem. Rep. of the Congo,COD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,789435,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,180,Dem. Rep. of the Congo,COD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,288501,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,188,Costa Rica,CRI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2103,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,188,Costa Rica,CRI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,552599,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,192,Cuba,CUB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13417,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,192,Cuba,CUB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1456422,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,271942,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10837,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,200,Czechoslovakia,CSK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1908,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,200,Czechoslovakia,CSK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3024353,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,204,Benin,BEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14616,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4686587,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4477555,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,214,Dominican Rep.,DOM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11092,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,214,Dominican Rep.,DOM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,645158,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,218,Ecuador,ECU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,103410,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,218,Ecuador,ECU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,412032,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,222,El Salvador,SLV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13250,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,222,El Salvador,SLV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,309451,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,242,Fiji,FJI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,83270,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,530418,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1611775,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1865449,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,79848736,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,266,Gabon,GAB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1466455,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,495506,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,36561,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4109199,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,161221536,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1202100,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,123184,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2125143,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9258730,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,304,Greenland,GRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,114767,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,312,Guadeloupe,GLP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13288,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,320,Guatemala,GTM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,518910,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,320,Guatemala,GTM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,478754,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,328,Guyana,GUY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14710556,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,328,Guyana,GUY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,82578,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,332,Haiti,HTI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,198821,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,340,Honduras,HND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,301241,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,340,Honduras,HND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,119829,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,869437,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1399751,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14571,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1883180,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,352,Iceland,ISL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,30777,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,352,Iceland,ISL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5641,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,356,"India, excl. Sikkim",IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,323641,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,356,"India, excl. Sikkim",IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,25930148,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,880443,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,710002,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3289,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2825895,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,368,Iraq,IRQ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,225503,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,299214,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3104808,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,64592,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1663205,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1278286,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,81524176,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,33327,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2823,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,388,Jamaica,JAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16079231,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,388,Jamaica,JAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,501133,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6501887,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,539614720,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,54412,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,64548,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5392,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,541097,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19356824,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,414,Kuwait,KWT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,146172,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11913,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1530628,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,430,Liberia,LBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1097834,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,430,Liberia,LBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19948,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,434,Libya,LBY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3434,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,450,Madagascar,MDG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,28976,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,450,Madagascar,MDG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,198630,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,454,Malawi,MWI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,129810,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7375825,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1857167,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11069382,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9727355,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1149520,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4101160,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,101658,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1861828,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,508,Mozambique,MOZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,92230,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,508,Mozambique,MOZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,749917,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3952562,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,116082024,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,532,Neth. Antilles and Aruba,ANT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,245489,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,532,Neth. Antilles and Aruba,ANT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6098,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,540,New Caledonia,NCL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9269032,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,540,New Caledonia,NCL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,140810,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7281110,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4823909,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,558,Nicaragua,NIC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,639382,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,558,Nicaragua,NIC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,78573,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,25717,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1199178,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1664456,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,142089648,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,677656,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7002141,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,590,"Fmr Panama, excl.Canal Zone",PAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4765,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,590,"Fmr Panama, excl.Canal Zone",PAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,186489,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,600,Paraguay,PRY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,525571,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,600,Paraguay,PRY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1575,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4533002,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3681513,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,577021,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2359513,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,751573,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7342720,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,330677,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1986091,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,244889,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4614169,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,658,"Saint Kitts, Nevis and Anguilla",KNA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,601200,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,666,Saint Pierre and Miquelon,SPM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5048,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,666,Saint Pierre and Miquelon,SPM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,245639,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,682,Saudi Arabia,SAU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2347,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,686,Senegal,SEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,91671,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,690,Seychelles,SYC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,142173,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,694,Sierra Leone,SLE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2720934,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13241176,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,503251,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,711,So. African Customs Union,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2402047,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,711,So. African Customs Union,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9069249,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,663780,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,34878268,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,736,Fmr Sudan,SDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,160656,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,740,Suriname,SUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5369469,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,740,Suriname,SUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7379,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4722077,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8019084,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,713382,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11276864,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,760,Syria,SYR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,408775,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,760,Syria,SYR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13320,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1008827,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3548216,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,768,Togo,TGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13760,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,780,Trinidad and Tobago,TTO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,65632,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,780,Trinidad and Tobago,TTO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,666649,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,784,United Arab Emirates,ARE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,53835,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1546154,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,384985,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2209075,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,800,Uganda,UGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,208142,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,810,Fmr USSR,SUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,784280,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,810,Fmr USSR,SUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2410772,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,526511,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,26797292,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,415331712,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,834,United Rep. of Tanzania,TZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,389474,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,834,United Rep. of Tanzania,TZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5351,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,841,USA (before 1981),USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,590332480,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,841,USA (before 1981),USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2254283008,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,849,US Misc. Pacific Isds,,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4295,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,858,Uruguay,URY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,103967,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,858,Uruguay,URY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,291018,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,862,Venezuela,VEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,67531,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,862,Venezuela,VEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8776615,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,868,Fmr Rep. of Vietnam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,120103,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,882,Samoa,WSM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,24171,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,890,Fmr Yugoslavia,YUG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,201736,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,890,Fmr Yugoslavia,YUG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6096678,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,894,Zambia,ZMB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,456311,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,899,"Areas, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12390,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,899,"Areas, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19826,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1084756608,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1733924864,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,12,Algeria,DZA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1082912,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,24,Angola,AGO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,35700496,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,32,Argentina,ARG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1529500,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,32,Argentina,ARG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9489,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,891210,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,126545,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,44,Bahamas,BHS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,11250974,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,44,Bahamas,BHS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,809309,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,48,Bahrain,BHR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5316184,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,58,Belgium-Luxembourg,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3002481,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,58,Belgium-Luxembourg,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,791650,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,60,Bermuda,BMU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8085,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,76,Brazil,BRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1258,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,152,Chile,CHL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1272474,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,15529,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,170,Colombia,COL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9543058,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,196,Cyprus,CYP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,779,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,204,Benin,BEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7254,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,21588,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3443,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,214,Dominican Rep.,DOM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,678,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,218,Ecuador,ECU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4960084,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,222,El Salvador,SLV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2487,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,157330,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1755,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,20142,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5436306,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,108705,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,288,Ghana,GHA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2373,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,304,Greenland,GRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,26815,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,328,Guyana,GUY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5145,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,348,Hungary,HUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1030,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,356,"India, excl. Sikkim",IND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,22562,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,364,Iran,IRN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,70880280,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,368,Iraq,IRQ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,12764233,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1883030,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,388,Jamaica,JAM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,17408,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,85303,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,111829024,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,404,Kenya,KEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2566,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,414,Kuwait,KWT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2612838,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,422,Lebanon,LBN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1391219,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,422,Lebanon,LBN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1804,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,434,Libya,LBY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,41023412,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,484,Mexico,MEX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,11216,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1507932,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,858481,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,532,Neth. Antilles and Aruba,ANT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,34603792,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,554,New Zealand,NZL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,41173,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,558,Nicaragua,NIC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,559,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,566,Nigeria,NGA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,55125132,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,579,Norway,NOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1778,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,579,Norway,NOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,42558,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,590,"Fmr Panama, excl.Canal Zone",PAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,563515,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,590,"Fmr Panama, excl.Canal Zone",PAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3400,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,608,Philippines,PHL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1725,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,620,Portugal,PRT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4624,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,634,Qatar,QAT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,646648,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,658,"Saint Kitts, Nevis and Anguilla",KNA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5275281,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,658,"Saint Kitts, Nevis and Anguilla",KNA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,758,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,666,Saint Pierre and Miquelon,SPM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2537635,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,682,Saudi Arabia,SAU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,55176708,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,686,Senegal,SEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8080,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,711,So. African Customs Union,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8792,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,456557,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,22018,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9094,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3079507,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2913,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,780,Trinidad and Tobago,TTO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,11096261,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,780,Trinidad and Tobago,TTO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,13836,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,784,United Arab Emirates,ARE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,27332104,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,800,Uganda,UGA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1551,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6979502,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2607115,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,841,USA (before 1981),USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,262837536,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,841,USA (before 1981),USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1609500544,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,850,US Virgin Isds,VIR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,586885,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,862,Venezuela,VEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,412220160,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,862,Venezuela,VEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,124120,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,890,Fmr Yugoslavia,YUG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,766392,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,899,"Areas, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,268,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,899,"Areas, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4538,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2829013504,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3814253824,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,4,Afghanistan,AFG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3854,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,4,Afghanistan,AFG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,54192,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,12,Algeria,DZA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5013,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,12,Algeria,DZA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,541646,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,24,Angola,AGO,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,459907,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,32,Argentina,ARG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1332689,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,32,Argentina,ARG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,26008680,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,36,Australia,AUS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,7922206,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,36,Australia,AUS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,47552188,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,40,Austria,AUT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,9145098,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,40,Austria,AUT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,499129,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,44,Bahamas,BHS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,885,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,44,Bahamas,BHS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1865752,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,48,Bahrain,BHR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,46301,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,52,Barbados,BRB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,14286,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,52,Barbados,BRB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3133167,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,58,Belgium-Luxembourg,BEL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,51633320,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,58,Belgium-Luxembourg,BEL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,26899644,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,60,Bermuda,BMU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2378027,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,17800,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,752825,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,76,Brazil,BRA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,11172521,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,76,Brazil,BRA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,34397932,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,84,Belize,BLZ,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1122,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,84,Belize,BLZ,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,884437,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,100,Bulgaria,BGR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,115646,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,100,Bulgaria,BGR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6335,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,104,Myanmar,MMR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,176871,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,120,Cameroon,CMR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,108534,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,120,Cameroon,CMR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,161478,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,144,Sri Lanka,LKA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,169679,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,144,Sri Lanka,LKA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2241679,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,152,Chile,CHL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,782074,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,152,Chile,CHL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2782669,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,156,China,CHN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,18710568,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,156,China,CHN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,19165028,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,170,Colombia,COL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6849195,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,170,Colombia,COL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,12575335,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,174,Comoros,COM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,63570,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,174,Comoros,COM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,324948,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,180,Dem. Rep. of the Congo,COD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,345984,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,188,Costa Rica,CRI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,19528,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,188,Costa Rica,CRI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4030752,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,192,Cuba,CUB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1994,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,192,Cuba,CUB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2444854,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,196,Cyprus,CYP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1963,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,196,Cyprus,CYP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,272626,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,200,Czechoslovakia,CSK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,21888620,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,200,Czechoslovakia,CSK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,110966,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,204,Benin,BEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,662,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,204,Benin,BEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,231032,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,208,Denmark,DNK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4212816,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,208,Denmark,DNK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5328821,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,214,Dominican Rep.,DOM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,994255,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,214,Dominican Rep.,DOM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4378111,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,218,Ecuador,ECU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,11379,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,218,Ecuador,ECU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2550079,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,222,El Salvador,SLV,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,43381,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,222,El Salvador,SLV,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2580342,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,230,Fmr Ethiopia,ETH,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,24261,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,242,Fiji,FJI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,936,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,242,Fiji,FJI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,249692,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,246,Finland,FIN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5890401,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,246,Finland,FIN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2773149,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,251,France,FRA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,60192628,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,25059740,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,266,Gabon,GAB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,50996,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,266,Gabon,GAB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,23595,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,812662,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,32068,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,107903952,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,68604776,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,288,Ghana,GHA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2887268,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,288,Ghana,GHA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,415045,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,300,Greece,GRC,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1030065,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,300,Greece,GRC,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5390932,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,304,Greenland,GRL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1579166,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,312,Guadeloupe,GLP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,51040,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,320,Guatemala,GTM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,20047,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,320,Guatemala,GTM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1943671,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,324,Guinea,GIN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2199,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,328,Guyana,GUY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,9602,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,328,Guyana,GUY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2976172,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,332,Haiti,HTI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1368903,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,332,Haiti,HTI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,292096,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,340,Honduras,HND,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,413651,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,340,Honduras,HND,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1793210,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,12615654,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,11051657,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,348,Hungary,HUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3619385,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,348,Hungary,HUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1308996,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,352,Iceland,ISL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,54923,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,352,Iceland,ISL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,622218,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,356,"India, excl. Sikkim",IND,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,24625052,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,356,"India, excl. Sikkim",IND,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,20319060,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,360,Indonesia,IDN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,47826,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,360,Indonesia,IDN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3946078,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,364,Iran,IRN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,598282,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,364,Iran,IRN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2964593,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,368,Iraq,IRQ,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1268847,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,372,Ireland,IRL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4686169,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,372,Ireland,IRL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4652350,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,376,Israel,ISR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,8049011,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,376,Israel,ISR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5902940,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,381,Italy,ITA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,51835636,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,381,Italy,ITA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,21545200,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,653552,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1905167,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,388,Jamaica,JAM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,26788,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,388,Jamaica,JAM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,11502821,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,392,Japan,JPN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,290395712,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,392,Japan,JPN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,60445688,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,400,Jordan,JOR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,56733,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,404,Kenya,KEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,517981,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,404,Kenya,KEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,389270,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,410,Rep. of Korea,KOR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,10029952,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,410,Rep. of Korea,KOR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1275337,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,414,Kuwait,KWT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,126583,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,422,Lebanon,LBN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,44294,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,422,Lebanon,LBN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3512855,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,430,Liberia,LBR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,504,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,430,Liberia,LBR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,182913,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,434,Libya,LBY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,34213,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,450,Madagascar,MDG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1100,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,454,Malawi,MWI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,89619,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,458,Malaysia,MYS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,16250554,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,458,Malaysia,MYS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5818883,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,470,Malta,MLT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,466598,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,470,Malta,MLT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,78987,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,478,Mauritania,MRT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,31302,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,480,Mauritius,MUS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,204217,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,484,Mexico,MEX,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5354165,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,484,Mexico,MEX,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,19988224,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,490,"Other Asia, nes",,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,32409088,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,490,"Other Asia, nes",,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,8224971,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,504,Morocco,MAR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,23791,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,504,Morocco,MAR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,534339,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,508,Mozambique,MOZ,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,103612,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,508,Mozambique,MOZ,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,222777,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,528,Netherlands,NLD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,20526982,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,528,Netherlands,NLD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,26757744,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,532,Neth. Antilles and Aruba,ANT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,658606,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,540,New Caledonia,NCL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,691,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,540,New Caledonia,NCL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,235210,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,554,New Zealand,NZL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,930774,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,554,New Zealand,NZL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,9601820,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,558,Nicaragua,NIC,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,598876,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,566,Nigeria,NGA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,373390,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,566,Nigeria,NGA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1123452,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,579,Norway,NOR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,61113872,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,579,Norway,NOR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4278190,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,586,Pakistan,PAK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,7493559,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,586,Pakistan,PAK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4277247,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,590,"Fmr Panama, excl.Canal Zone",PAN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,504,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,590,"Fmr Panama, excl.Canal Zone",PAN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4408311,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,600,Paraguay,PRY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,104804,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,604,Peru,PER,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,266024,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,604,Peru,PER,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,11933589,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,608,Philippines,PHL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3891920,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,608,Philippines,PHL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4242928,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,616,Poland,POL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,10770237,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,616,Poland,POL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2466681,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,620,Portugal,PRT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6016897,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,620,Portugal,PRT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,8746504,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,624,Guinea-Bissau,GNB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,7251,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,626,Timor-Leste,TLS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2785,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,634,Qatar,QAT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,31512,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,642,Romania,ROU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2827343,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,642,Romania,ROU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,19177,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,658,"Saint Kitts, Nevis and Anguilla",KNA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3645,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,658,"Saint Kitts, Nevis and Anguilla",KNA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2329257,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,666,Saint Pierre and Miquelon,SPM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,761063,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,682,Saudi Arabia,SAU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1047644,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,686,Senegal,SEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,515742,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,690,Seychelles,SYC,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,612531,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,694,Sierra Leone,SLE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,13860,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,702,Singapore,SGP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3535647,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,702,Singapore,SGP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3485758,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,711,So. African Customs Union,ZAF,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,10431623,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,711,So. African Customs Union,ZAF,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,10388458,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,720,Fmr Dem. Yemen,YMD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3601,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,724,Spain,ESP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,17901592,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,724,Spain,ESP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,10966964,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,736,Fmr Sudan,SDN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,79152,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,740,Suriname,SUR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,269580,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,752,Sweden,SWE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,28870308,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,752,Sweden,SWE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,11961665,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,757,Switzerland,CHE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,10715587,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,757,Switzerland,CHE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6121701,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,760,Syria,SYR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,8438,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,760,Syria,SYR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,49693,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,764,Thailand,THA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1525294,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,764,Thailand,THA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5444133,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,768,Togo,TGO,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,145352,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,780,Trinidad and Tobago,TTO,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,20777,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,780,Trinidad and Tobago,TTO,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6899119,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,784,United Arab Emirates,ARE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,124681,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,788,Tunisia,TUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6117,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,788,Tunisia,TUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,38604,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,792,Turkey,TUR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,75742,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,792,Turkey,TUR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4621839,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,800,Uganda,UGA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,277235,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,810,Fmr USSR,SUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,8646207,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,810,Fmr USSR,SUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4834058,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,818,Egypt,EGY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,343453,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,818,Egypt,EGY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1445875,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,826,United Kingdom,GBR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,244907792,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,826,United Kingdom,GBR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,458459264,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1518585,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,759217,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,841,USA (before 1981),USA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1605327232,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,841,USA (before 1981),USA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2673497088,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,849,US Misc. Pacific Isds,,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,130628,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,850,US Virgin Isds,VIR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,103700,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,858,Uruguay,URY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,122917,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,858,Uruguay,URY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1952817,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,862,Venezuela,VEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,20282768,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,868,Fmr Rep. of Vietnam,VNM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1449,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,868,Fmr Rep. of Vietnam,VNM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1343119,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,882,Samoa,WSM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,44647,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,890,Fmr Yugoslavia,YUG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2540356,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,890,Fmr Yugoslavia,YUG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,761410,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,894,Zambia,ZMB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,689,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,894,Zambia,ZMB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,271206,,,0
+S1,1972,1972,1972,1,0,1,Import,124,Canada,CAN,899,"Areas, nes",,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,79595,,,0
+S1,1972,1972,1972,1,0,2,Export,124,Canada,CAN,899,"Areas, nes",,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,121401,,,0

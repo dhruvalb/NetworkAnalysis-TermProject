@@ -1,0 +1,966 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6003955449,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10874526700,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,4,Afghanistan,AFG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,53226,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,69101,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,24,Angola,AGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,27704333,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,28,Antigua and Barbuda,ATG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,380549,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,31,Azerbaijan,AZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15157,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,31,Azerbaijan,AZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1645182,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17519293,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,489964,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6904136,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,52486106,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,27545082,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9793584,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,44,Bahamas,BHS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21286,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,48,Bahrain,BHR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1218734,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,50,Bangladesh,BGD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2483334,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,50,Bangladesh,BGD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,59598,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,51,Armenia,ARM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1041,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,51,Armenia,ARM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,778978,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,52,Barbados,BRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,860227,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,56,Belgium,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,180132392,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,56,Belgium,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,67441158,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,68,Bolivia (Plurinational State of),BOL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1758654,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,68,Bolivia (Plurinational State of),BOL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10892,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,70,Bosnia Herzegovina,BIH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,453667,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,70,Bosnia Herzegovina,BIH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,216027,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,72,Botswana,BWA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,23488281,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,540543681,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,146368353,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,84,Belize,BLZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,37501,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,84,Belize,BLZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,175114,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,96,Brunei Darussalam,BRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,142121,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3505647,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4156980,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,104,Myanmar,MMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,152389,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,104,Myanmar,MMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,169017,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,108,Burundi,BDI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,113308,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,112,Belarus,BLR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1046139,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,112,Belarus,BLR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,103693669,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,116,Cambodia,KHM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,761425,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,120,Cameroon,CMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,63265,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,120,Cameroon,CMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,481600,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,52936445,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,82842901,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4329497,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20542,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,53942595,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,198123,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,131267830,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,419649780,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,37030648,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,939007,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,174,Comoros,COM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,69794,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,178,Congo,COG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5213,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,178,Congo,COG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,26976374,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,180,Dem. Rep. of the Congo,COD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,166935,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,180,Dem. Rep. of the Congo,COD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,24803796,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,184,Cook Isds,COK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11314,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,47077793,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,97925,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,191,Croatia,HRV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2357618,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,191,Croatia,HRV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3097495,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,192,Cuba,CUB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,810679,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1707428,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2711670,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,203,Czechia,CZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15720533,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,203,Czechia,CZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,57377146,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,204,Benin,BEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,28556,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,605963714,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,812863667,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,212,Dominica,DMA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,24255,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6291117,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,37656919,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,42558925,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2743,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,222,El Salvador,SLV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1863830,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,226,Equatorial Guinea,GNQ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,541533,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,231,Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2818117,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,231,Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,31401,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,233,Estonia,EST,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,28145796,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,233,Estonia,EST,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,26154802,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,234,Faeroe Isds,FRO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,30447758,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,234,Faeroe Isds,FRO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10060508,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,242,Fiji,FJI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1655,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,57083717,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,231906997,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,236988533,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1006491312,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,258,French Polynesia,PYF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,37589,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,260,Fr. South Antarctic Terr.,ATF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3348,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,266,Gabon,GAB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,525,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,266,Gabon,GAB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4075532,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,268,Georgia,GEO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,77401,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,268,Georgia,GEO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10015284,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,270,Gambia,GMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,96980,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,275,State of Palestine,PSE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,148190,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,276,Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,439535460,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,276,Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,409320335,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,295425,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5351162,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21300675,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21438397,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,304,Greenland,GRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15210644,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,304,Greenland,GRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,30848,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,308,Grenada,GRD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,184521,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,308,Grenada,GRD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,706849,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,316,Guam,GUM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,792992,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,320,Guatemala,GTM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21649959,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,320,Guatemala,GTM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,198386,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,324,Guinea,GIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10024,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,324,Guinea,GIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,113664,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,332,Haiti,HTI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1304,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,332,Haiti,HTI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1805379,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,340,Honduras,HND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5171687,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,573215,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,126940970,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21142958,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,214266,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,125712538,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9425420,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7435932,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,22324009,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2401139,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,574552,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,368,Iraq,IRQ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1326,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,36608571,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15018737,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,24897315,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,77892315,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,227257734,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,304034445,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6912821,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2474711,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,388,Jamaica,JAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,29126,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,388,Jamaica,JAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21146153,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4680057,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,450183679,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,398,Kazakhstan,KAZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13222219,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,398,Kazakhstan,KAZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,30237565,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,102363,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2964601,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10025745,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1130013,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6531374,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,115974202,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,414,Kuwait,KWT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3152526,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,417,Kyrgyzstan,KGZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5589,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,417,Kyrgyzstan,KGZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,394617,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,418,Lao People's Dem. Rep.,LAO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,68525,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1101806,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1148276,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,428,Latvia,LVA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,22882102,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,428,Latvia,LVA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,97872511,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,430,Liberia,LBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2097,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,430,Liberia,LBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,57932,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,434,Libya,LBY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21599,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,440,Lithuania,LTU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,64714033,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,440,Lithuania,LTU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,280517608,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,442,Luxembourg,LUX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11753906,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,442,Luxembourg,LUX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1255647,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,446,"China, Macao SAR",MAC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,231056,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,450,Madagascar,MDG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,939563,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,454,Malawi,MWI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7659,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2714875,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18240813,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,462,Maldives,MDV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,93887,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,466,Mali,MLI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,57138,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,466,Mali,MLI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,81841,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9105,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,406035,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,478,Mauritania,MRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,81841,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,480,Mauritius,MUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,52439,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9036469,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15545282,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1276797,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,85637334,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,498,Rep. of Moldova,MDA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,110171,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,498,Rep. of Moldova,MDA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2622473,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,499,Montenegro,MNE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,131071,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,34337582,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6878830,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,508,Mozambique,MOZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,266165,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,508,Mozambique,MOZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2044,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,512,Oman,OMN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4756,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,512,Oman,OMN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,152508,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,516,Namibia,NAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,31234626,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,516,Namibia,NAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,178656,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,524,Nepal,NPL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,73542,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,524,Nepal,NPL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,30680,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,379922911,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,380043098,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,531,Curaçao,CUW,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,197721,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20273149,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,85513,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,558,Nicaragua,NIC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6001631,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,562,Niger,NER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,647,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,62463,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,62601447,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10465465,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1971,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,591,Panama,PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4532929,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,591,Panama,PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1785122,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,598,Papua New Guinea,PNG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,136804,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,600,Paraguay,PRY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,29681,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,179130052,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7950,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4767529,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16216110,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,126896799,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,974083039,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17510471,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,326466117,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,634,Qatar,QAT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2872177,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1081921,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,22412365,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,643,Russian Federation,RUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,57781816,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,643,Russian Federation,RUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1156193759,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,646,Rwanda,RWA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,154875,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,646,Rwanda,RWA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,93101,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,674,San Marino,SMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4333184,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,682,Saudi Arabia,SAU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,145027,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,682,Saudi Arabia,SAU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10017286,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,686,Senegal,SEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3625112,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,688,Serbia,SRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12315402,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,688,Serbia,SRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2751326,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,690,Seychelles,SYC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,665158,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,699,India,IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,34002691,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,699,India,IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,268441,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2800398,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,60073526,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,703,Slovakia,SVK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5300566,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,703,Slovakia,SVK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,168839,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,704,Viet Nam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,31930913,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,704,Viet Nam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,165603175,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,705,Slovenia,SVN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,780646,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,705,Slovenia,SVN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,39363,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,706,Somalia,SOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,238022,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,710,South Africa,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,58556650,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,710,South Africa,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,26262051,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,716,Zimbabwe,ZWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3383161,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,364453415,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,341732220,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,729,Sudan,SDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,436235,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,740,Suriname,SUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,35355,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,748,Eswatini,SWZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5690858,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,594209779,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,598252059,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,87629444,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,36124929,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,760,Syria,SYR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,83105,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,69177386,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,95117073,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,768,Togo,TGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3919,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,768,Togo,TGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,90384,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,780,Trinidad and Tobago,TTO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,821067,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,784,United Arab Emirates,ARE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,302373,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,784,United Arab Emirates,ARE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21835160,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,982277,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1094974,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,45721721,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,74382642,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,800,Uganda,UGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,422201,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,804,Ukraine,UKR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19180568,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,804,Ukraine,UKR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,238477775,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,807,North Macedonia,MKD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,510301,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,807,North Macedonia,MKD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,39856,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8535454,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,37439566,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,317021579,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,498184359,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,989051,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,27371,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,842,USA,USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,156285303,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,842,USA,USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,393377329,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,854,Burkina Faso,BFA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,40009,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,854,Burkina Faso,BFA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,411147,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,31804334,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7727243,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,860,Uzbekistan,UZB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,796333,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,860,Uzbekistan,UZB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,990514,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2652,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2721810,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,887,Yemen,YEM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,25805,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,894,Zambia,ZMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,183876,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4973483159,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2250483645,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,4,Afghanistan,AFG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,502,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,4,Afghanistan,AFG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,341,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,8,Albania,ALB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1256,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,8,Albania,ALB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,77399,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,24,Angola,AGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,200,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,24,Angola,AGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,54720,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10690943,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,151952,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,24483453,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2938264,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2803972,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1135495,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,44,Bahamas,BHS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,758046,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,44,Bahamas,BHS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,638,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,48,Bahrain,BHR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,23637977,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,50,Bangladesh,BGD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,364,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,50,Bangladesh,BGD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17585,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,56,Belgium,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,24466655,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,56,Belgium,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,55347885,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,68,Bolivia (Plurinational State of),BOL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,21770,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,70,Bosnia Herzegovina,BIH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,27650,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,70,Bosnia Herzegovina,BIH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1703,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,72,Botswana,BWA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,299283724,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,720146351,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,25063759,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8081931,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5297119,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,104,Myanmar,MMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,87621,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,108,Burundi,BDI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,341,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,112,Belarus,BLR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,33936,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,112,Belarus,BLR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,36403,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,116,Cambodia,KHM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,138633,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,120,Cameroon,CMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,47488,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,120,Cameroon,CMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2351,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1481942766,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2935472,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,378269,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,934650,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5597436,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,281344,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,28965733,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,175854700,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1429983,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,439266,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,178,Congo,COG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1551792,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,178,Congo,COG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7001,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,180,Dem. Rep. of the Congo,COD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,639,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,188,Costa Rica,CRI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,709827,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,191,Croatia,HRV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,683894,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,191,Croatia,HRV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3546,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,221757,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,447614,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,203,Czechia,CZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2888280,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,203,Czechia,CZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3789387,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,204,Benin,BEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,204,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,117568290,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,130532992,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,218,Ecuador,ECU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1060735,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,218,Ecuador,ECU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,99229,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,222,El Salvador,SLV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3372,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,231,Ethiopia,ETH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13325213,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,233,Estonia,EST,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,49689037,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,233,Estonia,EST,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8607490,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,234,Faeroe Isds,FRO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3849506,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,234,Faeroe Isds,FRO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1908722,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,50271724,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,71849050,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,33064677,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,55049232,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,266,Gabon,GAB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,111027319,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,266,Gabon,GAB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,483921,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,268,Georgia,GEO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14805,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,270,Gambia,GMB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8448,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,276,Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,152989976,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,276,Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,401320141,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4246305,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16800,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1339686,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,174794,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,304,Greenland,GRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1894,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,304,Greenland,GRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15313,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,320,Guatemala,GTM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,197143,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,324,Guinea,GIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,596,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,340,Honduras,HND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2787,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1166427,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10548836,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,703776,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1180977,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,352,Iceland,ISL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2960936,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,352,Iceland,ISL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5177024,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17561927,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7979055,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,54020,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16690,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,368,Iraq,IRQ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3747,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,130758523,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2454563,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2988050,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,608489,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,20244641,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,45089870,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4252,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8389,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,388,Jamaica,JAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,729,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,895994,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,61831128,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,398,Kazakhstan,KAZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,60530,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,398,Kazakhstan,KAZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,326,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,400,Jordan,JOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,39314,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,41432986,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11255,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1992596,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8916658,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,414,Kuwait,KWT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,211,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,418,Lao People's Dem. Rep.,LAO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3785,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,67669,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,428,Latvia,LVA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,23148977,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,428,Latvia,LVA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9440952,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,430,Liberia,LBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2240,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,434,Libya,LBY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,341,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,440,Lithuania,LTU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5757279,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,440,Lithuania,LTU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6279878,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,442,Luxembourg,LUX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,113914,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,442,Luxembourg,LUX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,160686,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,450,Madagascar,MDG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,36046,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1820266,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2630253,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,470,Malta,MLT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8312,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,470,Malta,MLT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10072,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,478,Mauritania,MRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6567216,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,96497,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1233576,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3986844,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17007020,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,498,Rep. of Moldova,MDA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1048,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16412709,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,955331,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,508,Mozambique,MOZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5693215,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,508,Mozambique,MOZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,852,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,516,Namibia,NAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,34523,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,524,Nepal,NPL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12018,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,524,Nepal,NPL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,104635,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,232882917,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,241273203,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6532714,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,448505,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,558,Nicaragua,NIC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,435,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,558,Nicaragua,NIC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,77173,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,59187,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,48591,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,197500,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3721853,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,591,Panama,PAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,64873,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,600,Paraguay,PRY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,77772,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10002978,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1471,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,194934,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,304156,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13726219,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,53385260,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14686771,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8004027,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,634,Qatar,QAT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10479,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,271393,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,167188,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,643,Russian Federation,RUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17081373,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,643,Russian Federation,RUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14003023,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,682,Saudi Arabia,SAU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2097998,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,682,Saudi Arabia,SAU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,477412,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,686,Senegal,SEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1083,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,686,Senegal,SEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2725,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,688,Serbia,SRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2892057,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,688,Serbia,SRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1016644,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,694,Sierra Leone,SLE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5451,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,699,India,IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7160889,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,699,India,IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,42874905,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,41605200,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,150837902,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,703,Slovakia,SVK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1456470,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,703,Slovakia,SVK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1268955,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,704,Viet Nam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1981488,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,704,Viet Nam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3346367,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,705,Slovenia,SVN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1882035,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,705,Slovenia,SVN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,37865013,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,706,Somalia,SOM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3671,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,710,South Africa,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,165421881,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,710,South Africa,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19598,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,716,Zimbabwe,ZWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,262651,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,129002104,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,32744714,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,729,Sudan,SDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,56990,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,740,Suriname,SUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5856400,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,662258439,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,343004511,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,734513,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2004336,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,760,Syria,SYR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5076,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,760,Syria,SYR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,620954,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1629769,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,21572941,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,768,Togo,TGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,920,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,780,Trinidad and Tobago,TTO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,48603,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,784,United Arab Emirates,ARE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,171680,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,784,United Arab Emirates,ARE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,416267,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11812943,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10358086,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9908557,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,800,Uganda,UGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1243240,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,800,Uganda,UGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4627,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,804,Ukraine,UKR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,658636,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,804,Ukraine,UKR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,618767,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,807,North Macedonia,MKD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,194,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,807,North Macedonia,MKD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10269,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9659519,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1462627,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,67393968,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,111149660,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,834,United Rep. of Tanzania,TZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3009432,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,834,United Rep. of Tanzania,TZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12659,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,842,USA,USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,104599763,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,842,USA,USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16473774,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,858,Uruguay,URY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5712428,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,858,Uruguay,URY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,416777,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,860,Uzbekistan,UZB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1272,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,862,Venezuela,VEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,109720,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,862,Venezuela,VEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,48680,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,887,Yemen,YEM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,567506,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,894,Zambia,ZMB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1838,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6359296722,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,105055365063,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,12,Algeria,DZA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,17020,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,24,Angola,AGO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,116203110,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,31,Azerbaijan,AZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,78398,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,32,Argentina,ARG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,48041558,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6260,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,62834,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,66717,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,42450781,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,44,Bahamas,BHS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,13296625,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,56,Belgium,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,250451151,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,56,Belgium,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7154229049,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,76,Brazil,BRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,11781,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,76,Brazil,BRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,124204241,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,100,Bulgaria,BGR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,58469,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,100,Bulgaria,BGR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,298,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,120,Cameroon,CMR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,108013942,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,48638650,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1017748859,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,378660,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,33994123,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,170,Colombia,COL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7252019,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,178,Congo,COG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,143172,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,191,Croatia,HRV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,51486,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,191,Croatia,HRV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,779,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,196,Cyprus,CYP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,28301219,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,203,Czechia,CZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4769440,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,203,Czechia,CZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,54680,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,698063496,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3159414275,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,218,Ecuador,ECU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4348,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,226,Equatorial Guinea,GNQ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,578416756,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,233,Estonia,EST,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,70188815,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,233,Estonia,EST,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,10690687,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,234,Faeroe Isds,FRO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,139094557,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,61262518,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,573859650,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,116660168,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9403842134,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,266,Gabon,GAB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,10219,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,276,Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,56178707,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,276,Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,22004644001,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,288,Ghana,GHA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,39126,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,292,Gibraltar,GIB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,406491414,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,300,Greece,GRC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7253,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,304,Greenland,GRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,19974331,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,320,Guatemala,GTM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,26106061,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,344,"China, Hong Kong SAR",HKG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,864782,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,344,"China, Hong Kong SAR",HKG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,15929561,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,348,Hungary,HUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,15163,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,348,Hungary,HUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1057,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,352,Iceland,ISL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,983586,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,352,Iceland,ISL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,391420722,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,360,Indonesia,IDN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,962,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,372,Ireland,IRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,842947,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,372,Ireland,IRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1213812123,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,376,Israel,ISR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5604,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,16359367,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,486950248,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,743736,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,226283246,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,410,Rep. of Korea,KOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,564305,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,410,Rep. of Korea,KOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,127196355,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,428,Latvia,LVA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,33221911,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,428,Latvia,LVA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,26537,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,430,Liberia,LBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,192,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,434,Libya,LBY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,31541670,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,440,Lithuania,LTU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,25587,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,440,Lithuania,LTU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,24679725,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,442,Luxembourg,LUX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,484327,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,458,Malaysia,MYS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2754,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,458,Malaysia,MYS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,42956918,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,470,Malta,MLT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,47177827,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,484,Mexico,MEX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1750,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,484,Mexico,MEX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,52050246,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,490,"Other Asia, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,17950,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,490,"Other Asia, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,447070920,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,504,Morocco,MAR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,49748658,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,508,Mozambique,MOZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,47460,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,512,Oman,OMN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4522,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,477998939,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,12971594593,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,531,Curaçao,CUW,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8500,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,554,New Zealand,NZL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,23016,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,566,Nigeria,NGA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,304885635,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,566,Nigeria,NGA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,480203048,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,591,Panama,PAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,30591,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,608,Philippines,PHL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6688,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,96504197,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,648565806,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,620,Portugal,PRT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,10772,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,620,Portugal,PRT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,57069010,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,634,Qatar,QAT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,31766,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,634,Qatar,QAT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,31930,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,17406,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,643,Russian Federation,RUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,547227742,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,643,Russian Federation,RUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1019392,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,682,Saudi Arabia,SAU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,35934576,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,688,Serbia,SRB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,727,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,694,Sierra Leone,SLE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,32304,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,699,India,IND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,48612846,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,699,India,IND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,16211624,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,702,Singapore,SGP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,602,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,702,Singapore,SGP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,335722457,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,703,Slovakia,SVK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,364,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,705,Slovenia,SVN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,59891,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,710,South Africa,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,13545,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,710,South Africa,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,62512035,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8264415,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,847116560,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1599829665,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4584749713,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,354208,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,85745199,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,764,Thailand,THA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,53295,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,764,Thailand,THA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,15931,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,784,United Arab Emirates,ARE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,56638,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,508502,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,408427242,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,804,Ukraine,UKR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8945,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,818,Egypt,EGY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,318360,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,818,Egypt,EGY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1265,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,838953243,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,33117077280,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,834,United Rep. of Tanzania,TZA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,793,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,834,United Rep. of Tanzania,TZA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,12477,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,842,USA,USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,349568377,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,842,USA,USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3889625688,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,858,Uruguay,URY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,41062,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,862,Venezuela,VEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,37649891,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,887,Yemen,YEM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,27446476,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12992191102,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10607050445,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,4,Afghanistan,AFG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,108081,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,4,Afghanistan,AFG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,51257,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,8,Albania,ALB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,137190,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,8,Albania,ALB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,214902,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,12,Algeria,DZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3102467,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,12,Algeria,DZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,24284057,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,20,Andorra,AND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,492738,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,24,Angola,AGO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,508788,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,24,Angola,AGO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,44710813,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,28,Antigua and Barbuda,ATG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9784,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,31,Azerbaijan,AZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,109622,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,31,Azerbaijan,AZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6033995,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,32,Argentina,ARG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2110622,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,32,Argentina,ARG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1805479,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,36,Australia,AUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5551659,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,36,Australia,AUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,26906098,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,40,Austria,AUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,131601037,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,40,Austria,AUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,99219676,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,44,Bahamas,BHS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1702,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,44,Bahamas,BHS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2659936,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,48,Bahrain,BHR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14001518,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,48,Bahrain,BHR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,355667,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,50,Bangladesh,BGD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,24654798,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,50,Bangladesh,BGD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1410814,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,51,Armenia,ARM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1853,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,52,Barbados,BRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,34073,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,56,Belgium,BEL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,214091528,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,56,Belgium,BEL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,362333532,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,60,Bermuda,BMU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,374565,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,64,Bhutan,BTN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,49602,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,68,Bolivia (Plurinational State of),BOL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,258427,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,68,Bolivia (Plurinational State of),BOL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,167106,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,70,Bosnia Herzegovina,BIH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5688335,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,70,Bosnia Herzegovina,BIH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,319137,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,72,Botswana,BWA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8124,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,76,Brazil,BRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,30550462,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,76,Brazil,BRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,48902199,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,90,Solomon Isds,SLB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,117385,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,92,Br. Virgin Isds,VGB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2171,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,96,Brunei Darussalam,BRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1477545,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,100,Bulgaria,BGR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13234365,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,100,Bulgaria,BGR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1391893,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,104,Myanmar,MMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,37269,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,104,Myanmar,MMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,226120,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,112,Belarus,BLR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2322717,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,112,Belarus,BLR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,72429,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,116,Cambodia,KHM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,161824,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,116,Cambodia,KHM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,764,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,120,Cameroon,CMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,32976,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,120,Cameroon,CMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1143996,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,124,Canada,CAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,120228179,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,124,Canada,CAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,67286045,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,132,Cabo Verde,CPV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19226,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,136,Cayman Isds,CYM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,27271,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,144,Sri Lanka,LKA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3738067,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,144,Sri Lanka,LKA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,365924,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,148,Chad,TCD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6164,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,152,Chile,CHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4158439,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,152,Chile,CHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1612172,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,156,China,CHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,919967890,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,156,China,CHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,464341541,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,170,Colombia,COL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,260747,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,170,Colombia,COL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,996757,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,178,Congo,COG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2579588,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,178,Congo,COG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4081825,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,180,Dem. Rep. of the Congo,COD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,21337,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,180,Dem. Rep. of the Congo,COD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5345,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,188,Costa Rica,CRI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,116364,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,188,Costa Rica,CRI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,141669,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,191,Croatia,HRV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10357112,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,191,Croatia,HRV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1692439,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,192,Cuba,CUB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5927,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,192,Cuba,CUB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,308852,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,196,Cyprus,CYP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,296813,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,196,Cyprus,CYP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4673160,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,203,Czechia,CZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,201087977,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,203,Czechia,CZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,48819200,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,204,Benin,BEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,56149,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,208,Denmark,DNK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,838527789,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,208,Denmark,DNK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,461330671,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,212,Dominica,DMA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,25550,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,214,Dominican Rep.,DOM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7239,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,214,Dominican Rep.,DOM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,68609,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,218,Ecuador,ECU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1236227,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,218,Ecuador,ECU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,103543,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,222,El Salvador,SLV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,112281,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,222,El Salvador,SLV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,59103,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,226,Equatorial Guinea,GNQ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,77707,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,231,Ethiopia,ETH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3893,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,231,Ethiopia,ETH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,159835,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,232,Eritrea,ERI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6231,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,233,Estonia,EST,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,125907321,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,233,Estonia,EST,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,25453375,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,234,Faeroe Isds,FRO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,804814,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,234,Faeroe Isds,FRO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4490782,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,242,Fiji,FJI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1891,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,246,Finland,FIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,639185463,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,246,Finland,FIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,247150508,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,251,France,FRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,294222934,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,251,France,FRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,324676223,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,258,French Polynesia,PYF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,30902,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,258,French Polynesia,PYF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4054,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,262,Djibouti,DJI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,179,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,266,Gabon,GAB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,21333,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,266,Gabon,GAB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,425819,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,268,Georgia,GEO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5263,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,268,Georgia,GEO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13229,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,270,Gambia,GMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1342,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,270,Gambia,GMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8397,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,276,Germany,DEU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1638994583,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,276,Germany,DEU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1694696640,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,288,Ghana,GHA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,38963,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,288,Ghana,GHA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1982681,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,292,Gibraltar,GIB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,367080,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,300,Greece,GRC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7493332,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,300,Greece,GRC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,20585644,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,304,Greenland,GRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,23671,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,304,Greenland,GRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,709822,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,308,Grenada,GRD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5128,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,316,Guam,GUM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1559,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,320,Guatemala,GTM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3285,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,320,Guatemala,GTM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,531034,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,324,Guinea,GIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,27546,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,332,Haiti,HTI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3098,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,332,Haiti,HTI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7868,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,340,Honduras,HND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,771,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,340,Honduras,HND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,67444,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15925883,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,32502293,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,348,Hungary,HUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,53742973,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,348,Hungary,HUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,26910351,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,352,Iceland,ISL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3546723,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,352,Iceland,ISL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14085721,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,360,Indonesia,IDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14415834,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,360,Indonesia,IDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12999956,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,364,Iran,IRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4016591,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,364,Iran,IRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1303023,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,368,Iraq,IRQ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1018,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,368,Iraq,IRQ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,765215,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,372,Ireland,IRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,32697197,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,372,Ireland,IRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7321470,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,376,Israel,ISR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12430845,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,376,Israel,ISR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16362293,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,381,Italy,ITA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,434793741,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,381,Italy,ITA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,185836943,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,21412,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,184784,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,388,Jamaica,JAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1273,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,388,Jamaica,JAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,64633,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,392,Japan,JPN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,334983408,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,392,Japan,JPN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,152129374,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,398,Kazakhstan,KAZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16330,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,398,Kazakhstan,KAZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1691517,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,400,Jordan,JOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5356,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,400,Jordan,JOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,341144,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,404,Kenya,KEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,61174,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,404,Kenya,KEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1037145,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,410,Rep. of Korea,KOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,43737667,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,410,Rep. of Korea,KOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,218823618,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,414,Kuwait,KWT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3045,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,414,Kuwait,KWT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2495054,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,417,Kyrgyzstan,KGZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5745,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,417,Kyrgyzstan,KGZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3569,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,418,Lao People's Dem. Rep.,LAO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,151326,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,422,Lebanon,LBN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16001,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,422,Lebanon,LBN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,935974,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,428,Latvia,LVA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,126784752,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,428,Latvia,LVA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16593138,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,430,Liberia,LBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,991,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,430,Liberia,LBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1756949,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,434,Libya,LBY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,56006,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,440,Lithuania,LTU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,203080653,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,440,Lithuania,LTU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,32158096,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,442,Luxembourg,LUX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,59483029,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,442,Luxembourg,LUX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17007815,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,446,"China, Macao SAR",MAC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13238,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,450,Madagascar,MDG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,36813,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,450,Madagascar,MDG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,29170,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,454,Malawi,MWI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,305,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,458,Malaysia,MYS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15647029,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,458,Malaysia,MYS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,22489831,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,462,Maldives,MDV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1723,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,466,Mali,MLI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4096,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,466,Mali,MLI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,27551,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,470,Malta,MLT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,767273,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,470,Malta,MLT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,854616,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,478,Mauritania,MRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,41374,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,480,Mauritius,MUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16536,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,480,Mauritius,MUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,913130,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,484,Mexico,MEX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6531362,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,484,Mexico,MEX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2692996,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,490,"Other Asia, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,107193706,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,490,"Other Asia, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11700998,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,496,Mongolia,MNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,50728,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,496,Mongolia,MNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19349,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,498,Rep. of Moldova,MDA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,114497,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,499,Montenegro,MNE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,271,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,499,Montenegro,MNE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11547,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,504,Morocco,MAR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,528928,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,504,Morocco,MAR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12142514,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,508,Mozambique,MOZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,457,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,508,Mozambique,MOZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1374540,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,512,Oman,OMN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,115341,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,512,Oman,OMN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3386785,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,516,Namibia,NAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,449506,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,516,Namibia,NAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,140613,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,524,Nepal,NPL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,469783,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,524,Nepal,NPL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,179324,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,528,Netherlands,NLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,464205705,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,528,Netherlands,NLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1671723776,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,531,Curaçao,CUW,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,56933,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,533,Aruba,ABW,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,357,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,540,New Caledonia,NCL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,61644,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,548,Vanuatu,VUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,130928,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,554,New Zealand,NZL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11602349,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,554,New Zealand,NZL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1858144,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,558,Nicaragua,NIC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,580,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,558,Nicaragua,NIC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,176816,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,562,Niger,NER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6902,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,566,Nigeria,NGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,31967,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,566,Nigeria,NGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6777388,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,584,Marshall Isds,MHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1120466,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,586,Pakistan,PAK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,27537466,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,586,Pakistan,PAK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,347959,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,591,Panama,PAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4010499,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,591,Panama,PAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5556091,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,598,Papua New Guinea,PNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,78004,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,600,Paraguay,PRY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2938227,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,604,Peru,PER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12656732,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,604,Peru,PER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1488185,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,608,Philippines,PHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2946240,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,608,Philippines,PHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,484390,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,616,Poland,POL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,703412302,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,616,Poland,POL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,425782470,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,620,Portugal,PRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,56860951,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,620,Portugal,PRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,65854745,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,634,Qatar,QAT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,25369,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,634,Qatar,QAT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9954697,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,642,Romania,ROU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,43097422,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,642,Romania,ROU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14773833,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,643,Russian Federation,RUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,485013560,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,643,Russian Federation,RUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,53056639,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,646,Rwanda,RWA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5733,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,659,Saint Kitts and Nevis,KNA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,72129,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,662,Saint Lucia,LCA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5151,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,670,Saint Vincent and the Grenadines,VCT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5729,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,674,San Marino,SMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,185059,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,682,Saudi Arabia,SAU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,125117,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,682,Saudi Arabia,SAU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3868529,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,686,Senegal,SEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,532208,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,686,Senegal,SEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,159950,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,688,Serbia,SRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1020693,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,688,Serbia,SRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1566385,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,694,Sierra Leone,SLE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,27357,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,699,India,IND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,133379740,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,699,India,IND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,72146213,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,702,Singapore,SGP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8149228,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,702,Singapore,SGP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,86603035,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,703,Slovakia,SVK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,66909124,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,703,Slovakia,SVK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8723176,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,704,Viet Nam,VNM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,29972051,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,704,Viet Nam,VNM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2730817,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,705,Slovenia,SVN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12968750,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,705,Slovenia,SVN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8408513,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,706,Somalia,SOM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6170,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,710,South Africa,ZAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,62429762,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,710,South Africa,ZAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9026006,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,716,Zimbabwe,ZWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7062,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,716,Zimbabwe,ZWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15631,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,724,Spain,ESP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,164114829,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,724,Spain,ESP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,257746360,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,729,Sudan,SDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,531,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,729,Sudan,SDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13246,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,740,Suriname,SUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,233,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,752,Sweden,SWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2639799089,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,752,Sweden,SWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1000682731,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,757,Switzerland,CHE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,150437894,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,757,Switzerland,CHE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,99224116,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,760,Syria,SYR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3864,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,762,Tajikistan,TJK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19576906,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,762,Tajikistan,TJK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10099,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,764,Thailand,THA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,38614761,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,764,Thailand,THA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17568979,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,768,Togo,TGO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,80947,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,772,Tokelau,TKL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1927,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,780,Trinidad and Tobago,TTO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,170931,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,784,United Arab Emirates,ARE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7928300,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,784,United Arab Emirates,ARE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,30557197,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,788,Tunisia,TUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,215243,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,788,Tunisia,TUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3257410,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,792,Turkey,TUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,90728639,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,792,Turkey,TUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,127707853,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,795,Turkmenistan,TKM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,61791,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,800,Uganda,UGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,46025,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,800,Uganda,UGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,331058,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,804,Ukraine,UKR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7853321,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,804,Ukraine,UKR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,18563330,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,807,North Macedonia,MKD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,452275,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,807,North Macedonia,MKD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9895,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,818,Egypt,EGY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7618974,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,818,Egypt,EGY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6141693,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,826,United Kingdom,GBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,755149232,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,826,United Kingdom,GBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1209506857,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,53867,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2012192,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,842,USA,USA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,244884983,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,842,USA,USA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,574676629,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,854,Burkina Faso,BFA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,771,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,858,Uruguay,URY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1723533,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,858,Uruguay,URY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1208338,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,860,Uzbekistan,UZB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,57004,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,862,Venezuela,VEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6016448,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,862,Venezuela,VEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,328189,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,887,Yemen,YEM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,201300,,,0
+S3,2013,2013,2013,1,0,1,Import,579,Norway,NOR,894,Zambia,ZMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,560,,,0
+S3,2013,2013,2013,1,0,2,Export,579,Norway,NOR,894,Zambia,ZMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,29241,,,0

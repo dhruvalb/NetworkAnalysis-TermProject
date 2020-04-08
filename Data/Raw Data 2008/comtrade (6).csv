@@ -1,0 +1,569 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,20936853993,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5780852426,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,4,Afghanistan,AFG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2212,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,8,Albania,ALB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,687328,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,12,Algeria,DZA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,898541846,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,12,Algeria,DZA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8253,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,31,Azerbaijan,AZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3351,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1073,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,153,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,35737,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,48,Bahrain,BHR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,19318,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,52,Barbados,BRB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,423441,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,56,Belgium,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,103832149,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,56,Belgium,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2383222,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,70,Bosnia Herzegovina,BIH,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3474023,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,70,Bosnia Herzegovina,BIH,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,11997332,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,76,Brazil,BRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,69817,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,76,Brazil,BRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,466704,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,100,Bulgaria,BGR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,771,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,100,Bulgaria,BGR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,65427338,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,112,Belarus,BLR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,727328,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,112,Belarus,BLR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,319035,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,207530,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2310,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,144,Sri Lanka,LKA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1487,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,144,Sri Lanka,LKA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1920,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,152,Chile,CHL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,25,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,152,Chile,CHL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5123,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,627540,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,120548,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,170,Colombia,COL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2068,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,180,Dem. Rep. of the Congo,COD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,29607,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,191,Croatia,HRV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8048891,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,191,Croatia,HRV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,92879811,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,196,Cyprus,CYP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,196703,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,196,Cyprus,CYP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,270910,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,203,Czechia,CZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,706846950,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,203,Czechia,CZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,624705868,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,375005,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,15948334,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,231,Ethiopia,ETH,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,116122,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,233,Estonia,EST,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,977527,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,233,Estonia,EST,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1021917,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,672838,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,194273,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,38203925,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,54302557,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,266,Gabon,GAB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8684,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,268,Georgia,GEO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,15,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,268,Georgia,GEO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,49663,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,276,Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6392276091,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,276,Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1419136199,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5547,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,300,Greece,GRC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,129905,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,300,Greece,GRC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1464910,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,320,Guatemala,GTM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,340,Honduras,HND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,338,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,344,"China, Hong Kong SAR",HKG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,97,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,344,"China, Hong Kong SAR",HKG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,14837,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,348,Hungary,HUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,656375855,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,699836065,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,352,Iceland,ISL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,24436,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,360,Indonesia,IDN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8156,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,364,Iran,IRN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,190105143,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,364,Iran,IRN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,181814,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,368,Iraq,IRQ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1093128241,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,368,Iraq,IRQ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,90,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,372,Ireland,IRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,15392,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,372,Ireland,IRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,333920,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,376,Israel,ISR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4724,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,695999585,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,53881547,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,384,Côte d'Ivoire,CIV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,125,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,947038,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,33144,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,398,Kazakhstan,KAZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1552238277,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,398,Kazakhstan,KAZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3775,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,400,Jordan,JOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,843,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,408,Dem. People's Rep. of Korea,PRK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7780,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,410,Rep. of Korea,KOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,35054906,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,410,Rep. of Korea,KOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,30535,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,414,Kuwait,KWT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,797,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,417,Kyrgyzstan,KGZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3294,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,422,Lebanon,LBN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,96339,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,428,Latvia,LVA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2534145,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,428,Latvia,LVA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,191023,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,434,Libya,LBY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,658859995,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,434,Libya,LBY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3733,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,440,Lithuania,LTU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2351294,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,440,Lithuania,LTU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1145787,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,442,Luxembourg,LUX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,15011,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,442,Luxembourg,LUX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,563787,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,458,Malaysia,MYS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2050846,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,458,Malaysia,MYS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,54619,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,470,Malta,MLT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,34501,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,484,Mexico,MEX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7255242,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,484,Mexico,MEX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4147,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,490,"Other Asia, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2032,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,490,"Other Asia, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,823350,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,496,Mongolia,MNG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,593,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,498,Rep. of Moldova,MDA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1202038,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,499,Montenegro,MNE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,162934,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,504,Morocco,MAR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7295,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,512,Oman,OMN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4812,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,67519460,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,21672830,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,540,New Caledonia,NCL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,65,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,554,New Zealand,NZL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1690,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,558,Nicaragua,NIC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,42507,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,562,Niger,NER,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,173,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,566,Nigeria,NGA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,259152067,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,566,Nigeria,NGA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,23323,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,579,Norway,NOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,151684,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,579,Norway,NOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,48078,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,586,Pakistan,PAK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,808,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,586,Pakistan,PAK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,70814,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,591,Panama,PAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,126,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,600,Paraguay,PRY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,106,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,604,Peru,PER,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,477,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,608,Philippines,PHL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1571,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,667474073,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,46876432,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,620,Portugal,PRT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6616,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,620,Portugal,PRT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,46151,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,634,Qatar,QAT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,837,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7975054,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,93548998,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,643,Russian Federation,RUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,250073238,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,643,Russian Federation,RUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,18246703,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,682,Saudi Arabia,SAU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,360460186,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,682,Saudi Arabia,SAU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7102,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,688,Serbia,SRB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,70954,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,688,Serbia,SRB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,10859615,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,690,Seychelles,SYC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2576,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,699,India,IND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,15017,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,699,India,IND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,65979,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,702,Singapore,SGP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,14774,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,703,Slovakia,SVK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1008703475,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,703,Slovakia,SVK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,348265433,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,704,Viet Nam,VNM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,326,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,704,Viet Nam,VNM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,10,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,705,Slovenia,SVN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,21984607,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,705,Slovenia,SVN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,184629622,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,710,South Africa,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1920267,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,710,South Africa,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,46730,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,716,Zimbabwe,ZWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,50,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3177454,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,259242,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,736,Fmr Sudan,SDN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,11659,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3588941,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,275427,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,33964235,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,117091433,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,760,Syria,SYR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,130499177,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,760,Syria,SYR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7573,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,764,Thailand,THA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2614,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,764,Thailand,THA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6318,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,768,Togo,TGO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,611,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,784,United Arab Emirates,ARE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,101,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,784,United Arab Emirates,ARE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,435095,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,788,Tunisia,TUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,85045730,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,788,Tunisia,TUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3315,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3251853,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4817530,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,795,Turkmenistan,TKM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,48587267,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,804,Ukraine,UKR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,18157132,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,804,Ukraine,UKR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,15781685,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,807,North Macedonia,MKD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,44,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,807,North Macedonia,MKD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3183841,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,818,Egypt,EGY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,56322971,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,818,Egypt,EGY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4151,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7475394,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,34664160,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,834,United Rep. of Tanzania,TZA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,57,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,839,Special Categories,,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4269027588,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,839,Special Categories,,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1829217316,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,842,USA,USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,113095091,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,842,USA,USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,383271,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,858,Uruguay,URY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2692,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,860,Uzbekistan,UZB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,862,Venezuela,VEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,466538422,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,862,Venezuela,VEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,662,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,887,Yemen,YEM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,235,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,29562849119,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,40000913738,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,4,Afghanistan,AFG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,40927,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,4,Afghanistan,AFG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,453700,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,8,Albania,ALB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1492676,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,8,Albania,ALB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4047224,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,12,Algeria,DZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,190442,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,12,Algeria,DZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,63242112,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,20,Andorra,AND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2720,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,20,Andorra,AND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,98753,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,24,Angola,AGO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,26074,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,24,Angola,AGO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,18004353,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,28,Antigua and Barbuda,ATG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7413,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,31,Azerbaijan,AZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,183896,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,31,Azerbaijan,AZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10123920,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,32,Argentina,ARG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,136524762,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,24530194,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,36,Australia,AUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17304775,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,36,Australia,AUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,164454631,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,44,Bahamas,BHS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4055,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,44,Bahamas,BHS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,576901,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,48,Bahrain,BHR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1241957,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,48,Bahrain,BHR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11857465,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,50,Bangladesh,BGD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5066150,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,50,Bangladesh,BGD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1283949,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,51,Armenia,ARM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6929981,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1278074,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,52,Barbados,BRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4872,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,52,Barbados,BRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1313765,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,56,Belgium,BEL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,527407993,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,56,Belgium,BEL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,575411266,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,60,Bermuda,BMU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,408562,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,64,Bhutan,BTN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2695,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,64,Bhutan,BTN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,29537,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,68,Bolivia (Plurinational State of),BOL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11251,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,68,Bolivia (Plurinational State of),BOL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1333394,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,70,Bosnia Herzegovina,BIH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,117045315,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,70,Bosnia Herzegovina,BIH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,127921361,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,72,Botswana,BWA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,983,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,72,Botswana,BWA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,612,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,76,Brazil,BRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,123509011,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,76,Brazil,BRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,246809133,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,84,Belize,BLZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,40229,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,86,Br. Indian Ocean Terr.,IOT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,400,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,90,Solomon Isds,SLB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,666,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,92,Br. Virgin Isds,VGB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,66395,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,92,Br. Virgin Isds,VGB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1129611,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,96,Brunei Darussalam,BRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,36331,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,96,Brunei Darussalam,BRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,30107,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,100,Bulgaria,BGR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,155201501,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,100,Bulgaria,BGR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,199838420,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,104,Myanmar,MMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,68529,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,104,Myanmar,MMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,22513,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,108,Burundi,BDI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,20718,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,112,Belarus,BLR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,65422094,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,112,Belarus,BLR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,33344153,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,116,Cambodia,KHM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17851,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,116,Cambodia,KHM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,94008,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,120,Cameroon,CMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,697152,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,120,Cameroon,CMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4513484,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,124,Canada,CAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,202704957,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,124,Canada,CAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,215353805,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,132,Cabo Verde,CPV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16402,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,136,Cayman Isds,CYM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,225,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,136,Cayman Isds,CYM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,100463,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,140,Central African Rep.,CAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,798,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,140,Central African Rep.,CAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,110,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,144,Sri Lanka,LKA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9049631,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,144,Sri Lanka,LKA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19657029,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,148,Chad,TCD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4777282,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,152,Chile,CHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,673024,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,152,Chile,CHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,46253799,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,156,China,CHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,849491396,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,156,China,CHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,301768515,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,170,Colombia,COL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,916465,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,170,Colombia,COL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,25142784,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,175,Mayotte,MYT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,96701,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,178,Congo,COG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,458,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4506665,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,180,Dem. Rep. of the Congo,COD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,190201,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,180,Dem. Rep. of the Congo,COD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1173906,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,184,Cook Isds,COK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4804,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,188,Costa Rica,CRI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7663,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,188,Costa Rica,CRI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11934599,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,191,Croatia,HRV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,127245904,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,191,Croatia,HRV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,654279829,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,192,Cuba,CUB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,633,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,192,Cuba,CUB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,668133,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,196,Cyprus,CYP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,967763,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,196,Cyprus,CYP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13023374,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,203,Czechia,CZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1107334539,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,203,Czechia,CZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1602399744,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,204,Benin,BEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,24483,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,204,Benin,BEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5231757,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,208,Denmark,DNK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,82461242,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,208,Denmark,DNK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,273363717,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,212,Dominica,DMA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,87977,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,212,Dominica,DMA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1017,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,214,Dominican Rep.,DOM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,109432,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,214,Dominican Rep.,DOM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3554105,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,218,Ecuador,ECU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,397178,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,218,Ecuador,ECU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9536220,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,222,El Salvador,SLV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,78442,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,222,El Salvador,SLV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2428911,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,226,Equatorial Guinea,GNQ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,331,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,226,Equatorial Guinea,GNQ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,367081,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,231,Ethiopia,ETH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,272850,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,231,Ethiopia,ETH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,685908,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,232,Eritrea,ERI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,582,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,232,Eritrea,ERI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,26,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,233,Estonia,EST,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5273650,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,233,Estonia,EST,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,27174193,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,234,Faeroe Isds,FRO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7440,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,234,Faeroe Isds,FRO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,280832,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,242,Fiji,FJI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2583,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,242,Fiji,FJI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,201,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,246,Finland,FIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,298335761,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,138658234,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,251,France,FRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1072499992,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1489236101,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,258,French Polynesia,PYF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,359299,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,258,French Polynesia,PYF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,65798,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,260,Fr. South Antarctic Terr.,ATF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5286,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,262,Djibouti,DJI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,55027,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,266,Gabon,GAB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,44285,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,266,Gabon,GAB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7446199,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,268,Georgia,GEO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,434097,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,268,Georgia,GEO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4596672,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,270,Gambia,GMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,361,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,270,Gambia,GMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8426,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,275,State of Palestine,PSE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,33057,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,276,Germany,DEU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12839860024,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,276,Germany,DEU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11728031226,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,288,Ghana,GHA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,685107,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1834579,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,292,Gibraltar,GIB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14416,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,292,Gibraltar,GIB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,285127,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,296,Kiribati,KIR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,564,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,296,Kiribati,KIR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2040,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,300,Greece,GRC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,33033930,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,300,Greece,GRC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,204703100,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,304,Greenland,GRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5042,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,308,Grenada,GRD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13461,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,320,Guatemala,GTM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,89259,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,320,Guatemala,GTM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3399508,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,324,Guinea,GIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5925,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,324,Guinea,GIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,43749,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,328,Guyana,GUY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,53359,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,332,Haiti,HTI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,530,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,332,Haiti,HTI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,198138,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,340,Honduras,HND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3723,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,340,Honduras,HND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,501081,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15847184,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,105855200,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,348,Hungary,HUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,756883212,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1345949601,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,352,Iceland,ISL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7603555,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,352,Iceland,ISL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6786503,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,360,Indonesia,IDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15796315,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,360,Indonesia,IDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,54882443,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,364,Iran,IRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9361724,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,364,Iran,IRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,85038349,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,368,Iraq,IRQ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4130,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,368,Iraq,IRQ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10167130,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,372,Ireland,IRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,29861431,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,372,Ireland,IRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,67265984,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,376,Israel,ISR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,22743450,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,376,Israel,ISR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,57799674,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,381,Italy,ITA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3013514954,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,381,Italy,ITA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3885530714,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,362612,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3420312,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,388,Jamaica,JAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1024,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,388,Jamaica,JAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,363031,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,392,Japan,JPN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,181631362,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,392,Japan,JPN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,263871078,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,398,Kazakhstan,KAZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11051679,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,398,Kazakhstan,KAZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,75313145,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,400,Jordan,JOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,38095,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,400,Jordan,JOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,18411973,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,404,Kenya,KEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,137331,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,404,Kenya,KEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4643319,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,408,Dem. People's Rep. of Korea,PRK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,611,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,408,Dem. People's Rep. of Korea,PRK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,289042,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,410,Rep. of Korea,KOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,108824077,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,410,Rep. of Korea,KOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,110709607,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,414,Kuwait,KWT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14369,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,414,Kuwait,KWT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,32109490,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,417,Kyrgyzstan,KGZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3124,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,417,Kyrgyzstan,KGZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,517762,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,418,Lao People's Dem. Rep.,LAO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,48356,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,418,Lao People's Dem. Rep.,LAO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,230066,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,422,Lebanon,LBN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,107259,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,422,Lebanon,LBN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,21588994,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,426,Lesotho,LSO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,248,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,426,Lesotho,LSO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,110,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,428,Latvia,LVA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6268710,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,428,Latvia,LVA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,38700527,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,430,Liberia,LBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8320,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,430,Liberia,LBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,722159,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,434,Libya,LBY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,617499,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,434,Libya,LBY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,34015752,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,440,Lithuania,LTU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9707544,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,440,Lithuania,LTU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,49158512,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,442,Luxembourg,LUX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,138746626,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,442,Luxembourg,LUX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,73316676,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,446,"China, Macao SAR",MAC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8823,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,446,"China, Macao SAR",MAC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1738595,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,450,Madagascar,MDG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19372,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,450,Madagascar,MDG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,562965,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,454,Malawi,MWI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13606,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,454,Malawi,MWI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,33930,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,458,Malaysia,MYS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,45005628,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,458,Malaysia,MYS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,42449650,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,462,Maldives,MDV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,229,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,462,Maldives,MDV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2065564,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,466,Mali,MLI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14585,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,466,Mali,MLI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12658361,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,470,Malta,MLT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,757251,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,470,Malta,MLT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4177282,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,478,Mauritania,MRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5980982,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,480,Mauritius,MUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,123736,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,480,Mauritius,MUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2241203,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,484,Mexico,MEX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9243923,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,484,Mexico,MEX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,152422935,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,490,"Other Asia, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,87388164,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,490,"Other Asia, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,63280159,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,496,Mongolia,MNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,20789,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,496,Mongolia,MNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,354729,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,498,Rep. of Moldova,MDA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4443305,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,498,Rep. of Moldova,MDA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15168186,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,499,Montenegro,MNE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,236306,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,499,Montenegro,MNE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10855535,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,500,Montserrat,MSR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6410,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,504,Morocco,MAR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2187305,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,504,Morocco,MAR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,21904620,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,508,Mozambique,MOZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2751902,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,508,Mozambique,MOZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,38620,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,512,Oman,OMN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,329819,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,512,Oman,OMN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8241521,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,516,Namibia,NAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6999800,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,516,Namibia,NAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,231271,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,520,Nauru,NRU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4976,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,524,Nepal,NPL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2666948,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,524,Nepal,NPL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,502267,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,528,Netherlands,NLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,729055888,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,528,Netherlands,NLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,723578868,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,530,Neth. Antilles,ANT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,107262,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,530,Neth. Antilles,ANT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,159977,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,533,Aruba,ABW,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,122569,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,540,New Caledonia,NCL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11291,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,540,New Caledonia,NCL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1405926,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,554,New Zealand,NZL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,37272404,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,554,New Zealand,NZL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,18633354,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,558,Nicaragua,NIC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6960,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,558,Nicaragua,NIC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,37166,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,562,Niger,NER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5133,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,562,Niger,NER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,122671,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,566,Nigeria,NGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,56503,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,566,Nigeria,NGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,97071313,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,568,"Other Europe, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4261,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,577,"Other Africa, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,59139,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,579,Norway,NOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,168561939,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,579,Norway,NOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,138766180,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,581,United States Minor Outlying Islands,UMI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4644,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,584,Marshall Isds,MHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,26581,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,586,Pakistan,PAK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,41821741,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,586,Pakistan,PAK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8207275,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,591,Panama,PAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,265511,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,591,Panama,PAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4276528,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,598,Papua New Guinea,PNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2630,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,598,Papua New Guinea,PNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,77992,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,600,Paraguay,PRY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,32044,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,600,Paraguay,PRY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2316221,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,604,Peru,PER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8892351,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,604,Peru,PER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,27015867,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,608,Philippines,PHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4067259,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,608,Philippines,PHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16491155,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,612,Pitcairn,PCN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,234038,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,616,Poland,POL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,624819674,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,616,Poland,POL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1218427768,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,620,Portugal,PRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,77847237,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,620,Portugal,PRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,150078438,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,624,Guinea-Bissau,GNB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3178,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,626,Timor-Leste,TLS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3171,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,634,Qatar,QAT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13752,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,634,Qatar,QAT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,77180213,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,642,Romania,ROU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,166288595,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,642,Romania,ROU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,806706468,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,643,Russian Federation,RUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,364800046,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,643,Russian Federation,RUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,630060948,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,646,Rwanda,RWA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5297,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,646,Rwanda,RWA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,67770,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,659,Saint Kitts and Nevis,KNA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,26371,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,660,Anguilla,AIA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1720,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,662,Saint Lucia,LCA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,93255,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,670,Saint Vincent and the Grenadines,VCT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6771,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,674,San Marino,SMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,233767,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,674,San Marino,SMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4418964,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,678,Sao Tome and Principe,STP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,301,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,678,Sao Tome and Principe,STP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,20873,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,682,Saudi Arabia,SAU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2150697,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,682,Saudi Arabia,SAU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,199664195,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,686,Senegal,SEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,120129,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,686,Senegal,SEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9290695,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,688,Serbia,SRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,156182190,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,688,Serbia,SRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,180877605,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,690,Seychelles,SYC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1300238,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,690,Seychelles,SYC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,77633,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,694,Sierra Leone,SLE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,21017,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,694,Sierra Leone,SLE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,28502,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,699,India,IND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,152661153,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,699,India,IND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,236199030,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,702,Singapore,SGP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6155838,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,702,Singapore,SGP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,95239773,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,703,Slovakia,SVK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,790006474,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,703,Slovakia,SVK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,775728196,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,704,Viet Nam,VNM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14495421,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,704,Viet Nam,VNM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12046166,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,705,Slovenia,SVN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,450170219,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,705,Slovenia,SVN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,987665487,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,706,Somalia,SOM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,21086,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,710,South Africa,ZAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,93395413,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,710,South Africa,ZAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,152141824,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,716,Zimbabwe,ZWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8079038,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,716,Zimbabwe,ZWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,179847,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,724,Spain,ESP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,333570482,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,724,Spain,ESP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,607789554,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,736,Fmr Sudan,SDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2839,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,736,Fmr Sudan,SDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3167636,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,740,Suriname,SUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,144136,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,748,Eswatini,SWZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1305,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,748,Eswatini,SWZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,24514,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,752,Sweden,SWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,603922809,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,752,Sweden,SWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,504763618,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,757,Switzerland,CHE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,914490740,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,757,Switzerland,CHE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2117603072,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,760,Syria,SYR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,670094,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,760,Syria,SYR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16743693,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,762,Tajikistan,TJK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,751840,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,762,Tajikistan,TJK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,213131,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,764,Thailand,THA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,74652743,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,764,Thailand,THA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,86278389,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,768,Togo,TGO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5840,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,768,Togo,TGO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,347884,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,772,Tokelau,TKL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,152903,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,780,Trinidad and Tobago,TTO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13080387,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,784,United Arab Emirates,ARE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15262143,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,784,United Arab Emirates,ARE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,241064376,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,788,Tunisia,TUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1988119,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,788,Tunisia,TUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,28384651,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,792,Turkey,TUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,292572091,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,792,Turkey,TUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,340482074,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,795,Turkmenistan,TKM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,174387,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,795,Turkmenistan,TKM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,25806593,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,798,Tuvalu,TUV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,82,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,800,Uganda,UGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5012,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,800,Uganda,UGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,162136,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,804,Ukraine,UKR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,99819296,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,804,Ukraine,UKR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,212593600,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,807,North Macedonia,MKD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11164226,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,807,North Macedonia,MKD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,23694064,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,818,Egypt,EGY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10323290,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,818,Egypt,EGY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,110601276,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,826,United Kingdom,GBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,534389506,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,826,United Kingdom,GBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,976317913,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,36332,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3200577,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,839,Special Categories,,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,174299476,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,839,Special Categories,,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1831339085,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,842,USA,USA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,310173872,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,842,USA,USA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1241038245,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,854,Burkina Faso,BFA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,21285,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,854,Burkina Faso,BFA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,268234,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,858,Uruguay,URY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,74476,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,858,Uruguay,URY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2573379,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,860,Uzbekistan,UZB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1632728,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,860,Uzbekistan,UZB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,24445882,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,862,Venezuela,VEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,474433,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,862,Venezuela,VEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16638382,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,882,Samoa,WSM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,106378,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,887,Yemen,YEM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2013,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,887,Yemen,YEM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5691043,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,894,Zambia,ZMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,420476,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,894,Zambia,ZMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5052562,,,0

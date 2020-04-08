@@ -1,0 +1,1322 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,,,5262999000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,,,1721601000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,8,Albania,ALB,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,127000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,31,Azerbaijan,AZE,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1077000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,31,Azerbaijan,AZE,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1043000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,240166000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1039000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,105735000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,18150000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,15878000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,2044000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,51,Armenia,ARM,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,566000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,51,Armenia,ARM,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,443000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,56,Belgium,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,80430000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,56,Belgium,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,49924000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,68,Bolivia (Plurinational State of),BOL,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,4663000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,70,Bosnia Herzegovina,BIH,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,71000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,72,Botswana,BWA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,3000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,101102000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,4752000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,84,Belize,BLZ,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,286000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,96,Brunei Darussalam,BRN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,30000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,15318000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1426000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,104,Myanmar,MMR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,48000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,104,Myanmar,MMR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,45000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,108,Burundi,BDI,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,163000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,112,Belarus,BLR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,2139000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,112,Belarus,BLR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,11678000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,116,Cambodia,KHM,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,87000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,120,Cameroon,CMR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,77000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,120,Cameroon,CMR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,204000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,29674000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,39178000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,140,Central African Rep.,CAF,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,8000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,9119000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1271000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,114359000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1742000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,177755000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,65063000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,15688000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,352000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,178,Congo,COG,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,216000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,3773000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,29000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,191,Croatia,HRV,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,3910000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,191,Croatia,HRV,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,934000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,192,Cuba,CUB,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,905000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,27419000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,5121000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,203,Czechia,CZE,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,16184000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,203,Czechia,CZE,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,4001000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,204,Benin,BEN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,157000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,32504000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,3101000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,212,Dominica,DMA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,855000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,3647000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,43000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,8537000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,112000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,222,El Salvador,SLV,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,6000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,231,Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,9149000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,231,Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,64000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,233,Estonia,EST,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,294000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,233,Estonia,EST,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,557000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,242,Fiji,FJI,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,28000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,2088000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,7624000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,153230000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,166795000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,262,Djibouti,DJI,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,239000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,266,Gabon,GAB,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,3000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,268,Georgia,GEO,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1102000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,268,Georgia,GEO,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,605000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,270,Gambia,GMB,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,921000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,276,Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,215046000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,276,Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,55002000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,3847000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,5655000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,292,Gibraltar,GIB,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,4000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,27704000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,4874000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,320,Guatemala,GTM,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,6095000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,320,Guatemala,GTM,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,432000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,324,Guinea,GIN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,145000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,340,Honduras,HND,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1291000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,340,Honduras,HND,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,9000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,5966000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,4255000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,119319000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1954000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,466000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,181000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,15358000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,122395000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,6990000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,251622000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,35355000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,15704000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,23000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,388,Jamaica,JAM,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,28000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,2240000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,98233000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,398,Kazakhstan,KAZ,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1067000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,398,Kazakhstan,KAZ,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,2352000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,6077000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,2989000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,8736000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,2036000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,25108000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,14870000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,417,Kyrgyzstan,KGZ,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,211000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,417,Kyrgyzstan,KGZ,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,6000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,418,Lao People's Dem. Rep.,LAO,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,188000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,428,Latvia,LVA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,6304000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,428,Latvia,LVA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,2439000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,440,Lithuania,LTU,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,27228000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,440,Lithuania,LTU,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,731000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,442,Luxembourg,LUX,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,13000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,442,Luxembourg,LUX,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,,,25000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,450,Madagascar,MDG,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,186000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,454,Malawi,MWI,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,573000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,3303000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,184000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,35000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,392000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,478,Mauritania,MRT,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,162000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,480,Mauritius,MUS,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1539000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,480,Mauritius,MUS,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,43000,,,0
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,17699000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,831000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,2093000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,8655000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,496,Mongolia,MNG,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,45000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,498,Rep. of Moldova,MDA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,2772000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,498,Rep. of Moldova,MDA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,386000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,6213000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,516,Namibia,NAM,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,12000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,524,Nepal,NPL,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,524,Nepal,NPL,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,27000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,172542000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,176792000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,3118000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1885000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,558,Nicaragua,NIC,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,94000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,558,Nicaragua,NIC,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,5000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,93000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,2859000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,574,Norfolk Isds,NFK,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,95000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,144489000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,13586000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,584,Marshall Isds,MHL,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,,,3000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,331000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,591,Panama,PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,427000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,591,Panama,PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,363000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,598,Papua New Guinea,PNG,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,210000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,598,Papua New Guinea,PNG,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,8000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,600,Paraguay,PRY,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,60988000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,5824000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,460000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,13425000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,4452000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,223341000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,15908000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,133117000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1379000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,94850000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,7315000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,643,Russian Federation,RUS,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,256259000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,643,Russian Federation,RUS,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,248752000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,646,Rwanda,RWA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,3000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,686,Senegal,SEN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,5718000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,688,Serbia,SRB,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,9090000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,690,Seychelles,SYC,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,118000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,694,Sierra Leone,SLE,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,17000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,699,India,IND,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,55945000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,699,India,IND,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,14183000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,19786000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,4191000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,703,Slovakia,SVK,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,476000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,703,Slovakia,SVK,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,105000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,704,Viet Nam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,178833000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,704,Viet Nam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,4095000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,705,Slovenia,SVN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,2589000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,705,Slovenia,SVN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,50592000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,710,South Africa,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,38171000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,710,South Africa,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,10025000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,716,Zimbabwe,ZWE,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,552000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,716,Zimbabwe,ZWE,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,2000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,121323000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,26796000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,748,Eswatini,SWZ,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,134000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,3230000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,12580000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,66384000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,13513000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,762,Tajikistan,TJK,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,19000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,125746000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,22395000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,780,Trinidad and Tobago,TTO,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,38000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,279000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,166557000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,23760000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,796,Turks and Caicos Isds,TCA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,800,Uganda,UGA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,14093000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,800,Uganda,UGA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,421000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,804,Ukraine,UKR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,381590000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,804,Ukraine,UKR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,9779000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,807,North Macedonia,MKD,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,3164000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,807,North Macedonia,MKD,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,460000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,24079000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,175000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,58639000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,125205000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,9655000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,320000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,837,Bunkers,,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1575000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,837,Bunkers,,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,7052000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,842,USA,USA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,674414000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,842,USA,USA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,284160000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,113342000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,476000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,860,Uzbekistan,UZB,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,664000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,860,Uzbekistan,UZB,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,984000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1319000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,894,Zambia,ZMB,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,,,17000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,,,1332889000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,,,921558000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,8,Albania,ALB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,31000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,8,Albania,ALB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,,,36000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,20,Andorra,AND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,31000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,31,Azerbaijan,AZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,104000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,1490000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,1369000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,819000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,5066000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,40087000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,184000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,51,Armenia,ARM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,,,4000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,51,Armenia,ARM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,8000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,52,Barbados,BRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,,,81000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,56,Belgium,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,14458000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,56,Belgium,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,30212000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,68,Bolivia (Plurinational State of),BOL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,269000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,68,Bolivia (Plurinational State of),BOL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,,,617000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,70,Bosnia Herzegovina,BIH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,690000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,70,Bosnia Herzegovina,BIH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,15000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,108636000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,7408000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,84,Belize,BLZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,,,7000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,5092000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,1720000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,104,Myanmar,MMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,279000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,104,Myanmar,MMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,2000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,112,Belarus,BLR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,131000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,112,Belarus,BLR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,30000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,120,Cameroon,CMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,35000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,120,Cameroon,CMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,20000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,5758000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,5150000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,1382000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,67000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,148,Chad,TCD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,73000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,46636000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,1549000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,100172000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,50868000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,2778000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,2568000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,178,Congo,COG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,,,11000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,180,Dem. Rep. of the Congo,COD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,37000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,188,Costa Rica,CRI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,164000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,188,Costa Rica,CRI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,5977000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,191,Croatia,HRV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,1116000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,191,Croatia,HRV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,,,18000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,192,Cuba,CUB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,1078000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,15548000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,1514000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,203,Czechia,CZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,1882000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,203,Czechia,CZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,1431000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,3410000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,13747000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,214,Dominican Rep.,DOM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,554000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,214,Dominican Rep.,DOM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,,,2518000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,218,Ecuador,ECU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,47000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,218,Ecuador,ECU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,1048000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,231,Ethiopia,ETH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,72325000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,231,Ethiopia,ETH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,3224000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,233,Estonia,EST,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,2565000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,233,Estonia,EST,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,123000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,242,Fiji,FJI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,4000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,134396000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,510000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,12658000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,22087000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,258,French Polynesia,PYF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,1000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,266,Gabon,GAB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,,,1000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,268,Georgia,GEO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,7000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,268,Georgia,GEO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,381000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,270,Gambia,GMB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,21000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,276,Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,33787000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,276,Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,43531000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,470000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,58000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,27038000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,65169000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,320,Guatemala,GTM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,803000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,320,Guatemala,GTM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,1524000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,332,Haiti,HTI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,443000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,340,Honduras,HND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,12000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,340,Honduras,HND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,,,341000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,966000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,5694000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,289000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,4320000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,352,Iceland,ISL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,134000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,18390000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,,,233000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,383000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,375000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,49374000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,41416000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,36000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,3389000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,388,Jamaica,JAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,30000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,8110000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,12904000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,398,Kazakhstan,KAZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,31318000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,398,Kazakhstan,KAZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,1182000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,400,Jordan,JOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,2485000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,400,Jordan,JOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,198000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,360000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,2522000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,15840000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,65740000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,417,Kyrgyzstan,KGZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,,,6000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,428,Latvia,LVA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,15039000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,428,Latvia,LVA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,2000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,440,Lithuania,LTU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,4101000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,440,Lithuania,LTU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,941000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,442,Luxembourg,LUX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,30000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,442,Luxembourg,LUX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,3000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,450,Madagascar,MDG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,26000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,92000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,6000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,470,Malta,MLT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,213000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,480,Mauritius,MUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,,,43000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,781000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,5281000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,19120000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,2129000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,498,Rep. of Moldova,MDA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,2710000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,498,Rep. of Moldova,MDA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,294000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,220000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,508,Mozambique,MOZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,13000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,516,Namibia,NAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,816000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,516,Namibia,NAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,,,1000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,524,Nepal,NPL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,2000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,524,Nepal,NPL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,21000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,29087000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,126248000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,505000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,560000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,558,Nicaragua,NIC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,,,44000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,4479000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,432000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,376000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,517000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,584,Marshall Isds,MHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,53000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,103000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,1000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,591,Panama,PAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,60000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,591,Panama,PAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,31000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,598,Papua New Guinea,PNG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,48000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,600,Paraguay,PRY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,41857000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,600,Paraguay,PRY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,6000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,3688000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,4003000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,703000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,1747000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,4462000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,5484000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,10750000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,9147000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,7739000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,752000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,643,Russian Federation,RUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,43468000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,643,Russian Federation,RUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,7257000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,646,Rwanda,RWA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,,,16000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,686,Senegal,SEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,1000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,686,Senegal,SEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,268000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,688,Serbia,SRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,1103000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,694,Sierra Leone,SLE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,,,147000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,699,India,IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,47457000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,699,India,IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,60481000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,2112000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,2299000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,703,Slovakia,SVK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,238000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,703,Slovakia,SVK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,2000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,704,Viet Nam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,3718000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,704,Viet Nam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,2358000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,705,Slovenia,SVN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,5597000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,705,Slovenia,SVN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,3348000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,710,South Africa,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,2895000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,710,South Africa,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,6624000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,716,Zimbabwe,ZWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,,,64000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,11994000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,23156000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,740,Suriname,SUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,72000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,34620000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,482000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,2617000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,4033000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,17547000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,9043000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,768,Togo,TGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,21000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,1000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,48617000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,85499000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,795,Turkmenistan,TKM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,,,105000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,800,Uganda,UGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,474000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,800,Uganda,UGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,,,54000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,804,Ukraine,UKR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,39036000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,804,Ukraine,UKR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,448000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,807,North Macedonia,MKD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,,,17000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,4814000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,66000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,13143000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,31559000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,834,United Rep. of Tanzania,TZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,,,162000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,837,Bunkers,,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,1678000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,837,Bunkers,,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,15925000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,842,USA,USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,120767000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,842,USA,USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,99369000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,854,Burkina Faso,BFA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,123000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,858,Uruguay,URY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,18698000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,858,Uruguay,URY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,,,15000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,860,Uzbekistan,UZB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,1000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,860,Uzbekistan,UZB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,1371000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,862,Venezuela,VEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,677000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,894,Zambia,ZMB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,819000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,9807485000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,,,1401939000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,8,Albania,ALB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,16452000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,24,Angola,AGO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,237634000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,32,Argentina,ARG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,19000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,3000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,20000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,240000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,56,Belgium,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,16122000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,56,Belgium,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,18000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,70,Bosnia Herzegovina,BIH,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,167000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,76,Brazil,BRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,1814000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,100,Bulgaria,BGR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,102000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,100,Bulgaria,BGR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,106000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,112,Belarus,BLR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,201000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,1716000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,152,Chile,CHL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,2163000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,152,Chile,CHL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,71000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,5947000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,170,Colombia,COL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,8983000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,170,Colombia,COL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,28000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,191,Croatia,HRV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,23000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,196,Cyprus,CYP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,12763000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,196,Cyprus,CYP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,91097000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,203,Czechia,CZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,106000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,135000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,669000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,218,Ecuador,ECU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,5000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,222,El Salvador,SLV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,3000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,233,Estonia,EST,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,2260000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,2383000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,22858000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,5000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,268,Georgia,GEO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,1094000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,268,Georgia,GEO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,68000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,276,Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,16010000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,276,Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,,,10000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,288,Ghana,GHA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,5000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,288,Ghana,GHA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,175000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,300,Greece,GRC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,21527000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,300,Greece,GRC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,171481000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,344,"China, Hong Kong SAR",HKG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,6935000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,348,Hungary,HUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,54000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,348,Hungary,HUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,39000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,360,Indonesia,IDN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,26000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,372,Ireland,IRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,2454000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,158020000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,121503000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,384,Côte d'Ivoire,CIV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,134000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,619000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,2000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,398,Kazakhstan,KAZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,1000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,400,Jordan,JOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,80000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,400,Jordan,JOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,36818000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,410,Rep. of Korea,KOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,14503000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,428,Latvia,LVA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,3045000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,440,Lithuania,LTU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,960000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,442,Luxembourg,LUX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,9000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,458,Malaysia,MYS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,31000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,470,Malta,MLT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,15970000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,470,Malta,MLT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,49272000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,484,Mexico,MEX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,2000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,490,"Other Asia, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,5000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,13013000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,2889000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,566,Nigeria,NGA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,181474000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,579,Norway,NOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,152000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,591,Panama,PAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,1000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,598,Papua New Guinea,PNG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,16000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,604,Peru,PER,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,1000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,608,Philippines,PHL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,87000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,714000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,178000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,620,Portugal,PRT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,3789000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,620,Portugal,PRT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,1016000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,214000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,27000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,643,Russian Federation,RUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,3331213000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,643,Russian Federation,RUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,165000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,690,Seychelles,SYC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,24000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,699,India,IND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,9867000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,699,India,IND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,84000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,702,Singapore,SGP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,560000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,703,Slovakia,SVK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,43000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,705,Slovenia,SVN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,284000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,705,Slovenia,SVN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,5000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,710,South Africa,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,6590000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,710,South Africa,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,158000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,59527000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,37181000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,2090000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,186167000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,764,Thailand,THA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,374000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,2732016000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,242676000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,800,Uganda,UGA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,2000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,800,Uganda,UGA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,228000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,804,Ukraine,UKR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,484000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,804,Ukraine,UKR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,20138000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,818,Egypt,EGY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,455328000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,818,Egypt,EGY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,35000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,400750000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,73375000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,837,Bunkers,,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,1777487000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,837,Bunkers,,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,351986000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,842,USA,USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,271346000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,842,USA,USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,315000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,858,Uruguay,URY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,1000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,860,Uzbekistan,UZB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,389000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,,,8982914000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,0,World,WLD,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,,,15320450000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,4,Afghanistan,AFG,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,,,34000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,8,Albania,ALB,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,552000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,12,Algeria,DZA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,2567000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,31,Azerbaijan,AZE,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1883000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,31,Azerbaijan,AZE,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,6165000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,32,Argentina,ARG,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,4373000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,32,Argentina,ARG,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,43768000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,36,Australia,AUS,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,26936000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,36,Australia,AUS,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,123468000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,40,Austria,AUT,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,58799000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,40,Austria,AUT,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,15064000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,44,Bahamas,BHS,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,,,47000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,50,Bangladesh,BGD,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,,,2000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,51,Armenia,ARM,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,32000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,51,Armenia,ARM,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,377000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,52,Barbados,BRB,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,697000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,52,Barbados,BRB,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,131000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,56,Belgium,BEL,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,370899000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,56,Belgium,BEL,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,239852000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,68,Bolivia (Plurinational State of),BOL,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,48000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,70,Bosnia Herzegovina,BIH,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,410000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,70,Bosnia Herzegovina,BIH,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,116000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,72,Botswana,BWA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,16000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,76,Brazil,BRA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,28685000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,76,Brazil,BRA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,865211000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,84,Belize,BLZ,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,311000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,100,Bulgaria,BGR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,23593000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,100,Bulgaria,BGR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,20163000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,104,Myanmar,MMR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,263000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,108,Burundi,BDI,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,5000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,112,Belarus,BLR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,92000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,112,Belarus,BLR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,2599000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,116,Cambodia,KHM,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,17000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,120,Cameroon,CMR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1090000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,124,Canada,CAN,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,66654000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,124,Canada,CAN,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,246157000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,140,Central African Rep.,CAF,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,144,Sri Lanka,LKA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,80000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,144,Sri Lanka,LKA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,2035000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,152,Chile,CHL,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,3237000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,152,Chile,CHL,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,47442000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,156,China,CHN,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1028717000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,156,China,CHN,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,591115000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,170,Colombia,COL,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1793000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,170,Colombia,COL,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,27460000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,178,Congo,COG,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,32000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,180,Dem. Rep. of the Congo,COD,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,55000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,188,Costa Rica,CRI,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,41000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,188,Costa Rica,CRI,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,16240000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,191,Croatia,HRV,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,20728000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,191,Croatia,HRV,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,10619000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,192,Cuba,CUB,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,,,109000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,196,Cyprus,CYP,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,3148000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,196,Cyprus,CYP,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,581092000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,203,Czechia,CZE,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,27695000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,203,Czechia,CZE,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,26505000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,208,Denmark,DNK,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,74410000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,208,Denmark,DNK,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,11515000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,212,Dominica,DMA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,102000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,214,Dominican Rep.,DOM,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1848000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,214,Dominican Rep.,DOM,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,5452000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,218,Ecuador,ECU,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,79000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,218,Ecuador,ECU,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,11736000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,222,El Salvador,SLV,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,,,82000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,222,El Salvador,SLV,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1493000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,226,Equatorial Guinea,GNQ,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,,,11000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,231,Ethiopia,ETH,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,36000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,231,Ethiopia,ETH,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,919000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,233,Estonia,EST,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1309000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,233,Estonia,EST,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,2505000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,246,Finland,FIN,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,16181000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,246,Finland,FIN,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,10692000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,251,France,FRA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,478153000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,251,France,FRA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,262746000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,258,French Polynesia,PYF,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,,,4000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,266,Gabon,GAB,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,5000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,268,Georgia,GEO,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1040000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,268,Georgia,GEO,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,5159000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,276,Germany,DEU,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1181080000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,276,Germany,DEU,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,387966000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,288,Ghana,GHA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,,,2000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,288,Ghana,GHA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,14485000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,292,Gibraltar,GIB,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,21551000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,300,Greece,GRC,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,45170000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,300,Greece,GRC,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,323253000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,320,Guatemala,GTM,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,,,4000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,320,Guatemala,GTM,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,10989000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,332,Haiti,HTI,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,,,3000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,332,Haiti,HTI,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,,,1000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,340,Honduras,HND,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,167000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,340,Honduras,HND,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,774000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,344,"China, Hong Kong SAR",HKG,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,29826000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,344,"China, Hong Kong SAR",HKG,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,42492000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,348,Hungary,HUN,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,46765000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,348,Hungary,HUN,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,52220000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,352,Iceland,ISL,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1500000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,352,Iceland,ISL,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,846000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,360,Indonesia,IDN,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,11847000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,360,Indonesia,IDN,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,9424000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,372,Ireland,IRL,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,236455000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,372,Ireland,IRL,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,6324000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,381,Italy,ITA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,450903000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,381,Italy,ITA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,416787000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,384,Côte d'Ivoire,CIV,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,384,Côte d'Ivoire,CIV,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,568000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,388,Jamaica,JAM,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,145000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,388,Jamaica,JAM,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1253000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,392,Japan,JPN,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,183312000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,392,Japan,JPN,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,157258000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,398,Kazakhstan,KAZ,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,66000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,398,Kazakhstan,KAZ,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,6285000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,400,Jordan,JOR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,39083000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,400,Jordan,JOR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,4066000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,404,Kenya,KEN,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,35000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,404,Kenya,KEN,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,16215000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,410,Rep. of Korea,KOR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,191098000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,410,Rep. of Korea,KOR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,97138000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,428,Latvia,LVA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,2444000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,428,Latvia,LVA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,8280000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,440,Lithuania,LTU,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,13205000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,440,Lithuania,LTU,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,17038000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,442,Luxembourg,LUX,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,5126000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,442,Luxembourg,LUX,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1565000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,446,"China, Macao SAR",MAC,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,,,173000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,446,"China, Macao SAR",MAC,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,27000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,450,Madagascar,MDG,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,,,15000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,454,Malawi,MWI,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,458,Malaysia,MYS,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,5647000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,458,Malaysia,MYS,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,674000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,466,Mali,MLI,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,470,Malta,MLT,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1039000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,470,Malta,MLT,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,89743000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,480,Mauritius,MUS,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,19000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,480,Mauritius,MUS,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1000000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,484,Mexico,MEX,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,26082000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,484,Mexico,MEX,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,106539000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,490,"Other Asia, nes",,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,198904000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,490,"Other Asia, nes",,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,81814000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,498,Rep. of Moldova,MDA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,87000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,498,Rep. of Moldova,MDA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,4861000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,504,Morocco,MAR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,105000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,504,Morocco,MAR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1896000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,516,Namibia,NAM,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,9000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,524,Nepal,NPL,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,144000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,524,Nepal,NPL,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,68000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,528,Netherlands,NLD,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,318809000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,528,Netherlands,NLD,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,844957000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,554,New Zealand,NZL,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,3549000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,554,New Zealand,NZL,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,20243000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,558,Nicaragua,NIC,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,2000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,558,Nicaragua,NIC,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1696000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,562,Niger,NER,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,3000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,562,Niger,NER,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,15000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,566,Nigeria,NGA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,15000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,566,Nigeria,NGA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,7332000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,579,Norway,NOR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,7991000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,579,Norway,NOR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,5849000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,586,Pakistan,PAK,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,591,Panama,PAN,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,2049000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,598,Papua New Guinea,PNG,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,373000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,600,Paraguay,PRY,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,264000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,600,Paraguay,PRY,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,4861000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,604,Peru,PER,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,698000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,604,Peru,PER,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,31904000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,608,Philippines,PHL,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,9007000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,608,Philippines,PHL,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,30999000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,616,Poland,POL,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,63181000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,616,Poland,POL,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,87427000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,620,Portugal,PRT,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,11704000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,620,Portugal,PRT,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,112014000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,642,Romania,ROU,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,48705000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,642,Romania,ROU,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,65582000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,643,Russian Federation,RUS,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,81005000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,643,Russian Federation,RUS,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,157559000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,646,Rwanda,RWA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,,,409000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,674,San Marino,SMR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,,,4000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,678,Sao Tome and Principe,STP,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,88000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,686,Senegal,SEN,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,686,Senegal,SEN,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,212000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,688,Serbia,SRB,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,2958000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,690,Seychelles,SYC,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,156000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,699,India,IND,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,346308000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,699,India,IND,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,346687000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,702,Singapore,SGP,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,75030000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,702,Singapore,SGP,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,37606000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,703,Slovakia,SVK,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,6527000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,703,Slovakia,SVK,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1735000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,704,Viet Nam,VNM,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,3826000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,704,Viet Nam,VNM,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,66077000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,705,Slovenia,SVN,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,5244000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,705,Slovenia,SVN,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,282217000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,706,Somalia,SOM,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,,,12000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,710,South Africa,ZAF,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,14457000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,710,South Africa,ZAF,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,60326000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,716,Zimbabwe,ZWE,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,20000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,724,Spain,ESP,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,258589000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,724,Spain,ESP,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,289088000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,728,South Sudan,SSD,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,58000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,740,Suriname,SUR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,748,Eswatini,SWZ,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,246000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,752,Sweden,SWE,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,72268000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,752,Sweden,SWE,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,16093000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,757,Switzerland,CHE,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,420764000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,757,Switzerland,CHE,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,29441000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,762,Tajikistan,TJK,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,,,163000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,764,Thailand,THA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,70010000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,764,Thailand,THA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,77311000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,780,Trinidad and Tobago,TTO,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,,,1000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,780,Trinidad and Tobago,TTO,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,2401000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,784,United Arab Emirates,ARE,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,8000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,788,Tunisia,TUN,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,26000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,792,Turkey,TUR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,244694000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,792,Turkey,TUR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1204576000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,795,Turkmenistan,TKM,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,27000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,796,Turks and Caicos Isds,TCA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,46000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,800,Uganda,UGA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,800,Uganda,UGA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,950000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,804,Ukraine,UKR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,10560000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,804,Ukraine,UKR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,102283000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,807,North Macedonia,MKD,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,9000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,807,North Macedonia,MKD,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,266000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,818,Egypt,EGY,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,49607000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,818,Egypt,EGY,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,35348000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,826,United Kingdom,GBR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,361709000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,826,United Kingdom,GBR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,3121773000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,834,United Rep. of Tanzania,TZA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1732000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,837,Bunkers,,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,125125000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,837,Bunkers,,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,107388000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,842,USA,USA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1451258000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,842,USA,USA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,3094849000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,858,Uruguay,URY,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,380000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,858,Uruguay,URY,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,4204000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,860,Uzbekistan,UZB,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1845000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,860,Uzbekistan,UZB,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,545000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,862,Venezuela,VEN,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,587000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,882,Samoa,WSM,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,277000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,894,Zambia,ZMB,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,603000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,,,15036688000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,0,World,WLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,,,17978527000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,4,Afghanistan,AFG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,34000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,8,Albania,ALB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,256000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,16,American Samoa,ASM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,7000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,20,Andorra,AND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,31,Azerbaijan,AZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,6000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,31,Azerbaijan,AZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,42408000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,32,Argentina,ARG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,78179000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,32,Argentina,ARG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,14772000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,36,Australia,AUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,22207000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,36,Australia,AUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,107460000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,40,Austria,AUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,103241000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,40,Austria,AUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,10023000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,44,Bahamas,BHS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,2000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,50,Bangladesh,BGD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1425000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,51,Armenia,ARM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,4409000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,51,Armenia,ARM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,5377000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,52,Barbados,BRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,35000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,56,Belgium,BEL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1906256000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,56,Belgium,BEL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1496640000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,68,Bolivia (Plurinational State of),BOL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,25000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,68,Bolivia (Plurinational State of),BOL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,323000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,70,Bosnia Herzegovina,BIH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,166000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,70,Bosnia Herzegovina,BIH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,151000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,72,Botswana,BWA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,156000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,76,Brazil,BRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,53042000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,76,Brazil,BRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,120549000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,84,Belize,BLZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,100,Bulgaria,BGR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,23300000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,100,Bulgaria,BGR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,3271000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,104,Myanmar,MMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1157000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,104,Myanmar,MMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,368000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,112,Belarus,BLR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,96258000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,112,Belarus,BLR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,2711000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,116,Cambodia,KHM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,26000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,116,Cambodia,KHM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,48000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,120,Cameroon,CMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,2000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,120,Cameroon,CMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,262000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,124,Canada,CAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,111604000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,124,Canada,CAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,139508000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,144,Sri Lanka,LKA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,77363000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,144,Sri Lanka,LKA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,49486000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,152,Chile,CHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,688000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,152,Chile,CHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,5808000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,156,China,CHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1941074000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,156,China,CHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,238060000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,170,Colombia,COL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1452000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,170,Colombia,COL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,8818000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,178,Congo,COG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,18000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,180,Dem. Rep. of the Congo,COD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,36000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,180,Dem. Rep. of the Congo,COD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,7000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,184,Cook Isds,COK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,81000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,188,Costa Rica,CRI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,56000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,188,Costa Rica,CRI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,3014000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,191,Croatia,HRV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,9446000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,191,Croatia,HRV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1212000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,192,Cuba,CUB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,331000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,192,Cuba,CUB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,30000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,196,Cyprus,CYP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,59059000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,196,Cyprus,CYP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,12086000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,203,Czechia,CZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,57245000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,203,Czechia,CZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,20367000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,204,Benin,BEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,94000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,208,Denmark,DNK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,14075000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,208,Denmark,DNK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,9767000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,212,Dominica,DMA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,8000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,214,Dominican Rep.,DOM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,662000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,214,Dominican Rep.,DOM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,812000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,218,Ecuador,ECU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,280000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,218,Ecuador,ECU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1303000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,222,El Salvador,SLV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,17000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,222,El Salvador,SLV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1291000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,226,Equatorial Guinea,GNQ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,2000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,231,Ethiopia,ETH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,237000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,231,Ethiopia,ETH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,548000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,233,Estonia,EST,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,4372000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,233,Estonia,EST,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1957000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,246,Finland,FIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,36653000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,246,Finland,FIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,7982000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,251,France,FRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,172527000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,251,France,FRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,616717000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,258,French Polynesia,PYF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,,,5000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,262,Djibouti,DJI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,,,187000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,266,Gabon,GAB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,246000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,266,Gabon,GAB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,268,Georgia,GEO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,284000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,268,Georgia,GEO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,2407000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,270,Gambia,GMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,70000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,276,Germany,DEU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,514362000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,276,Germany,DEU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,262133000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,288,Ghana,GHA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,139000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,288,Ghana,GHA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,4187000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,292,Gibraltar,GIB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,30000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,300,Greece,GRC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,234738000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,300,Greece,GRC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,22836000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,320,Guatemala,GTM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,50000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,320,Guatemala,GTM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1846000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,324,Guinea,GIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,332,Haiti,HTI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,74000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,340,Honduras,HND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,359000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,737275000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,3639698000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,348,Hungary,HUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,11349000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,348,Hungary,HUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,9136000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,352,Iceland,ISL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,,,2000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,352,Iceland,ISL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,947000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,360,Indonesia,IDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,7899000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,360,Indonesia,IDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,7480000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,372,Ireland,IRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,4244000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,372,Ireland,IRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,8531000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,381,Italy,ITA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,546332000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,381,Italy,ITA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,110861000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,23000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,143000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,388,Jamaica,JAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,142000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,392,Japan,JPN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,101090000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,392,Japan,JPN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,246932000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,398,Kazakhstan,KAZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,3765000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,398,Kazakhstan,KAZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,3654000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,400,Jordan,JOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,5971000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,400,Jordan,JOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,8914000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,404,Kenya,KEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,30000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,404,Kenya,KEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,2529000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,410,Rep. of Korea,KOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,63075000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,410,Rep. of Korea,KOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,51889000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,417,Kyrgyzstan,KGZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,17000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,428,Latvia,LVA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,3641000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,428,Latvia,LVA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,4705000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,440,Lithuania,LTU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,3937000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,440,Lithuania,LTU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1084000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,442,Luxembourg,LUX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,16804000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,442,Luxembourg,LUX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,806000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,446,"China, Macao SAR",MAC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,412000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,450,Madagascar,MDG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,54000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,458,Malaysia,MYS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,2676000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,458,Malaysia,MYS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,304000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,466,Mali,MLI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,470,Malta,MLT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,289000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,470,Malta,MLT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1038000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,480,Mauritius,MUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,480,Mauritius,MUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,298000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,484,Mexico,MEX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,14594000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,484,Mexico,MEX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,27113000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,490,"Other Asia, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,96699000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,490,"Other Asia, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,16059000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,496,Mongolia,MNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,2000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,498,Rep. of Moldova,MDA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,346000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,498,Rep. of Moldova,MDA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,144000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,504,Morocco,MAR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,722000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,504,Morocco,MAR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1046000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,508,Mozambique,MOZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,80000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,516,Namibia,NAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,516,Namibia,NAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,17000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,520,Nauru,NRU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,4000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,524,Nepal,NPL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,297000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,524,Nepal,NPL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,29000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,528,Netherlands,NLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,85325000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,528,Netherlands,NLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,99331000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,554,New Zealand,NZL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,7058000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,554,New Zealand,NZL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,7053000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,558,Nicaragua,NIC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,4000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,558,Nicaragua,NIC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,80000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,566,Nigeria,NGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,217000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,566,Nigeria,NGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,6794000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,579,Norway,NOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,3147000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,579,Norway,NOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,7038000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,584,Marshall Isds,MHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,8000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,586,Pakistan,PAK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,3750000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,591,Panama,PAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,20000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,591,Panama,PAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,4054000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,598,Papua New Guinea,PNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,65000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,600,Paraguay,PRY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,37000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,600,Paraguay,PRY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,134000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,604,Peru,PER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,582000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,604,Peru,PER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,2831000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,608,Philippines,PHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1168000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,608,Philippines,PHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,4604000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,616,Poland,POL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,71964000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,616,Poland,POL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,49625000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,620,Portugal,PRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,55866000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,620,Portugal,PRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,9730000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,634,Qatar,QAT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,7000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,642,Romania,ROU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,45619000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,642,Romania,ROU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,13852000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,643,Russian Federation,RUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,912291000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,643,Russian Federation,RUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,71634000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,674,San Marino,SMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,3000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,686,Senegal,SEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,357000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,686,Senegal,SEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,18000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,688,Serbia,SRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,5670000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,688,Serbia,SRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,18000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,694,Sierra Leone,SLE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,59000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,699,India,IND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1193944000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,699,India,IND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1021659000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,702,Singapore,SGP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,107921000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,702,Singapore,SGP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,117503000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,703,Slovakia,SVK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,17113000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,703,Slovakia,SVK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,3473000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,704,Viet Nam,VNM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,23020000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,704,Viet Nam,VNM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,5570000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,705,Slovenia,SVN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,26547000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,705,Slovenia,SVN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,11447000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,710,South Africa,ZAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,12165000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,710,South Africa,ZAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,59507000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,716,Zimbabwe,ZWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,2000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,716,Zimbabwe,ZWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,13000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,724,Spain,ESP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,314084000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,724,Spain,ESP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,67037000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,740,Suriname,SUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,748,Eswatini,SWZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,7000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,752,Sweden,SWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,60780000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,752,Sweden,SWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,16118000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,757,Switzerland,CHE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,611827000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,757,Switzerland,CHE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1147415000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,764,Thailand,THA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,154340000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,764,Thailand,THA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,167224000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,780,Trinidad and Tobago,TTO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,30000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,788,Tunisia,TUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,63000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,792,Turkey,TUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1483420000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,792,Turkey,TUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,85595000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,795,Turkmenistan,TKM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,132000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,795,Turkmenistan,TKM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,,,35000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,796,Turks and Caicos Isds,TCA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,95000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,800,Uganda,UGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,2000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,800,Uganda,UGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,454000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,804,Ukraine,UKR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,191799000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,804,Ukraine,UKR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,10821000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,807,North Macedonia,MKD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1717000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,807,North Macedonia,MKD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1549000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,818,Egypt,EGY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,9303000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,818,Egypt,EGY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,66765000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,826,United Kingdom,GBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,214016000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,826,United Kingdom,GBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,516677000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,281000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,459000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,837,Bunkers,,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,768539000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,837,Bunkers,,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,108590000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,842,USA,USA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1496120000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,842,USA,USA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,6902301000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,858,Uruguay,URY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,858,Uruguay,URY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1114000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,860,Uzbekistan,UZB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,65000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,860,Uzbekistan,UZB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,388000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,862,Venezuela,VEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,7273000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,862,Venezuela,VEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,4000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,894,Zambia,ZMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,,,79000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,894,Zambia,ZMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,29005000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,,,26451822000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,0,World,WLD,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,,,16602972000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,4,Afghanistan,AFG,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,2000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,8,Albania,ALB,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,100000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,16,American Samoa,ASM,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,3000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,20,Andorra,AND,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,8000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,24,Angola,AGO,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,50000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,24,Angola,AGO,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,139000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,31,Azerbaijan,AZE,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,142000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,31,Azerbaijan,AZE,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,63423000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,32,Argentina,ARG,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,520000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,32,Argentina,ARG,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,80936000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,36,Australia,AUS,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,11205000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,36,Australia,AUS,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,150061000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,40,Austria,AUT,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,147334000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,40,Austria,AUT,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,30843000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,44,Bahamas,BHS,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,23000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,50,Bangladesh,BGD,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,50000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,51,Armenia,ARM,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,6000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,51,Armenia,ARM,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1497000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,52,Barbados,BRB,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,2000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,52,Barbados,BRB,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,198000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,56,Belgium,BEL,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,606837000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,56,Belgium,BEL,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,223976000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,60,Bermuda,BMU,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,306000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,68,Bolivia (Plurinational State of),BOL,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,,,1000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,68,Bolivia (Plurinational State of),BOL,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1627000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,70,Bosnia Herzegovina,BIH,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,710000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,70,Bosnia Herzegovina,BIH,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,951000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,72,Botswana,BWA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,13000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,72,Botswana,BWA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,4068000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,76,Brazil,BRA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,55814000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,76,Brazil,BRA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,106022000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,84,Belize,BLZ,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,40000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,100,Bulgaria,BGR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,9896000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,100,Bulgaria,BGR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,8509000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,104,Myanmar,MMR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,80000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,104,Myanmar,MMR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1194000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,112,Belarus,BLR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,4464000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,112,Belarus,BLR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,4034000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,116,Cambodia,KHM,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,211000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,120,Cameroon,CMR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,35000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,120,Cameroon,CMR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,5605000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,124,Canada,CAN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,88451000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,124,Canada,CAN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,182365000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,140,Central African Rep.,CAF,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,20000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,140,Central African Rep.,CAF,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,,,1000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,144,Sri Lanka,LKA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,953000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,144,Sri Lanka,LKA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1305000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,152,Chile,CHL,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,152000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,152,Chile,CHL,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,38854000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,156,China,CHN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,4380490000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,156,China,CHN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,3195666000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,170,Colombia,COL,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,46000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,170,Colombia,COL,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,29735000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,178,Congo,COG,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1489000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,180,Dem. Rep. of the Congo,COD,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,140000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,180,Dem. Rep. of the Congo,COD,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,186000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,184,Cook Isds,COK,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,2000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,188,Costa Rica,CRI,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,3617000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,188,Costa Rica,CRI,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,11711000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,191,Croatia,HRV,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,3342000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,191,Croatia,HRV,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,6999000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,192,Cuba,CUB,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,14000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,196,Cyprus,CYP,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,11918000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,196,Cyprus,CYP,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,63708000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,203,Czechia,CZE,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,762719000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,203,Czechia,CZE,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,111799000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,204,Benin,BEN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,79000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,208,Denmark,DNK,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,55948000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,208,Denmark,DNK,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,44038000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,212,Dominica,DMA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,234000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,214,Dominican Rep.,DOM,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,744000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,214,Dominican Rep.,DOM,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,3383000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,218,Ecuador,ECU,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,97000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,218,Ecuador,ECU,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,10666000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,222,El Salvador,SLV,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1907000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,222,El Salvador,SLV,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1828000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,226,Equatorial Guinea,GNQ,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,231,Ethiopia,ETH,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,14000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,231,Ethiopia,ETH,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,9102000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,233,Estonia,EST,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,3668000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,233,Estonia,EST,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,5563000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,242,Fiji,FJI,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,2000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,242,Fiji,FJI,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,622000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,246,Finland,FIN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,67721000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,246,Finland,FIN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,23871000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,251,France,FRA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,650486000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,251,France,FRA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,306378000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,266,Gabon,GAB,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,60000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,266,Gabon,GAB,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,532000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,268,Georgia,GEO,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,2039000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,268,Georgia,GEO,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,7247000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,270,Gambia,GMB,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,5000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,276,Germany,DEU,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,2226068000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,276,Germany,DEU,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,696951000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,288,Ghana,GHA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,14000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,288,Ghana,GHA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,7146000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,292,Gibraltar,GIB,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,16000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,292,Gibraltar,GIB,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,904000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,300,Greece,GRC,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,32692000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,300,Greece,GRC,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,24957000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,308,Grenada,GRD,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,316,Guam,GUM,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,320,Guatemala,GTM,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,7000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,320,Guatemala,GTM,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,4474000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,324,Guinea,GIN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,5000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,332,Haiti,HTI,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,,,2000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,332,Haiti,HTI,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,187000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,340,Honduras,HND,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,4000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,340,Honduras,HND,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,16596000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,344,"China, Hong Kong SAR",HKG,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,398569000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,344,"China, Hong Kong SAR",HKG,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,377310000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,348,Hungary,HUN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,245242000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,348,Hungary,HUN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,53172000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,352,Iceland,ISL,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,131000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,352,Iceland,ISL,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1729000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,360,Indonesia,IDN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,19920000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,360,Indonesia,IDN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,13949000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,372,Ireland,IRL,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,201706000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,372,Ireland,IRL,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,59849000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,381,Italy,ITA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,976540000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,381,Italy,ITA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,131307000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,384,Côte d'Ivoire,CIV,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,5000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,384,Côte d'Ivoire,CIV,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,2721000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,388,Jamaica,JAM,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,15000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,388,Jamaica,JAM,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1748000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,392,Japan,JPN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,2241449000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,392,Japan,JPN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,283015000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,398,Kazakhstan,KAZ,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,95000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,398,Kazakhstan,KAZ,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,23842000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,400,Jordan,JOR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,9925000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,400,Jordan,JOR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,11384000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,404,Kenya,KEN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,133000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,404,Kenya,KEN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,24637000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,410,Rep. of Korea,KOR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1202622000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,410,Rep. of Korea,KOR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,314170000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,417,Kyrgyzstan,KGZ,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,418,Lao People's Dem. Rep.,LAO,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,418000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,426,Lesotho,LSO,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,13000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,428,Latvia,LVA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,4559000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,428,Latvia,LVA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,11315000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,430,Liberia,LBR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,62000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,430,Liberia,LBR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,10000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,440,Lithuania,LTU,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,2053000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,440,Lithuania,LTU,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,11955000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,442,Luxembourg,LUX,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,3158000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,442,Luxembourg,LUX,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,5080000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,446,"China, Macao SAR",MAC,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,61000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,450,Madagascar,MDG,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,,,1000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,454,Malawi,MWI,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,269000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,458,Malaysia,MYS,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,237813000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,458,Malaysia,MYS,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,3703000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,462,Maldives,MDV,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,42000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,466,Mali,MLI,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,320000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,466,Mali,MLI,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,,,1376000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,470,Malta,MLT,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,716000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,470,Malta,MLT,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,528000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,480,Mauritius,MUS,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,264000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,480,Mauritius,MUS,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1106000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,484,Mexico,MEX,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,280834000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,484,Mexico,MEX,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,158509000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,490,"Other Asia, nes",,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,633262000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,490,"Other Asia, nes",,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,190808000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,496,Mongolia,MNG,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,15000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,498,Rep. of Moldova,MDA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,73000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,498,Rep. of Moldova,MDA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,992000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,499,Montenegro,MNE,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,29000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,500,Montserrat,MSR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,15000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,504,Morocco,MAR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,5564000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,504,Morocco,MAR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1764000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,508,Mozambique,MOZ,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,9000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,508,Mozambique,MOZ,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,24000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,512,Oman,OMN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,6000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,516,Namibia,NAM,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,41000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,516,Namibia,NAM,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,3003000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,520,Nauru,NRU,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,54000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,524,Nepal,NPL,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,111000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,524,Nepal,NPL,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1795000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,528,Netherlands,NLD,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,690487000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,528,Netherlands,NLD,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,763966000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,531,Curaçao,CUW,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,118000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,540,New Caledonia,NCL,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,35000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,554,New Zealand,NZL,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,4452000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,554,New Zealand,NZL,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,26989000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,558,Nicaragua,NIC,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,10000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,558,Nicaragua,NIC,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1639000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,562,Niger,NER,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,116000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,566,Nigeria,NGA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,7000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,566,Nigeria,NGA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,40759000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,579,Norway,NOR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,41994000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,579,Norway,NOR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,14495000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,584,Marshall Isds,MHL,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,34000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,586,Pakistan,PAK,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,9000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,591,Panama,PAN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,97000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,591,Panama,PAN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,7983000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,598,Papua New Guinea,PNG,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1104000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,600,Paraguay,PRY,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,2000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,600,Paraguay,PRY,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,2270000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,604,Peru,PER,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,199000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,604,Peru,PER,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,30755000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,608,Philippines,PHL,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,61380000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,608,Philippines,PHL,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,102965000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,616,Poland,POL,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,221143000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,616,Poland,POL,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,68896000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,620,Portugal,PRT,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,25968000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,620,Portugal,PRT,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,10750000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,624,Guinea-Bissau,GNB,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,26000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,642,Romania,ROU,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,140289000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,642,Romania,ROU,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,34205000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,643,Russian Federation,RUS,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,9744000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,643,Russian Federation,RUS,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,133467000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,646,Rwanda,RWA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,184000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,646,Rwanda,RWA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1857000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,654,Saint Helena,SHN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,4000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,674,San Marino,SMR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,252000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,686,Senegal,SEN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,8000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,686,Senegal,SEN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,3714000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,688,Serbia,SRB,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,7620000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,688,Serbia,SRB,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,265000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,690,Seychelles,SYC,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,3000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,690,Seychelles,SYC,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,2000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,694,Sierra Leone,SLE,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,21000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,699,India,IND,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,134666000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,699,India,IND,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,497926000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,702,Singapore,SGP,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,441697000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,702,Singapore,SGP,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,309594000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,703,Slovakia,SVK,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,295180000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,703,Slovakia,SVK,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,9747000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,704,Viet Nam,VNM,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,535874000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,704,Viet Nam,VNM,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,41876000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,705,Slovenia,SVN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,171809000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,705,Slovenia,SVN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,46020000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,706,Somalia,SOM,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,5000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,710,South Africa,ZAF,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,14190000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,710,South Africa,ZAF,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,47054000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,716,Zimbabwe,ZWE,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1560000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,724,Spain,ESP,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,642367000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,724,Spain,ESP,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,307557000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,740,Suriname,SUR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,30000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,748,Eswatini,SWZ,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,33000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,752,Sweden,SWE,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,197964000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,752,Sweden,SWE,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,98322000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,757,Switzerland,CHE,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,177991000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,757,Switzerland,CHE,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,59099000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,764,Thailand,THA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,368286000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,764,Thailand,THA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,69536000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,768,Togo,TGO,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,2000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,768,Togo,TGO,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,5000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,780,Trinidad and Tobago,TTO,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,534000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,784,United Arab Emirates,ARE,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,,,15000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,788,Tunisia,TUN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,4350000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,792,Turkey,TUR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,892880000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,792,Turkey,TUR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,224158000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,795,Turkmenistan,TKM,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,967000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,796,Turks and Caicos Isds,TCA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,3000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,800,Uganda,UGA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,216000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,800,Uganda,UGA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,4165000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,804,Ukraine,UKR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,23040000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,804,Ukraine,UKR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,13257000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,807,North Macedonia,MKD,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,518000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,807,North Macedonia,MKD,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,950000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,818,Egypt,EGY,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,937000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,818,Egypt,EGY,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,2768000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,826,United Kingdom,GBR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,750707000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,826,United Kingdom,GBR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,289407000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,834,United Rep. of Tanzania,TZA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,21000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,834,United Rep. of Tanzania,TZA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,6811000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,837,Bunkers,,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,114430000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,837,Bunkers,,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,2094529000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,842,USA,USA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,4877631000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,842,USA,USA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,4002206000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,854,Burkina Faso,BFA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,10000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,858,Uruguay,URY,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,5553000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,858,Uruguay,URY,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,6262000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,860,Uzbekistan,UZB,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,860,Uzbekistan,UZB,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,11959000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,862,Venezuela,VEN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,9000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,862,Venezuela,VEN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,7541000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,882,Samoa,WSM,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,28000,,,4
+S4,2018,2018,2018,1,0,1,Import,376,Israel,ISR,894,Zambia,ZMB,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,3000,,,4
+S4,2018,2018,2018,1,0,2,Export,376,Israel,ISR,894,Zambia,ZMB,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,20462000,,,4

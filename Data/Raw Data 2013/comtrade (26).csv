@@ -1,0 +1,875 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4122669803,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7686654633,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,4,Afghanistan,AFG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,4,Afghanistan,AFG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,27952,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,8,Albania,ALB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,449496,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,8,Albania,ALB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7560833,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2609596,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,24,Angola,AGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,57940,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,31,Azerbaijan,AZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,53851,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,31,Azerbaijan,AZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14716071,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2159963,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1271146,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5267619,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11432185,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,379696654,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,662918390,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,44,Bahamas,BHS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1744,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,48,Bahrain,BHR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1535167,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,50,Bangladesh,BGD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12511,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,51,Armenia,ARM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,100414,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,51,Armenia,ARM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1922017,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,56,Belgium,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,120519309,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,56,Belgium,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,139143293,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,70,Bosnia Herzegovina,BIH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1714679,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,70,Bosnia Herzegovina,BIH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,89341284,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,72,Botswana,BWA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,410,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15722035,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2694809,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,92,Br. Virgin Isds,VGB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13702,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13035676,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,112743682,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,108,Burundi,BDI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,23443,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,108,Burundi,BDI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,28842,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,112,Belarus,BLR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19365,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,112,Belarus,BLR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14419983,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,116,Cambodia,KHM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,148696,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,120,Cameroon,CMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,151897,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,120,Cameroon,CMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,122,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4545489,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11470500,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,516597,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,65975,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2257906,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,637822,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14749054,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1853765,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,335189,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,137752,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,175,Mayotte,MYT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,306890,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,178,Congo,COG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2403344,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,667331,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,191,Croatia,HRV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,59259328,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,191,Croatia,HRV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,199723160,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,192,Cuba,CUB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12514939,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,192,Cuba,CUB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,867,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8715919,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,36175220,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,203,Czechia,CZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,191373877,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,203,Czechia,CZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,271499427,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,204,Benin,BEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,207098,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,46754409,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,35661114,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,58858,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,610219,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,231,Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,754682,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,231,Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4347,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,233,Estonia,EST,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,759779,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,233,Estonia,EST,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11921909,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2087922,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19715555,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,198954486,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,267553739,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,258,French Polynesia,PYF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,75731,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,262,Djibouti,DJI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19665,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,266,Gabon,GAB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,268,Georgia,GEO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,222656,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,268,Georgia,GEO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12538732,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,276,Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,906998578,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,276,Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,968305526,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21567,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,38492,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,292,Gibraltar,GIB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,347237,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,22860978,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,93423084,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,320,Guatemala,GTM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,32694,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,324,Guinea,GIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16924,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,328,Guyana,GUY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,592,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,340,Honduras,HND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,290,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,365990,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,22451196,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2594,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,237338,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1132063,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,493431,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3373804,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1312342,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,368,Iraq,IRQ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3058555,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15352604,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15969177,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2320573,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21861408,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,180046666,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,825066716,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,410938,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,75768,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,388,Jamaica,JAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,106,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2366130,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,88297060,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,398,Kazakhstan,KAZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8108482,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1469715,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10738593,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1611,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,241958,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,36251,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10883038,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,414,Kuwait,KWT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3040767,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,417,Kyrgyzstan,KGZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,521774,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,418,Lao People's Dem. Rep.,LAO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12002,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,418,Lao People's Dem. Rep.,LAO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18094,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,30097474,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,426,Lesotho,LSO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4534,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,428,Latvia,LVA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1426765,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,428,Latvia,LVA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11620422,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,430,Liberia,LBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,58869,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,434,Libya,LBY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3166021,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,440,Lithuania,LTU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5995569,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,440,Lithuania,LTU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,36072347,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,442,Luxembourg,LUX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,425304,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,442,Luxembourg,LUX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,270196,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,450,Madagascar,MDG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8784,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,450,Madagascar,MDG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,59968,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15608186,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,276151,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,462,Maldives,MDV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,466,Mali,MLI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,67,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15439,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1790448,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,480,Mauritius,MUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,568,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,480,Mauritius,MUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,26612,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,65205,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1037105,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,37873,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5613803,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,496,Mongolia,MNG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1091399,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,498,Rep. of Moldova,MDA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2098149,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,498,Rep. of Moldova,MDA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15052436,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,499,Montenegro,MNE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6609399,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,756960,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2323623,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,508,Mozambique,MOZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,113050,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,508,Mozambique,MOZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,55,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,512,Oman,OMN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,515760,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,516,Namibia,NAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,524,Nepal,NPL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,250,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,524,Nepal,NPL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20476,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,339546737,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,302068936,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,540,New Caledonia,NCL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20238,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,799458,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,356017,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,562,Niger,NER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,94,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,596,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1005408,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,577,"Other Africa, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,627413,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,73881,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7953647,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,83550,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,113059,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,37560,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,57219,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,669346,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,87645,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,491766160,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,335193849,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6453048,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14176547,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,634,Qatar,QAT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21754,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,634,Qatar,QAT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1081855,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,147780937,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,968697952,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,643,Russian Federation,RUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1518465,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,643,Russian Federation,RUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,311153613,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,674,San Marino,SMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,26293,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,682,Saudi Arabia,SAU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,30226,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,682,Saudi Arabia,SAU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20068349,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,686,Senegal,SEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,114,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,688,Serbia,SRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,82871115,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,688,Serbia,SRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,122967557,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,690,Seychelles,SYC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5893,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,694,Sierra Leone,SLE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20181,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,699,India,IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3135700,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,699,India,IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,292312,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,70506,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3738799,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,703,Slovakia,SVK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,372327637,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,703,Slovakia,SVK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,532184606,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,704,Viet Nam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3431467,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,704,Viet Nam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3184515,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,705,Slovenia,SVN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,131982536,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,705,Slovenia,SVN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,209641443,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,710,South Africa,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,76532,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,710,South Africa,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8684639,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,716,Zimbabwe,ZWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2730,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,109654181,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,91399320,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,729,Sudan,SDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17600,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,729,Sudan,SDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,173,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,748,Eswatini,SWZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10569832,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18248727,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,60146938,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5969315,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,81048028,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,760,Syria,SYR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,867455,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,762,Tajikistan,TJK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,900976,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4349444,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,658558,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,784,United Arab Emirates,ARE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,75945,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,784,United Arab Emirates,ARE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10215106,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,524461,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,25589,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16116698,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,37954500,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,795,Turkmenistan,TKM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,976272,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,800,Uganda,UGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,98152,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,800,Uganda,UGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,27694,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,804,Ukraine,UKR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18496189,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,804,Ukraine,UKR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,180111568,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,807,North Macedonia,MKD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3337773,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,807,North Macedonia,MKD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8255333,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2468829,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1550075,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,72103824,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,216285804,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,63611,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4730,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,842,USA,USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,30349487,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,842,USA,USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13938889,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,312733,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,860,Uzbekistan,UZB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13823141,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8463,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21160,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,887,Yemen,YEM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,61625,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,894,Zambia,ZMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,76,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1933926497,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2356080531,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,4,Afghanistan,AFG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1617,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,8,Albania,ALB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,182374,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,8,Albania,ALB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,44447,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,12,Algeria,DZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,365,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,12,Algeria,DZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1672,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,24,Angola,AGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,23657,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,31,Azerbaijan,AZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,247131,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7914612,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15438,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,203716,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1040756,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,94271064,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,341708125,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,48,Bahrain,BHR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,388873,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,48,Bahrain,BHR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8847,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,50,Bangladesh,BGD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,895,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,51,Armenia,ARM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,266495,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,56,Belgium,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,27828131,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,56,Belgium,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,37856062,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,70,Bosnia Herzegovina,BIH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13484860,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,70,Bosnia Herzegovina,BIH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2521724,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3384688,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15445913,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12190735,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,20265169,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,104,Myanmar,MMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,34890,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,112,Belarus,BLR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4014840,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,112,Belarus,BLR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,376060,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,120,Cameroon,CMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2267,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,120,Cameroon,CMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1314483,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5509229,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10926111,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,136,Cayman Isds,CYM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,224,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,140,Central African Rep.,CAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,700,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,140,Central African Rep.,CAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,83687,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,169027,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5189632,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,88866,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6401672,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,44448503,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,296734,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,178,Congo,COG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,702797,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,180,Dem. Rep. of the Congo,COD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,24414,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,188,Costa Rica,CRI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11552,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,188,Costa Rica,CRI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,135,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,191,Croatia,HRV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,36630519,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,191,Croatia,HRV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9569641,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,255925,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,297557,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,203,Czechia,CZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,33891087,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,203,Czechia,CZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,38871966,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,204,Benin,BEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4060146,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12384865,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8690008,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,214,Dominican Rep.,DOM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,26450,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,218,Ecuador,ECU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19225,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,233,Estonia,EST,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5096257,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,233,Estonia,EST,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,162661,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4239100,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,605303,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,67983959,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,39229757,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,262,Djibouti,DJI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,505346,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,268,Georgia,GEO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3383,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,268,Georgia,GEO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,167377,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,270,Gambia,GMB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17997,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,276,Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,269326403,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,276,Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,412189638,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4967407,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1170915,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1295874,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,324,Guinea,GIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2582,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,324,Guinea,GIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,512630,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,121358,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6397822,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,352,Iceland,ISL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5649,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3903995,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,578541,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1389,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,189059,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,368,Iraq,IRQ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11223,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,368,Iraq,IRQ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,208683,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,428083,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,68113,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4714201,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,284907,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,67861451,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,349087374,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,277749,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1703808,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,388,Jamaica,JAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,459,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14182433,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6519784,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,398,Kazakhstan,KAZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,267540,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,398,Kazakhstan,KAZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2036968,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,400,Jordan,JOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8445,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,400,Jordan,JOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,446493,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17143,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1486037,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3504315,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9908082,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,414,Kuwait,KWT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1918,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,417,Kyrgyzstan,KGZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5119,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,223,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,119568,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,428,Latvia,LVA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6214972,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,428,Latvia,LVA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2312584,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,430,Liberia,LBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,241753,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,434,Libya,LBY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,68857,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,440,Lithuania,LTU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2491370,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,440,Lithuania,LTU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2406986,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,442,Luxembourg,LUX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,612134,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,442,Luxembourg,LUX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1553719,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,450,Madagascar,MDG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,322345,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,454,Malawi,MWI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1440,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,127347,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3971548,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,470,Malta,MLT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,22730,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,470,Malta,MLT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13279,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,480,Mauritius,MUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,205,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3206794,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,64268,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1352588,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10024913,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,496,Mongolia,MNG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15541,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,498,Rep. of Moldova,MDA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,314167,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,498,Rep. of Moldova,MDA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3155168,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,499,Montenegro,MNE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3376734,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,499,Montenegro,MNE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,123859,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16451,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,212538,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,508,Mozambique,MOZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2720,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,512,Oman,OMN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,835,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,516,Namibia,NAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,59797,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,524,Nepal,NPL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8777,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,210481429,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,96953971,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,895105,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,145875,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,562,Niger,NER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1245084,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,34,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5593865,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,807233,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,512828,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,74794,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1682448,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,591,Panama,PAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,140521,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,598,Papua New Guinea,PNG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,669,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,600,Paraguay,PRY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2140,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16339,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,24340,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1327,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,64494,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,45741051,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,83243235,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,468960,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,139103,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,624,Guinea-Bissau,GNB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,45,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,634,Qatar,QAT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,50,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,634,Qatar,QAT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,90563,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,159523812,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,156160643,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,643,Russian Federation,RUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,258703171,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,643,Russian Federation,RUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,35608192,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,682,Saudi Arabia,SAU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2822,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,682,Saudi Arabia,SAU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,207034,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,686,Senegal,SEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,59860,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,688,Serbia,SRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,39167095,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,688,Serbia,SRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,73828107,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,690,Seychelles,SYC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,109773,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,694,Sierra Leone,SLE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,298276,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,699,India,IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3183562,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,699,India,IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2707654,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4462241,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,25327,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,703,Slovakia,SVK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,182612669,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,703,Slovakia,SVK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,178093679,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,704,Viet Nam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,232128,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,704,Viet Nam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,975254,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,705,Slovenia,SVN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,20349184,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,705,Slovenia,SVN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,75631382,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,710,South Africa,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,36073051,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,710,South Africa,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,645373,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,716,Zimbabwe,ZWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11928,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8708068,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,44178829,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,729,Sudan,SDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,923,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,740,Suriname,SUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,116578,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,51918548,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8230601,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6292772,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11231018,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,760,Syria,SYR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,148358,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,762,Tajikistan,TJK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,43917,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,500904,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10549504,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,768,Togo,TGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,249770,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,784,United Arab Emirates,ARE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2386064,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,784,United Arab Emirates,ARE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,497806,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,82687,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,290397,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9131018,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,33939340,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,795,Turkmenistan,TKM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,94542,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,795,Turkmenistan,TKM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,50760,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,800,Uganda,UGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8655,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,804,Ukraine,UKR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,85530894,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,804,Ukraine,UKR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,33444942,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,807,North Macedonia,MKD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,670785,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,807,North Macedonia,MKD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,316122,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,790936,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,510473,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,59296451,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,30502560,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,834,United Rep. of Tanzania,TZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,96075,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,834,United Rep. of Tanzania,TZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,41272,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,842,USA,USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,20156652,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,842,USA,USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,65239305,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,854,Burkina Faso,BFA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13976,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,860,Uzbekistan,UZB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,35538,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,894,Zambia,ZMB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,750,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,12420218974,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3884774288,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,4,Afghanistan,AFG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,359040,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,8,Albania,ALB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,203707,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,12,Algeria,DZA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,222739,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,24,Angola,AGO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1942,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,31,Azerbaijan,AZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,904706,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,29155,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1509826196,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,558897028,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,48,Bahrain,BHR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,41123,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,51,Armenia,ARM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,12474,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,56,Belgium,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,16671403,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,56,Belgium,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2127736,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,70,Bosnia Herzegovina,BIH,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5905886,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,70,Bosnia Herzegovina,BIH,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,43457153,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,84,Belize,BLZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,169811,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,100,Bulgaria,BGR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,37983658,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,100,Bulgaria,BGR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,11927094,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,112,Belarus,BLR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9837656,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,112,Belarus,BLR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,423925,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,27962122,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,19361,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,152,Chile,CHL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,14396,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,35921,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,191990,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,184,Cook Isds,COK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,56419,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,191,Croatia,HRV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,201929938,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,191,Croatia,HRV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,531140581,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,192,Cuba,CUB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,93353,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,196,Cyprus,CYP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,80725,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,196,Cyprus,CYP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,74176,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,203,Czechia,CZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,106939157,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,203,Czechia,CZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,40510693,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,333416,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,664249,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,231,Ethiopia,ETH,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2182264,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,233,Estonia,EST,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,464995,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,233,Estonia,EST,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8427,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,33564,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1904,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,73034221,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,16746113,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,262,Djibouti,DJI,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,27495,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,268,Georgia,GEO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,68818,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,276,Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,83625168,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,276,Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,161288315,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,300,Greece,GRC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,77159,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,300,Greece,GRC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4026999,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,344,"China, Hong Kong SAR",HKG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,30211,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,352,Iceland,ISL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,241635,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,360,Indonesia,IDN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1359950,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,364,Iran,IRN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2517747,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,368,Iraq,IRQ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,247514662,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,368,Iraq,IRQ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,81616,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,372,Ireland,IRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,66964,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,372,Ireland,IRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,973088,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,376,Israel,ISR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,29008,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,376,Israel,ISR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5462656,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,55354057,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,21839732,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,384,Côte d'Ivoire,CIV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,509910,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,114204,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3335,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,398,Kazakhstan,KAZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,47427377,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,398,Kazakhstan,KAZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,133662,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,400,Jordan,JOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,314579,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,404,Kenya,KEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,45765,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,410,Rep. of Korea,KOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,408081,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,410,Rep. of Korea,KOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,18,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,414,Kuwait,KWT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,34533,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,417,Kyrgyzstan,KGZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2357,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,417,Kyrgyzstan,KGZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,261729,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,422,Lebanon,LBN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,219933,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,428,Latvia,LVA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,770528,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,428,Latvia,LVA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,539292,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,434,Libya,LBY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,710,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,440,Lithuania,LTU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1926918,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,440,Lithuania,LTU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,611794,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,442,Luxembourg,LUX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,54075,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,442,Luxembourg,LUX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1166194,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,470,Malta,MLT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,137711,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,480,Mauritius,MUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,66698,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,484,Mexico,MEX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,37793,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,490,"Other Asia, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3738,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,490,"Other Asia, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,615483,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,496,Mongolia,MNG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,50,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,498,Rep. of Moldova,MDA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9896805,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,499,Montenegro,MNE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,40239,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,504,Morocco,MAR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,201884,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,512,Oman,OMN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,10603,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,14970796,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,14383433,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,579,Norway,NOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,56684,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,579,Norway,NOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2923450,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,586,Pakistan,PAK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,202804,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,43756983,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,73082460,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,620,Portugal,PRT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,12642,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,634,Qatar,QAT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6862324,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,239455947,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,954092005,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,643,Russian Federation,RUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7689680572,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,643,Russian Federation,RUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,10359822,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,646,Rwanda,RWA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,211001,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,682,Saudi Arabia,SAU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5271,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,686,Senegal,SEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,52923,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,688,Serbia,SRB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,290467435,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,688,Serbia,SRB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,521216150,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,699,India,IND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,190639,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,703,Slovakia,SVK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1111040315,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,703,Slovakia,SVK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,239657365,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,705,Slovenia,SVN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,87639945,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,705,Slovenia,SVN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,209597303,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3803849,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,560502,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,740,Suriname,SUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,92447,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7250326,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,544029,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,720475,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,16905281,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,760,Syria,SYR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,205272,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,764,Thailand,THA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,83919,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,764,Thailand,THA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,124494,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,768,Togo,TGO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,232084,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,784,United Arab Emirates,ARE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,597081,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,788,Tunisia,TUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,387172,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,220115,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,14312701,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,800,Uganda,UGA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1571142,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,804,Ukraine,UKR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,335849469,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,804,Ukraine,UKR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,378095335,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,807,North Macedonia,MKD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3821320,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,818,Egypt,EGY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,138359,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,818,Egypt,EGY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3257259,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,17016879,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6771444,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,834,United Rep. of Tanzania,TZA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8809,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,842,USA,USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,148889981,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,842,USA,USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1291257,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,860,Uzbekistan,UZB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,583207,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,860,Uzbekistan,UZB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,79090,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13516629725,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11538531900,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,4,Afghanistan,AFG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,85,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,4,Afghanistan,AFG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6838,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,8,Albania,ALB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,33438,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,8,Albania,ALB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5488472,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,12,Algeria,DZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,898,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,12,Algeria,DZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12586321,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,24,Angola,AGO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,892756,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,31,Azerbaijan,AZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,34,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,31,Azerbaijan,AZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4113414,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,32,Argentina,ARG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,80917,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,32,Argentina,ARG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3133935,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,36,Australia,AUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,448762,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,36,Australia,AUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5576407,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,40,Austria,AUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1097216502,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,40,Austria,AUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,904433308,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,44,Bahamas,BHS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,21432,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,44,Bahamas,BHS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,24528,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,48,Bahrain,BHR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,278,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,48,Bahrain,BHR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,699084,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,50,Bangladesh,BGD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1275114,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,50,Bangladesh,BGD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,89124,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,51,Armenia,ARM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1090833,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,52,Barbados,BRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,219,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,56,Belgium,BEL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,211224953,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,56,Belgium,BEL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,166327341,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,60,Bermuda,BMU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1171,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,60,Bermuda,BMU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,101701,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,68,Bolivia (Plurinational State of),BOL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15795,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,70,Bosnia Herzegovina,BIH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,29402140,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,70,Bosnia Herzegovina,BIH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,62749998,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,76,Brazil,BRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,59802131,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,76,Brazil,BRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19321845,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,84,Belize,BLZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17597,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,96,Brunei Darussalam,BRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,37807,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,100,Bulgaria,BGR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,54242061,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,100,Bulgaria,BGR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,123035797,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,104,Myanmar,MMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1704,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,104,Myanmar,MMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,900,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,112,Belarus,BLR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11899130,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,112,Belarus,BLR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15483045,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,116,Cambodia,KHM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,44320,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,120,Cameroon,CMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2979,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,120,Cameroon,CMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7971,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,124,Canada,CAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5875673,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,124,Canada,CAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13255883,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,136,Cayman Isds,CYM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,49605,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,144,Sri Lanka,LKA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2304732,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,144,Sri Lanka,LKA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,419875,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,152,Chile,CHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1687135,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,156,China,CHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,281805228,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,156,China,CHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,132966092,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,170,Colombia,COL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,316686,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,170,Colombia,COL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4404073,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,178,Congo,COG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,125085,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,178,Congo,COG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,192885,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,180,Dem. Rep. of the Congo,COD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5484,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,188,Costa Rica,CRI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,318559,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,191,Croatia,HRV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,50275146,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,191,Croatia,HRV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,158178418,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,192,Cuba,CUB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,25950,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,196,Cyprus,CYP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13293402,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,196,Cyprus,CYP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3109695,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,203,Czechia,CZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,673518464,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,203,Czechia,CZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,720183770,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,204,Benin,BEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3183,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,208,Denmark,DNK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,68097140,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,208,Denmark,DNK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,89454038,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,212,Dominica,DMA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,129,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,214,Dominican Rep.,DOM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1996,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,218,Ecuador,ECU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2178,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,218,Ecuador,ECU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,187895,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,222,El Salvador,SLV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,707259,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,231,Ethiopia,ETH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1622228,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,231,Ethiopia,ETH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,852263,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,233,Estonia,EST,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3736083,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,233,Estonia,EST,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7300706,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,246,Finland,FIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,141770901,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,246,Finland,FIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,26658827,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,251,France,FRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,421002487,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,251,France,FRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,555956755,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,266,Gabon,GAB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,380819,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,266,Gabon,GAB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,197807,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,268,Georgia,GEO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2078,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,268,Georgia,GEO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2061353,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,276,Germany,DEU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3689327567,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,276,Germany,DEU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2971102270,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,288,Ghana,GHA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,905,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,288,Ghana,GHA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1711745,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,300,Greece,GRC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19357622,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,300,Greece,GRC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,46327023,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,320,Guatemala,GTM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1046,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,320,Guatemala,GTM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,25452,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,324,Guinea,GIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8911,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,328,Guyana,GUY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1324,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,340,Honduras,HND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,267916,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,23396604,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5912284,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,352,Iceland,ISL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,23512252,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,352,Iceland,ISL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,509766,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,360,Indonesia,IDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6098255,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,360,Indonesia,IDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,952308,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,364,Iran,IRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,67939,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,364,Iran,IRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3109196,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,368,Iraq,IRQ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2450,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,368,Iraq,IRQ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2892235,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,372,Ireland,IRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5105917,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,372,Ireland,IRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16530198,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,376,Israel,ISR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4953364,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,376,Israel,ISR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,32242415,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,381,Italy,ITA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1096317003,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,381,Italy,ITA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,598106084,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,81817,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,388,Jamaica,JAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,100,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,392,Japan,JPN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,128723462,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,392,Japan,JPN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,36506185,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,398,Kazakhstan,KAZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,70987,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,398,Kazakhstan,KAZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12372324,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,400,Jordan,JOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,524,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,400,Jordan,JOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2172778,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,404,Kenya,KEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1020,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,404,Kenya,KEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,749078,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,410,Rep. of Korea,KOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,72667905,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,410,Rep. of Korea,KOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,41284498,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,414,Kuwait,KWT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,212,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,414,Kuwait,KWT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1328865,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,417,Kyrgyzstan,KGZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10890,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,418,Lao People's Dem. Rep.,LAO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4674,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,422,Lebanon,LBN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,37951,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,422,Lebanon,LBN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2997190,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,428,Latvia,LVA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5770066,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,428,Latvia,LVA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,24706932,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,434,Libya,LBY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4216704,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,440,Lithuania,LTU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6381697,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,440,Lithuania,LTU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16196368,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,442,Luxembourg,LUX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,30821277,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,442,Luxembourg,LUX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,54217905,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,446,"China, Macao SAR",MAC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,131861,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,446,"China, Macao SAR",MAC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,51336,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,450,Madagascar,MDG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,452,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,454,Malawi,MWI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,828,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,458,Malaysia,MYS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11551586,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,458,Malaysia,MYS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4246060,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,466,Mali,MLI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3691,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,466,Mali,MLI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,874,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,470,Malta,MLT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1200714,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,470,Malta,MLT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,648319,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,478,Mauritania,MRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,685175,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,480,Mauritius,MUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,50,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,480,Mauritius,MUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,92492,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,484,Mexico,MEX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11290513,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,484,Mexico,MEX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,24613509,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,490,"Other Asia, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,25507395,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,490,"Other Asia, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2816987,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,496,Mongolia,MNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5636,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,498,Rep. of Moldova,MDA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1191965,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,498,Rep. of Moldova,MDA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15239004,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,499,Montenegro,MNE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,522353,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,499,Montenegro,MNE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6220701,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,504,Morocco,MAR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,211101,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,504,Morocco,MAR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,18270213,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,508,Mozambique,MOZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,438580,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,512,Oman,OMN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1617112,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,516,Namibia,NAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,478,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,516,Namibia,NAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,627,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,524,Nepal,NPL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,179312,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,528,Netherlands,NLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,420582186,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,528,Netherlands,NLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,191967002,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,531,Curaçao,CUW,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,320,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,533,Aruba,ABW,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1303,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,534,Saint Maarten,SXM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2335,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,554,New Zealand,NZL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7254459,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,554,New Zealand,NZL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2519007,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,558,Nicaragua,NIC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,71,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,562,Niger,NER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,37397,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,566,Nigeria,NGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1606839,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,566,Nigeria,NGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,804099,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,577,"Other Africa, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,82,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,579,Norway,NOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6638638,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,579,Norway,NOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,47016208,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,584,Marshall Isds,MHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14648,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,586,Pakistan,PAK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7477475,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,586,Pakistan,PAK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5813148,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,591,Panama,PAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,640,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,591,Panama,PAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,845719,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,600,Paraguay,PRY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9841,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,604,Peru,PER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,37864,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,604,Peru,PER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1312488,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,608,Philippines,PHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1441183,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,608,Philippines,PHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,573794,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,616,Poland,POL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1103235995,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,616,Poland,POL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,630616510,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,620,Portugal,PRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,40522154,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,620,Portugal,PRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19418808,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,624,Guinea-Bissau,GNB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2700,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,634,Qatar,QAT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1218,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,634,Qatar,QAT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1872143,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,642,Romania,ROU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,670948190,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,642,Romania,ROU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,596047840,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,643,Russian Federation,RUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,138971215,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,643,Russian Federation,RUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,303201649,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,674,San Marino,SMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8583,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,682,Saudi Arabia,SAU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,126127,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,682,Saudi Arabia,SAU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17580518,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,686,Senegal,SEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,145,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,686,Senegal,SEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,109565,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,688,Serbia,SRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,83782262,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,688,Serbia,SRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,202213702,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,690,Seychelles,SYC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1587754,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,694,Sierra Leone,SLE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10055,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,699,India,IND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19113288,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,699,India,IND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16705585,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,702,Singapore,SGP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3231239,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,702,Singapore,SGP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13890274,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,703,Slovakia,SVK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,912934297,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,703,Slovakia,SVK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,689679064,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,704,Viet Nam,VNM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2913824,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,704,Viet Nam,VNM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,510276,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,705,Slovenia,SVN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,176424974,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,705,Slovenia,SVN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,165961292,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,710,South Africa,ZAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4365765,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,710,South Africa,ZAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,70157408,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,716,Zimbabwe,ZWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,30,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,724,Spain,ESP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,166472969,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,724,Spain,ESP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,192417295,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,729,Sudan,SDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,232768,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,740,Suriname,SUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,177354,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,752,Sweden,SWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,202319907,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,752,Sweden,SWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,112303246,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,757,Switzerland,CHE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,92623308,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,757,Switzerland,CHE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,146248974,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,760,Syria,SYR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,191081,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,760,Syria,SYR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,118001,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,762,Tajikistan,TJK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14085,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,764,Thailand,THA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9308205,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,764,Thailand,THA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4379261,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,768,Togo,TGO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,797822,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,780,Trinidad and Tobago,TTO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3284,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,784,United Arab Emirates,ARE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,609814,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,784,United Arab Emirates,ARE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11221447,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,788,Tunisia,TUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,541832,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,788,Tunisia,TUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2905312,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,792,Turkey,TUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,198731413,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,792,Turkey,TUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,155225887,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,795,Turkmenistan,TKM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,951316,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,800,Uganda,UGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,124064,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,804,Ukraine,UKR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,606061610,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,804,Ukraine,UKR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,228794805,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,807,North Macedonia,MKD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2488950,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,807,North Macedonia,MKD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,39267748,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,818,Egypt,EGY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3235072,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,818,Egypt,EGY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14601862,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,826,United Kingdom,GBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,154946813,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,826,United Kingdom,GBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,458720909,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,203534,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,842,USA,USA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,182959752,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,842,USA,USA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,191967824,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,858,Uruguay,URY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,234588,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,858,Uruguay,URY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,134590,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,860,Uzbekistan,UZB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,81060,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,860,Uzbekistan,UZB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,116534,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,862,Venezuela,VEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,821270,,,0
+S3,2013,2013,2013,1,0,1,Import,348,Hungary,HUN,882,Samoa,WSM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,182,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,887,Yemen,YEM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1348407,,,0
+S3,2013,2013,2013,1,0,2,Export,348,Hungary,HUN,894,Zambia,ZMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14841,,,0

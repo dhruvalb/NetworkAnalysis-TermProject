@@ -1,0 +1,811 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,843644736,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,240361184,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,4,Afghanistan,AFG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10948,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,4,Afghanistan,AFG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21319,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,8,Albania,ALB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8431,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1165924,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,244294,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,24,Angola,AGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6708500,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,24,Angola,AGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,111436,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,25727632,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10482,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3518172,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,642596,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13729060,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12570367,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,44,Bahamas,BHS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,864354,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,44,Bahamas,BHS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,186722,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,48,Bahrain,BHR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,57854,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,48,Bahrain,BHR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,526457,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,52,Barbados,BRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14220,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,58,Belgium-Luxembourg,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10023366,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,58,Belgium-Luxembourg,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10567517,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,68,Bolivia (Plurinational State of),BOL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,375441,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,68,Bolivia (Plurinational State of),BOL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,109357,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,30505444,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,262042,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,84,Belize,BLZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5784,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,96,Brunei Darussalam,BRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,899,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2483752,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,52927,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,104,Myanmar,MMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,135368,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,108,Burundi,BDI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21469,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,116,Cambodia,KHM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,23837,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,120,Cameroon,CMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1445939,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,120,Cameroon,CMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2702,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17977992,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7949113,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,140,Central African Rep.,CAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17654,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,140,Central African Rep.,CAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1579,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1520055,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,22585,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,148,Chad,TCD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,720,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,702688,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,131674,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3595998,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3458702,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,82681,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,174,Comoros,COM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16670,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,174,Comoros,COM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,894,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,178,Congo,COG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19187,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,180,Dem. Rep. of the Congo,COD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1123562,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,180,Dem. Rep. of the Congo,COD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,449405,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7874176,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,49662,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,192,Cuba,CUB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1148587,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,140842,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,358463,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,200,Czechoslovakia,CSK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7633353,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,200,Czechoslovakia,CSK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1375187,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,204,Benin,BEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3546,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,39233932,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6045551,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,166560,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,721751,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3961201,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,57798,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,222,El Salvador,SLV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3573701,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,222,El Salvador,SLV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,53140,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,226,Equatorial Guinea,GNQ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5872,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,230,Fmr Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1168532,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,230,Fmr Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,94718,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6960254,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4104520,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,143666336,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21525724,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,254,French Guiana,GUF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4231,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,262,Djibouti,DJI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,51584,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,266,Gabon,GAB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6074,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,270,Gambia,GMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,834,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1991035,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,985816,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,39659092,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,29328204,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5184803,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5403,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,292,Gibraltar,GIB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,89627,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1155716,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1931765,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,312,Guadeloupe,GLP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,113155,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,320,Guatemala,GTM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5862847,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,320,Guatemala,GTM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,192076,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,324,Guinea,GIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,165819,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,324,Guinea,GIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9481,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,328,Guyana,GUY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2599,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,328,Guyana,GUY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7056,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,332,Haiti,HTI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1766762,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,332,Haiti,HTI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,58478,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,340,Honduras,HND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5236719,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,340,Honduras,HND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12361,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,110637,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1607339,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10951990,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,119899,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,567279,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,276271,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,356,"India, excl. Sikkim",IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3304869,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,356,"India, excl. Sikkim",IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,52868,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8543252,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,191682,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,845476,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,887842,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,368,Iraq,IRQ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,36280,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,368,Iraq,IRQ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1656382,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4216764,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,164027,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9710890,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,256682,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,114847312,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,57855056,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1207603,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,42324,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,388,Jamaica,JAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,42306,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,388,Jamaica,JAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,33240,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5975180,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4426893,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,85710,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4154210,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,127414,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,408,Dem. People's Rep. of Korea,PRK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1306,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,776266,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9125,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,414,Kuwait,KWT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,40091,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,414,Kuwait,KWT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,563867,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,418,Lao People's Dem. Rep.,LAO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18395,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,266794,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,493677,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,430,Liberia,LBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,22885,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,430,Liberia,LBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,802288,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,434,Libya,LBY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,198560,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,446,"China, Macao SAR",MAC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,620,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,450,Madagascar,MDG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,348603,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,450,Madagascar,MDG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16954,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,454,Malawi,MWI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9365,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,665484,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,259461,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,466,Mali,MLI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,38265,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,438454,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,474,Martinique,MTQ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,30813,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,474,Martinique,MTQ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,86277,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,478,Mauritania,MRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6903,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,480,Mauritius,MUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17992,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,480,Mauritius,MUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14324,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4353583,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11057,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6844056,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,670940,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,105482,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,508,Mozambique,MOZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,470474,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,508,Mozambique,MOZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,208761,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,524,Nepal,NPL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4910,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,39156940,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1923945,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,532,Neth. Antilles and Aruba,ANT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1422,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,532,Neth. Antilles and Aruba,ANT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,74092,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,540,New Caledonia,NCL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14862,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,540,New Caledonia,NCL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,179678,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4255166,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13294,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,558,Nicaragua,NIC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2210060,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,558,Nicaragua,NIC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15832,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,562,Niger,NER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,772,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1953039,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,631545,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6420874,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3684632,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,581386,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,52551,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,590,"Fmr Panama, excl.Canal Zone",PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7609396,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,590,"Fmr Panama, excl.Canal Zone",PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,246796,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,600,Paraguay,PRY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1705583,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,600,Paraguay,PRY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,41041,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7284076,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,204902,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1404700,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1640660,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10196392,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,647306,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5020886,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2707593,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,638,Réunion,REU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6589,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,638,Réunion,REU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3165,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5761285,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,109611,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,646,Rwanda,RWA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19407,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,646,Rwanda,RWA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,39153,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,654,Saint Helena,SHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,848,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,654,Saint Helena,SHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4624,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,658,"Saint Kitts, Nevis and Anguilla",KNA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,48063,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,658,"Saint Kitts, Nevis and Anguilla",KNA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16710,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,682,Saudi Arabia,SAU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1208623,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,686,Senegal,SEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,105971,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,686,Senegal,SEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10605,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,694,Sierra Leone,SLE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,715691,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,310436,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,771980,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,706,Somalia,SOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1624,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,711,So. African Customs Union,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10475145,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,711,So. African Customs Union,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,451064,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,716,Zimbabwe,ZWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3309347,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,716,Zimbabwe,ZWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4435,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,720,Fmr Dem. Yemen,YMD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,854,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,36137700,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2081271,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,736,Fmr Sudan,SDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,213336,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,736,Fmr Sudan,SDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1756,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,740,Suriname,SUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,50013,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,740,Suriname,SUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,104912,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10056621,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6145365,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,760,Syria,SYR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8304,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,760,Syria,SYR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,121381,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,197931,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4381533,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,768,Togo,TGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,63886,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,768,Togo,TGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18845,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,776,Tonga,TON,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1748,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,780,Trinidad and Tobago,TTO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,167256,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,780,Trinidad and Tobago,TTO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,47560,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,507205,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,626017,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8773615,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20624,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,800,Uganda,UGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,376218,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,800,Uganda,UGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,28261,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,810,Fmr USSR,SUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1510250,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,810,Fmr USSR,SUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,307390,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,442598,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,71231,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,25868044,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10316928,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2253113,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,73846,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,841,USA (before 1981),USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,56934468,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,841,USA (before 1981),USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,26307564,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,849,US Misc. Pacific Isds,,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8015,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,849,US Misc. Pacific Isds,,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18247,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,854,Burkina Faso,BFA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,36193,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1394765,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,45386,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1241324,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,425920,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,868,Fmr Rep. of Vietnam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1289,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,868,Fmr Rep. of Vietnam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,382931,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,882,Samoa,WSM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,222590,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,886,Fmr Arab Rep. of Yemen,YEM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,45291,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,886,Fmr Arab Rep. of Yemen,YEM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2731,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,890,Fmr Yugoslavia,YUG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8431264,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,890,Fmr Yugoslavia,YUG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,893744,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,894,Zambia,ZMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,166479,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,899,"Areas, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,61591,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,899,"Areas, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,112259,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,373322496,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,124539424,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,12,Algeria,DZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,39470,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,12,Algeria,DZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,27505,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,24,Angola,AGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,139629,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,24,Angola,AGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5269,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1604243,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,193046,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4183195,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,135464,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,23831028,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9880945,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,44,Bahamas,BHS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14283,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,48,Bahrain,BHR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,64550,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,48,Bahrain,BHR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,617,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,52,Barbados,BRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1768,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,58,Belgium-Luxembourg,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8508659,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,58,Belgium-Luxembourg,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3161537,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4379965,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,97789,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,84,Belize,BLZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1872,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,213593,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16764,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,104,Myanmar,MMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,481499,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,116,Cambodia,KHM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17549,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,120,Cameroon,CMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,516891,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5841468,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,156363,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,140,Central African Rep.,CAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,103142,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,159980,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,511,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,148,Chad,TCD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10200,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,46793,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1507,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6303863,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,46744,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1383273,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,29100,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,178,Congo,COG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1355321,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,178,Congo,COG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,47350,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,180,Dem. Rep. of the Congo,COD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,508017,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,180,Dem. Rep. of the Congo,COD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8536,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,188,Costa Rica,CRI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,81245,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,188,Costa Rica,CRI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1049,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,192,Cuba,CUB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19487,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17205,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,200,Czechoslovakia,CSK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,901426,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,200,Czechoslovakia,CSK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,182979,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,204,Benin,BEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,586380,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3773648,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,948499,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,214,Dominican Rep.,DOM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2542,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,214,Dominican Rep.,DOM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,21981,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,218,Ecuador,ECU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6952,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,222,El Salvador,SLV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6897,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,230,Fmr Ethiopia,ETH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,74378,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9586734,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,606119,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,42271684,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12695433,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,266,Gabon,GAB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,968325,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,266,Gabon,GAB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17894,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,270,Gambia,GMB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3032679,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,418724,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2431881,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,50037484,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,34309148,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,582742,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,515,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1432020,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,339457,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,320,Guatemala,GTM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2302149,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,324,Guinea,GIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,132543,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,332,Haiti,HTI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,518,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,340,Honduras,HND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,52337,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,47980,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,23909,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1281562,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,354995,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,352,Iceland,ISL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1447,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,352,Iceland,ISL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3122,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,356,"India, excl. Sikkim",IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1434067,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,356,"India, excl. Sikkim",IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,167090,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,801495,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2200,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1643292,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,39781,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,368,Iraq,IRQ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2440,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,368,Iraq,IRQ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,39603,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5222059,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,189114,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3469749,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,102993,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,20006300,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,41226400,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3423863,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,388,Jamaica,JAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11688,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1581224,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,545975,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,400,Jordan,JOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7893,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,199235,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2690,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,408,Dem. People's Rep. of Korea,PRK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,129587,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,77039,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7917,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,403800,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,36114,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,430,Liberia,LBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,253896,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,450,Madagascar,MDG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,24114,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,454,Malawi,MWI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17586,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2368996,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,24995,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,466,Mali,MLI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,129624,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,478,Mauritania,MRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,369934,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,480,Mauritius,MUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1799,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,480,Mauritius,MUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1101,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1181347,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11021,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,437471,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,496,Mongolia,MNG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,275840,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,817135,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,115376,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,508,Mozambique,MOZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,702764,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,524,Nepal,NPL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,978,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,23764720,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2060321,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,540,New Caledonia,NCL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2492,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1698692,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16416,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,558,Nicaragua,NIC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,36927,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,562,Niger,NER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1656303,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6550719,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,18606,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1392599,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,302237,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,734491,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1200,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,590,"Fmr Panama, excl.Canal Zone",PAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1200,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,600,Paraguay,PRY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1452563,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6025059,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,46516,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1701141,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6859,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,538930,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1038680,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3132324,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,793491,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,638,Réunion,REU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,643,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,969590,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14729,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,694,Sierra Leone,SLE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1079,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,694,Sierra Leone,SLE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,764,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,374458,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,659,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,711,So. African Customs Union,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1933025,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,711,So. African Customs Union,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,53542,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,716,Zimbabwe,ZWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1938,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,720,Fmr Dem. Yemen,YMD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2014,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1973057,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2651365,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,736,Fmr Sudan,SDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5570980,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,736,Fmr Sudan,SDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7962,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,32059128,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1021719,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,760,Syria,SYR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1181158,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,760,Syria,SYR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,43698,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,275700,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8940,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,768,Togo,TGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,133231,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,776,Tonga,TON,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,105049,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,780,Trinidad and Tobago,TTO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,157477,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,245619,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1784,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6614727,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,70897,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,800,Uganda,UGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1390791,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,810,Fmr USSR,SUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1920468,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5371134,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,55680,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13265501,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6496687,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,834,United Rep. of Tanzania,TZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,85667,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,841,USA (before 1981),USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,23770656,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,841,USA (before 1981),USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1104026,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,854,Burkina Faso,BFA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,502671,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,858,Uruguay,URY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2584083,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,858,Uruguay,URY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7831,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,862,Venezuela,VEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,153879,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,862,Venezuela,VEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,39484,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,866,Fmr Dem. Rep. of Vietnam,VDR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,79261,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,868,Fmr Rep. of Vietnam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11896,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,868,Fmr Rep. of Vietnam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,646,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,890,Fmr Yugoslavia,YUG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1567024,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,890,Fmr Yugoslavia,YUG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,308216,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,899,"Areas, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,51224,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,899,"Areas, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,64728,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,461849056,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6568286,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,12,Algeria,DZA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,19557140,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,12,Algeria,DZA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2840,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,32,Argentina,ARG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5506,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,21066,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6513,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,238801,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4140567,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,48,Bahrain,BHR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,27684760,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,58,Belgium-Luxembourg,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8069155,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,58,Belgium-Luxembourg,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,71027,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3489,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,100,Bulgaria,BGR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,10333,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,100,Bulgaria,BGR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6570,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,21587,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7722,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,152,Chile,CHL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1362,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,144088,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,170,Colombia,COL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4645,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,188,Costa Rica,CRI,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2634,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,192,Cuba,CUB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,896,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,200,Czechoslovakia,CSK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8569459,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,200,Czechoslovakia,CSK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,21451,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,98996,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,99473,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,218,Ecuador,ECU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,658,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,230,Fmr Ethiopia,ETH,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,553,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,10757,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,105983,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,129209600,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,207045,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,254,French Guiana,GUF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,502,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,234848,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5507,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,84361984,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,396290,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,300,Greece,GRC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,20451,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,320,Guatemala,GTM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3583,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,324,Guinea,GIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1872,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,340,Honduras,HND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2349,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,344,"China, Hong Kong SAR",HKG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5312,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,348,Hungary,HUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,488827,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,348,Hungary,HUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,17672,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,356,"India, excl. Sikkim",IND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,12181,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,364,Iran,IRN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,34907,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1105,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,13323,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,376,Israel,ISR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,989474,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,376,Israel,ISR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,12599,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,72030912,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,631611,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,384,Côte d'Ivoire,CIV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6556,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2547,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,59117,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,404,Kenya,KEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6040,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,410,Rep. of Korea,KOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,18995,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,414,Kuwait,KWT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,11387247,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,422,Lebanon,LBN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2208,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,430,Liberia,LBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,612,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,434,Libya,LBY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,44985328,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,434,Libya,LBY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5055,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3529,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,504,Morocco,MAR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,26798,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,27233096,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,54008,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,554,New Zealand,NZL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1517,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,566,Nigeria,NGA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8342897,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,566,Nigeria,NGA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,19562,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,579,Norway,NOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,17565,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,586,Pakistan,PAK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2188,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,604,Peru,PER,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2546,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,486719,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,26620,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,620,Portugal,PRT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,23996,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,103587,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,42049,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,658,"Saint Kitts, Nevis and Anguilla",KNA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,137650,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,682,Saudi Arabia,SAU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2122,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,694,Sierra Leone,SLE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,843,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,702,Singapore,SGP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5571,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,706,Somalia,SOM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,26037,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,711,So. African Customs Union,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,94252,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,711,So. African Customs Union,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,12610,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,171249,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,20489,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,260390,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,51203,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,764,Thailand,THA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4802,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,788,Tunisia,TUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3410776,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,788,Tunisia,TUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,17388,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,20144,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,800,Uganda,UGA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,863,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,810,Fmr USSR,SUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8485118,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,810,Fmr USSR,SUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,69424,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,818,Egypt,EGY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1296,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1640008,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,45027,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,834,United Rep. of Tanzania,TZA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1423,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,841,USA (before 1981),USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3360286,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,841,USA (before 1981),USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,36049,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,862,Venezuela,VEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1963,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,868,Fmr Rep. of Vietnam,VNM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1112,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,890,Fmr Yugoslavia,YUG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2646,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,890,Fmr Yugoslavia,YUG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,59744,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,899,"Areas, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2360,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,899,"Areas, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,24122,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1887475968,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1148121984,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,4,Afghanistan,AFG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2895240,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,4,Afghanistan,AFG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,344708,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,8,Albania,ALB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,66459,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,8,Albania,ALB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,26363,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,12,Algeria,DZA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,418440,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,12,Algeria,DZA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4695593,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,24,Angola,AGO,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,24831,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,24,Angola,AGO,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,380747,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,32,Argentina,ARG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1579963,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,32,Argentina,ARG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2839148,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1507339,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,7934381,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,40,Austria,AUT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,188818016,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,40,Austria,AUT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,147619760,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,44,Bahamas,BHS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,278758,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,44,Bahamas,BHS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,108928,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,48,Bahrain,BHR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6283667,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,48,Bahrain,BHR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,778538,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,52,Barbados,BRB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,29865,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,58,Belgium-Luxembourg,BEL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,119854608,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,58,Belgium-Luxembourg,BEL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,25079312,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,68,Bolivia (Plurinational State of),BOL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,76096,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,68,Bolivia (Plurinational State of),BOL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,258168,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5605171,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3852585,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,84,Belize,BLZ,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1018,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,90,Solomon Isds,SLB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6015,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,96,Brunei Darussalam,BRN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2581,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,100,Bulgaria,BGR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1074977,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,100,Bulgaria,BGR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,925925,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,104,Myanmar,MMR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,253615,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,104,Myanmar,MMR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,45195,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,108,Burundi,BDI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,619,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,116,Cambodia,KHM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,49616,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,116,Cambodia,KHM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,26130,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,120,Cameroon,CMR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1995,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,120,Cameroon,CMR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,263892,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,8269574,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,9477086,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,144,Sri Lanka,LKA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,138234,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,144,Sri Lanka,LKA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,155568,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,148,Chad,TCD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,27007,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,152,Chile,CHL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2781487,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,152,Chile,CHL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,491199,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,156,China,CHN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5990899,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,597113,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,170,Colombia,COL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3637529,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,170,Colombia,COL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,692038,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,178,Congo,COG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,95148,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,178,Congo,COG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,8955,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,180,Dem. Rep. of the Congo,COD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,566606,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,180,Dem. Rep. of the Congo,COD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1554217,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,188,Costa Rica,CRI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,241343,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,192,Cuba,CUB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,179138,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,192,Cuba,CUB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,126347,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,196,Cyprus,CYP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1395,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,196,Cyprus,CYP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,541296,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,200,Czechoslovakia,CSK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,14637502,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,200,Czechoslovakia,CSK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3251250,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,204,Benin,BEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,22474,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,208,Denmark,DNK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,18055204,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,208,Denmark,DNK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,35257112,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,214,Dominican Rep.,DOM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,102978,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,218,Ecuador,ECU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,30747,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,218,Ecuador,ECU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,318379,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,222,El Salvador,SLV,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,455769,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,222,El Salvador,SLV,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,116387,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,230,Fmr Ethiopia,ETH,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,280256,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,246,Finland,FIN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,25527748,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,246,Finland,FIN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,23784562,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,251,France,FRA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,229068320,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,251,France,FRA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,85761792,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,254,French Guiana,GUF,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,12626,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,262,Djibouti,DJI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,97971,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,266,Gabon,GAB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,13495,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,270,Gambia,GMB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,21661,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4130415,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2221900,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,530054592,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,203010720,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,288,Ghana,GHA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,182569,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,288,Ghana,GHA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,349724,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,292,Gibraltar,GIB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2610,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,300,Greece,GRC,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1766242,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,300,Greece,GRC,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,9492284,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,312,Guadeloupe,GLP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,24193,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,320,Guatemala,GTM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,133848,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,324,Guinea,GIN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,58166,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,328,Guyana,GUY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,28226,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,332,Haiti,HTI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,47060,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,340,Honduras,HND,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,61743,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6008943,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,11304521,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,348,Hungary,HUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3989128,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,348,Hungary,HUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6884684,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,352,Iceland,ISL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5904726,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,352,Iceland,ISL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,550642,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,356,"India, excl. Sikkim",IND,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6195485,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,356,"India, excl. Sikkim",IND,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2237396,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,360,Indonesia,IDN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,236489,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,360,Indonesia,IDN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,289534,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,364,Iran,IRN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,14053059,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,364,Iran,IRN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5400256,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,368,Iraq,IRQ,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,7284,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,368,Iraq,IRQ,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,875728,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3911208,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4157546,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,376,Israel,ISR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,7810911,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,376,Israel,ISR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,7171990,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,152376496,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,80810472,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2438,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,126074,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,388,Jamaica,JAM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,464786,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,31985730,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,19790188,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,400,Jordan,JOR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,337676,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,404,Kenya,KEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,55957,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,404,Kenya,KEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,930987,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,408,Dem. People's Rep. of Korea,PRK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,995062,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,410,Rep. of Korea,KOR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,282313,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,410,Rep. of Korea,KOR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,742453,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,414,Kuwait,KWT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2731,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,414,Kuwait,KWT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,890104,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,422,Lebanon,LBN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1117171,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,422,Lebanon,LBN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4591924,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,430,Liberia,LBR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,633,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,430,Liberia,LBR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,114799,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,434,Libya,LBY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,15475,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,434,Libya,LBY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,607264,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,446,"China, Macao SAR",MAC,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,26054,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,446,"China, Macao SAR",MAC,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1924,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,450,Madagascar,MDG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,20312,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,450,Madagascar,MDG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,44456,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,454,Malawi,MWI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,24842,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1285211,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,301581,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,466,Mali,MLI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1874,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,466,Mali,MLI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,11342,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,470,Malta,MLT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,7175,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,470,Malta,MLT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,439072,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,474,Martinique,MTQ,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,56337,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,480,Mauritius,MUS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,734,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,480,Mauritius,MUS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,215624,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1107309,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2922893,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,490,"Other Asia, nes",,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,615027,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,490,"Other Asia, nes",,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,540890,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,504,Morocco,MAR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,553990,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,504,Morocco,MAR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2197938,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,508,Mozambique,MOZ,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,38529,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,508,Mozambique,MOZ,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,566726,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,524,Nepal,NPL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,69534,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,524,Nepal,NPL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,8069,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,528,Netherlands,NLD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,56114676,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,528,Netherlands,NLD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,28927904,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,532,Neth. Antilles and Aruba,ANT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,224325,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,540,New Caledonia,NCL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6448,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,554,New Zealand,NZL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,19785,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,554,New Zealand,NZL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1174172,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,558,Nicaragua,NIC,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,111815,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,562,Niger,NER,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1440,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,566,Nigeria,NGA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,10312,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,566,Nigeria,NGA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2916181,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,579,Norway,NOR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,20036094,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,579,Norway,NOR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,19645060,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,586,Pakistan,PAK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2733098,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,586,Pakistan,PAK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,537394,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,590,"Fmr Panama, excl.Canal Zone",PAN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3916047,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,590,"Fmr Panama, excl.Canal Zone",PAN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1210069,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,600,Paraguay,PRY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,729,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,600,Paraguay,PRY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,16250,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,604,Peru,PER,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,431722,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,604,Peru,PER,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1329885,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,608,Philippines,PHL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,50671,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,608,Philippines,PHL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,594721,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,616,Poland,POL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3325138,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,616,Poland,POL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5159009,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,620,Portugal,PRT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,11829376,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,620,Portugal,PRT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,24220940,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,638,Réunion,REU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,53610,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,642,Romania,ROU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1653629,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,642,Romania,ROU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2480407,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,646,Rwanda,RWA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,8332,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,658,"Saint Kitts, Nevis and Anguilla",KNA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,24764,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,682,Saudi Arabia,SAU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,783731,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,682,Saudi Arabia,SAU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1330583,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,686,Senegal,SEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2050,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,686,Senegal,SEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,52624,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,694,Sierra Leone,SLE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,115064,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,702,Singapore,SGP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,62862,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,702,Singapore,SGP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1940658,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,706,Somalia,SOM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5369,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,711,So. African Customs Union,ZAF,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1991944,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,711,So. African Customs Union,ZAF,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,7781226,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,716,Zimbabwe,ZWE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,7103,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,716,Zimbabwe,ZWE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,599646,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,720,Fmr Dem. Yemen,YMD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,23017,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,724,Spain,ESP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,11423407,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,724,Spain,ESP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,17694534,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,736,Fmr Sudan,SDN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,17478,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,736,Fmr Sudan,SDN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,217280,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,740,Suriname,SUR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,72269,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,752,Sweden,SWE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,68932632,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,752,Sweden,SWE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,59055220,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,760,Syria,SYR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,51085,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,760,Syria,SYR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1965413,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,764,Thailand,THA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4298504,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,764,Thailand,THA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1084841,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,768,Togo,TGO,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,8266,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,776,Tonga,TON,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4835,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,780,Trinidad and Tobago,TTO,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,589,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,780,Trinidad and Tobago,TTO,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,276946,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,788,Tunisia,TUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,766669,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,788,Tunisia,TUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,479201,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,792,Turkey,TUR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1540594,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,792,Turkey,TUR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2569868,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,800,Uganda,UGA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,231212,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,810,Fmr USSR,SUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,7360271,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,810,Fmr USSR,SUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2303438,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,818,Egypt,EGY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,367400,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,818,Egypt,EGY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1242542,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,826,United Kingdom,GBR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,195180416,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,826,United Kingdom,GBR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,136758560,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4316,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,165387,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,841,USA (before 1981),USA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,65508376,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,841,USA (before 1981),USA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,76996944,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,849,US Misc. Pacific Isds,,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4999,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,854,Burkina Faso,BFA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,8320,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,858,Uruguay,URY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,262364,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,858,Uruguay,URY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,45962,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,862,Venezuela,VEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,10384,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,862,Venezuela,VEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3765630,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,866,Fmr Dem. Rep. of Vietnam,VDR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,33298,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,868,Fmr Rep. of Vietnam,VNM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,13141,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,882,Samoa,WSM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4322,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,886,Fmr Arab Rep. of Yemen,YEM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,34714,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,890,Fmr Yugoslavia,YUG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,9422022,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,890,Fmr Yugoslavia,YUG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,12179877,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,894,Zambia,ZMB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6075126,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,894,Zambia,ZMB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,646359,,,0
+S1,1972,1972,1972,1,0,1,Import,757,Switzerland,CHE,899,"Areas, nes",,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,215670,,,0
+S1,1972,1972,1972,1,0,2,Export,757,Switzerland,CHE,899,"Areas, nes",,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,588713,,,0

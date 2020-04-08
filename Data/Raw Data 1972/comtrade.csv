@@ -1,0 +1,703 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,390404160,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,194528736,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,8,Albania,ALB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1413071,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,8,Albania,ALB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,136256,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,407647,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,24,Angola,AGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1766259,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,24,Angola,AGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,153088,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3832350,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4227589,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,282806,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,48,Bahrain,BHR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7399,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,52,Barbados,BRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,53773,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,58,Belgium-Luxembourg,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1665316,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,58,Belgium-Luxembourg,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1380003,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,60,Bermuda,BMU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,30628,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,60,Bermuda,BMU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,692,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,68,Bolivia (Plurinational State of),BOL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,237545,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,68,Bolivia (Plurinational State of),BOL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1687,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18470056,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,44091,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,84,Belize,BLZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,605,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8047830,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3374,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,104,Myanmar,MMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,64025,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,108,Burundi,BDI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9474,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,120,Cameroon,CMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,162963,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,120,Cameroon,CMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10904,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1063907,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1241887,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,817370,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1228610,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,75679,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,875722,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4322118,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,178,Congo,COG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,735,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,180,Dem. Rep. of the Congo,COD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4628,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,180,Dem. Rep. of the Congo,COD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,45217,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4037028,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,192,Cuba,CUB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,171829,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,510219,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,331836,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,200,Czechoslovakia,CSK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7260911,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,200,Czechoslovakia,CSK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2472438,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9953863,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2878185,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,270120,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3970015,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,222,El Salvador,SLV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2049316,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,222,El Salvador,SLV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,34269,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,230,Fmr Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1120544,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,230,Fmr Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1384,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1163711,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,288045,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6579318,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4526598,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8865298,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,56077,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,43349672,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,23796868,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5502322,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8437,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5416610,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1149977,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,320,Guatemala,GTM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2259997,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,324,Guinea,GIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,90026,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,328,Guyana,GUY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4412,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,332,Haiti,HTI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19899,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,340,Honduras,HND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3419086,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,39884,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12720,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,24185896,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1990283,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,126364,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16874,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,356,"India, excl. Sikkim",IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,891775,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,669457,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9562,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,155607,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,139762,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,368,Iraq,IRQ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,94179,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,368,Iraq,IRQ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,179051,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,232651,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,340619,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6042685,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,549136,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,51924232,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,99518256,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,95820,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,388,Jamaica,JAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,78042,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2282658,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1275900,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17306,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2176845,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2379,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,414,Kuwait,KWT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,381856,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18775,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,274890,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,434,Libya,LBY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,104149,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,450,Madagascar,MDG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,175291,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,454,Malawi,MWI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,692,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,477942,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,908,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,33835,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,480,Mauritius,MUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,692,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,415866,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1048686,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1137152,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,276580,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,508,Mozambique,MOZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,168889,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,508,Mozambique,MOZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,478911,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,512,Oman,OMN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,29423,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,524,Nepal,NPL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2076,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11314840,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1037735,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,532,Neth. Antilles and Aruba,ANT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4846,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1387764,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3591,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,558,Nicaragua,NIC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,748847,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2696498,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4181990,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,187054,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21543,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,590,"Fmr Panama, excl.Canal Zone",PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4208256,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,598,Papua New Guinea,PNG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,542578,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,600,Paraguay,PRY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,201725,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6922537,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4197,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,548417,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12782136,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,82167,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2309051,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,316256,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,624,Guinea-Bissau,GNB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,527048,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,634,Qatar,QAT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,32971,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10346845,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,252347,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,646,Rwanda,RWA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9474,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,682,Saudi Arabia,SAU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1773,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,682,Saudi Arabia,SAU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,583234,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,686,Senegal,SEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1729,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,72072,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,88442,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,706,Somalia,SOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1730,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,706,Somalia,SOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2163,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,711,So. African Customs Union,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5634472,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,711,So. African Customs Union,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,173898,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,720,Fmr Dem. Yemen,YMD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6793,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5450439,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1277758,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,732,Western Sahara,ESH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19293,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,732,Western Sahara,ESH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,619884,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,736,Fmr Sudan,SDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,48927,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,736,Fmr Sudan,SDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13630,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,740,Suriname,SUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,24658,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3650348,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3821294,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11235578,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15679417,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,760,Syria,SYR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8694,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,760,Syria,SYR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,46297,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1133999,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,102419,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,780,Trinidad and Tobago,TTO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,72072,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,780,Trinidad and Tobago,TTO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,778,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,784,United Arab Emirates,ARE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,111722,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,82972,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,313015,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12107097,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2812,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,800,Uganda,UGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,329994,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,810,Fmr USSR,SUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3658144,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,810,Fmr USSR,SUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,664973,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1542898,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,550134,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6884104,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10224339,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,591204,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,841,USA (before 1981),USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21798068,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,841,USA (before 1981),USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10696901,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,849,US Misc. Pacific Isds,,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7657,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1001232,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,99759,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4023,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,866,Fmr Dem. Rep. of Vietnam,VDR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7008,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,868,Fmr Rep. of Vietnam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2898,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,886,Fmr Arab Rep. of Yemen,YEM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2509,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,886,Fmr Arab Rep. of Yemen,YEM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,29856,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,890,Fmr Yugoslavia,YUG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8975464,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,890,Fmr Yugoslavia,YUG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3008466,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,894,Zambia,ZMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1774,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,899,"Areas, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,49849,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,899,"Areas, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,23350,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,367681888,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,330960384,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,4,Afghanistan,AFG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,91279,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,4,Afghanistan,AFG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1774,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,12,Algeria,DZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7742,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,12,Algeria,DZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,506819,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,24,Angola,AGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,252427,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,24,Angola,AGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4714,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,681438,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,142268,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6430869,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,135649,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,48,Bahrain,BHR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,28601,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,58,Belgium-Luxembourg,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5591331,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,58,Belgium-Luxembourg,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1121373,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,68,Bolivia (Plurinational State of),BOL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,98115,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,28005816,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,206569,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,84,Belize,BLZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12674,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1530608,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3107174,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,104,Myanmar,MMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,550581,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,104,Myanmar,MMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10774,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,108,Burundi,BDI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3763,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,120,Cameroon,CMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,105124,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15177460,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16917,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,140,Central African Rep.,CAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,88771,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,392722,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1211,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1655122,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,61962,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3851994,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,708892,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1514,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8999,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,178,Congo,COG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,268390,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,180,Dem. Rep. of the Congo,COD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,155391,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,180,Dem. Rep. of the Congo,COD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4889,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,192,Cuba,CUB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2423,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,772942,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5841,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,200,Czechoslovakia,CSK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12560422,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,200,Czechoslovakia,CSK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2633743,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3767067,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,260784,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,214,Dominican Rep.,DOM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,519,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,218,Ecuador,ECU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,32315,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,218,Ecuador,ECU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2293,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,222,El Salvador,SLV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,20678,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,222,El Salvador,SLV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2681,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,230,Fmr Ethiopia,ETH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,40792,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,230,Fmr Ethiopia,ETH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,106703,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2531324,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,193151,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7786733,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3242032,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,262,Djibouti,DJI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3548,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,266,Gabon,GAB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,870670,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2513023,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1187582,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,67055696,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,78213160,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,452379,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2070509,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2233113,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,320,Guatemala,GTM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,18948,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,324,Guinea,GIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,22630,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,328,Guyana,GUY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,158248,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,332,Haiti,HTI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12502,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,340,Honduras,HND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,562,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,41529,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,207132,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11445280,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5283333,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,352,Iceland,ISL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,368969,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,356,"India, excl. Sikkim",IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,252158,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,356,"India, excl. Sikkim",IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17870,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1049808,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2379,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2154003,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1112556,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,368,Iraq,IRQ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5364,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16480,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,111980,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4240393,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,924068,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19493672,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,147773600,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3842828,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1686351,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,93505,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,91926,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3894,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,408,Dem. People's Rep. of Korea,PRK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,138866,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,397956,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,414,Kuwait,KWT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,307043,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1684797,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,363941,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,430,Liberia,LBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,48191,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,434,Libya,LBY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11291,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,434,Libya,LBY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2812159,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,450,Madagascar,MDG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10641,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5852821,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5105,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,470,Malta,MLT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,445074,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,746248,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,24143,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,44686,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,103458,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,155086,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,814252,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,508,Mozambique,MOZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,908652,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,508,Mozambique,MOZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4543,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,512,Oman,OMN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,33058,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14858566,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6392523,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,540,New Caledonia,NCL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,822,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1405240,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,42490,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,279810,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1774,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2271755,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,189390,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,272628,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14408,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,598,Papua New Guinea,PNG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3374,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,600,Paraguay,PRY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,42871,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,504287,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,44091,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,532282,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,30893,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9515544,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5104251,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1000017,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4479740,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,624,Guinea-Bissau,GNB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12415,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,634,Qatar,QAT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,464027,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5353140,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2763650,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,682,Saudi Arabia,SAU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1004988,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,686,Senegal,SEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,21327,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,686,Senegal,SEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1427,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,694,Sierra Leone,SLE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5147,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,187403,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,34442,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,706,Somalia,SOM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,174377,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,711,So. African Customs Union,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9199783,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,711,So. African Customs Union,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6406771,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,720,Fmr Dem. Yemen,YMD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3806,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,330291,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,987455,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,732,Western Sahara,ESH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,279984,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,736,Fmr Sudan,SDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1395293,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,736,Fmr Sudan,SDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,55168,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,740,Suriname,SUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1060024,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11440317,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,675440,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7619520,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,22762368,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,760,Syria,SYR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,393156,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,760,Syria,SYR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1107969,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1572490,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,995,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,768,Togo,TGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,108152,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,780,Trinidad and Tobago,TTO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,71640,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,780,Trinidad and Tobago,TTO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6101,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,784,United Arab Emirates,ARE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,738705,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1216671,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,279567,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10661150,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,307516,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,800,Uganda,UGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,818972,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,810,Fmr USSR,SUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,18099826,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,810,Fmr USSR,SUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,457709,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4011977,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9170875,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7374447,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,834,United Rep. of Tanzania,TZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,185198,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,834,United Rep. of Tanzania,TZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,951,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,841,USA (before 1981),USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,21143832,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,841,USA (before 1981),USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3680930,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,854,Burkina Faso,BFA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2466,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,858,Uruguay,URY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5793423,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,862,Venezuela,VEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19989,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,866,Fmr Dem. Rep. of Vietnam,VDR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,103739,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,868,Fmr Rep. of Vietnam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,33527,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,868,Fmr Rep. of Vietnam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,735,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,886,Fmr Arab Rep. of Yemen,YEM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,38639,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,890,Fmr Yugoslavia,YUG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6350605,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,890,Fmr Yugoslavia,YUG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10665337,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,894,Zambia,ZMB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4628,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,899,"Areas, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,44544,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,899,"Areas, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,22658,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,370197344,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,76962152,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,4,Afghanistan,AFG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,110901,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,12,Algeria,DZA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2483873,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,11593,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,48,Bahrain,BHR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9605,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,58,Belgium-Luxembourg,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1745791,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,58,Belgium-Luxembourg,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,11984,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,100,Bulgaria,BGR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9820,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,100,Bulgaria,BGR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,77495,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5278,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,38805,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,196,Cyprus,CYP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5754,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,200,Czechoslovakia,CSK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,41464368,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,200,Czechoslovakia,CSK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3794342,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8867,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,32192,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3027,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2681,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1276451,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8956,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6493862,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,26264,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,64929384,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,60049928,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,300,Greece,GRC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,10730,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,344,"China, Hong Kong SAR",HKG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8264,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,348,Hungary,HUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9308810,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,561252,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,360,Indonesia,IDN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,20509,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,364,Iran,IRN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,20315928,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,364,Iran,IRN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,34096,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,368,Iraq,IRQ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,27293408,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,376,Israel,ISR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1990,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,27820276,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,826800,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,57926,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3677,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,400,Jordan,JOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,26567,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,414,Kuwait,KWT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,127257,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,422,Lebanon,LBN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3195733,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,422,Lebanon,LBN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,102636,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,434,Libya,LBY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,13421119,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,458,Malaysia,MYS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,15663,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2940789,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,34745,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,566,Nigeria,NGA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6531329,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,566,Nigeria,NGA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6187,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,579,Norway,NOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1773,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,586,Pakistan,PAK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1384,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,30623768,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4909629,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,620,Portugal,PRT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,420496,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,634,Qatar,QAT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9124393,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3554147,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3561422,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,682,Saudi Arabia,SAU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9793079,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,682,Saudi Arabia,SAU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,134223,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,702,Singapore,SGP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,15101,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,711,So. African Customs Union,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1168,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,720,Fmr Dem. Yemen,YMD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6057,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2725,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,39764,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,736,Fmr Sudan,SDN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1211,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,128570,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,15575,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,10418542,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,321752,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,760,Syria,SYR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3668143,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,760,Syria,SYR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,380559,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,764,Thailand,THA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3331,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,784,United Arab Emirates,ARE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,14711,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,951,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,810,Fmr USSR,SUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,62586808,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,810,Fmr USSR,SUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,11250,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,818,Egypt,EGY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3115,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1336674,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,841,USA (before 1981),USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,884985,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,841,USA (before 1981),USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,562,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,862,Venezuela,VEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8567,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,886,Fmr Arab Rep. of Yemen,YEM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2942,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,890,Fmr Yugoslavia,YUG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8299398,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,890,Fmr Yugoslavia,YUG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1604057,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,899,"Areas, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4447,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,899,"Areas, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7295,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1071902912,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1434486912,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,4,Afghanistan,AFG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,319480,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,4,Afghanistan,AFG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,127331,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,8,Albania,ALB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,44211,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,8,Albania,ALB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,504996,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,12,Algeria,DZA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,55459,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,12,Algeria,DZA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3986188,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,24,Angola,AGO,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,211676,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,24,Angola,AGO,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,740803,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,32,Argentina,ARG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,247277,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3150419,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,36,Australia,AUS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1035229,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,36,Australia,AUS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,7070740,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,48,Bahrain,BHR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,519,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,48,Bahrain,BHR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,363369,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,52,Barbados,BRB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,18517,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,58,Belgium-Luxembourg,BEL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,28089524,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,58,Belgium-Luxembourg,BEL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,21216752,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,60,Bermuda,BMU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,66499,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,68,Bolivia (Plurinational State of),BOL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,32013,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,68,Bolivia (Plurinational State of),BOL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,306418,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,76,Brazil,BRA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,861618,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,76,Brazil,BRA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6884046,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,84,Belize,BLZ,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1816,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,100,Bulgaria,BGR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2397385,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,100,Bulgaria,BGR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,14372244,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,104,Myanmar,MMR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,135558,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,108,Burundi,BDI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,17002,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,116,Cambodia,KHM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,519,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,120,Cameroon,CMR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,117907,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,124,Canada,CAN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1490229,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,124,Canada,CAN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,10221726,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,140,Central African Rep.,CAF,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,153996,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,144,Sri Lanka,LKA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,84195,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,148,Chad,TCD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,43354,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,152,Chile,CHL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1488004,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,152,Chile,CHL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,690310,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,156,China,CHN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2445097,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,156,China,CHN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,11939482,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,170,Colombia,COL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,238886,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,170,Colombia,COL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,706622,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,309981,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,180,Dem. Rep. of the Congo,COD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,795589,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,188,Costa Rica,CRI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,242643,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,192,Cuba,CUB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,107391,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,196,Cyprus,CYP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1107544,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,200,Czechoslovakia,CSK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,10364269,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,200,Czechoslovakia,CSK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,15975767,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,204,Benin,BEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,228420,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,208,Denmark,DNK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,13834996,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,208,Denmark,DNK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,33742156,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,214,Dominican Rep.,DOM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,285306,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,214,Dominican Rep.,DOM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,572970,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,218,Ecuador,ECU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,556779,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,222,El Salvador,SLV,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,30715,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,222,El Salvador,SLV,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,250778,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,230,Fmr Ethiopia,ETH,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,605,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,230,Fmr Ethiopia,ETH,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,634139,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,242,Fiji,FJI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,8090,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,246,Finland,FIN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,8507571,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,26210164,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,251,France,FRA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,39297128,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,37700240,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,262,Djibouti,DJI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,28728,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,266,Gabon,GAB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3721,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,270,Gambia,GMB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,32018,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4093138,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,19957236,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,453902752,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,333904224,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,660248,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,292,Gibraltar,GIB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,11464,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,300,Greece,GRC,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1284708,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,300,Greece,GRC,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,12952070,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,312,Guadeloupe,GLP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,16052,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,320,Guatemala,GTM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,309319,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,324,Guinea,GIN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,115485,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,328,Guyana,GUY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,73209,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,332,Haiti,HTI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3071,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,332,Haiti,HTI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,220022,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,340,Honduras,HND,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,140919,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2003910,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2897973,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,348,Hungary,HUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,19430016,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,38637896,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,352,Iceland,ISL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1301981,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,352,Iceland,ISL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,483822,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,356,"India, excl. Sikkim",IND,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1539639,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,356,"India, excl. Sikkim",IND,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3785103,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,360,Indonesia,IDN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,132594,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,360,Indonesia,IDN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,536529,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,364,Iran,IRN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6026814,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,364,Iran,IRN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,9258950,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,368,Iraq,IRQ,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4198871,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,372,Ireland,IRL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,801781,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,372,Ireland,IRL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3036826,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,376,Israel,ISR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,529462,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,376,Israel,ISR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4258448,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,381,Italy,ITA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,86857568,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,381,Italy,ITA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,67715104,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,12156,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,483795,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,388,Jamaica,JAM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,113343,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,388,Jamaica,JAM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,215650,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,392,Japan,JPN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,11566892,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,392,Japan,JPN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6964997,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,400,Jordan,JOR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,899688,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,404,Kenya,KEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,115894,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,404,Kenya,KEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1323434,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,408,Dem. People's Rep. of Korea,PRK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,7222,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,408,Dem. People's Rep. of Korea,PRK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,610019,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,410,Rep. of Korea,KOR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1474935,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,410,Rep. of Korea,KOR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,171687,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,414,Kuwait,KWT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1529134,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,418,Lao People's Dem. Rep.,LAO,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,14494,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,422,Lebanon,LBN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,52819,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,422,Lebanon,LBN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,9062199,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,430,Liberia,LBR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,568473,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,434,Libya,LBY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1412698,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,446,"China, Macao SAR",MAC,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,11204,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,446,"China, Macao SAR",MAC,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3072,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,450,Madagascar,MDG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,15097,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,450,Madagascar,MDG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,27086,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,454,Malawi,MWI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,117555,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,458,Malaysia,MYS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,396743,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,458,Malaysia,MYS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1031492,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,466,Mali,MLI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6662,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,470,Malta,MLT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,17693,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,470,Malta,MLT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,270768,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,478,Mauritania,MRT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1298,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,480,Mauritius,MUS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,71256,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,484,Mexico,MEX,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1331700,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,484,Mexico,MEX,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1248493,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,490,"Other Asia, nes",,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1149125,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,490,"Other Asia, nes",,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2383687,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,496,Mongolia,MNG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,241487,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,504,Morocco,MAR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,101920,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,504,Morocco,MAR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1079561,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,508,Mozambique,MOZ,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,87300,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,508,Mozambique,MOZ,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1567559,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,512,Oman,OMN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,24528,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,512,Oman,OMN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,89951,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,524,Nepal,NPL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1167,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,524,Nepal,NPL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1384,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,528,Netherlands,NLD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,24355872,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,528,Netherlands,NLD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,23069404,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,532,Neth. Antilles and Aruba,ANT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,46852,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,540,New Caledonia,NCL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1887519,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,540,New Caledonia,NCL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,778728,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,554,New Zealand,NZL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,54552,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,554,New Zealand,NZL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,852309,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,558,Nicaragua,NIC,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,242388,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,562,Niger,NER,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6359,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,566,Nigeria,NGA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1427,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,566,Nigeria,NGA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6131720,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,579,Norway,NOR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,8483985,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,579,Norway,NOR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,19739904,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,586,Pakistan,PAK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,460721,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,586,Pakistan,PAK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2915897,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,590,"Fmr Panama, excl.Canal Zone",PAN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,183018,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,598,Papua New Guinea,PNG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,24359,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,600,Paraguay,PRY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,124609,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,604,Peru,PER,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,44429,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,604,Peru,PER,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1140263,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,608,Philippines,PHL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,26647,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,608,Philippines,PHL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,645532,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,616,Poland,POL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5807536,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,616,Poland,POL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,33377242,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,620,Portugal,PRT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,8520001,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,620,Portugal,PRT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,10232503,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,624,Guinea-Bissau,GNB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,11073,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,634,Qatar,QAT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,120969,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,642,Romania,ROU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4735282,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,642,Romania,ROU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,29043368,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,646,Rwanda,RWA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4110,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,682,Saudi Arabia,SAU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2813263,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,686,Senegal,SEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,605,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,686,Senegal,SEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,227940,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,694,Sierra Leone,SLE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,88178,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,702,Singapore,SGP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,222145,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,702,Singapore,SGP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2971451,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,706,Somalia,SOM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,37555,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,711,So. African Customs Union,ZAF,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6806721,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,711,So. African Customs Union,ZAF,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,7740076,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,720,Fmr Dem. Yemen,YMD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,97960,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,724,Spain,ESP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4358537,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,724,Spain,ESP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,13242557,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,732,Western Sahara,ESH,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,459512,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,736,Fmr Sudan,SDN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,889054,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,740,Suriname,SUR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,105397,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,752,Sweden,SWE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,35550560,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,752,Sweden,SWE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,61408080,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,757,Switzerland,CHE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,138103104,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,757,Switzerland,CHE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,191335680,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,760,Syria,SYR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2075,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,760,Syria,SYR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2922334,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,764,Thailand,THA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,254068,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,764,Thailand,THA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1912672,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,768,Togo,TGO,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,73729,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,780,Trinidad and Tobago,TTO,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,156630,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,784,United Arab Emirates,ARE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,511737,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,788,Tunisia,TUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,186930,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,788,Tunisia,TUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1206177,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,792,Turkey,TUR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,610535,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,792,Turkey,TUR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6009169,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,800,Uganda,UGA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,209556,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,800,Uganda,UGA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,105571,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,810,Fmr USSR,SUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6945365,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,810,Fmr USSR,SUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,29468654,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,818,Egypt,EGY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,368840,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,818,Egypt,EGY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2122369,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,826,United Kingdom,GBR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,82419848,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,826,United Kingdom,GBR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,148371392,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,36642,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,435544,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,841,USA (before 1981),USA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,13016693,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,841,USA (before 1981),USA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,42082720,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,849,US Misc. Pacific Isds,,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3504,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,858,Uruguay,URY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,720899,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,858,Uruguay,URY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,225600,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,862,Venezuela,VEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1384,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,862,Venezuela,VEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1761213,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,868,Fmr Rep. of Vietnam,VNM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,28253,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,886,Fmr Arab Rep. of Yemen,YEM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,258662,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,890,Fmr Yugoslavia,YUG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,14392779,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,890,Fmr Yugoslavia,YUG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,48193748,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,894,Zambia,ZMB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,7491030,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,894,Zambia,ZMB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2151237,,,0
+S1,1972,1972,1972,1,0,1,Import,40,Austria,AUT,899,"Areas, nes",,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,162275,,,0
+S1,1972,1972,1972,1,0,2,Export,40,Austria,AUT,899,"Areas, nes",,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,383355,,,0

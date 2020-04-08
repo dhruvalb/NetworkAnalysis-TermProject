@@ -1,0 +1,916 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,,,4074543196,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,3153941852,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,8,Albania,ALB,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,407280,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,8,Albania,ALB,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,570154,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,2219959,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,89321,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,16,American Samoa,ASM,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,453,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,20,Andorra,AND,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,76531,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,28,Antigua and Barbuda,ATG,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,27348,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,31,Azerbaijan,AZE,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,202946,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,7293997,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,2436440,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,1066136,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,100327998,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,309416228,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,48,Bahrain,BHR,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,2700,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,48,Bahrain,BHR,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,47115,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,50,Bangladesh,BGD,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,43099,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,51,Armenia,ARM,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,345993,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,52,Barbados,BRB,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,95,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,56,Belgium,BEL,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,45814758,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,56,Belgium,BEL,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,42592948,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,68,Bolivia (Plurinational State of),BOL,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,517605,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,70,Bosnia Herzegovina,BIH,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,173766,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,70,Bosnia Herzegovina,BIH,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,6639664,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,29520918,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,41812,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,84,Belize,BLZ,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,4450,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,92,Br. Virgin Isds,VGB,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,39,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,5197825,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,30217906,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,104,Myanmar,MMR,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,163114,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,104,Myanmar,MMR,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,30513,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,108,Burundi,BDI,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,2702,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,112,Belarus,BLR,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,620,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,112,Belarus,BLR,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,8746677,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,116,Cambodia,KHM,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,487497,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,120,Cameroon,CMR,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,7557409,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,120,Cameroon,CMR,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,15123,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,6388539,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,1940344,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,132,Cabo Verde,CPV,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,21546,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,132,Cabo Verde,CPV,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,3821,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,278090,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,7874737,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,35618,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,24208689,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,549073,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,162,Christmas Isds,CXR,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,2842,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,166,Cocos Isds,CCK,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,37704,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,3546047,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,4875,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,174,Comoros,COM,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,57588,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,174,Comoros,COM,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,88601,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,5535607,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,1062,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,191,Croatia,HRV,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,9607322,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,191,Croatia,HRV,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,20182174,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,192,Cuba,CUB,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,41238,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,1391707,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,4452043,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,203,Czechia,CZE,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,959062315,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,203,Czechia,CZE,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,767634920,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,204,Benin,BEN,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,3449,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,22006857,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,11351782,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,212,Dominica,DMA,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,59007,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,1239735,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,19035503,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,222,El Salvador,SLV,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,132175,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,231,Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,5130818,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,232,Eritrea,ERI,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,2964,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,233,Estonia,EST,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,8542406,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,233,Estonia,EST,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,1981255,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,234,Faeroe Isds,FRO,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,96847,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,2196346,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,21198730,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,76539811,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,32265014,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,258,French Polynesia,PYF,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,2248,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,262,Djibouti,DJI,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,23797,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,266,Gabon,GAB,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,231242,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,268,Georgia,GEO,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,7074713,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,268,Georgia,GEO,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,281905,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,275,State of Palestine,PSE,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,105071,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,275,State of Palestine,PSE,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,50985,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,276,Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,572722172,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,276,Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,153317569,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,3389018,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,74853,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,24161482,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,5961447,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,308,Grenada,GRD,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,43788,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,320,Guatemala,GTM,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,77351,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,332,Haiti,HTI,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,,,3553,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,340,Honduras,HND,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,424040,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,20955,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,994463,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,315392974,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,738656240,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,2882716,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,1416,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,2737443,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,5283904,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,368,Iraq,IRQ,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,234841,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,12969418,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,2586823,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,3192459,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,292598,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,,,125494113,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,164695420,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,30439921,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,37620,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,388,Jamaica,JAM,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,47501,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,1136976,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,272416,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,398,Kazakhstan,KAZ,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,31296,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,398,Kazakhstan,KAZ,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,329881,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,717,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,273199,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,249613,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,1218879,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,92652,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,414,Kuwait,KWT,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,488514,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,417,Kyrgyzstan,KGZ,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,21666,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,883190,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,428,Latvia,LVA,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,4425605,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,428,Latvia,LVA,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,17356214,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,430,Liberia,LBR,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,31468,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,434,Libya,LBY,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,428891,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,440,Lithuania,LTU,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,3899413,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,440,Lithuania,LTU,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,9382871,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,442,Luxembourg,LUX,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,142405,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,442,Luxembourg,LUX,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,151875,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,450,Madagascar,MDG,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,293079,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,454,Malawi,MWI,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,11019,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,1038055,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,155223,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,462,Maldives,MDV,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,1104,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,1152,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,167162,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,478,Mauritania,MRT,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,292,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,480,Mauritius,MUS,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,554232,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,2261308,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,7990,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,385620,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,1263,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,496,Mongolia,MNG,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,1152524,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,498,Rep. of Moldova,MDA,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,,,751998,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,498,Rep. of Moldova,MDA,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,3023937,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,499,Montenegro,MNE,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,110174,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,4744240,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,59461,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,508,Mozambique,MOZ,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,39571,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,512,Oman,OMN,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,8747,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,516,Namibia,NAM,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,44738,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,520,Nauru,NRU,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,31,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,524,Nepal,NPL,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,9890,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,100863843,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,55956250,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,531,Curaçao,CUW,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,18152,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,533,Aruba,ABW,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,200739,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,534,Saint Maarten,SXM,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,18098,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,548,Vanuatu,VUT,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,2495,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,348144,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,76722,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,558,Nicaragua,NIC,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,23856,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,562,Niger,NER,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,39350,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,50270,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,39,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,568,"Other Europe, nes",,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,558225800,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,568,"Other Europe, nes",,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,2588,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,577,"Other Africa, nes",,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,55829,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,1774686,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,337094,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,585,Palau,PLW,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,77852,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,88962,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,129917,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,591,Panama,PAN,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,880748,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,598,Papua New Guinea,PNG,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,86684,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,600,Paraguay,PRY,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,4115,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,1354791,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,39,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,1519121,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,612,Pitcairn,PCN,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,39806,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,500976661,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,352372312,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,2287729,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,1778579,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,634,Qatar,QAT,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,23561,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,23807849,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,104651504,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,643,Russian Federation,RUS,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,1847777,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,643,Russian Federation,RUS,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,40086896,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,659,Saint Kitts and Nevis,KNA,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,1245,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,662,Saint Lucia,LCA,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,9,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,682,Saudi Arabia,SAU,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,1424,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,682,Saudi Arabia,SAU,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,992395,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,686,Senegal,SEN,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,81265,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,686,Senegal,SEN,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,34412,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,688,Serbia,SRB,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,5518574,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,688,Serbia,SRB,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,8780423,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,690,Seychelles,SYC,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,109224,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,690,Seychelles,SYC,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,57645,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,694,Sierra Leone,SLE,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,1181039,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,694,Sierra Leone,SLE,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,154,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,699,India,IND,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,5643002,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,699,India,IND,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,633346,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,5705,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,5342,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,703,Slovakia,SVK,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,60435708,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,704,Viet Nam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,20059098,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,704,Viet Nam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,196716,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,705,Slovenia,SVN,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,7691492,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,705,Slovenia,SVN,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,21284549,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,710,South Africa,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,9381685,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,710,South Africa,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,397579,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,716,Zimbabwe,ZWE,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,64215,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,135181523,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,37443228,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,732,Western Sahara,ESH,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,3962,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,740,Suriname,SUR,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,1735301,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,740,Suriname,SUR,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,35,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,748,Eswatini,SWZ,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,87677,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,7009807,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,44530966,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,23808681,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,19323944,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,760,Syria,SYR,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,18032,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,760,Syria,SYR,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,51735,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,11210863,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,461964,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,780,Trinidad and Tobago,TTO,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,29093,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,780,Trinidad and Tobago,TTO,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,8044,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,784,United Arab Emirates,ARE,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,260272,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,2750301,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,5387,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,33489639,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,6616283,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,795,Turkmenistan,TKM,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,735249,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,796,Turks and Caicos Isds,TCA,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,35507,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,800,Uganda,UGA,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,44502,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,804,Ukraine,UKR,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,5145477,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,804,Ukraine,UKR,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,19430822,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,807,North Macedonia,MKD,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,2308770,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,807,North Macedonia,MKD,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,3225020,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,1118154,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,9188,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,23936018,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,69083007,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,36051,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,837,Bunkers,,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,1052,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,839,Special Categories,,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,156,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,842,USA,USA,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,37354319,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,842,USA,USA,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,1129777,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,854,Burkina Faso,BFA,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,10331,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,439196,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,860,Uzbekistan,UZB,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,161016,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,887,Yemen,YEM,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,213991,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,894,Zambia,ZMB,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,13,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,899,"Areas, nes",,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,890548,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,899,"Areas, nes",,,,,,,,,0,Food and live animals,1,No Quantity,0,,,,0,,9958,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,2493155493,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,,,2024870223,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,8,Albania,ALB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,450,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,8,Albania,ALB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,11182,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,12,Algeria,DZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,13,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,16,American Samoa,ASM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,697,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,20,Andorra,AND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,16590,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,24,Angola,AGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,13135,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,24,Angola,AGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,705,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,31,Azerbaijan,AZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,4488,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,31,Azerbaijan,AZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,19081,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,2801757,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,28387,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,3108747,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,143024,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,99224327,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,357737485,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,48,Bahrain,BHR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,130368,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,50,Bangladesh,BGD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,279,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,51,Armenia,ARM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,77318,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,56,Belgium,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,20606578,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,56,Belgium,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,55696131,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,68,Bolivia (Plurinational State of),BOL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,88680,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,70,Bosnia Herzegovina,BIH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,8825726,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,70,Bosnia Herzegovina,BIH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,6428384,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,9621932,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,2003,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,3673286,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,1407708,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,112,Belarus,BLR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,2239474,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,112,Belarus,BLR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,3193194,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,120,Cameroon,CMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,168928,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,70863984,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,1127,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,140,Central African Rep.,CAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,25773,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,51873,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,737951,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,15459008,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,4486384,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,395998,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,178,Congo,COG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,13904,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,188,Costa Rica,CRI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,543596,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,191,Croatia,HRV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,2222857,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,191,Croatia,HRV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,4842047,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,192,Cuba,CUB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,183593,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,51995,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,1734980,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,203,Czechia,CZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,259214654,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,203,Czechia,CZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,535510843,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,204,Benin,BEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,2782532,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,6069914,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,4312372,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,218,Ecuador,ECU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,203088,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,231,Ethiopia,ETH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,25403,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,233,Estonia,EST,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,4573704,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,233,Estonia,EST,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,384862,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,22207785,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,249576,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,16270833,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,28378086,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,262,Djibouti,DJI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,79531,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,268,Georgia,GEO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,3881,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,270,Gambia,GMB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,3457,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,276,Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,181292493,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,276,Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,201841518,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,7395686,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,9698556,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,2841487,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,320,Guatemala,GTM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,52987,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,320,Guatemala,GTM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,15592,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,324,Guinea,GIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,28113,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,336,Holy See (Vatican City State),VAT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,637,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,1425,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,1129233,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,102208259,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,,,241029366,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,45037387,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,1507,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,97077,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,1411325,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,368,Iraq,IRQ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,22046,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,35643524,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,535904,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,551591,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,597961,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,38732718,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,118976734,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,1288919,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,199,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,388,Jamaica,JAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,46878362,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,15364131,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,49626,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,398,Kazakhstan,KAZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,3136,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,398,Kazakhstan,KAZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,153674,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,400,Jordan,JOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,21447,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,139181,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,408,Dem. People's Rep. of Korea,PRK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,9414,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,2129361,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,259336,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,418,Lao People's Dem. Rep.,LAO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,693,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,428,Latvia,LVA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,2057881,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,428,Latvia,LVA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,843451,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,440,Lithuania,LTU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,1962705,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,440,Lithuania,LTU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,1731667,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,442,Luxembourg,LUX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,24170482,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,442,Luxembourg,LUX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,7603042,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,450,Madagascar,MDG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,12084,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,454,Malawi,MWI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,1436666,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,67507759,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,163310,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,470,Malta,MLT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,83330,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,840827,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,49005,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,4987262,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,257934,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,496,Mongolia,MNG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,10616,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,498,Rep. of Moldova,MDA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,380141,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,498,Rep. of Moldova,MDA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,632918,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,499,Montenegro,MNE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,254781,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,107451,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,5573,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,508,Mozambique,MOZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,171576,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,512,Oman,OMN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,90336,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,516,Namibia,NAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,3577,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,520,Nauru,NRU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,13522,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,56646847,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,7790764,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,540,New Caledonia,NCL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,625,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,362,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,558,Nicaragua,NIC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,8419,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,5380952,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,568,"Other Europe, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,193429156,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,24616530,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,3180,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,1355630,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,533252,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,591,Panama,PAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,514,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,591,Panama,PAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,4202,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,124512,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,11689,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,5921,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,189692156,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,248151049,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,5981733,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,,,1616459,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,45980366,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,22458885,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,643,Russian Federation,RUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,251164840,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,643,Russian Federation,RUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,12392979,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,674,San Marino,SMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,63335,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,682,Saudi Arabia,SAU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,401439,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,688,Serbia,SRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,5409995,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,688,Serbia,SRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,15194450,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,694,Sierra Leone,SLE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,58966,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,699,India,IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,9388233,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,699,India,IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,1217406,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,6935636,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,703,Slovakia,SVK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,4113983,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,704,Viet Nam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,2006084,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,704,Viet Nam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,79685,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,705,Slovenia,SVN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,11946544,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,705,Slovenia,SVN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,46478287,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,710,South Africa,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,7404106,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,710,South Africa,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,203971,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,716,Zimbabwe,ZWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,22253,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,3917399,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,2694516,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,729,Sudan,SDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,1011,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,740,Suriname,SUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,1478653,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,20430248,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,1276000,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,387071,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,7865023,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,760,Syria,SYR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,43,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,20528876,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,5096,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,768,Togo,TGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,1676091,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,780,Trinidad and Tobago,TTO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,2329,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,784,United Arab Emirates,ARE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,203,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,784,United Arab Emirates,ARE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,1550100,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,75917,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,409,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,7824846,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,4542529,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,795,Turkmenistan,TKM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,64151,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,796,Turks and Caicos Isds,TCA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,155,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,804,Ukraine,UKR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,420873419,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,804,Ukraine,UKR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,46629308,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,807,North Macedonia,MKD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,73113,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,807,North Macedonia,MKD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,19035,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,1814497,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,37726,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,7453375,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,11189935,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,837,Bunkers,,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,172,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,842,USA,USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,43734248,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,842,USA,USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,1107521,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,858,Uruguay,URY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,50750,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,860,Uzbekistan,UZB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,154209,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,862,Venezuela,VEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,16424,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,876,Wallis and Futuna Isds,WLF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,127,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,899,"Areas, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,0,,,,0,,4301543,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,,,9943862105,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,,,4684259522,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,8,Albania,ALB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,21090,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,20,Andorra,AND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,784,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,24,Angola,AGO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,292,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,31,Azerbaijan,AZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,40019,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,939612,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,138,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,317527941,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,1265032604,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,50,Bangladesh,BGD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,10560,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,51,Armenia,ARM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,1494,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,56,Belgium,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,7546952,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,56,Belgium,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,5794204,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,70,Bosnia Herzegovina,BIH,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,91116,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,70,Bosnia Herzegovina,BIH,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,4965135,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,92,Br. Virgin Isds,VGB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,21289187,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,100,Bulgaria,BGR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,51831026,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,100,Bulgaria,BGR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,6829528,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,112,Belarus,BLR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,1828783,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,112,Belarus,BLR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,22469,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,868971,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,144,Sri Lanka,LKA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,823,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,144818,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,3320,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,170,Colombia,COL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,3586,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,191,Croatia,HRV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,19664582,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,191,Croatia,HRV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,15542102,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,196,Cyprus,CYP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,30963,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,203,Czechia,CZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,929425024,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,203,Czechia,CZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,1289763272,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,53667,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,280538,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,212,Dominica,DMA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,33320,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,218,Ecuador,ECU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,1858,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,231,Ethiopia,ETH,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,483,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,233,Estonia,EST,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,113921,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,233,Estonia,EST,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,2511992,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,234,Faeroe Isds,FRO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,4820,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,111565,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,20531,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,19897063,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,593458,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,268,Georgia,GEO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,2129,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,276,Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,74951949,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,276,Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,198413384,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,300,Greece,GRC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,55768,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,344,"China, Hong Kong SAR",HKG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,5746,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,348,Hungary,HUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,190781335,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,348,Hungary,HUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,,,1111088397,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,8892881,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,8519495,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,,,142709,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,398,Kazakhstan,KAZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,7723641,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,398,Kazakhstan,KAZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,2,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,410,Rep. of Korea,KOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,916920,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,414,Kuwait,KWT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,898,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,414,Kuwait,KWT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,377,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,428,Latvia,LVA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,215238,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,428,Latvia,LVA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,780493,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,440,Lithuania,LTU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,1198262,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,440,Lithuania,LTU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,3252848,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,442,Luxembourg,LUX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,106,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,458,Malaysia,MYS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,17,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,478,Mauritania,MRT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,2112,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,490,"Other Asia, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,386,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,498,Rep. of Moldova,MDA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,52418,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,499,Montenegro,MNE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,43,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,512,Oman,OMN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,405,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,516,Namibia,NAM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,3453,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,3190486,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,61825222,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,554,New Zealand,NZL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,892,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,566,Nigeria,NGA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,94,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,568,"Other Europe, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,,,956565580,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,579,Norway,NOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,983,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,586,Pakistan,PAK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,10566,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,612,Pitcairn,PCN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,30216,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,192932175,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,,,487472322,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,620,Portugal,PRT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,30,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,634,Qatar,QAT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,264,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,634,Qatar,QAT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,10755,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,23552455,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,65965133,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,643,Russian Federation,RUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,6882625679,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,643,Russian Federation,RUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,769202,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,646,Rwanda,RWA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,480,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,682,Saudi Arabia,SAU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,245,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,688,Serbia,SRB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,760,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,688,Serbia,SRB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,21098401,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,694,Sierra Leone,SLE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,81,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,699,India,IND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,744,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,699,India,IND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,54,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,702,Singapore,SGP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,3837,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,703,Slovakia,SVK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,44260767,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,704,Viet Nam,VNM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,54,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,704,Viet Nam,VNM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,103,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,705,Slovenia,SVN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,16567921,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,705,Slovenia,SVN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,7499099,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,710,South Africa,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,15612,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,710,South Africa,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,95,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,213648,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,2713133,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,283670,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,378226,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,74649,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,2083040,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,788,Tunisia,TUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,929,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,9097,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,11855,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,804,Ukraine,UKR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,90174277,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,804,Ukraine,UKR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,,,114360780,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,807,North Macedonia,MKD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,937228,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,794399,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,5518876,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,842,USA,USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,56243027,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,842,USA,USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,0,,216,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,899,"Areas, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,0,,,,,,20079190,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,,,12125670627,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,0,World,WLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,,,14388514647,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,8,Albania,ALB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,111,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,8,Albania,ALB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,2037880,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,12,Algeria,DZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,25,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,12,Algeria,DZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,13406006,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,16,American Samoa,ASM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,65830,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,20,Andorra,AND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,321107,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,20,Andorra,AND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,77585,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,24,Angola,AGO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,464838,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,31,Azerbaijan,AZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,1987,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,31,Azerbaijan,AZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,10250875,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,32,Argentina,ARG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,239802,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,32,Argentina,ARG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,6613902,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,36,Australia,AUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,33329645,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,36,Australia,AUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,9714720,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,40,Austria,AUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,469723760,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,40,Austria,AUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,868385419,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,44,Bahamas,BHS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,103,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,48,Bahrain,BHR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,36449,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,48,Bahrain,BHR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,26099,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,50,Bangladesh,BGD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,3714948,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,50,Bangladesh,BGD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,148444,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,51,Armenia,ARM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,37369,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,51,Armenia,ARM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,1275432,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,52,Barbados,BRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,8853,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,52,Barbados,BRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,548,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,56,Belgium,BEL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,,,150181674,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,56,Belgium,BEL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,181975754,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,60,Bermuda,BMU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,498,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,68,Bolivia (Plurinational State of),BOL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,3013632,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,68,Bolivia (Plurinational State of),BOL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,189236,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,70,Bosnia Herzegovina,BIH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,19698413,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,70,Bosnia Herzegovina,BIH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,35317809,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,76,Brazil,BRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,13910291,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,76,Brazil,BRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,27901470,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,84,Belize,BLZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,81,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,86,Br. Indian Ocean Terr.,IOT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,23754,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,90,Solomon Isds,SLB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,59,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,92,Br. Virgin Isds,VGB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,1767,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,92,Br. Virgin Isds,VGB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,131634,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,96,Brunei Darussalam,BRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,1542,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,100,Bulgaria,BGR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,18099486,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,100,Bulgaria,BGR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,45991062,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,104,Myanmar,MMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,123123,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,104,Myanmar,MMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,795,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,112,Belarus,BLR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,31442853,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,112,Belarus,BLR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,29943478,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,116,Cambodia,KHM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,7460,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,116,Cambodia,KHM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,,,12596,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,120,Cameroon,CMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,4164,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,124,Canada,CAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,9478106,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,124,Canada,CAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,10888449,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,132,Cabo Verde,CPV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,7796,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,144,Sri Lanka,LKA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,879827,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,144,Sri Lanka,LKA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,22688,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,148,Chad,TCD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,539,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,148,Chad,TCD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,44662,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,152,Chile,CHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,2239114,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,152,Chile,CHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,2194451,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,156,China,CHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,422342468,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,156,China,CHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,30659024,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,162,Christmas Isds,CXR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,1425,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,166,Cocos Isds,CCK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,309,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,170,Colombia,COL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,44356,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,170,Colombia,COL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,640020,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,178,Congo,COG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,5018,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,178,Congo,COG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,76124,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,180,Dem. Rep. of the Congo,COD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,103,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,180,Dem. Rep. of the Congo,COD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,58457,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,184,Cook Isds,COK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,68006,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,188,Costa Rica,CRI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,288834,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,188,Costa Rica,CRI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,327340,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,191,Croatia,HRV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,21556444,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,191,Croatia,HRV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,53727668,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,192,Cuba,CUB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,15155,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,192,Cuba,CUB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,1829648,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,196,Cyprus,CYP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,809331,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,196,Cyprus,CYP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,7267697,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,203,Czechia,CZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,1798730470,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,203,Czechia,CZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,2784953166,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,204,Benin,BEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,168706,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,204,Benin,BEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,19565,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,208,Denmark,DNK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,22222706,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,208,Denmark,DNK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,97173736,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,212,Dominica,DMA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,26231,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,214,Dominican Rep.,DOM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,1097,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,214,Dominican Rep.,DOM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,96177,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,218,Ecuador,ECU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,162830,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,218,Ecuador,ECU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,197215,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,222,El Salvador,SLV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,122688,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,222,El Salvador,SLV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,55467,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,231,Ethiopia,ETH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,246811,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,231,Ethiopia,ETH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,83106,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,233,Estonia,EST,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,24495649,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,233,Estonia,EST,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,11319333,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,234,Faeroe Isds,FRO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,822,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,234,Faeroe Isds,FRO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,176,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,242,Fiji,FJI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,2653,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,246,Finland,FIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,73636570,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,246,Finland,FIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,39189253,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,251,France,FRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,487081896,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,251,France,FRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,581176478,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,258,French Polynesia,PYF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,8875,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,258,French Polynesia,PYF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,21,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,262,Djibouti,DJI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,828279,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,266,Gabon,GAB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,23315,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,266,Gabon,GAB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,13,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,268,Georgia,GEO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,370070,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,268,Georgia,GEO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,4149079,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,270,Gambia,GMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,13,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,275,State of Palestine,PSE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,10608,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,276,Germany,DEU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,2608886489,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,276,Germany,DEU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,2947741723,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,288,Ghana,GHA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,284,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,288,Ghana,GHA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,221196,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,292,Gibraltar,GIB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,9951,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,292,Gibraltar,GIB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,905,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,296,Kiribati,KIR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,401,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,300,Greece,GRC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,38160869,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,300,Greece,GRC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,36471760,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,304,Greenland,GRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,33845,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,308,Grenada,GRD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,131597,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,320,Guatemala,GTM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,1982,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,320,Guatemala,GTM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,40629,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,324,Guinea,GIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,571,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,332,Haiti,HTI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,125091,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,332,Haiti,HTI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,6825,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,340,Honduras,HND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,74933,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,340,Honduras,HND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,56618,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,3027639,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,636782,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,348,Hungary,HUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,569573944,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,348,Hungary,HUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,1102211070,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,352,Iceland,ISL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,1055856,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,352,Iceland,ISL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,700827,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,360,Indonesia,IDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,7115649,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,360,Indonesia,IDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,199133,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,364,Iran,IRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,524243,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,364,Iran,IRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,1820465,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,368,Iraq,IRQ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,1581,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,368,Iraq,IRQ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,132999,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,372,Ireland,IRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,2476035,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,372,Ireland,IRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,6824920,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,376,Israel,ISR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,9234477,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,376,Israel,ISR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,11931782,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,381,Italy,ITA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,787260963,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,381,Italy,ITA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,839945175,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,405,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,105689,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,388,Jamaica,JAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,287979,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,392,Japan,JPN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,27932297,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,392,Japan,JPN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,4215076,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,398,Kazakhstan,KAZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,10284816,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,398,Kazakhstan,KAZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,15843503,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,400,Jordan,JOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,12467,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,400,Jordan,JOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,1676425,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,404,Kenya,KEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,487,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,404,Kenya,KEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,30507,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,408,Dem. People's Rep. of Korea,PRK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,88123,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,410,Rep. of Korea,KOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,412756141,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,410,Rep. of Korea,KOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,16496477,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,414,Kuwait,KWT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,906791,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,417,Kyrgyzstan,KGZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,3783,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,417,Kyrgyzstan,KGZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,867810,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,422,Lebanon,LBN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,184244,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,422,Lebanon,LBN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,9711591,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,428,Latvia,LVA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,11086859,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,428,Latvia,LVA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,17713177,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,430,Liberia,LBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,79,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,434,Libya,LBY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,191220,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,440,Lithuania,LTU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,6811703,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,440,Lithuania,LTU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,64851385,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,442,Luxembourg,LUX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,29361347,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,442,Luxembourg,LUX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,12045848,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,446,"China, Macao SAR",MAC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,9,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,446,"China, Macao SAR",MAC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,166,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,450,Madagascar,MDG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,4621,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,450,Madagascar,MDG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,1427248,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,458,Malaysia,MYS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,9344171,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,458,Malaysia,MYS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,2326517,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,462,Maldives,MDV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,10361,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,466,Mali,MLI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,6840,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,466,Mali,MLI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,8767,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,470,Malta,MLT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,164708,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,470,Malta,MLT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,231933,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,478,Mauritania,MRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,118277,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,480,Mauritius,MUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,795850,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,480,Mauritius,MUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,41212,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,484,Mexico,MEX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,2579064,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,484,Mexico,MEX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,16339086,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,490,"Other Asia, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,49803881,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,490,"Other Asia, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,1580546,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,496,Mongolia,MNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,5379,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,496,Mongolia,MNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,153839,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,498,Rep. of Moldova,MDA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,830837,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,498,Rep. of Moldova,MDA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,14691109,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,499,Montenegro,MNE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,49209,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,499,Montenegro,MNE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,1260349,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,504,Morocco,MAR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,3670331,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,504,Morocco,MAR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,11391099,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,508,Mozambique,MOZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,615152,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,512,Oman,OMN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,260343,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,516,Namibia,NAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,16927,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,516,Namibia,NAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,3063,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,520,Nauru,NRU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,946,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,524,Nepal,NPL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,14807,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,524,Nepal,NPL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,13,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,528,Netherlands,NLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,106956747,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,528,Netherlands,NLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,223810936,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,531,Curaçao,CUW,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,830,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,531,Curaçao,CUW,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,43797,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,533,Aruba,ABW,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,482,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,533,Aruba,ABW,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,86484,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,540,New Caledonia,NCL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,70001,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,540,New Caledonia,NCL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,24428,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,554,New Zealand,NZL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,120664,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,554,New Zealand,NZL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,1979568,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,558,Nicaragua,NIC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,58849,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,558,Nicaragua,NIC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,166369,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,562,Niger,NER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,694,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,566,Nigeria,NGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,664,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,566,Nigeria,NGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,177381,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,568,"Other Europe, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,1104529362,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,570,Niue,NIU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,14,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,577,"Other Africa, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,11,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,579,Norway,NOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,27445372,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,579,Norway,NOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,48053263,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,585,Palau,PLW,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,58253,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,586,Pakistan,PAK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,19689344,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,586,Pakistan,PAK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,290586,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,591,Panama,PAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,40593,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,591,Panama,PAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,70500,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,600,Paraguay,PRY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,5283,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,600,Paraguay,PRY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,28250,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,604,Peru,PER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,20443795,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,604,Peru,PER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,128327,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,608,Philippines,PHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,168604,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,608,Philippines,PHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,125312,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,612,Pitcairn,PCN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,99,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,616,Poland,POL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,1037668231,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,616,Poland,POL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,1709047977,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,620,Portugal,PRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,48274776,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,620,Portugal,PRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,36290842,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,634,Qatar,QAT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,13,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,634,Qatar,QAT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,2128442,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,642,Romania,ROU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,120601905,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,642,Romania,ROU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,391253271,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,643,Russian Federation,RUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,183270877,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,643,Russian Federation,RUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,177112640,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,646,Rwanda,RWA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,5727,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,659,Saint Kitts and Nevis,KNA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,984,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,666,Saint Pierre and Miquelon,SPM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,30442,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,670,Saint Vincent and the Grenadines,VCT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,1071,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,674,San Marino,SMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,1063,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,674,San Marino,SMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,10142787,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,678,Sao Tome and Principe,STP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,8004,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,682,Saudi Arabia,SAU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,820244,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,682,Saudi Arabia,SAU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,4246268,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,686,Senegal,SEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,123,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,686,Senegal,SEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,163242,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,688,Serbia,SRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,40122078,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,688,Serbia,SRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,82064308,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,690,Seychelles,SYC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,3828,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,690,Seychelles,SYC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,83034,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,694,Sierra Leone,SLE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,260334,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,694,Sierra Leone,SLE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,9645,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,699,India,IND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,39416548,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,699,India,IND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,2761064,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,702,Singapore,SGP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,1001413,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,702,Singapore,SGP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,712744,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,703,Slovakia,SVK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,153550528,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,704,Viet Nam,VNM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,8991114,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,704,Viet Nam,VNM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,5696607,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,705,Slovenia,SVN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,97003053,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,705,Slovenia,SVN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,160336997,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,710,South Africa,ZAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,4947245,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,710,South Africa,ZAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,17206651,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,716,Zimbabwe,ZWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,2337,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,724,Spain,ESP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,143922909,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,724,Spain,ESP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,196425593,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,729,Sudan,SDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,470054,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,740,Suriname,SUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,157341,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,748,Eswatini,SWZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,1173,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,752,Sweden,SWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,114039791,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,752,Sweden,SWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,117709000,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,757,Switzerland,CHE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,84991785,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,757,Switzerland,CHE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,131979140,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,760,Syria,SYR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,250166,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,760,Syria,SYR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,1062,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,762,Tajikistan,TJK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,250747,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,764,Thailand,THA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,11653825,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,764,Thailand,THA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,2094070,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,776,Tonga,TON,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,255,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,780,Trinidad and Tobago,TTO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,280,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,780,Trinidad and Tobago,TTO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,41276,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,784,United Arab Emirates,ARE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,291325,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,784,United Arab Emirates,ARE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,9501405,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,788,Tunisia,TUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,23382,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,788,Tunisia,TUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,8775589,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,792,Turkey,TUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,131582911,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,792,Turkey,TUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,339849670,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,795,Turkmenistan,TKM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,159282,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,795,Turkmenistan,TKM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,537186,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,796,Turks and Caicos Isds,TCA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,38712,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,798,Tuvalu,TUV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,1261,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,800,Uganda,UGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,4098,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,800,Uganda,UGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,5349,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,804,Ukraine,UKR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,127300850,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,804,Ukraine,UKR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,168651464,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,807,North Macedonia,MKD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,4955901,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,807,North Macedonia,MKD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,12227905,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,818,Egypt,EGY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,3082283,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,818,Egypt,EGY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,24799104,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,826,United Kingdom,GBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,188443346,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,826,United Kingdom,GBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,278153760,,,4
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,2829,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,101214,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,837,Bunkers,,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,162879,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,839,Special Categories,,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,500,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,842,USA,USA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,60927125,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,842,USA,USA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,203032565,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,854,Burkina Faso,BFA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,19882,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,858,Uruguay,URY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,5660,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,858,Uruguay,URY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,150556,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,860,Uzbekistan,UZB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,55502,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,860,Uzbekistan,UZB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,9746847,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,862,Venezuela,VEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,6066717,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,887,Yemen,YEM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,89781,,,0
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,894,Zambia,ZMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,54676,,,0
+S3,2013,2013,2013,1,0,1,Import,703,Slovakia,SVK,899,"Areas, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,33837370,,,4
+S3,2013,2013,2013,1,0,2,Export,703,Slovakia,SVK,899,"Areas, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,0,,,,0,,11846,,,0

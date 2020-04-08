@@ -1,0 +1,998 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2128590600,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12646383933,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,4,Afghanistan,AFG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,127164,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,8,Albania,ALB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,901801,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,179685685,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,16,American Samoa,ASM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,38,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,16,American Samoa,ASM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8249762,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,24,Angola,AGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9955231,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,28,Antigua and Barbuda,ATG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,683296,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,31,Azerbaijan,AZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,82685,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,31,Azerbaijan,AZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,36913078,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10329751,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1382510,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,954621597,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1117311455,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,487244,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6079572,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,44,Bahamas,BHS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,844065,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,48,Bahrain,BHR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4250,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,48,Bahrain,BHR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14071138,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,50,Bangladesh,BGD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2349,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,50,Bangladesh,BGD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18021662,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,51,Armenia,ARM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,143977,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,51,Armenia,ARM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9193398,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,52,Barbados,BRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13011846,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,56,Belgium,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15702418,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,56,Belgium,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,297009968,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,60,Bermuda,BMU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,115463,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,60,Bermuda,BMU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1943119,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,68,Bolivia (Plurinational State of),BOL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,462989,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,68,Bolivia (Plurinational State of),BOL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1446335,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,70,Bosnia Herzegovina,BIH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,376,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,48569092,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10234119,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,84,Belize,BLZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,412081,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,90,Solomon Isds,SLB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,72528,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,90,Solomon Isds,SLB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3265727,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,96,Brunei Darussalam,BRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1878598,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,313626,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,816232,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,104,Myanmar,MMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,26178,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,104,Myanmar,MMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3029473,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,112,Belarus,BLR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18597,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,112,Belarus,BLR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,624361,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,116,Cambodia,KHM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,500920,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,120,Cameroon,CMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20263,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,120,Cameroon,CMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3927272,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,61866870,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,268566276,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,136,Cayman Isds,CYM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,192730,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,136,Cayman Isds,CYM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,275933,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13098652,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,169211717,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17480843,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4518711,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,93345134,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,518202889,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3835372,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1276455,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,174,Comoros,COM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,38,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,174,Comoros,COM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,395207,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,175,Mayotte,MYT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,338977,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,178,Congo,COG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1424653,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,180,Dem. Rep. of the Congo,COD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5313716,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,450276,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16730210,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,492527,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,456433,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,191,Croatia,HRV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,220773,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,191,Croatia,HRV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4113831,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,192,Cuba,CUB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,189471,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,192,Cuba,CUB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,82722250,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,52351,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12698216,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,203,Czechia,CZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,873479,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,203,Czechia,CZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,119085,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9182011,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,98599734,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,30357,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,23349517,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21708050,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,35661,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,222,El Salvador,SLV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,99908,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,222,El Salvador,SLV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12997330,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,231,Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1171787,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,233,Estonia,EST,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1887,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,233,Estonia,EST,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,167196,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,234,Faeroe Isds,FRO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2306613,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,238,Falkland Isds (Malvinas),FLK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4251,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4494,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,242,Fiji,FJI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,27899827,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,242,Fiji,FJI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,71577105,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7781009,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12170226,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18596671,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,212011414,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,258,French Polynesia,PYF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,30190,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,258,French Polynesia,PYF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,68976873,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,262,Djibouti,DJI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,288534,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,266,Gabon,GAB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2344881,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,268,Georgia,GEO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10686888,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,270,Gambia,GMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,196418,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,276,Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,24384172,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,276,Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,370176094,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2423944,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,32213024,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,292,Gibraltar,GIB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,620439,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,296,Kiribati,KIR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,275548,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3468754,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,35807380,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,308,Grenada,GRD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1956130,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,316,Guam,GUM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5488512,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,320,Guatemala,GTM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1327143,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,320,Guatemala,GTM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,24403342,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,328,Guyana,GUY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,51813,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,328,Guyana,GUY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6894047,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,332,Haiti,HTI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,149216,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,340,Honduras,HND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,83017,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,340,Honduras,HND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,454529,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3260721,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,274026804,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,345729,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,372526,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,82232,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1013290,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,54963237,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,406846141,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1492782,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,86924814,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,368,Iraq,IRQ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,147917,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,24180075,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9467351,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,935493,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3082639,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,31602607,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,105199299,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,68421,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1402581,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,388,Jamaica,JAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,194,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,388,Jamaica,JAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,29216477,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8507262,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,974810627,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,398,Kazakhstan,KAZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,146694,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6274,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18686655,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1703324,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3425571,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13166036,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,367619320,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,414,Kuwait,KWT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,54448798,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,418,Lao People's Dem. Rep.,LAO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2741,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,163045,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4165450,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,426,Lesotho,LSO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2025,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,428,Latvia,LVA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,208950,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,430,Liberia,LBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,27049,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,434,Libya,LBY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4064644,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,440,Lithuania,LTU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2241564,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,442,Luxembourg,LUX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,139960,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,442,Luxembourg,LUX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,548976,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,446,"China, Macao SAR",MAC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2999,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,446,"China, Macao SAR",MAC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2597487,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,450,Madagascar,MDG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,41669,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,450,Madagascar,MDG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,118331,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,454,Malawi,MWI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12205,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,53044378,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,361492336,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,462,Maldives,MDV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1892675,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,466,Mali,MLI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3844,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4197410,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,480,Mauritius,MUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,31623,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,480,Mauritius,MUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,33427332,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1743712,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,380943794,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3916233,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,400731726,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,496,Mongolia,MNG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,141220,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,498,Rep. of Moldova,MDA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3713,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,89729,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20294747,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,508,Mozambique,MOZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3144895,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,512,Oman,OMN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,167337,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,512,Oman,OMN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,64686738,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,516,Namibia,NAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,322595,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,524,Nepal,NPL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,263,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,524,Nepal,NPL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,257211,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,31062194,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,141487706,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,530,Neth. Antilles,ANT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1481352,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,533,Aruba,ABW,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,213408,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,540,New Caledonia,NCL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,556743,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,540,New Caledonia,NCL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,39546992,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,548,Vanuatu,VUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,639654,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,548,Vanuatu,VUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3201907,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,558,Nicaragua,NIC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,282155,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,558,Nicaragua,NIC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,23884378,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,562,Niger,NER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,23077,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,562,Niger,NER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,148440,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,362,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,120251702,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,568,"Other Europe, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,182445355,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,570,Niue,NIU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,411691,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,570,Niue,NIU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1684873,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,574,Norfolk Isds,NFK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1747510,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,875333,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16289279,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,580,N. Mariana Isds,MNP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2228107,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,584,Marshall Isds,MHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,104964,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,585,Palau,PLW,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5047,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3393282,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,39363944,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,591,Panama,PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,226729,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,591,Panama,PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,30588740,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,598,Papua New Guinea,PNG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3407696,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,598,Papua New Guinea,PNG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,35988952,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,600,Paraguay,PRY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,57135,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3003807,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21806844,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,47557899,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,403957446,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,612,Pitcairn,PCN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19980,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,612,Pitcairn,PCN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,97155,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1097669,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2705598,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,481901,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14318217,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,626,Timor-Leste,TLS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,133695,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,634,Qatar,QAT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8753345,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,127604,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,643,Russian Federation,RUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,59306,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,643,Russian Federation,RUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,104180733,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,646,Rwanda,RWA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1038,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,659,Saint Kitts and Nevis,KNA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,151113,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,660,Anguilla,AIA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10923,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,662,Saint Lucia,LCA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2700134,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,669141,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,682,Saudi Arabia,SAU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,50700,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,682,Saudi Arabia,SAU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,355656847,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,686,Senegal,SEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4004766,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,688,Serbia,SRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3550,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,688,Serbia,SRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,318828,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,690,Seychelles,SYC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,99,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,690,Seychelles,SYC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2636612,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,694,Sierra Leone,SLE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3486,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,694,Sierra Leone,SLE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,185036,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,699,India,IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18698735,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,699,India,IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11576895,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,26929472,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,254878828,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,703,Slovakia,SVK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,570703,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,704,Viet Nam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19746306,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,704,Viet Nam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,177543809,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,705,Slovenia,SVN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,30190,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,705,Slovenia,SVN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,23455,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,710,South Africa,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6155696,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,710,South Africa,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,60697078,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,716,Zimbabwe,ZWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,228501,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10472495,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,138915105,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,732,Western Sahara,ESH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1193,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,736,Fmr Sudan,SDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,44,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,736,Fmr Sudan,SDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,26340569,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,740,Suriname,SUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,44707,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,748,Eswatini,SWZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,40630760,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6472399,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,32058425,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7250871,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,44645876,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,760,Syria,SYR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,69577,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,760,Syria,SYR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,58794469,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,762,Tajikistan,TJK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1713647,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,84070040,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,263212799,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,768,Togo,TGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,277175,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,776,Tonga,TON,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1476105,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,776,Tonga,TON,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13946164,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,780,Trinidad and Tobago,TTO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,233290,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,780,Trinidad and Tobago,TTO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,31087809,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,784,United Arab Emirates,ARE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1356518,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,784,United Arab Emirates,ARE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,106630372,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,41222,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7352231,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17696513,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3818431,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,798,Tuvalu,TUV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,191602,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,800,Uganda,UGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2481,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,800,Uganda,UGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,40969,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,804,Ukraine,UKR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4426,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,804,Ukraine,UKR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8021397,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,807,North Macedonia,MKD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,44212,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,807,North Macedonia,MKD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,169940,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,172742,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,114048427,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,28661466,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,625946497,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,88151,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2268380,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,842,USA,USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,199162111,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,842,USA,USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1341794685,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,56820,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,303220,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,860,Uzbekistan,UZB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3112263,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,51675,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,260274361,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,876,Wallis and Futuna Isds,WLF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2330454,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,882,Samoa,WSM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,897230,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,882,Samoa,WSM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15212929,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,887,Yemen,YEM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2005,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,887,Yemen,YEM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,31202949,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,894,Zambia,ZMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,152375,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,894,Zambia,ZMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,572117,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,899,"Areas, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,22818891,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,899,"Areas, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14305,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,632598829,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2902831491,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,4,Afghanistan,AFG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,110799,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,8,Albania,ALB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4985,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,12,Algeria,DZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,32798,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,16,American Samoa,ASM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1410119,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,16,American Samoa,ASM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3195962,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,24,Angola,AGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,25462,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1702022,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2072103,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,284982432,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,310483976,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,233884,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,756536,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,44,Bahamas,BHS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5966,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,48,Bahrain,BHR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,91214,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,50,Bangladesh,BGD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,705,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,50,Bangladesh,BGD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2315189,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,56,Belgium,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,731086,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,56,Belgium,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,34009081,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,68,Bolivia (Plurinational State of),BOL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,41736,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,68,Bolivia (Plurinational State of),BOL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3347,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,70,Bosnia Herzegovina,BIH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2180,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,72,Botswana,BWA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3377,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14347007,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1415731,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,90,Solomon Isds,SLB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1232459,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,90,Solomon Isds,SLB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,88427,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,96,Brunei Darussalam,BRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,31260,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,87653,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1358922,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,104,Myanmar,MMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,542578,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,104,Myanmar,MMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,99218,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,116,Cambodia,KHM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,302702,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,120,Cameroon,CMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,270141,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,120,Cameroon,CMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1951,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,47787477,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5830326,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,140,Central African Rep.,CAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,115432,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1461754,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,363890,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2876255,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3747418,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,27327873,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,634197109,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,162,Christmas Isds,CXR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2080485,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,454898,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,510574,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,175,Mayotte,MYT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,458132,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,178,Congo,COG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,118815,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,178,Congo,COG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8634,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,180,Dem. Rep. of the Congo,COD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,21031,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,231602,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2837143,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,188,Costa Rica,CRI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,50694,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,188,Costa Rica,CRI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,126228,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,191,Croatia,HRV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7472,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,191,Croatia,HRV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,808842,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1534,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3499,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,203,Czechia,CZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,60619,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,203,Czechia,CZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6754879,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,204,Benin,BEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,23268,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,900258,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4834153,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,218,Ecuador,ECU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,165297,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,218,Ecuador,ECU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,311947,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,222,El Salvador,SLV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16234,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,222,El Salvador,SLV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10643,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,231,Ethiopia,ETH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,131,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,233,Estonia,EST,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,424961,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,238,Falkland Isds (Malvinas),FLK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6719,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,242,Fiji,FJI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5334379,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,242,Fiji,FJI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2905003,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14386,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,182540,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4431746,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16325121,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,258,French Polynesia,PYF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,271815,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,258,French Polynesia,PYF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9908814,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,262,Djibouti,DJI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5501,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,266,Gabon,GAB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1720,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,276,Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3811574,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,276,Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,28981028,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,133291,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,31065,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,296,Kiribati,KIR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1063581,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1486,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4169973,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,316,Guam,GUM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,81070,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,320,Guatemala,GTM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,127016,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,324,Guinea,GIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4555,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,328,Guyana,GUY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,864375,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1072381,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,22495433,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,116660,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,108749,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,352,Iceland,ISL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15085,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,24896512,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,104109751,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17700,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11373854,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,95563,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,631531,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,477198,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,578915,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3020789,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,95852851,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,18685,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,388,Jamaica,JAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,143,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5713455,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,293128293,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,400,Jordan,JOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,71359,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,250605,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,477735,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4316319,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,367917413,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,414,Kuwait,KWT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,308,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,414,Kuwait,KWT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8461632,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,417,Kyrgyzstan,KGZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2800,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1254,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8404,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,428,Latvia,LVA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,18516,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,428,Latvia,LVA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1598484,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,440,Lithuania,LTU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,947,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,440,Lithuania,LTU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3017633,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,442,Luxembourg,LUX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9626,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,446,"China, Macao SAR",MAC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1268872,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,446,"China, Macao SAR",MAC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,871,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,450,Madagascar,MDG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1132,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6418885,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,46502516,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,462,Maldives,MDV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,580313,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,466,Mali,MLI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10058,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,480,Mauritius,MUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1481758,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,777480,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1494139,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6488016,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,57606605,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,496,Mongolia,MNG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1201,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,498,Rep. of Moldova,MDA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,293,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,498,Rep. of Moldova,MDA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2583098,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,73851795,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,243025,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,512,Oman,OMN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3211,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,516,Namibia,NAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1705,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,516,Namibia,NAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1643,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,524,Nepal,NPL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3958,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,524,Nepal,NPL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5921585,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10264188,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,45782959,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,540,New Caledonia,NCL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,258103,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,540,New Caledonia,NCL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6424500,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,548,Vanuatu,VUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,241836,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,548,Vanuatu,VUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1039774,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,269,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,570,Niue,NIU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,176774,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,570,Niue,NIU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,100981,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,574,Norfolk Isds,NFK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1006,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,574,Norfolk Isds,NFK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,415018,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,783234,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,621934,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,580,N. Mariana Isds,MNP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,73345,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,583,FS Micronesia,FSM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,597814,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,584,Marshall Isds,MHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,845927,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,585,Palau,PLW,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,378211,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,800961,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9462335,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,591,Panama,PAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,102627,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,598,Papua New Guinea,PNG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1428171,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,598,Papua New Guinea,PNG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4559546,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,600,Paraguay,PRY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10927,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,600,Paraguay,PRY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,177799,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1874094,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1335491,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2443627,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,22893391,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,612,Pitcairn,PCN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,58073,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,64572,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5427043,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,578014,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3708285,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,634,Qatar,QAT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,27118,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,807,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,341776,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,643,Russian Federation,RUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,184506,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,643,Russian Federation,RUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,569032,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,662,Saint Lucia,LCA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8747,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,682,Saudi Arabia,SAU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,222641,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,682,Saudi Arabia,SAU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11144292,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,688,Serbia,SRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4002,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,688,Serbia,SRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,63466,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,690,Seychelles,SYC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1405193,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,694,Sierra Leone,SLE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4636,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,699,India,IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7045062,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,699,India,IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,125011938,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1849301,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6088340,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,703,Slovakia,SVK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,82,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,703,Slovakia,SVK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,44417,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,704,Viet Nam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1460710,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,704,Viet Nam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,57089511,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,710,South Africa,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1411729,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,710,South Africa,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7545044,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,716,Zimbabwe,ZWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8108,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,716,Zimbabwe,ZWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,154913,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1614461,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8484809,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,736,Fmr Sudan,SDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12285,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,740,Suriname,SUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12582,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,748,Eswatini,SWZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,705,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,748,Eswatini,SWZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5423,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,93791,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1263129,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,94746,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1949824,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,760,Syria,SYR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,443,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,760,Syria,SYR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,611052,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3917007,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,65065163,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,768,Togo,TGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,49821,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,776,Tonga,TON,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,290168,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,776,Tonga,TON,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2377775,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,780,Trinidad and Tobago,TTO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16081,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,784,United Arab Emirates,ARE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1005011,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,784,United Arab Emirates,ARE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,18972519,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9479016,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,104991,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,22955234,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,798,Tuvalu,TUV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,131627,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,804,Ukraine,UKR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1222548,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,807,North Macedonia,MKD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1364,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3371858,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10976964,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10694812,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,72753939,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,834,United Rep. of Tanzania,TZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,18707,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,842,USA,USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,34938637,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,842,USA,USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,264415854,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,854,Burkina Faso,BFA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14046,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,858,Uruguay,URY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,76278,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,858,Uruguay,URY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2840726,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,860,Uzbekistan,UZB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6388,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,862,Venezuela,VEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,192122,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,862,Venezuela,VEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,22491,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,876,Wallis and Futuna Isds,WLF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,402799,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,882,Samoa,WSM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,573943,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,882,Samoa,WSM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7155254,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,899,"Areas, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1929718,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4457761545,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1177887176,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,16,American Samoa,ASM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,187405,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1017853915,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,795037119,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,21968,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,51,Armenia,ARM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,197,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,56,Belgium,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1355380,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,76,Brazil,BRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1415,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,90,Solomon Isds,SLB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,10445,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,96,Brunei Darussalam,BRN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,137326431,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,657001,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,144,Sri Lanka,LKA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,221243,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,144,Sri Lanka,LKA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,589,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,152,Chile,CHL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6745697,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2667667,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,12537,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3822273,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,71582,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,242,Fiji,FJI,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,133,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,242,Fiji,FJI,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3090901,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,69191,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,984511,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,41,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,258,French Polynesia,PYF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,183021,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,276,Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2017683,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,276,Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2994,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,344,"China, Hong Kong SAR",HKG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,14366,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,344,"China, Hong Kong SAR",HKG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,45848,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,348,Hungary,HUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7741,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,352,Iceland,ISL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,116,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,360,Indonesia,IDN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,222389888,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,360,Indonesia,IDN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,16020,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,364,Iran,IRN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,16008691,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,372,Ireland,IRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4875,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,376,Israel,ISR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1345,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,201782,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9983,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,261685499,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,81590539,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,410,Rep. of Korea,KOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,118052711,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,410,Rep. of Korea,KOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,57120128,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,414,Kuwait,KWT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,44562727,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,418,Lao People's Dem. Rep.,LAO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,511,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,440,Lithuania,LTU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,31693,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,442,Luxembourg,LUX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7526,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,458,Malaysia,MYS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,189403295,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,458,Malaysia,MYS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,14243,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,484,Mexico,MEX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,45,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,490,"Other Asia, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,145990539,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,490,"Other Asia, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1035292,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,62029,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,540,New Caledonia,NCL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,179715,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,548,Vanuatu,VUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5979442,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,566,Nigeria,NGA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,61359283,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,570,Niue,NIU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2803252,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,574,Norfolk Isds,NFK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,163111,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,579,Norway,NOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3478,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,591,Panama,PAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,555,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,598,Papua New Guinea,PNG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,61057828,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,598,Papua New Guinea,PNG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1681,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,608,Philippines,PHL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,70043899,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,608,Philippines,PHL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,27362,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,634,Qatar,QAT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,272946755,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,22584,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,682,Saudi Arabia,SAU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,305750887,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,699,India,IND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4064398,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,699,India,IND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,43558598,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,702,Singapore,SGP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,904904570,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,702,Singapore,SGP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,112146166,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,704,Viet Nam,VNM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,201,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,704,Viet Nam,VNM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,14113,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,705,Slovenia,SVN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,52398,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,710,South Africa,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,351894,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,710,South Africa,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,14823056,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,16336,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,290091,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,91516,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,764,Thailand,THA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,61154366,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,764,Thailand,THA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,46965021,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,776,Tonga,TON,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2158805,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,784,United Arab Emirates,ARE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,503162309,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,798,Tuvalu,TUV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,870617,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,804,Ukraine,UKR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,92,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1805312,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6736,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,842,USA,USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,48057296,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,842,USA,USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5162,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,876,Wallis and Futuna Isds,WLF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,187669,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,882,Samoa,WSM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,21427,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,899,"Areas, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1947,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4031243377,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3167436382,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,4,Afghanistan,AFG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,128907,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,4,Afghanistan,AFG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3811,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,8,Albania,ALB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4990,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,8,Albania,ALB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,568,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,10,Antarctica,ATA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,20,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,12,Algeria,DZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,127,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,16,American Samoa,ASM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,23178,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,16,American Samoa,ASM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8291663,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,20,Andorra,AND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,71,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,24,Angola,AGO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,144301,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,28,Antigua and Barbuda,ATG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,349776,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,31,Azerbaijan,AZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5995,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,31,Azerbaijan,AZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,253,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,32,Argentina,ARG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7011100,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,32,Argentina,ARG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1672233,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,36,Australia,AUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1185006618,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,36,Australia,AUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1030001123,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,40,Austria,AUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19552644,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,40,Austria,AUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,987060,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,44,Bahamas,BHS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,29778,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,48,Bahrain,BHR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9052070,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,48,Bahrain,BHR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,692913,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,50,Bangladesh,BGD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2815550,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,50,Bangladesh,BGD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,234561,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,51,Armenia,ARM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3194,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,51,Armenia,ARM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,58747,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,52,Barbados,BRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5322,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,52,Barbados,BRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,59579,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,56,Belgium,BEL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,45268059,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,56,Belgium,BEL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9673090,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,60,Bermuda,BMU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2553,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,60,Bermuda,BMU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13962,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,68,Bolivia (Plurinational State of),BOL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,506,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,68,Bolivia (Plurinational State of),BOL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1616,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,70,Bosnia Herzegovina,BIH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12578,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,72,Botswana,BWA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2429,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,76,Brazil,BRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9456586,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,76,Brazil,BRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,524531,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,84,Belize,BLZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3684,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,86,Br. Indian Ocean Terr.,IOT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,34,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,90,Solomon Isds,SLB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5786320,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,92,Br. Virgin Isds,VGB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3244,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,92,Br. Virgin Isds,VGB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,810,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,96,Brunei Darussalam,BRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19460,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,96,Brunei Darussalam,BRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,39742,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,100,Bulgaria,BGR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,435028,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,100,Bulgaria,BGR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2124,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,104,Myanmar,MMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,511599,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,104,Myanmar,MMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,46958,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,108,Burundi,BDI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,108,Burundi,BDI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,34058,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,112,Belarus,BLR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,77226,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,116,Cambodia,KHM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,56470,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,116,Cambodia,KHM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,281273,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,120,Cameroon,CMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13651,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,120,Cameroon,CMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16427,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,124,Canada,CAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,23392544,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,124,Canada,CAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,22671220,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,132,Cabo Verde,CPV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,157,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,136,Cayman Isds,CYM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4403,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,140,Central African Rep.,CAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2738,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,144,Sri Lanka,LKA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3468485,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,144,Sri Lanka,LKA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2918179,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,152,Chile,CHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4765942,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,152,Chile,CHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2952050,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,156,China,CHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,682166309,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,156,China,CHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,85815681,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,162,Christmas Isds,CXR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3622,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,166,Cocos Isds,CCK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16022,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,170,Colombia,COL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,387273,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,170,Colombia,COL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,764822,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,178,Congo,COG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,94,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,180,Dem. Rep. of the Congo,COD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,158,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,177651,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12272799,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,188,Costa Rica,CRI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14198,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,188,Costa Rica,CRI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,80737,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,191,Croatia,HRV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,57802,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,191,Croatia,HRV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,332692,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,192,Cuba,CUB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,325,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,192,Cuba,CUB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3013,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,196,Cyprus,CYP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,350832,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,196,Cyprus,CYP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,313142,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,203,Czechia,CZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4951667,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,203,Czechia,CZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,124525,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,204,Benin,BEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,535494,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,208,Denmark,DNK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10471541,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,208,Denmark,DNK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1714747,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,212,Dominica,DMA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,23,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,214,Dominican Rep.,DOM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,167262,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,214,Dominican Rep.,DOM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,359124,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,218,Ecuador,ECU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,163521,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,218,Ecuador,ECU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,812829,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,222,El Salvador,SLV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,218,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,222,El Salvador,SLV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,47224,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,231,Ethiopia,ETH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,156,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,233,Estonia,EST,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,23417,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,233,Estonia,EST,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,62226,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,234,Faeroe Isds,FRO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,131,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,238,Falkland Isds (Malvinas),FLK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,396,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,238,Falkland Isds (Malvinas),FLK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,58751,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,194,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,242,Fiji,FJI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2882082,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,242,Fiji,FJI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,61532568,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,246,Finland,FIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,40632920,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,246,Finland,FIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,294280,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,251,France,FRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,68787959,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,251,France,FRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9947563,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,258,French Polynesia,PYF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,565288,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,258,French Polynesia,PYF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,27665274,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,262,Djibouti,DJI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2740,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,262,Djibouti,DJI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1462456,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,266,Gabon,GAB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,32819,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,268,Georgia,GEO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7225,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,270,Gambia,GMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,279808,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,276,Germany,DEU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,159741826,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,276,Germany,DEU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17106395,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,288,Ghana,GHA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,170,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,288,Ghana,GHA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,292010,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,296,Kiribati,KIR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,94,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,296,Kiribati,KIR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,735895,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,300,Greece,GRC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6818364,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,300,Greece,GRC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,367730,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,308,Grenada,GRD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,67,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,316,Guam,GUM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,168033,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,320,Guatemala,GTM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,53675,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,320,Guatemala,GTM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,104790,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,324,Guinea,GIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10413,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,324,Guinea,GIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,977,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,328,Guyana,GUY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,632,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,332,Haiti,HTI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,664,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,336,Holy See (Vatican City State),VAT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,77,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,340,Honduras,HND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,48941,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,340,Honduras,HND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,37125,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15672838,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,57024010,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,348,Hungary,HUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4494504,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,348,Hungary,HUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,276617,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,352,Iceland,ISL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,677438,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,352,Iceland,ISL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,119778,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,360,Indonesia,IDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,96100825,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,360,Indonesia,IDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,20939602,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,364,Iran,IRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1096932,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,364,Iran,IRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2467134,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,372,Ireland,IRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2220991,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,372,Ireland,IRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3851540,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,376,Israel,ISR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12833097,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,376,Israel,ISR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3671447,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,381,Italy,ITA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,145682501,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,381,Italy,ITA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,99043388,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,42175,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2999,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,388,Jamaica,JAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,179,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,388,Jamaica,JAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1290255,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,392,Japan,JPN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,226579299,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,392,Japan,JPN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,835401670,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,400,Jordan,JOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,84332,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,400,Jordan,JOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,264234,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,404,Kenya,KEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,85585,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,404,Kenya,KEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1058830,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,410,Rep. of Korea,KOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,181680128,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,410,Rep. of Korea,KOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,34946777,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,414,Kuwait,KWT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,133907,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,414,Kuwait,KWT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2071966,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,418,Lao People's Dem. Rep.,LAO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4254,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,418,Lao People's Dem. Rep.,LAO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2694,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,422,Lebanon,LBN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,169956,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,422,Lebanon,LBN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,92770,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,426,Lesotho,LSO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2222,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,428,Latvia,LVA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,307546,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,428,Latvia,LVA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1235,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,430,Liberia,LBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,36281,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,434,Libya,LBY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,26230,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,440,Lithuania,LTU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,265241,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,440,Lithuania,LTU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10717,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,442,Luxembourg,LUX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6031686,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,442,Luxembourg,LUX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2249,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,446,"China, Macao SAR",MAC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,26326,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,446,"China, Macao SAR",MAC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,25322,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,450,Madagascar,MDG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2968,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,450,Madagascar,MDG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14172,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,458,Malaysia,MYS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,67471004,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,458,Malaysia,MYS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,20950887,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,462,Maldives,MDV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,22,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,462,Maldives,MDV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2211235,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,470,Malta,MLT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3289,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,470,Malta,MLT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5732,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,480,Mauritius,MUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7243,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,480,Mauritius,MUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,408448,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,484,Mexico,MEX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12117437,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,484,Mexico,MEX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4136873,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,490,"Other Asia, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,171963194,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,490,"Other Asia, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,37062263,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,496,Mongolia,MNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,353,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,496,Mongolia,MNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,320063,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,498,Rep. of Moldova,MDA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,504,Morocco,MAR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,276325,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,504,Morocco,MAR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,190726,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,512,Oman,OMN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,177,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,512,Oman,OMN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,318823,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,516,Namibia,NAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1012,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,516,Namibia,NAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,56982,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,520,Nauru,NRU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,27377,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,524,Nepal,NPL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,299926,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,524,Nepal,NPL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,245,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,528,Netherlands,NLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,22623046,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,528,Netherlands,NLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,46289346,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,530,Neth. Antilles,ANT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1355,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,530,Neth. Antilles,ANT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,70175,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,540,New Caledonia,NCL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,160095,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,540,New Caledonia,NCL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,30532882,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,548,Vanuatu,VUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1296,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,548,Vanuatu,VUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5973129,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,558,Nicaragua,NIC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4951,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,558,Nicaragua,NIC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17763,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,562,Niger,NER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9482,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,566,Nigeria,NGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3543821,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,570,Niue,NIU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,711,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,570,Niue,NIU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,697055,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,574,Norfolk Isds,NFK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1008317,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,579,Norway,NOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3027720,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,579,Norway,NOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8093506,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,580,N. Mariana Isds,MNP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,21793,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,583,FS Micronesia,FSM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,68819,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,584,Marshall Isds,MHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,783,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,584,Marshall Isds,MHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1918447,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,585,Palau,PLW,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,743,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,585,Palau,PLW,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,51423,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,586,Pakistan,PAK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,30960625,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,586,Pakistan,PAK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3139348,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,591,Panama,PAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13511,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,591,Panama,PAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,64165,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,598,Papua New Guinea,PNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,303205,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,598,Papua New Guinea,PNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,22727771,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,600,Paraguay,PRY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,635,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,600,Paraguay,PRY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,34038,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,604,Peru,PER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1163985,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,604,Peru,PER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,74834,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,608,Philippines,PHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4965612,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,608,Philippines,PHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,40712056,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,612,Pitcairn,PCN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,780,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,612,Pitcairn,PCN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,169774,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,616,Poland,POL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5519000,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,616,Poland,POL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,874399,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,620,Portugal,PRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7197442,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,620,Portugal,PRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,558843,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,626,Timor-Leste,TLS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4133,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,634,Qatar,QAT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,247964,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,642,Romania,ROU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,324200,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,642,Romania,ROU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,583319,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,643,Russian Federation,RUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,972726,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,643,Russian Federation,RUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,786891,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,659,Saint Kitts and Nevis,KNA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,384,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,659,Saint Kitts and Nevis,KNA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2394,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,660,Anguilla,AIA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3736,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2351,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,678,Sao Tome and Principe,STP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3630,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,682,Saudi Arabia,SAU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5427939,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,682,Saudi Arabia,SAU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12662279,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,686,Senegal,SEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2918,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,686,Senegal,SEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1086,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,688,Serbia,SRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,53800,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,688,Serbia,SRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4706,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,690,Seychelles,SYC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,795,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,690,Seychelles,SYC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,295265,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,694,Sierra Leone,SLE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,23083,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,694,Sierra Leone,SLE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,142307,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,699,India,IND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,72557717,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,699,India,IND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15651689,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,702,Singapore,SGP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,46419908,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,702,Singapore,SGP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15754777,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,703,Slovakia,SVK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,920971,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,703,Slovakia,SVK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,892,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,704,Viet Nam,VNM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12633164,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,704,Viet Nam,VNM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,23905390,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,705,Slovenia,SVN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2229942,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,705,Slovenia,SVN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2854051,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,706,Somalia,SOM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,483,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,706,Somalia,SOM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,56017,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,710,South Africa,ZAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,45418737,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,710,South Africa,ZAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5510539,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,716,Zimbabwe,ZWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,73231,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,716,Zimbabwe,ZWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,79,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,724,Spain,ESP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,26916375,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,724,Spain,ESP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7781372,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,736,Fmr Sudan,SDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,20,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,740,Suriname,SUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11878,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,740,Suriname,SUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,29734,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,748,Eswatini,SWZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,995,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,752,Sweden,SWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,32580486,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,752,Sweden,SWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,693350,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,757,Switzerland,CHE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11717288,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,757,Switzerland,CHE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16028402,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,760,Syria,SYR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6549,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,760,Syria,SYR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3550,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,762,Tajikistan,TJK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,134,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,762,Tajikistan,TJK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2385,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,764,Thailand,THA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,93794516,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,764,Thailand,THA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12519491,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,768,Togo,TGO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2844,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,772,Tokelau,TKL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12837,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,776,Tonga,TON,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11292,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,776,Tonga,TON,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6518155,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,780,Trinidad and Tobago,TTO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1127,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,780,Trinidad and Tobago,TTO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,118537,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,784,United Arab Emirates,ARE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,34874342,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,784,United Arab Emirates,ARE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16224278,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,788,Tunisia,TUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,56872,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,788,Tunisia,TUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9438,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,792,Turkey,TUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14423020,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,792,Turkey,TUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2252135,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,795,Turkmenistan,TKM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3227,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,796,Turks and Caicos Isds,TCA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6631,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,798,Tuvalu,TUV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,69672,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,800,Uganda,UGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,637,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,800,Uganda,UGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,64031,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,804,Ukraine,UKR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1616432,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,804,Ukraine,UKR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2179,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,807,North Macedonia,MKD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8541,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,807,North Macedonia,MKD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,51,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,818,Egypt,EGY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,847410,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,818,Egypt,EGY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,422933,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,826,United Kingdom,GBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,90646449,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,826,United Kingdom,GBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,73616611,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,254953,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1248833,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,842,USA,USA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,216603703,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,842,USA,USA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,326862955,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,858,Uruguay,URY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,265152,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,858,Uruguay,URY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,411784,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,860,Uzbekistan,UZB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7106,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,862,Venezuela,VEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,87499,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,862,Venezuela,VEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,217859,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,876,Wallis and Futuna Isds,WLF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,768075,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,882,Samoa,WSM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,73257,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,882,Samoa,WSM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17241080,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,894,Zambia,ZMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1682,,,0
+S4,2007,2007,2007,1,0,2,Export,554,New Zealand,NZL,894,Zambia,ZMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,98883,,,0
+S4,2007,2007,2007,1,0,1,Import,554,New Zealand,NZL,899,"Areas, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7416698,,,0

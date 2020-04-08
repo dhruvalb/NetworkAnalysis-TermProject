@@ -1,0 +1,485 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,301772896,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,333895072,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,8,Albania,ALB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,417205,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,8,Albania,ALB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,182309,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1096425,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,104591,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,24,Angola,AGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,203757,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2681763,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13063,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2930371,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,173365,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2976117,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9956588,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,58,Belgium-Luxembourg,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,230989,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,58,Belgium-Luxembourg,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1545718,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,68,Bolivia (Plurinational State of),BOL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,46611,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20850138,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,179001,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5954922,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,223774,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,120,Cameroon,CMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,430463,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,87626,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,612182,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1524751,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,655249,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,95800,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6702959,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4736,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,180,Dem. Rep. of the Congo,COD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,49539,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,208499,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,192,Cuba,CUB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5561976,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,713008,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,29679,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,200,Czechoslovakia,CSK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6928862,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,200,Czechoslovakia,CSK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13613077,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2388451,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,277937,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4061175,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,222,El Salvador,SLV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2479265,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,230,Fmr Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1741841,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,230,Fmr Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11655,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,26728,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,35804768,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16618721,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6349254,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3315684,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6976975,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,31124692,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5024013,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10037593,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,26772390,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,324,Guinea,GIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,348928,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,324,Guinea,GIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,65216,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,340,Honduras,HND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3198082,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8114098,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2891891,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,81117,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,356,"India, excl. Sikkim",IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4295353,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20214,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,54821,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,60576,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,368,Iraq,IRQ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,71409,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,368,Iraq,IRQ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,58166,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12105,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5705667,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,213814,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14424437,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,159920864,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2316057,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16413,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,789265,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,314162,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1346,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1675075,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16118,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1350447,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,31172,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,434,Libya,LBY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,791443,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,450,Madagascar,MDG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,44035,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16830,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,776888,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1209450,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,73942,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3728831,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2377860,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13753,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1336635,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,835512,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7359,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1596569,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,590,"Fmr Panama, excl.Canal Zone",PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1177079,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7320100,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4744608,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5141553,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12724273,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,48074,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,646,Rwanda,RWA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3217,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,48053,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5154435,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1384953,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,827610,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3232635,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8475406,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,165743,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,62753,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2667426,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2592550,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,55350,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,800,Uganda,UGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1019358,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,810,Fmr USSR,SUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6051001,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,810,Fmr USSR,SUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7630391,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3874523,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,678958,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1743608,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12603506,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1791356,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,841,USA (before 1981),USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,63728768,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,841,USA (before 1981),USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16041486,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,854,Burkina Faso,BFA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3050,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3899520,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1912468,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,894,Zambia,ZMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,665,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,899,"Areas, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3554,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,899,"Areas, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7778,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,336152032,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,184392720,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,8,Albania,ALB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2196450,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,8,Albania,ALB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,149051,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,12,Algeria,DZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,185267,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2096651,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,182021,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,25678178,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6422,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14511696,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8082551,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,48,Bahrain,BHR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4840,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,50,Bangladesh,BGD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2249556,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,58,Belgium-Luxembourg,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3685723,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,58,Belgium-Luxembourg,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2662343,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1139179,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12425,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2094773,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6928529,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,104,Myanmar,MMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1914025,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,108,Burundi,BDI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,142443,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,120,Cameroon,CMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,266364,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7448618,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,166193,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,140,Central African Rep.,CAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1370226,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1289915,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,148,Chad,TCD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,772,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1378946,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,363876,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,52171,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,178,Congo,COG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,175765,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,192,Cuba,CUB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1698,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,21476,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,200,Czechoslovakia,CSK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5974482,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,200,Czechoslovakia,CSK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7913941,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,207030,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,68886,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,230,Fmr Ethiopia,ETH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,329492,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,350591,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,24500,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6603685,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3641825,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,266,Gabon,GAB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,764235,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6188044,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4127077,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,21028744,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,18814448,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,579495,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6792204,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7745242,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,324,Guinea,GIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2828731,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,324,Guinea,GIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6923,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,328,Guyana,GUY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,455995,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,597,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4659903,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2941805,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,356,"India, excl. Sikkim",IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6373948,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,356,"India, excl. Sikkim",IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,132064,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,185604,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,368100,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2099458,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,820204,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2070201,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14572647,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,60161936,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2633607,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1326601,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,381108,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,400,Jordan,JOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,682553,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,400,Jordan,JOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,67518,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,309138,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,479945,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1137974,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,533630,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,434,Libya,LBY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3889,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,434,Libya,LBY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1975062,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,450,Madagascar,MDG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,111468,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,454,Malawi,MWI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2489672,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4450541,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,470,Malta,MLT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3409,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,667406,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15707667,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2659440,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,508,Mozambique,MOZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,32493,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,524,Nepal,NPL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,189420,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8931602,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3151518,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4946626,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2388,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14859,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,375259,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16314,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10589615,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,218819,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,590,"Fmr Panama, excl.Canal Zone",PAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,125925,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,600,Paraguay,PRY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,297184,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9855201,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4421200,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4113937,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4411627,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8757173,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,682,Saudi Arabia,SAU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,831029,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,706,Somalia,SOM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13877,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,711,So. African Customs Union,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2544313,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,391009,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5753395,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,736,Fmr Sudan,SDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6879850,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1612027,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,660719,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4667420,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2135111,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,760,Syria,SYR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,880618,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1291333,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,936338,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,757366,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7977157,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1991808,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,800,Uganda,UGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,328504,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,810,Fmr USSR,SUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,65891552,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,810,Fmr USSR,SUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11981115,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8308147,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2281789,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2318523,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2707729,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,834,United Rep. of Tanzania,TZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1022649,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,841,USA (before 1981),USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12956040,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,841,USA (before 1981),USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1500335,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,858,Uruguay,URY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,282679,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,866,Fmr Dem. Rep. of Vietnam,VDR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,102559,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,894,Zambia,ZMB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,149616,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,894,Zambia,ZMB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12356,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,899,"Areas, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10776,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,899,"Areas, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5047,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,176346064,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,17771904,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,8,Albania,ALB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1265338,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,8,Albania,ALB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,17200,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,12,Algeria,DZA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,28789,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1162700,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8449295,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,58,Belgium-Luxembourg,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,292742,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,58,Belgium-Luxembourg,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,13369,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,76,Brazil,BRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,47870,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,100,Bulgaria,BGR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,224200,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,100,Bulgaria,BGR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,32951,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1977,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5940,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,196,Cyprus,CYP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,11688,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,200,Czechoslovakia,CSK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,14406899,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,200,Czechoslovakia,CSK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2955346,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,674,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,167730,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,16912,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,178158,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,141525,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,272610,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,188158,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2259242,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1002392,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,300,Greece,GRC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7455,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,300,Greece,GRC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,248078,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,324,Guinea,GIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1395,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,348,Hungary,HUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2821484,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,348,Hungary,HUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,218115,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,356,"India, excl. Sikkim",IND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9128,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,364,Iran,IRN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,34048388,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,368,Iraq,IRQ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,14641440,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,372,Ireland,IRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1871,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,376,Israel,ISR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,342675,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5489399,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1531427,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1554,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,20146,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,414,Kuwait,KWT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,25179,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,422,Lebanon,LBN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9060,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,430,Liberia,LBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,88153,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,470,Malta,MLT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1188,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,961350,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,78935,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,579,Norway,NOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,259137,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,586,Pakistan,PAK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5141,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,590,"Fmr Panama, excl.Canal Zone",PAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,135028,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4068621,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,50825,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5890366,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,49566,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,582,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,54229,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,115835,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,492261,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,338033,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,760,Syria,SYR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,216878,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,16570,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,810,Fmr USSR,SUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,75762096,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,810,Fmr USSR,SUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,187798,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,818,Egypt,EGY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,40442,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3544470,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,826366,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,841,USA (before 1981),USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8280892,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,841,USA (before 1981),USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,87848,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,899,"Areas, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2621,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,899,"Areas, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2241,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,0,World,WLD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,844300608,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,0,World,WLD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,603352768,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,8,Albania,ALB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,755940,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,8,Albania,ALB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3538479,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,12,Algeria,DZA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,952764,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,12,Algeria,DZA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,27228,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,32,Argentina,ARG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2307045,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,32,Argentina,ARG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1046617,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,36,Australia,AUS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,18243,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,40,Austria,AUT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,52760532,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,40,Austria,AUT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,16804364,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,48,Bahrain,BHR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,16059,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,50,Bangladesh,BGD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3579,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,58,Belgium-Luxembourg,BEL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,9274910,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,58,Belgium-Luxembourg,BEL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3039784,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,68,Bolivia (Plurinational State of),BOL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,71041,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,76,Brazil,BRA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,135840,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,76,Brazil,BRA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,72797,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,100,Bulgaria,BGR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,22576804,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,100,Bulgaria,BGR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,19248554,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,104,Myanmar,MMR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,826840,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,120,Cameroon,CMR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1271,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,124,Canada,CAN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1554025,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,124,Canada,CAN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2448179,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,140,Central African Rep.,CAF,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,16417,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,144,Sri Lanka,LKA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5925,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,144,Sri Lanka,LKA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2825,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,152,Chile,CHL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,15880887,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,152,Chile,CHL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,34799,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,156,China,CHN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1624474,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,156,China,CHN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1110531,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,170,Colombia,COL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,753420,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,178,Congo,COG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,31608,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,178,Congo,COG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,7208,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,180,Dem. Rep. of the Congo,COD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,755356,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,180,Dem. Rep. of the Congo,COD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,138759,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,188,Costa Rica,CRI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,91619,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,192,Cuba,CUB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,81163,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,196,Cyprus,CYP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1093960,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,200,Czechoslovakia,CSK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,54344512,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,200,Czechoslovakia,CSK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,40473180,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,208,Denmark,DNK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1267932,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,208,Denmark,DNK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5372839,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,214,Dominican Rep.,DOM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6466,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,218,Ecuador,ECU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1936244,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,230,Fmr Ethiopia,ETH,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,46335,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,246,Finland,FIN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,872814,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,246,Finland,FIN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1070410,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,251,France,FRA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,30221044,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,251,France,FRA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,23340646,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,19429304,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,29344826,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,155326032,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,70034568,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,288,Ghana,GHA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,984542,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,288,Ghana,GHA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1345234,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,300,Greece,GRC,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,12617297,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,300,Greece,GRC,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,8420006,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,312,Guadeloupe,GLP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,19168,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,320,Guatemala,GTM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1555,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,324,Guinea,GIN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,60883,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,332,Haiti,HTI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5141,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,340,Honduras,HND,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1412880,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,326919,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,152200,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,348,Hungary,HUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,19472114,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,348,Hungary,HUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,16111069,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,352,Iceland,ISL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,31586,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,356,"India, excl. Sikkim",IND,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,12375556,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,356,"India, excl. Sikkim",IND,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4276572,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,360,Indonesia,IDN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,337763,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,364,Iran,IRN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,84402,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,364,Iran,IRN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4752821,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,368,Iraq,IRQ,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1660919,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,372,Ireland,IRL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,21548,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,372,Ireland,IRL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,62090,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,376,Israel,ISR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,510181,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,376,Israel,ISR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5081793,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,381,Italy,ITA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,127802224,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,381,Italy,ITA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,54654144,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,111213,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,771313,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,392,Japan,JPN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,32261684,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,392,Japan,JPN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4776088,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,400,Jordan,JOR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,536729,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,404,Kenya,KEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1459,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,404,Kenya,KEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,336417,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,414,Kuwait,KWT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1240747,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,422,Lebanon,LBN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,261361,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,422,Lebanon,LBN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1413076,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,430,Liberia,LBR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4063,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,434,Libya,LBY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3695749,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,450,Madagascar,MDG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1893,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,454,Malawi,MWI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,18846,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,458,Malaysia,MYS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1791624,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,458,Malaysia,MYS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,95993,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,470,Malta,MLT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,336099,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,484,Mexico,MEX,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4272470,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,484,Mexico,MEX,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,23079,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,504,Morocco,MAR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,523839,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,508,Mozambique,MOZ,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,28386,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,528,Netherlands,NLD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,8521412,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,528,Netherlands,NLD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,7728341,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,532,Neth. Antilles and Aruba,ANT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,912,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,566,Nigeria,NGA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,174698,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,579,Norway,NOR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,930489,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,579,Norway,NOR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1058176,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,586,Pakistan,PAK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1923651,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,586,Pakistan,PAK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,544171,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,604,Peru,PER,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,25274,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,604,Peru,PER,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,99419,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,616,Poland,POL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,24896728,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,616,Poland,POL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,36882648,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,634,Qatar,QAT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,54749,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,642,Romania,ROU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,20752850,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,642,Romania,ROU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,19543258,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,682,Saudi Arabia,SAU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,653123,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,686,Senegal,SEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,19621,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,694,Sierra Leone,SLE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,9228,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,706,Somalia,SOM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,27257,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,720,Fmr Dem. Yemen,YMD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,54753,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,724,Spain,ESP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1368693,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,724,Spain,ESP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1086286,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,732,Western Sahara,ESH,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,9538,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,736,Fmr Sudan,SDN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,11194,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,736,Fmr Sudan,SDN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1798533,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,752,Sweden,SWE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,12741830,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,752,Sweden,SWE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5028050,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,757,Switzerland,CHE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,21653460,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,757,Switzerland,CHE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,11871224,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,760,Syria,SYR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,787834,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,764,Thailand,THA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,64305,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,764,Thailand,THA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,117992,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,780,Trinidad and Tobago,TTO,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2059,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,780,Trinidad and Tobago,TTO,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,18698,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,788,Tunisia,TUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,170924,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,792,Turkey,TUR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1108050,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,792,Turkey,TUR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1255383,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,800,Uganda,UGA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,547878,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,810,Fmr USSR,SUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,69238800,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,810,Fmr USSR,SUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,62326136,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,818,Egypt,EGY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,170140,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,818,Egypt,EGY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1853753,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,826,United Kingdom,GBR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,65637112,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,826,United Kingdom,GBR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,50029584,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,81033,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,841,USA (before 1981),USA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3950297,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,841,USA (before 1981),USA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,63661676,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,858,Uruguay,URY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,654843,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,858,Uruguay,URY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,42296,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,862,Venezuela,VEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,9925,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,866,Fmr Dem. Rep. of Vietnam,VDR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,10161,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,866,Fmr Dem. Rep. of Vietnam,VDR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,93881,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,886,Fmr Arab Rep. of Yemen,YEM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,27681,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,894,Zambia,ZMB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,27483820,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,894,Zambia,ZMB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1447019,,,0
+S1,1972,1972,1972,1,0,1,Import,890,Fmr Yugoslavia,YUG,899,"Areas, nes",,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,64072,,,0
+S1,1972,1972,1972,1,0,2,Export,890,Fmr Yugoslavia,YUG,899,"Areas, nes",,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,48742,,,0

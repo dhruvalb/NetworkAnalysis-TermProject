@@ -1,0 +1,271 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,115231080,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,165010576,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,8,Albania,ALB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20800,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,8,Albania,ALB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,413399,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,58000,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2375100,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2500,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,93600,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8598,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,45600,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8303199,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,50,Bangladesh,BGD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14000,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,58,Belgium-Luxembourg,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1191199,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17885100,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4300,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1343199,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,23499,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4843300,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,899,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,192,Cuba,CUB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5932399,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,24999,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,200,Czechoslovakia,CSK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,756799,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,200,Czechoslovakia,CSK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14275699,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3015699,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,274299,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,230,Fmr Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16500,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,51899,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1301399,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10681000,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4731300,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10097999,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,22006398,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,23296000,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,292,Gibraltar,GIB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16100,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,643000,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,464800,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,107500,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,473000,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,356,"India, excl. Sikkim",IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10740000,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,368,Iraq,IRQ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20300,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,860500,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18500,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7899,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,507300,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,29084996,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,34500,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3071900,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1800,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,414,Kuwait,KWT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,103300,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1138200,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,434,Libya,LBY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,230499,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,87399,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,478,Mauritania,MRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,335500,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,496,Mongolia,MNG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2100,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,496,Mongolia,MNG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14000,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2000,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1049499,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,730400,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2100,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3212800,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,131600,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,590,"Fmr Panama, excl.Canal Zone",PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,56000,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5559000,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3346100,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3684800,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14300,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15299,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,29800,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,686,Senegal,SEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2500,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,344199,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11374000,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,736,Fmr Sudan,SDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2199,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,740,Suriname,SUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1300,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1033199,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,850700,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7699,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5859998,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,760,Syria,SYR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5199,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,539899,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,810,Fmr USSR,SUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2398799,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,810,Fmr USSR,SUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,28586900,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,95899,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,339100,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1778000,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3364999,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,839,Special Categories,,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9399,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,841,USA (before 1981),USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14925199,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,841,USA (before 1981),USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4121499,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2859300,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16800,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,866,Fmr Dem. Rep. of Vietnam,VDR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18000,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,866,Fmr Dem. Rep. of Vietnam,VDR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,119199,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,879,"Western Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,42600,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,890,Fmr Yugoslavia,YUG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,115699,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,890,Fmr Yugoslavia,YUG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1198700,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,894,Zambia,ZMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1343300,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,899,"Areas, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,99,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,899,"Areas, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1796,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,285650336,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,121154768,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,8,Albania,ALB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,84699,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11699,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1959100,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3225000,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13672899,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,50,Bangladesh,BGD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,452399,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,50,Bangladesh,BGD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,245300,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,58,Belgium-Luxembourg,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1639799,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,58,Belgium-Luxembourg,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3680698,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,68,Bolivia (Plurinational State of),BOL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,161800,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,831399,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,91700,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6699,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,104,Myanmar,MMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,50500,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,120,Cameroon,CMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,129699,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,183600,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,237399,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2672899,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1300500,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,178,Congo,COG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,182600,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,180,Dem. Rep. of the Congo,COD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,40499,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,200,Czechoslovakia,CSK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7796999,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,200,Czechoslovakia,CSK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4759698,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,57600,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,273097,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,218,Ecuador,ECU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,65199,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3229899,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,495499,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3080598,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,771799,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,266,Gabon,GAB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,510000,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4092298,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3523799,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5189700,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16730000,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,69600,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2343699,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3291000,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,324,Guinea,GIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3987898,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,340,Honduras,HND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3699,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,356,"India, excl. Sikkim",IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3641100,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,356,"India, excl. Sikkim",IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,69699,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,173699,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4633299,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,368,Iraq,IRQ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,71500,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4000,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,581799,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3437898,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11977799,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,229399,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,854199,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,62699,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,26500,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,85899,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,434,Libya,LBY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,560000,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8536899,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,215899,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,496,Mongolia,MNG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1426399,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3753998,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,602498,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1003699,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,57898,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,568,"Other Europe, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,115298,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,568,"Other Europe, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2191299,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,65100,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1290400,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1118098,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14991998,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,697399,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2698999,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,346098,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,31600,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,493898,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,373800,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,736,Fmr Sudan,SDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4207899,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4303499,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,389099,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,358398,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12426200,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,760,Syria,SYR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1971499,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,760,Syria,SYR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,75100,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,410399,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2539000,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,57800,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,810,Fmr USSR,SUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,173663696,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,810,Fmr USSR,SUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,24232000,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9543100,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3200999,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1095099,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,841,USA (before 1981),USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6012697,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,841,USA (before 1981),USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,35399,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,858,Uruguay,URY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17100,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,866,Fmr Dem. Rep. of Vietnam,VDR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,63800,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,890,Fmr Yugoslavia,YUG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1039199,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,890,Fmr Yugoslavia,YUG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3608198,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,899,"Areas, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,698,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,899,"Areas, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,500,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5452394,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,258899,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,29199,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,200,Czechoslovakia,CSK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,170300,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,200,Czechoslovakia,CSK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,44800,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,103100,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1800,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,94699,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,69300,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,70300,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,54699,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,10300,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2700699,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,899,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,810,Fmr USSR,SUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1459899,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,810,Fmr USSR,SUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,78899,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,446300,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,890,Fmr Yugoslavia,YUG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,321500,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,890,Fmr Yugoslavia,YUG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,54600,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,17066192,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4928586,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,8,Albania,ALB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,41800,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,40,Austria,AUT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,435100,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,40,Austria,AUT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,352000,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,58,Belgium-Luxembourg,BEL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,79199,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,100,Bulgaria,BGR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,185699,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,124,Canada,CAN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4500,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,196,Cyprus,CYP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5199,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,200,Czechoslovakia,CSK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3505000,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,200,Czechoslovakia,CSK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,450899,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,208,Denmark,DNK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3600,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,246,Finland,FIN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,42899,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,251,France,FRA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,99199,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,251,France,FRA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5300,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1570800,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,576500,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,30199,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1782100,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,300,Greece,GRC,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,117600,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,300,Greece,GRC,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,133000,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,368,Iraq,IRQ,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,899,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,376,Israel,ISR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,161100,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,381,Italy,ITA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1509100,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,381,Italy,ITA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,199500,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,392,Japan,JPN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1699,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,414,Kuwait,KWT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2399,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,422,Lebanon,LBN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,9300,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,434,Libya,LBY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6699,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,470,Malta,MLT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4600,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,490,"Other Asia, nes",,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,26199,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,504,Morocco,MAR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,81300,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,528,Netherlands,NLD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,228300,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,568,"Other Europe, nes",,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,7500,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,579,Norway,NOR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3399,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,616,Poland,POL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,480199,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,642,Romania,ROU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1202800,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,682,Saudi Arabia,SAU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1100,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,702,Singapore,SGP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,599,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,724,Spain,ESP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,304399,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,736,Fmr Sudan,SDN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,699,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,752,Sweden,SWE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,11600,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,752,Sweden,SWE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,243500,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,757,Switzerland,CHE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,11199,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,757,Switzerland,CHE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5899,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,760,Syria,SYR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,24600,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,792,Turkey,TUR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,22899,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,810,Fmr USSR,SUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5682199,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,810,Fmr USSR,SUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,94399,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,826,United Kingdom,GBR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1100,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,826,United Kingdom,GBR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,405300,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,841,USA (before 1981),USA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3600,,,0
+S1,1972,1972,1972,1,0,1,Import,348,Hungary,HUN,890,Fmr Yugoslavia,YUG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1774000,,,0
+S1,1972,1972,1972,1,0,2,Export,348,Hungary,HUN,890,Fmr Yugoslavia,YUG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,62100,,,0

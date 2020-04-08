@@ -1,0 +1,899 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1961295163,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,919474573,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,4,Afghanistan,AFG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11514,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,8,Albania,ALB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,168358,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,8,Albania,ALB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9403481,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15374,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,16,American Samoa,ASM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15080,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,20,Andorra,AND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11681,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,28,Antigua and Barbuda,ATG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17062,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,28,Antigua and Barbuda,ATG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2659,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,31,Azerbaijan,AZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,59544,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,31,Azerbaijan,AZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,286074,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,106428419,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,194253,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,717148,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,293879856,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,88716053,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,44,Bahamas,BHS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1582,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,50,Bangladesh,BGD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,32634,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,51,Armenia,ARM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10635,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,51,Armenia,ARM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,107364,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,56,Belgium,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,30625369,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,56,Belgium,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,743813,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,64,Bhutan,BTN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,57,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,68,Bolivia (Plurinational State of),BOL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,140129,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,70,Bosnia Herzegovina,BIH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8631036,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,70,Bosnia Herzegovina,BIH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,74303918,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,77157275,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,84,Belize,BLZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1871,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5113164,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1435881,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,112,Belarus,BLR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1052703,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,120,Cameroon,CMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,277423,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2461895,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1216027,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,140,Central African Rep.,CAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17732,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,138211,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5889356,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11885927,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5413181,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,166,Cocos Isds,CCK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,236,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15830128,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,589830,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,174,Comoros,COM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3166,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,180,Dem. Rep. of the Congo,COD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,622,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2988012,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,191,Croatia,HRV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,104019551,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,191,Croatia,HRV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,83497826,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,192,Cuba,CUB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,223766,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1066702,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,275189,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,203,Czechia,CZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,27477995,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,203,Czechia,CZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5525393,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10522787,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8544024,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,212,Dominica,DMA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,274,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,562280,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,27066,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,28933246,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,237266,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,222,El Salvador,SLV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3047,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,222,El Salvador,SLV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,27218,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,231,Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,676143,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,232,Eritrea,ERI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7635,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,233,Estonia,EST,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,153808,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,233,Estonia,EST,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,357219,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,234,Faeroe Isds,FRO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1594,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,238,Falkland Isds (Malvinas),FLK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1869847,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,242,Fiji,FJI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9408,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,197479,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20159,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,38553248,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13550953,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,266,Gabon,GAB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,96,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,268,Georgia,GEO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1523,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,268,Georgia,GEO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,236530,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,276,Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,236984082,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,276,Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,28930988,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,107548,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16540235,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1462580,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,308,Grenada,GRD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,477,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,320,Guatemala,GTM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,207550,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,324,Guinea,GIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,569,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,328,Guyana,GUY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6550,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,332,Haiti,HTI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,34,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,334,Heard Island and McDonald Islands,HMD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3909,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,340,Honduras,HND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,51019,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,340,Honduras,HND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,27363,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17151,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,203140648,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,50142009,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,205000,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15404,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1604027,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1179378,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,368,Iraq,IRQ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2713119,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,36673,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2930646,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,219681,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,326474943,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,296061459,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,267014,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,388,Jamaica,JAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,855,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,316213,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3493,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,398,Kazakhstan,KAZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,41061,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,398,Kazakhstan,KAZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1982822,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,168521,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,85814,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2557,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,165664,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,414,Kuwait,KWT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,131,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,417,Kyrgyzstan,KGZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,47033,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,417,Kyrgyzstan,KGZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,174568,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,421,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,112297,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,428,Latvia,LVA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,26431,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,428,Latvia,LVA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,719277,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,430,Liberia,LBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,32948,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,434,Libya,LBY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,313,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,434,Libya,LBY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6706,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,440,Lithuania,LTU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1905743,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,440,Lithuania,LTU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1663938,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,442,Luxembourg,LUX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,50625,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,442,Luxembourg,LUX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4073,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,446,"China, Macao SAR",MAC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,258,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,450,Madagascar,MDG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,36444,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,454,Malawi,MWI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5377,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,454,Malawi,MWI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,304896,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,733526,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,39602,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,462,Maldives,MDV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1258,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,466,Mali,MLI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3948,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,98259,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1063052,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,478,Mauritania,MRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7067,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,480,Mauritius,MUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,924791,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,637510,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,377860,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5944602,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,496,Mongolia,MNG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,195841,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,498,Rep. of Moldova,MDA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,191835,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,498,Rep. of Moldova,MDA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,716462,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,499,Montenegro,MNE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3290,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,499,Montenegro,MNE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10157377,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3810707,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,238327,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,512,Oman,OMN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,378176,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,516,Namibia,NAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,158109,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,520,Nauru,NRU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2992,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,524,Nepal,NPL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,68655855,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7962908,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,530,Neth. Antilles,ANT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,57245,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,540,New Caledonia,NCL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11633,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1373158,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,309207,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,558,Nicaragua,NIC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,34361,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,562,Niger,NER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,84390,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,622,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1497,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,568,"Other Europe, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,34463600,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,574,Norfolk Isds,NFK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6761,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2155484,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,140078,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,147318,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,604380,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,591,Panama,PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,787866,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,598,Papua New Guinea,PNG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,67,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,600,Paraguay,PRY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,27383,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2281098,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3311006,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,760914,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,155315,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,61028596,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14165427,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,851295,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,430754,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,624,Guinea-Bissau,GNB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14267,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,634,Qatar,QAT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9890,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6067688,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,28207813,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,643,Russian Federation,RUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,446270,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,643,Russian Federation,RUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,28065827,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,646,Rwanda,RWA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,102611,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,654,Saint Helena,SHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,638,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,674,San Marino,SMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,39393,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,678,Sao Tome and Principe,STP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1511,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,682,Saudi Arabia,SAU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11178,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,686,Senegal,SEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,294985,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,688,Serbia,SRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,24538819,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,688,Serbia,SRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,57256025,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,690,Seychelles,SYC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7808,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,694,Sierra Leone,SLE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2700,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,699,India,IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5096317,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,91301,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3406,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,703,Slovakia,SVK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12548880,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,703,Slovakia,SVK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8214025,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,704,Viet Nam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7567369,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,704,Viet Nam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2084735,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,705,Slovenia,SVN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2063344,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,710,South Africa,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7228266,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,710,South Africa,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,373260,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,716,Zimbabwe,ZWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,103588,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,69311492,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2075389,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,736,Fmr Sudan,SDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5932,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,740,Suriname,SUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,392,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,748,Eswatini,SWZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,78233,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4550046,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6579704,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14616273,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3582709,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,760,Syria,SYR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1371,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,762,Tajikistan,TJK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,763277,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3436178,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,508055,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,768,Togo,TGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,620,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,772,Tokelau,TKL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1878,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,776,Tonga,TON,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15844,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,784,United Arab Emirates,ARE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,74,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,784,United Arab Emirates,ARE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,188479,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,274436,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8888345,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,281157,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,795,Turkmenistan,TKM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,24,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,795,Turkmenistan,TKM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12676,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,800,Uganda,UGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1120342,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,804,Ukraine,UKR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1694298,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,804,Ukraine,UKR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7299758,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,807,North Macedonia,MKD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9893540,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,807,North Macedonia,MKD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,33473358,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2366658,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15488,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10230388,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10097845,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1477833,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,842,USA,USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13601255,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,842,USA,USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5710337,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,854,Burkina Faso,BFA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,915,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1089740,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,860,Uzbekistan,UZB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,857659,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,51869,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,887,Yemen,YEM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,916464,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,894,Zambia,ZMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1099,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1774730703,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,901508791,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,8,Albania,ALB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,574709,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,8,Albania,ALB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,276034,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,12,Algeria,DZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,64063962,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,24,Angola,AGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,115387,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,24,Angola,AGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5532,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,28,Antigua and Barbuda,ATG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,84559,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,270483,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,62482,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8525784,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,49874,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,243309104,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,80473950,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,44,Bahamas,BHS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,47,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,48,Bahrain,BHR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,59079,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,50,Bangladesh,BGD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,67,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,51,Armenia,ARM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6053,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,56,Belgium,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10362135,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,56,Belgium,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3078500,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,68,Bolivia (Plurinational State of),BOL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,174500,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,70,Bosnia Herzegovina,BIH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,74527011,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,70,Bosnia Herzegovina,BIH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16770285,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,36208333,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,30,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,84,Belize,BLZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10671,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4679302,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2205988,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,104,Myanmar,MMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,671054,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,108,Burundi,BDI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3889,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,112,Belarus,BLR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,299831,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,112,Belarus,BLR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,786437,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,120,Cameroon,CMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2922058,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,32722229,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,333868,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,140,Central African Rep.,CAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12836,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2671175,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,148,Chad,TCD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,60826,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,27233370,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8077372,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,164707,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,245068,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5748,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,178,Congo,COG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,22609,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,180,Dem. Rep. of the Congo,COD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1788657,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,188,Costa Rica,CRI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,65175,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,191,Croatia,HRV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,162831899,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,191,Croatia,HRV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,53116879,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,42692,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,203,Czechia,CZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,78639704,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,203,Czechia,CZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6887911,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,204,Benin,BEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,118000,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2860412,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1196107,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,214,Dominican Rep.,DOM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,450,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,218,Ecuador,ECU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,85789,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,231,Ethiopia,ETH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2637,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,233,Estonia,EST,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2076693,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,233,Estonia,EST,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,29292,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,238,Falkland Isds (Malvinas),FLK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1951,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,707048,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,125337,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,22071056,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1105670,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,266,Gabon,GAB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,33148,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,268,Georgia,GEO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,41090,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,276,Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,277011135,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,276,Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,81524129,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,212033,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,748,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,292,Gibraltar,GIB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,289137,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,296,Kiribati,KIR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3954,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,44914268,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1329088,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,316,Guam,GUM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2227,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,320,Guatemala,GTM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3380,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,44432,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,222281,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,59953846,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15956937,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,352,Iceland,ISL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16311,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,352,Iceland,ISL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,731,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,43211485,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3421,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,537033,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2760103,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,368,Iraq,IRQ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,895708,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5496805,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14789,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,261060,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,197522,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,198325680,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,314910489,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8224260,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1899365,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,375631,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,398,Kazakhstan,KAZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,959819,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,400,Jordan,JOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1101,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,45987,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7586971,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,355,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,414,Kuwait,KWT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6029812,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,417,Kyrgyzstan,KGZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,455,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,418,Lao People's Dem. Rep.,LAO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,163,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,428,Latvia,LVA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,106119,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,428,Latvia,LVA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,296871,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,430,Liberia,LBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3964251,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,434,Libya,LBY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,213,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,434,Libya,LBY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,39526315,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,440,Lithuania,LTU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,569982,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,440,Lithuania,LTU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,20800,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,442,Luxembourg,LUX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,398094,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,442,Luxembourg,LUX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,242151,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,446,"China, Macao SAR",MAC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,60,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,450,Madagascar,MDG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,32980,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,450,Madagascar,MDG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,687,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,454,Malawi,MWI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,625993,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4924877,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,466,Mali,MLI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,305180,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,466,Mali,MLI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,640,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,470,Malta,MLT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,46313,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,470,Malta,MLT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,60272,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,480,Mauritius,MUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,31191,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10864390,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,144908,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,969307,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2158,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,498,Rep. of Moldova,MDA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17857,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,499,Montenegro,MNE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3207807,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,499,Montenegro,MNE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2319907,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,665629,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1241620,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,508,Mozambique,MOZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6157645,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,516,Namibia,NAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2157,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,524,Nepal,NPL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,550,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,60591182,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,947787,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,533,Aruba,ABW,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,153644,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,335894,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,129,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,558,Nicaragua,NIC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,120,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,37,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,568,"Other Europe, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,25751581,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1242466,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2548744,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,142290,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,600,Paraguay,PRY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,848894,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14608,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3967936,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,25423,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,117,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,26975749,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10273536,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,666045,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11919,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,634,Qatar,QAT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,706,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,634,Qatar,QAT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6348374,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3359320,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1848950,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,643,Russian Federation,RUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,29087782,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,643,Russian Federation,RUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3273059,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,31649,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,674,San Marino,SMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1734803,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,682,Saudi Arabia,SAU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,62,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,682,Saudi Arabia,SAU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15744907,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,688,Serbia,SRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,35949275,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,688,Serbia,SRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16686254,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,694,Sierra Leone,SLE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12736,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,699,India,IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1759946,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,699,India,IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,121145,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,130752,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,703,Slovakia,SVK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,30895376,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,703,Slovakia,SVK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,86064011,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,704,Viet Nam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,126308,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,704,Viet Nam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1417209,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,705,Slovenia,SVN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5149762,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,706,Somalia,SOM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1401,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,710,South Africa,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1388755,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,710,South Africa,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1335563,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,716,Zimbabwe,ZWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1131551,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,716,Zimbabwe,ZWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2082,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12274324,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7292671,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,736,Fmr Sudan,SDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,206166,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,736,Fmr Sudan,SDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1403845,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,740,Suriname,SUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,487,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6811370,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,503845,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7139956,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,347146,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,760,Syria,SYR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,765,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,762,Tajikistan,TJK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,498476,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2653606,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,88351,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,784,United Arab Emirates,ARE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3690,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,784,United Arab Emirates,ARE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,459301,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3000480,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15218898,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1320030,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2338889,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,795,Turkmenistan,TKM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,78595,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,804,Ukraine,UKR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2314615,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,804,Ukraine,UKR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,44578,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,807,North Macedonia,MKD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2592692,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,807,North Macedonia,MKD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3202365,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1854213,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3007857,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6071655,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2286278,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,834,United Rep. of Tanzania,TZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2906,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,842,USA,USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,93040083,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,842,USA,USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5490629,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,854,Burkina Faso,BFA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,697374,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,858,Uruguay,URY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,94478,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,860,Uzbekistan,UZB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,545809,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,887,Yemen,YEM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,711,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,887,Yemen,YEM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9263621,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,899,"Areas, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,64785,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4335509103,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,879049186,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,4,Afghanistan,AFG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,613,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,8,Albania,ALB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,411376,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,12,Algeria,DZA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,155095174,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,524,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,274208626,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,158882839,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,48,Bahrain,BHR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,31887451,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,56,Belgium,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,13741313,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,56,Belgium,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,255054,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,70,Bosnia Herzegovina,BIH,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,675286,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,70,Bosnia Herzegovina,BIH,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,65694661,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,100,Bulgaria,BGR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,90516314,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,100,Bulgaria,BGR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2227093,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,112,Belarus,BLR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,10241,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,112,Belarus,BLR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1053,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,50851559,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,144,Sri Lanka,LKA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,49,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,144,Sri Lanka,LKA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4027,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,336483,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,178,Congo,COG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,31623,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,191,Croatia,HRV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,166576544,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,191,Croatia,HRV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,308984080,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,196,Cyprus,CYP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,220,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,203,Czechia,CZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,36193185,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,203,Czechia,CZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9094419,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,32637,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,396302,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,233,Estonia,EST,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,233,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,233,Estonia,EST,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,21151,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,49091,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,689925,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,78424572,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3707078,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,268,Georgia,GEO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,77567765,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,276,Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,172306503,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,276,Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,50872586,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,300,Greece,GRC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,267116881,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,300,Greece,GRC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,83662,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,348,Hungary,HUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,182745462,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,348,Hungary,HUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6243741,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,360,Indonesia,IDN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,46149966,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,372,Ireland,IRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,118,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,372,Ireland,IRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,215968,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,376,Israel,ISR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,17302056,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1073551210,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,227306193,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,187602,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,398,Kazakhstan,KAZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9697229,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,410,Rep. of Korea,KOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,29261213,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,414,Kuwait,KWT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,12240,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,428,Latvia,LVA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,88663,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,434,Libya,LBY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,54107737,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,440,Lithuania,LTU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,581466,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,440,Lithuania,LTU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3501,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,442,Luxembourg,LUX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,102040,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,442,Luxembourg,LUX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,175544,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,458,Malaysia,MYS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,135306,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,470,Malta,MLT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,17997045,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,470,Malta,MLT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1387,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,484,Mexico,MEX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,466,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,490,"Other Asia, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,166,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,499,Montenegro,MNE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,17090,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,499,Montenegro,MNE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1639961,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,37182855,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4294372,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,568,"Other Europe, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,54186647,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,579,Norway,NOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,52873,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,591,Panama,PAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2754,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8029741,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2766688,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,620,Portugal,PRT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,54154,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,620,Portugal,PRT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,45832,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,634,Qatar,QAT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,940,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4955018,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6999325,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,643,Russian Federation,RUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,340134990,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,643,Russian Federation,RUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,27177,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,646,Rwanda,RWA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,10083,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,682,Saudi Arabia,SAU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,118432974,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,688,Serbia,SRB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3316918,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,688,Serbia,SRB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7419196,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,699,India,IND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,24966,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,702,Singapore,SGP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,22188217,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,703,Slovakia,SVK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,13236778,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,703,Slovakia,SVK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2926944,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,705,Slovenia,SVN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,128384,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,710,South Africa,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3781648,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,142595634,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,96773,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,443387,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4280,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,17298347,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3382415,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,764,Thailand,THA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,22730821,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,788,Tunisia,TUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,243,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5613520,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,20491,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,804,Ukraine,UKR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,12710817,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,804,Ukraine,UKR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7377,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,807,North Macedonia,MKD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,359,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,807,North Macedonia,MKD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1039892,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,818,Egypt,EGY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,71,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9755756,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,13061832,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,842,USA,USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,224448731,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,862,Venezuela,VEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,34920151,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,899,"Areas, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,411756358,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6933261104,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,0,World,WLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6960637426,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,4,Afghanistan,AFG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,134,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,4,Afghanistan,AFG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,89392,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,8,Albania,ALB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,292770,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,8,Albania,ALB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5914339,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,12,Algeria,DZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,29434,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,12,Algeria,DZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16768733,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,20,Andorra,AND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7345,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,20,Andorra,AND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7149,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,24,Angola,AGO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,197918,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,28,Antigua and Barbuda,ATG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11522,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,31,Azerbaijan,AZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,56,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,31,Azerbaijan,AZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,93647,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,32,Argentina,ARG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,37102209,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,32,Argentina,ARG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2783370,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,36,Australia,AUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,206923,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,36,Australia,AUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11603158,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,40,Austria,AUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,852184238,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,40,Austria,AUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,517782474,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,48,Bahrain,BHR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,403521,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,48,Bahrain,BHR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,485671,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,50,Bangladesh,BGD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,362303,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,51,Armenia,ARM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,198342,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,51,Armenia,ARM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1751175,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,52,Barbados,BRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5257,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,56,Belgium,BEL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,129170111,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,56,Belgium,BEL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,97818486,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,60,Bermuda,BMU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,38230,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,68,Bolivia (Plurinational State of),BOL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,30222,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,70,Bosnia Herzegovina,BIH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,92357650,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,70,Bosnia Herzegovina,BIH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,240090354,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,72,Botswana,BWA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1641,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,76,Brazil,BRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6090285,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,76,Brazil,BRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8647824,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,84,Belize,BLZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4775,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,90,Solomon Isds,SLB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12181,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,92,Br. Virgin Isds,VGB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,309402,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,92,Br. Virgin Isds,VGB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1923,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,96,Brunei Darussalam,BRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,28224,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,100,Bulgaria,BGR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,23755159,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,100,Bulgaria,BGR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,45885030,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,104,Myanmar,MMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,23261,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,108,Burundi,BDI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4784,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,112,Belarus,BLR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10363667,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,112,Belarus,BLR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11450137,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,116,Cambodia,KHM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3129,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,116,Cambodia,KHM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1233,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,120,Cameroon,CMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,411402,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,120,Cameroon,CMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,48186,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,124,Canada,CAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4488919,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,124,Canada,CAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7530279,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,140,Central African Rep.,CAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16654,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,144,Sri Lanka,LKA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1044773,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,144,Sri Lanka,LKA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1862589,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,152,Chile,CHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8646399,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,152,Chile,CHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1094510,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,156,China,CHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,208185610,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,156,China,CHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10501759,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,170,Colombia,COL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,48783,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,170,Colombia,COL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,732750,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,175,Mayotte,MYT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,38,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,178,Congo,COG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,47780,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,178,Congo,COG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,31885,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,180,Dem. Rep. of the Congo,COD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,37625,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,180,Dem. Rep. of the Congo,COD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4326,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,184,Cook Isds,COK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1191,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,188,Costa Rica,CRI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,60632,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,188,Costa Rica,CRI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,38130,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,191,Croatia,HRV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,215249224,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,191,Croatia,HRV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,595922745,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,192,Cuba,CUB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,141630,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,196,Cyprus,CYP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,829312,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,196,Cyprus,CYP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4114078,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,203,Czechia,CZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,193760534,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,203,Czechia,CZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,223122103,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,204,Benin,BEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6755,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,208,Denmark,DNK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12150352,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,208,Denmark,DNK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,34672885,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,214,Dominican Rep.,DOM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,193953,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,218,Ecuador,ECU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,472051,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,218,Ecuador,ECU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,81175,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,222,El Salvador,SLV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15727,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,231,Ethiopia,ETH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7150,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,231,Ethiopia,ETH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,52574,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,233,Estonia,EST,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1189973,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,233,Estonia,EST,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4894822,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,234,Faeroe Isds,FRO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1395,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,242,Fiji,FJI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,133,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,242,Fiji,FJI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8372,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,246,Finland,FIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,46775906,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,246,Finland,FIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,26745038,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,251,France,FRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,267717046,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,251,France,FRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,245949122,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,260,Fr. South Antarctic Terr.,ATF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,354,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,262,Djibouti,DJI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,172,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,266,Gabon,GAB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,83620,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,268,Georgia,GEO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6233,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,268,Georgia,GEO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,929581,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,270,Gambia,GMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,40,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,275,State of Palestine,PSE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3473,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,275,State of Palestine,PSE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,26047,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,276,Germany,DEU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1232622014,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,276,Germany,DEU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1578376325,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,288,Ghana,GHA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3931,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,288,Ghana,GHA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,148571,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,292,Gibraltar,GIB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5851,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,300,Greece,GRC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19631039,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,300,Greece,GRC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,46131074,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,320,Guatemala,GTM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5995,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,320,Guatemala,GTM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,128151,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,332,Haiti,HTI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2612,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,334,Heard Island and McDonald Islands,HMD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,32,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,336,Holy See (Vatican City State),VAT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,26258,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,340,Honduras,HND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5439,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1030460,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6057756,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,348,Hungary,HUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,135134853,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,348,Hungary,HUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,181100264,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,352,Iceland,ISL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1737190,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,352,Iceland,ISL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,616889,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,360,Indonesia,IDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6579948,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,360,Indonesia,IDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1321082,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,364,Iran,IRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3434027,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,364,Iran,IRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,18360337,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,372,Ireland,IRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,823188,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,372,Ireland,IRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12599235,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,376,Israel,ISR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2407473,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,376,Israel,ISR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13875769,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,381,Italy,ITA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1455946912,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,381,Italy,ITA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1067329760,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,71836,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,388,Jamaica,JAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,105212,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,392,Japan,JPN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,22802041,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,392,Japan,JPN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2402159,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,398,Kazakhstan,KAZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,21020652,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,398,Kazakhstan,KAZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4427890,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,400,Jordan,JOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,57087,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,400,Jordan,JOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1598232,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,404,Kenya,KEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1131,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,404,Kenya,KEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,397147,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,350389,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,403335,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,410,Rep. of Korea,KOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,26038398,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,410,Rep. of Korea,KOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5989744,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,414,Kuwait,KWT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,39561,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,414,Kuwait,KWT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1464753,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,417,Kyrgyzstan,KGZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,382,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,417,Kyrgyzstan,KGZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,66254,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,418,Lao People's Dem. Rep.,LAO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,33,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,418,Lao People's Dem. Rep.,LAO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,180,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,422,Lebanon,LBN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,307,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,422,Lebanon,LBN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1392847,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,428,Latvia,LVA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3133924,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,428,Latvia,LVA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3610078,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,434,Libya,LBY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,613,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,434,Libya,LBY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2412588,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,440,Lithuania,LTU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,491642,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,440,Lithuania,LTU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11398309,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,442,Luxembourg,LUX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,41538032,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,442,Luxembourg,LUX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,26077233,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,446,"China, Macao SAR",MAC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,33,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,446,"China, Macao SAR",MAC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1273,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,450,Madagascar,MDG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,25440,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,450,Madagascar,MDG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,84662,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,454,Malawi,MWI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,458,Malaysia,MYS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1013848,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,458,Malaysia,MYS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6261763,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,466,Mali,MLI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,46,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,466,Mali,MLI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,50980,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,470,Malta,MLT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2883,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,470,Malta,MLT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,415533,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,478,Mauritania,MRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4744,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,480,Mauritius,MUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,484,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,480,Mauritius,MUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,18029,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,484,Mexico,MEX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4451991,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,484,Mexico,MEX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4890071,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,490,"Other Asia, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14728387,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,490,"Other Asia, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6988858,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,496,Mongolia,MNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8345,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,496,Mongolia,MNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4681,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,498,Rep. of Moldova,MDA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,744089,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,498,Rep. of Moldova,MDA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1870659,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,499,Montenegro,MNE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,50716824,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,499,Montenegro,MNE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,35428548,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,504,Morocco,MAR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,60589,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,504,Morocco,MAR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2966908,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,508,Mozambique,MOZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2725517,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,512,Oman,OMN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,48143,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,512,Oman,OMN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,35079,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,516,Namibia,NAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3501,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,516,Namibia,NAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,24689,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,520,Nauru,NRU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,90,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,524,Nepal,NPL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,70536,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,524,Nepal,NPL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,112571,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,528,Netherlands,NLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,114106141,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,528,Netherlands,NLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,155780708,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,530,Neth. Antilles,ANT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1176,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,530,Neth. Antilles,ANT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,172746,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,540,New Caledonia,NCL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,554,New Zealand,NZL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6246471,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,554,New Zealand,NZL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1287933,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,558,Nicaragua,NIC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19268,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,562,Niger,NER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,18850,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,566,Nigeria,NGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,492848,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,566,Nigeria,NGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,436316,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,568,"Other Europe, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,124384891,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,570,Niue,NIU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19138,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,577,"Other Africa, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,922,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,579,Norway,NOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12285869,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,579,Norway,NOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7905005,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,584,Marshall Isds,MHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,22,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,586,Pakistan,PAK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7001936,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,586,Pakistan,PAK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,977029,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,591,Panama,PAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,25743,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,591,Panama,PAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1719881,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,598,Papua New Guinea,PNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17564,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,600,Paraguay,PRY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,32548,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,600,Paraguay,PRY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,37208,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,604,Peru,PER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,613936,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,604,Peru,PER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,440965,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,608,Philippines,PHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,104659,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,608,Philippines,PHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,234784,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,616,Poland,POL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,162180146,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,616,Poland,POL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,197725210,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,620,Portugal,PRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10176813,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,620,Portugal,PRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13986986,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,626,Timor-Leste,TLS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,198,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,634,Qatar,QAT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,60130,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,634,Qatar,QAT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,642194,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,642,Romania,ROU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,86623248,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,642,Romania,ROU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,104059893,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,643,Russian Federation,RUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,209777418,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,643,Russian Federation,RUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,121345341,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,646,Rwanda,RWA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,646,Rwanda,RWA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,41904,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,654,Saint Helena,SHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1665,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1102,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,674,San Marino,SMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,383575,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,674,San Marino,SMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9449244,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,678,Sao Tome and Principe,STP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2275,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,682,Saudi Arabia,SAU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,30595,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,682,Saudi Arabia,SAU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12377616,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,686,Senegal,SEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,24,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,686,Senegal,SEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,209665,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,688,Serbia,SRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,260712178,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,688,Serbia,SRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,290953217,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,690,Seychelles,SYC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1774091,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,690,Seychelles,SYC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,75806,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,694,Sierra Leone,SLE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,33188,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,694,Sierra Leone,SLE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,54516,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,699,India,IND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,34606032,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,699,India,IND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,29275314,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,702,Singapore,SGP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,773832,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,702,Singapore,SGP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3702472,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,703,Slovakia,SVK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,177847915,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,703,Slovakia,SVK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,80550226,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,704,Viet Nam,VNM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2865331,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,704,Viet Nam,VNM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,81928,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,705,Slovenia,SVN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,38024528,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,710,South Africa,ZAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,28842827,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,710,South Africa,ZAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9645535,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,716,Zimbabwe,ZWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1250,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,716,Zimbabwe,ZWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8745,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,724,Spain,ESP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,83774614,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,724,Spain,ESP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,114491430,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,736,Fmr Sudan,SDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,268,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,736,Fmr Sudan,SDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,377139,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,740,Suriname,SUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,52099,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,740,Suriname,SUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,25219,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,748,Eswatini,SWZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,92,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,752,Sweden,SWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,92662732,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,752,Sweden,SWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,54840235,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,757,Switzerland,CHE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,40362285,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,757,Switzerland,CHE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,90429250,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,760,Syria,SYR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,68131,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,760,Syria,SYR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6454182,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,762,Tajikistan,TJK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8091960,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,762,Tajikistan,TJK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,641,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,764,Thailand,THA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5688108,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,764,Thailand,THA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2516962,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,780,Trinidad and Tobago,TTO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,75207,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,784,United Arab Emirates,ARE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,712669,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,784,United Arab Emirates,ARE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,20266962,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,788,Tunisia,TUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,55814,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,788,Tunisia,TUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3610443,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,792,Turkey,TUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,61600694,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,792,Turkey,TUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,67515414,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,795,Turkmenistan,TKM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,28160,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,796,Turks and Caicos Isds,TCA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,798,Tuvalu,TUV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,91,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,798,Tuvalu,TUV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,20931,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,800,Uganda,UGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,426456,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,800,Uganda,UGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3696,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,804,Ukraine,UKR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16691344,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,804,Ukraine,UKR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,29137851,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,807,North Macedonia,MKD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,33546180,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,807,North Macedonia,MKD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,61303245,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,818,Egypt,EGY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4129104,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,818,Egypt,EGY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,36680791,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,826,United Kingdom,GBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,100034975,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,826,United Kingdom,GBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,163572307,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1357,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,29079,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,839,Special Categories,,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14013,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,842,USA,USA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,41404829,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,842,USA,USA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,96697634,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,854,Burkina Faso,BFA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5756,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,854,Burkina Faso,BFA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14266,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,858,Uruguay,URY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,159185,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,858,Uruguay,URY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,174076,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,860,Uzbekistan,UZB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,200299,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,860,Uzbekistan,UZB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,285639,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,862,Venezuela,VEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,432,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,862,Venezuela,VEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1043517,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,887,Yemen,YEM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,711,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,887,Yemen,YEM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,480134,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,894,Zambia,ZMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,378,,,0
+S4,2008,2008,2008,1,0,2,Export,705,Slovenia,SVN,894,Zambia,ZMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16041,,,0
+S4,2008,2008,2008,1,0,1,Import,705,Slovenia,SVN,899,"Areas, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,33916,,,0

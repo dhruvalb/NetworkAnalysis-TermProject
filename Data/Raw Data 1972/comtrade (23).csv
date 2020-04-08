@@ -1,0 +1,625 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,231020336,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,140288800,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,4,Afghanistan,AFG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10321,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,4,Afghanistan,AFG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5561,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,8,Albania,ALB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7807,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,56822,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,364615,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,24,Angola,AGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,574743,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2406564,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3804,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7845059,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,149281,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,251217,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,950617,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,48,Bahrain,BHR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,33602,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,58,Belgium-Luxembourg,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3693375,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,58,Belgium-Luxembourg,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5746833,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,68,Bolivia (Plurinational State of),BOL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18066,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,68,Bolivia (Plurinational State of),BOL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,934,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,26297974,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,40311,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,84,Belize,BLZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,801,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,96,Brunei Darussalam,BRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1336,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1212474,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,77549,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,120,Cameroon,CMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,234962,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1748062,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,915345,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,140,Central African Rep.,CAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1037,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,134933,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,43140,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,238146,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,520,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18557398,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2136,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,180,Dem. Rep. of the Congo,COD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,637,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8516561,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,192,Cuba,CUB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3680608,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1734163,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,593640,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,200,Czechoslovakia,CSK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,113527,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,200,Czechoslovakia,CSK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,104284,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8275583,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1746105,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2396391,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,624,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1949552,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,222,El Salvador,SLV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2335069,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,222,El Salvador,SLV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,553,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,230,Fmr Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1847089,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,230,Fmr Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5649,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,242,Fiji,FJI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2224400,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2836274,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,959882,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,270,Gambia,GMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2591,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8260,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1810246,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3722526,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10864585,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1111142,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,292,Gibraltar,GIB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1046,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,449974,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1151100,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,320,Guatemala,GTM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7732550,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,320,Guatemala,GTM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4798,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,324,Guinea,GIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,148922,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,328,Guyana,GUY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6071,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,328,Guyana,GUY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14267,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,332,Haiti,HTI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,993,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,332,Haiti,HTI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,29471,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,340,Honduras,HND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1881790,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8814,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,657,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1818571,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,127474,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2706982,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,199382,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,356,"India, excl. Sikkim",IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,228663,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,175226,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,90810,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,335778,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,368,Iraq,IRQ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,26640,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,368,Iraq,IRQ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,283955,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,639524,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9032924,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1201759,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5734509,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5761728,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,94885,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,388,Jamaica,JAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,214173,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,388,Jamaica,JAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,27121,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,175670,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,396973,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8015,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4233827,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4810,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,414,Kuwait,KWT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,72730,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1364,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,664719,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,430,Liberia,LBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,726,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,434,Libya,LBY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,64538,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,434,Libya,LBY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1733015,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,446,"China, Macao SAR",MAC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13007,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,450,Madagascar,MDG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,123112,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,116762,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,737,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,466,Mali,MLI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2234,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,138273,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,349963,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,173276,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1459636,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,336135,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,512,Oman,OMN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16633,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5600552,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1753832,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,540,New Caledonia,NCL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3050,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,375193,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5782,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,558,Nicaragua,NIC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,699448,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,562,Niger,NER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1058,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1162063,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12403607,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5206506,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1978,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2136,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,590,"Fmr Panama, excl.Canal Zone",PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1949723,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,590,"Fmr Panama, excl.Canal Zone",PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20633,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,600,Paraguay,PRY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,43161,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,964574,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,122432,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,305112,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2113660,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2811076,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,426719,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5342,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,634,Qatar,QAT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5952,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,638,Réunion,REU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6413,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,804140,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,658,"Saint Kitts, Nevis and Anguilla",KNA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8387,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,682,Saudi Arabia,SAU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,115199,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,686,Senegal,SEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,845,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,694,Sierra Leone,SLE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9794,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,26844,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1284,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,711,So. African Customs Union,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16183733,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,711,So. African Customs Union,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,35098,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6517027,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1387385,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,740,Suriname,SUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,23243,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12096276,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16988094,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3962940,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5843132,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,760,Syria,SYR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1966,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,760,Syria,SYR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,426722,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,780,Trinidad and Tobago,TTO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8794,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,784,United Arab Emirates,ARE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7072,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1032065,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,488764,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4362,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,800,Uganda,UGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,916849,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,810,Fmr USSR,SUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4281228,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,810,Fmr USSR,SUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,37109712,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,762133,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1256,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7466151,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,22724264,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,292758,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,841,USA (before 1981),USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9458169,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,841,USA (before 1981),USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7490053,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,33274,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2536,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,890,Fmr Yugoslavia,YUG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,55605,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,890,Fmr Yugoslavia,YUG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11977,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,899,"Areas, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,36656,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,899,"Areas, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21350,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,199921008,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,582533632,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,4,Afghanistan,AFG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,24338,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,12,Algeria,DZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2425928,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,819879,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2044888,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9570182,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4051863,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,617097,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2512973,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,48,Bahrain,BHR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2586,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,50,Bangladesh,BGD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,96064,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,50,Bangladesh,BGD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1190,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,58,Belgium-Luxembourg,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3413200,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,58,Belgium-Luxembourg,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,22615726,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1257644,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1255662,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,266977,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,104,Myanmar,MMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,130360,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,120,Cameroon,CMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,21552,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3415707,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1760524,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,140,Central African Rep.,CAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10336,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10448,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4662640,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7545245,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,23674,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,463789,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,178,Congo,COG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9133,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,180,Dem. Rep. of the Congo,COD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,325100,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,192,Cuba,CUB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1515845,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,636,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,209953,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,200,Czechoslovakia,CSK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,80909,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,200,Czechoslovakia,CSK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5504673,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4534256,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,22002980,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,218,Ecuador,ECU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4273,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,218,Ecuador,ECU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,138751,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,222,El Salvador,SLV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,26066,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,230,Fmr Ethiopia,ETH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,91989,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,230,Fmr Ethiopia,ETH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,48309,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,242,Fiji,FJI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,226905,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2452441,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,38895640,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,262,Djibouti,DJI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13189,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,710059,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4320070,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8534187,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,72617952,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,342050,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10351,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17083,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6274836,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,320,Guatemala,GTM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11216,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,328,Guyana,GUY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6834,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,340,Honduras,HND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14114,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,50691,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,115801,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3064134,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,352,Iceland,ISL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,292441,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,352,Iceland,ISL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1105027,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,356,"India, excl. Sikkim",IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,311375,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,356,"India, excl. Sikkim",IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16077,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,136781,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,23691,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1342478,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,171019,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10257007,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,97521,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7521444,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1650363,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,24669464,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,194012,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2162535,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3030761,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,400,Jordan,JOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,573,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,71800,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19047,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2661,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,414,Kuwait,KWT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,104722,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,260134,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,139019,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,434,Libya,LBY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1089340,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,450,Madagascar,MDG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,27727,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,454,Malawi,MWI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,30296,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3644932,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6858,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,406545,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,228446,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,539,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1016664,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,661282,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,508,Mozambique,MOZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,30154,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,524,Nepal,NPL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4493,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,524,Nepal,NPL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,24658,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14941674,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,57200912,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2100112,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,140617,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,558,Nicaragua,NIC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,24592,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,562,Niger,NER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5480,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,276770,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,34690,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7231859,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2846879,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,266851,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3285,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,600,Paraguay,PRY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,149770,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,84022,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,883734,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,366728,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2494771,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4152307,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,291747,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,747886,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,638,Réunion,REU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17499,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1537459,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,111705,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,654,Saint Helena,SHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,96689,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,682,Saudi Arabia,SAU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1286,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,682,Saudi Arabia,SAU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,21419,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,686,Senegal,SEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,848593,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,694,Sierra Leone,SLE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13874,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,694,Sierra Leone,SLE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11172,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,33954,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,711,So. African Customs Union,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,880574,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,711,So. African Customs Union,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1063633,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,463467,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12985492,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,736,Fmr Sudan,SDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2002764,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,25369752,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13804965,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,941772,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13486754,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,760,Syria,SYR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,228548,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,368046,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,20580,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,780,Trinidad and Tobago,TTO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8903,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,784,United Arab Emirates,ARE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10137,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,364557,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,703648,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,672344,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1828579,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,800,Uganda,UGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,27701,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,810,Fmr USSR,SUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,52321208,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,810,Fmr USSR,SUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,31555232,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,773659,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2433511,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19012884,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,176603888,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,834,United Rep. of Tanzania,TZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,20525,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,841,USA (before 1981),USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12829890,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,841,USA (before 1981),USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10752448,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,849,US Misc. Pacific Isds,,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,152720,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,858,Uruguay,URY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,62128,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,858,Uruguay,URY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,105643,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,862,Venezuela,VEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1015156,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,882,Samoa,WSM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,162338,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,890,Fmr Yugoslavia,YUG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,74862,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,890,Fmr Yugoslavia,YUG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,412142,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,899,"Areas, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,32662,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,899,"Areas, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,20387,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,420095488,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6146671,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,144721,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1448,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3542,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5045,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,58,Belgium-Luxembourg,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1384697,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,58,Belgium-Luxembourg,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,43455,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,16249,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,152,Chile,CHL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2634,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,353923,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,170,Colombia,COL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3632,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,200,Czechoslovakia,CSK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,469370,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1699712,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1129092,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1185371,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,45816,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,371733,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,853,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5973738,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,13628,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,300,Greece,GRC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8261,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,364,Iran,IRN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,59850960,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,364,Iran,IRN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9309,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,372,Ireland,IRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,958,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,376,Israel,ISR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3574,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,380208,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,35843,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,384,Côte d'Ivoire,CIV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1219,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3328,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,66977,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,414,Kuwait,KWT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,745,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,422,Lebanon,LBN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1695,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8692061,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,164979,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,532,Neth. Antilles and Aruba,ANT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4876,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,579,Norway,NOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4614252,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,579,Norway,NOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,60983,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,29694236,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,66278,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9870686,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,658,"Saint Kitts, Nevis and Anguilla",KNA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,669049,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,682,Saudi Arabia,SAU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5915678,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,711,So. African Customs Union,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1023,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,32010,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,24265384,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1295661,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,67643,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,11438,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,810,Fmr USSR,SUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,250296048,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,810,Fmr USSR,SUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,386041,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8873911,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2602745,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,841,USA (before 1981),USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2323750,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,841,USA (before 1981),USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,134500,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,862,Venezuela,VEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2979492,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,899,"Areas, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2522,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,899,"Areas, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5170,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,653168640,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1286619648,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,4,Afghanistan,AFG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,50015,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,4,Afghanistan,AFG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5159,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,12,Algeria,DZA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,7580,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,12,Algeria,DZA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1631016,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,24,Angola,AGO,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,266838,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,32,Argentina,ARG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1038717,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,32,Argentina,ARG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,9776215,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,36,Australia,AUS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2487809,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,36,Australia,AUS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,15517071,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,40,Austria,AUT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,27331186,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,40,Austria,AUT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,7779294,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,48,Bahrain,BHR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,78336,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,50,Bangladesh,BGD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,12510,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,50,Bangladesh,BGD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,81524,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,52,Barbados,BRB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,88766,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,58,Belgium-Luxembourg,BEL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,18264820,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,58,Belgium-Luxembourg,BEL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,22689120,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,68,Bolivia (Plurinational State of),BOL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,437138,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,76,Brazil,BRA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1824740,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,76,Brazil,BRA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,11327554,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,84,Belize,BLZ,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,17100,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,96,Brunei Darussalam,BRN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,13770,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,100,Bulgaria,BGR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2340885,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,104,Myanmar,MMR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3767,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,104,Myanmar,MMR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,45199,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,108,Burundi,BDI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,11064,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,120,Cameroon,CMR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,439790,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,124,Canada,CAN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3771276,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,124,Canada,CAN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5826680,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,140,Central African Rep.,CAF,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2343,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,144,Sri Lanka,LKA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6157,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,144,Sri Lanka,LKA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,207677,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,152,Chile,CHL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1253412,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,152,Chile,CHL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1373055,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,156,China,CHN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1162559,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,156,China,CHN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5057071,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,170,Colombia,COL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,18694,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,170,Colombia,COL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1206454,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,178,Congo,COG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5609,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,178,Congo,COG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,143214,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,180,Dem. Rep. of the Congo,COD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5560,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,180,Dem. Rep. of the Congo,COD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,267343,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,188,Costa Rica,CRI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,344033,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,192,Cuba,CUB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,970,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,192,Cuba,CUB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,134421,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,196,Cyprus,CYP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2333,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,196,Cyprus,CYP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,920782,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,200,Czechoslovakia,CSK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6479188,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,200,Czechoslovakia,CSK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3196453,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,204,Benin,BEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2524,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,208,Denmark,DNK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,20030784,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,208,Denmark,DNK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,53724752,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,214,Dominican Rep.,DOM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4838,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,214,Dominican Rep.,DOM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,173377,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,218,Ecuador,ECU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1060,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,218,Ecuador,ECU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,950282,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,222,El Salvador,SLV,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,43979,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,222,El Salvador,SLV,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,230980,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,230,Fmr Ethiopia,ETH,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5149,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,230,Fmr Ethiopia,ETH,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,36090,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,242,Fiji,FJI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,132085,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,251,France,FRA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,34437788,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,251,France,FRA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,61149064,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,254,French Guiana,GUF,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5303,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,262,Djibouti,DJI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,18835,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,266,Gabon,GAB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,9236,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,266,Gabon,GAB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,20529,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,270,Gambia,GMB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,23799,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3111933,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4620781,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,105532944,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,166627776,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,288,Ghana,GHA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5868,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,288,Ghana,GHA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,198642,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,292,Gibraltar,GIB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,17272,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,300,Greece,GRC,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1761459,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,300,Greece,GRC,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6635394,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,312,Guadeloupe,GLP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,43326,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,320,Guatemala,GTM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,116040,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,324,Guinea,GIN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,62382,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,328,Guyana,GUY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,116137,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,332,Haiti,HTI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3762,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,332,Haiti,HTI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,185968,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,340,Honduras,HND,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2303,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,340,Honduras,HND,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,79199,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,602160,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2030183,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,348,Hungary,HUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6234729,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,348,Hungary,HUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4799001,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,352,Iceland,ISL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1032720,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,352,Iceland,ISL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2386371,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,356,"India, excl. Sikkim",IND,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,870581,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,356,"India, excl. Sikkim",IND,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1361502,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,360,Indonesia,IDN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,8031,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,360,Indonesia,IDN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,897977,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,364,Iran,IRN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,392409,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,364,Iran,IRN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,13382875,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,368,Iraq,IRQ,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,20571,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,368,Iraq,IRQ,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,724316,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,372,Ireland,IRL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,273070,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,372,Ireland,IRL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,11698658,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,376,Israel,ISR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1290625,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,376,Israel,ISR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6765609,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,381,Italy,ITA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,14105703,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,381,Italy,ITA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,10706038,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,599049,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,388,Jamaica,JAM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,656756,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,392,Japan,JPN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,16253160,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,392,Japan,JPN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,8578960,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,400,Jordan,JOR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,115600,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,404,Kenya,KEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1736186,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,939,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,410,Rep. of Korea,KOR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,626191,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,410,Rep. of Korea,KOR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5483,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,414,Kuwait,KWT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,190079,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,418,Lao People's Dem. Rep.,LAO,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,8952,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,422,Lebanon,LBN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,19142,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,422,Lebanon,LBN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3960702,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,430,Liberia,LBR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,209069,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,434,Libya,LBY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,106025,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,450,Madagascar,MDG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,19455,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,454,Malawi,MWI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,224191,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,458,Malaysia,MYS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,68469,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,458,Malaysia,MYS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,580904,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,466,Mali,MLI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1013,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,470,Malta,MLT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,613,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,470,Malta,MLT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,130692,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,478,Mauritania,MRT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1425,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,480,Mauritius,MUS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,7471,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,484,Mexico,MEX,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,260835,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,484,Mexico,MEX,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5308400,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,490,"Other Asia, nes",,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,165264,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,496,Mongolia,MNG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,22925,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,504,Morocco,MAR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,633,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,504,Morocco,MAR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2154511,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,508,Mozambique,MOZ,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,10949,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,508,Mozambique,MOZ,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,455499,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,512,Oman,OMN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,48679,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,528,Netherlands,NLD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,10758582,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,528,Netherlands,NLD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,38129356,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,532,Neth. Antilles and Aruba,ANT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,84977,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,540,New Caledonia,NCL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,44558,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,548,Vanuatu,VUT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,774,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,554,New Zealand,NZL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,328520,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,558,Nicaragua,NIC,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,353020,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,562,Niger,NER,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,95862,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,566,Nigeria,NGA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1421,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,566,Nigeria,NGA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2265890,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,579,Norway,NOR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,23404808,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,579,Norway,NOR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,35274852,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,586,Pakistan,PAK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,174549,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,586,Pakistan,PAK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1100104,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,590,"Fmr Panama, excl.Canal Zone",PAN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,281334,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,600,Paraguay,PRY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,37127,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,604,Peru,PER,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,730,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,604,Peru,PER,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2600032,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,608,Philippines,PHL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,19736,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,608,Philippines,PHL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,580396,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,616,Poland,POL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4910283,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,616,Poland,POL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,11459391,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,620,Portugal,PRT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,15410916,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,620,Portugal,PRT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4310137,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,634,Qatar,QAT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,30106,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,638,Réunion,REU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2547,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,642,Romania,ROU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2050683,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,642,Romania,ROU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1621960,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,646,Rwanda,RWA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3793,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,654,Saint Helena,SHN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1583,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,658,"Saint Kitts, Nevis and Anguilla",KNA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,104080,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,666,Saint Pierre and Miquelon,SPM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,11408,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,666,Saint Pierre and Miquelon,SPM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4144,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,682,Saudi Arabia,SAU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4070,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,682,Saudi Arabia,SAU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1463841,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,686,Senegal,SEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,686985,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,690,Seychelles,SYC,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1094,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,694,Sierra Leone,SLE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,85479,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,698,Sikkim,,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,8578,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,702,Singapore,SGP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4444,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,702,Singapore,SGP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,571134,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,706,Somalia,SOM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,14004,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,711,So. African Customs Union,ZAF,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,330936,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,711,So. African Customs Union,ZAF,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,10248853,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,720,Fmr Dem. Yemen,YMD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2487,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,724,Spain,ESP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4014259,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,724,Spain,ESP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,14314264,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,736,Fmr Sudan,SDN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,42419,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,736,Fmr Sudan,SDN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,543616,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,740,Suriname,SUR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,116340,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,752,Sweden,SWE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,133240680,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,752,Sweden,SWE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,147237728,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,757,Switzerland,CHE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,24934114,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,757,Switzerland,CHE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,21544400,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,760,Syria,SYR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,724196,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,764,Thailand,THA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,85061,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,764,Thailand,THA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1294432,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,768,Togo,TGO,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2660,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,780,Trinidad and Tobago,TTO,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,391593,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,784,United Arab Emirates,ARE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,76947,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,788,Tunisia,TUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4548,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,788,Tunisia,TUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,493951,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,792,Turkey,TUR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,192892,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,792,Turkey,TUR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,781155,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,800,Uganda,UGA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,33542,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,810,Fmr USSR,SUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,31278896,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,810,Fmr USSR,SUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,148892992,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,818,Egypt,EGY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1031424,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,818,Egypt,EGY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2004969,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,826,United Kingdom,GBR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,114765376,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,826,United Kingdom,GBR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,276804768,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4519,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,299368,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,841,USA (before 1981),USA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,11656273,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,841,USA (before 1981),USA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,90047344,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,858,Uruguay,URY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,261897,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,858,Uruguay,URY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,168232,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,862,Venezuela,VEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5896,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,862,Venezuela,VEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1363490,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,868,Fmr Rep. of Vietnam,VNM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,97746,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,886,Fmr Arab Rep. of Yemen,YEM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,10723,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,890,Fmr Yugoslavia,YUG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1088337,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,890,Fmr Yugoslavia,YUG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,787696,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,894,Zambia,ZMB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2385592,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,894,Zambia,ZMB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,391339,,,0
+S1,1972,1972,1972,1,0,1,Import,246,Finland,FIN,899,"Areas, nes",,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,153768,,,0
+S1,1972,1972,1972,1,0,2,Export,246,Finland,FIN,899,"Areas, nes",,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,153982,,,0

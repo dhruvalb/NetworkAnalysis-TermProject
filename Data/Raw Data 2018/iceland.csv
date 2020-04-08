@@ -1,0 +1,1000 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,605023844,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,2328981247,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,8,Albania,ALB,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1683,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,26913,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,31,Azerbaijan,AZE,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,6538,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,31,Azerbaijan,AZE,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1275236,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,4049943,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,284055,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,587201,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,3708417,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,581593,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,50,Bangladesh,BGD,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,120375,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,50,Bangladesh,BGD,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1101,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,51,Armenia,ARM,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,330900,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,56,Belgium,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,18175944,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,56,Belgium,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,64998358,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,68,Bolivia (Plurinational State of),BOL,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,72259,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,70,Bosnia Herzegovina,BIH,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,50491,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,3677312,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,4588546,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,92,Br. Virgin Isds,VGB,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,77547,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,904564,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1675344,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,104,Myanmar,MMR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,459,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,112,Belarus,BLR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,6823,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,112,Belarus,BLR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,18740359,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,116,Cambodia,KHM,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,19697,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,24112334,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,31394348,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,225732,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,4826692,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,166543,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,4871631,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,110702680,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1635718,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,178,Congo,COG,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1214,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,180,Dem. Rep. of the Congo,COD,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,18858,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,2300631,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,191,Croatia,HRV,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,292659,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,191,Croatia,HRV,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,634834,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,192,Cuba,CUB,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,39903,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,62951,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,2461892,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,203,Czechia,CZE,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1445087,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,203,Czechia,CZE,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1407134,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,204,Benin,BEN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1069179,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,64414593,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,70695117,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,159797,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,4953333,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,222,El Salvador,SLV,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,14332,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,231,Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,175541,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,233,Estonia,EST,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,16319807,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,233,Estonia,EST,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,576947,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,234,Faeroe Isds,FRO,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,15909074,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,234,Faeroe Isds,FRO,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,24375440,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1523692,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,5475281,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,18755904,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,265562383,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,266,Gabon,GAB,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,222423,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,268,Georgia,GEO,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,3333428,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,270,Gambia,GMB,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1366,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,270,Gambia,GMB,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,202435,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,276,Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,43193663,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,276,Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,133592093,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,509655,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1018733,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1731298,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,5411748,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,304,Greenland,GRL,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,6153801,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,304,Greenland,GRL,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,2633601,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,320,Guatemala,GTM,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,400744,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,340,Honduras,HND,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,104268,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,47848,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,19574245,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1419825,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,30459,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,636956,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,767436,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,472676,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,9940247,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,3658952,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,787434,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,609499,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,20107393,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,28739689,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,2480744,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,59484,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,388,Jamaica,JAM,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,522,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,699390,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,83885444,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,398,Kazakhstan,KAZ,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1959021,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,49,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,267557,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,836540,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1719015,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,14300893,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,414,Kuwait,KWT,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,127,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,417,Kyrgyzstan,KGZ,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,6991,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,418,Lao People's Dem. Rep.,LAO,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,2175,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,3206,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,428,Latvia,LVA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,43855,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,428,Latvia,LVA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,4468714,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,440,Lithuania,LTU,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,6579230,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,440,Lithuania,LTU,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,37168527,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,442,Luxembourg,LUX,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,114344,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,442,Luxembourg,LUX,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,483499,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,450,Madagascar,MDG,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,183493,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,454,Malawi,MWI,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,19994,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,104312,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,462,Maldives,MDV,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,26853,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,466,Mali,MLI,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,56193,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,11751,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,478,Mauritania,MRT,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,11392,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,478,Mauritania,MRT,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,761,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,480,Mauritius,MUS,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,56430,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1519287,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,29594,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,976158,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,8188320,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,498,Rep. of Moldova,MDA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,95934,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,498,Rep. of Moldova,MDA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,53058,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,499,Montenegro,MNE,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,6541,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,870371,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,95497,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,508,Mozambique,MOZ,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1505,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,516,Namibia,NAM,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,209452,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,59910392,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,111768813,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,2779239,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,30196,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,558,Nicaragua,NIC,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,507730,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,558,Nicaragua,NIC,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,327007,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,3918,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,63592266,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,50102266,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,173877167,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,53684,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,8338,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,591,Panama,PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,180611,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,598,Papua New Guinea,PNG,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,110847,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,598,Papua New Guinea,PNG,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,28221,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,600,Paraguay,PRY,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,21589,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,4290546,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,587855,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,731118,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,13698925,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,50464591,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1314368,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,82978644,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,634,Qatar,QAT,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,9497,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,156159,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,510680,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,643,Russian Federation,RUS,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1993253,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,643,Russian Federation,RUS,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,14451159,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,674,San Marino,SMR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,146399,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,682,Saudi Arabia,SAU,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,173075,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,686,Senegal,SEN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,98602,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,686,Senegal,SEN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,26696,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,688,Serbia,SRB,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,123173,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,688,Serbia,SRB,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,296220,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,690,Seychelles,SYC,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,106072,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,699,India,IND,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1845085,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,699,India,IND,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,9941,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,76258,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,4259,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,703,Slovakia,SVK,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,73150,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,703,Slovakia,SVK,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,70511,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,704,Viet Nam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,2790396,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,704,Viet Nam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,6719945,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,705,Slovenia,SVN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,37162,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,705,Slovenia,SVN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,95000,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,710,South Africa,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,3869767,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,710,South Africa,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,52924,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,716,Zimbabwe,ZWE,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,182127,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,25368116,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,218741623,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,22690122,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,17043338,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,7727985,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,12965304,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,7640244,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,5343973,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,768,Togo,TGO,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,30968,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,784,United Arab Emirates,ARE,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1295,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,784,United Arab Emirates,ARE,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,595145,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,206842,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,65252,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1612832,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,12917545,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,800,Uganda,UGA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,8150,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,804,Ukraine,UKR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,83879,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,804,Ukraine,UKR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,23678350,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,807,North Macedonia,MKD,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,26446,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,807,North Macedonia,MKD,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,38775,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,878715,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,7865878,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,53140827,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,350102148,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,8988,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,842,USA,USA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,45176264,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,842,USA,USA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,215149603,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,854,Burkina Faso,BFA,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,65189,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,47513,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,40000,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,860,Uzbekistan,UZB,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,12486,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,2427,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,887,Yemen,YEM,,,,,,,,0,Food and live animals,1,No Quantity,,,0,,0,,1873,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,970273441,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,93213712,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,8,Albania,ALB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,66,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,24,Angola,AGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,608,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,7840,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,333853753,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,181,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,92725,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,9943,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,44,Bahamas,BHS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,3949,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,56,Belgium,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,524179,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,56,Belgium,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,79348,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,68,Bolivia (Plurinational State of),BOL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,40823,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,210862052,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,25962,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,104,Myanmar,MMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,21012,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,112,Belarus,BLR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,11778,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,120,Cameroon,CMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,55925,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,2133775,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,1001099,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,4085,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,75463,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,121681031,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,1160050,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,110451,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,178,Congo,COG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,12514,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,188,Costa Rica,CRI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,35087,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,191,Croatia,HRV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,46965,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,191,Croatia,HRV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,916,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,15752,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,203,Czechia,CZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,77011,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,203,Czechia,CZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,53564,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,5454111,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,14780590,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,218,Ecuador,ECU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,52205,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,222,El Salvador,SLV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,1704,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,226,Equatorial Guinea,GNQ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,808,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,231,Ethiopia,ETH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,23037,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,233,Estonia,EST,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,4988740,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,234,Faeroe Isds,FRO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,2144865,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,234,Faeroe Isds,FRO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,266423,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,7101399,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,67162,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,1419730,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,1304764,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,266,Gabon,GAB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,4377,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,276,Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,4639859,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,276,Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,4380463,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,25900,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,18621,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,116,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,304,Greenland,GRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,1940715,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,304,Greenland,GRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,842725,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,320,Guatemala,GTM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,16373,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,340,Honduras,HND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,84,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,194,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,352641,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,27943,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,118158,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,49266,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,94512,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,9786717,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,40519,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,645785,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,40138,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,718,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,388,Jamaica,JAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,99374714,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,66904,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,2218159,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,398,Kazakhstan,KAZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,72,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,76983,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,27867,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,124,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,210,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,428,Latvia,LVA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,6683170,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,428,Latvia,LVA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,18971,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,440,Lithuania,LTU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,3189021,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,440,Lithuania,LTU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,232100,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,442,Luxembourg,LUX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,1523651,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,454,Malawi,MWI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,51,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,66984,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,470,Malta,MLT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,231,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,470,Malta,MLT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,92,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,1645,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,18251,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,82528,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,498,Rep. of Moldova,MDA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,6894,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,1246121,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,6487513,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,19335473,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,450658,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,438130,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,558,Nicaragua,NIC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,300,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,343,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,29190218,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,4005420,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,2861,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,600,Paraguay,PRY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,26701,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,44387,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,72213,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,3144313,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,1342600,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,133734,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,260852,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,30924,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,250,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,643,Russian Federation,RUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,4891019,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,699,India,IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,231599,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,55419766,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,110478,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,703,Slovakia,SVK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,16161,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,703,Slovakia,SVK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,9096,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,704,Viet Nam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,6040,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,704,Viet Nam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,1155512,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,705,Slovenia,SVN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,5375,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,710,South Africa,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,119367,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,716,Zimbabwe,ZWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,4536,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,5155536,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,11898684,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,729,Sudan,SDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,197406,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,8556241,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,1275822,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,95405,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,302549,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,11580,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,6679797,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,7101521,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,1233901,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,800,Uganda,UGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,10095,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,804,Ukraine,UKR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,45613,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,3858945,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,58591,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,1581144,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,7477027,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,834,United Rep. of Tanzania,TZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,1299,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,842,USA,USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,27468042,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,842,USA,USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,6075953,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,862,Venezuela,VEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,64,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,894,Zambia,ZMB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,0,,0,,2025,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,1121596727,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,111998469,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,28,Antigua and Barbuda,ATG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,6014789,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,31,Azerbaijan,AZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,5269,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,32,Argentina,ARG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,16164,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,51153,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,115986,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,423042,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,44,Bahamas,BHS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,7580981,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,52,Barbados,BRB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,299204,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,56,Belgium,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,6586367,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,56,Belgium,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,60154,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,60,Bermuda,BMU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,13192,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,60,Bermuda,BMU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,1710295,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,76,Brazil,BRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,11747,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,76,Brazil,BRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,19749,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,92,Br. Virgin Isds,VGB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,18879,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,100,Bulgaria,BGR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,93287,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,104,Myanmar,MMR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,20190,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,49783202,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,1109384,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,136,Cayman Isds,CYM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,123729,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,144,Sri Lanka,LKA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,57108,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,152,Chile,CHL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,215472,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,168077,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,8119,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,170,Colombia,COL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,813156,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,191,Croatia,HRV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,28152,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,192,Cuba,CUB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,63913,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,196,Cyprus,CYP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,6177,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,196,Cyprus,CYP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,2882842,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,203,Czechia,CZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,385368,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,203,Czechia,CZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,24217,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,82227524,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,5411510,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,214,Dominican Rep.,DOM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,35283,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,218,Ecuador,ECU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,7259,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,233,Estonia,EST,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,115751,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,233,Estonia,EST,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,666382,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,234,Faeroe Isds,FRO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,2556091,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,234,Faeroe Isds,FRO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,1822373,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,4740844,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,1389638,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,16172665,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,1710428,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,258,French Polynesia,PYF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,64963,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,268,Georgia,GEO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,46270,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,276,Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,27749719,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,276,Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,4708556,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,292,Gibraltar,GIB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,1969350,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,300,Greece,GRC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,2771619,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,300,Greece,GRC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,142490,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,304,Greenland,GRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,749773,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,304,Greenland,GRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,16189146,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,324,Guinea,GIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,170673,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,348,Hungary,HUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,34617,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,360,Indonesia,IDN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,37698,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,372,Ireland,IRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,3267615,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,376,Israel,ISR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,1620127,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,5475288,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,1700276,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,388,Jamaica,JAM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,93703,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,30048,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,404,Kenya,KEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,775,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,410,Rep. of Korea,KOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,51694,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,428,Latvia,LVA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,168483,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,428,Latvia,LVA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,161025,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,430,Liberia,LBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,168524,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,440,Lithuania,LTU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,178418,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,440,Lithuania,LTU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,72186,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,442,Luxembourg,LUX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,1575,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,442,Luxembourg,LUX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,507922,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,470,Malta,MLT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,61958,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,470,Malta,MLT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,2402773,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,480,Mauritius,MUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,592,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,484,Mexico,MEX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,29931,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,484,Mexico,MEX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,1848,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,490,"Other Asia, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,449,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,496,Mongolia,MNG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,23935,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,499,Montenegro,MNE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,48193,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,504,Morocco,MAR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,114618,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,504,Morocco,MAR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,59815,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,516,Namibia,NAM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,4569,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,38461535,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,2309512,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,533,Aruba,ABW,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,19002,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,554,New Zealand,NZL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,29591,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,566,Nigeria,NGA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,5373,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,579,Norway,NOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,558660258,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,579,Norway,NOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,3206448,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,584,Marshall Isds,MHL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,1373817,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,591,Panama,PAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,167374,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,604,Peru,PER,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,9982,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,608,Philippines,PHL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,397972,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,6031625,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,23809,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,620,Portugal,PRT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,2143177,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,620,Portugal,PRT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,1282923,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,643,Russian Federation,RUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,13214086,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,643,Russian Federation,RUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,7588727,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,659,Saint Kitts and Nevis,KNA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,132675,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,147824,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,682,Saudi Arabia,SAU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,6978454,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,699,India,IND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,476093,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,702,Singapore,SGP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,383537,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,703,Slovakia,SVK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,3076,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,705,Slovenia,SVN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,206737,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,705,Slovenia,SVN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,53464,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,710,South Africa,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,103027,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,18496431,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,145750,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,21444602,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,20858,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,2984711,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,255083,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,764,Thailand,THA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,7017,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,784,United Arab Emirates,ARE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,45313,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,784,United Arab Emirates,ARE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,518895,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,327989,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,136685,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,796,Turks and Caicos Isds,TCA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,76653,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,804,Ukraine,UKR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,2900,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,818,Egypt,EGY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,430231,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,818,Egypt,EGY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,13396,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,33917493,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,27681065,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,842,USA,USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,210910315,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,842,USA,USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,5559176,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,860,Uzbekistan,UZB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,38863,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,876,Wallis and Futuna Isds,WLF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,702076,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,882,Samoa,WSM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,0,,0,,23205,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,555890897,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,0,World,WLD,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,41332494,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,32,Argentina,ARG,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,88,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,36,Australia,AUS,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,518281,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,36,Australia,AUS,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,382010,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,40,Austria,AUT,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,2161874,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,40,Austria,AUT,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,16815,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,48,Bahrain,BHR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,131,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,50,Bangladesh,BGD,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1108,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,56,Belgium,BEL,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,15305051,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,56,Belgium,BEL,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,6354,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,68,Bolivia (Plurinational State of),BOL,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,660,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,76,Brazil,BRA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,3294555,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,100,Bulgaria,BGR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,4205823,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,104,Myanmar,MMR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1163,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,112,Belarus,BLR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,386,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,116,Cambodia,KHM,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,174,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,124,Canada,CAN,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,2714356,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,124,Canada,CAN,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1130235,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,144,Sri Lanka,LKA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,285,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,152,Chile,CHL,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,15529,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,152,Chile,CHL,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,165514,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,156,China,CHN,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,28626442,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,156,China,CHN,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,2154804,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,170,Colombia,COL,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,2551,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,170,Colombia,COL,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,3014,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,188,Costa Rica,CRI,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,155,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,191,Croatia,HRV,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,539315,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,196,Cyprus,CYP,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,58822,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,196,Cyprus,CYP,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,208,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,203,Czechia,CZE,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1622102,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,203,Czechia,CZE,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,147002,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,208,Denmark,DNK,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,81021000,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,208,Denmark,DNK,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,440120,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,214,Dominican Rep.,DOM,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,43024,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,218,Ecuador,ECU,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,460,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,218,Ecuador,ECU,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1671,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,233,Estonia,EST,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,10139010,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,234,Faeroe Isds,FRO,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,136607,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,234,Faeroe Isds,FRO,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,171606,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,246,Finland,FIN,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,14253576,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,246,Finland,FIN,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,421216,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,251,France,FRA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,24653257,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,251,France,FRA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,50084,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,262,Djibouti,DJI,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1315,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,268,Georgia,GEO,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,11466,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,276,Germany,DEU,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,64089640,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,276,Germany,DEU,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,3085116,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,288,Ghana,GHA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,250,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,300,Greece,GRC,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1493040,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,304,Greenland,GRL,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,79,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,304,Greenland,GRL,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,570753,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,320,Guatemala,GTM,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,105,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,332,Haiti,HTI,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,119,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,340,Honduras,HND,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,15818,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,344,"China, Hong Kong SAR",HKG,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1684813,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,344,"China, Hong Kong SAR",HKG,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1521230,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,348,Hungary,HUN,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,830186,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,360,Indonesia,IDN,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,758451,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,360,Indonesia,IDN,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,4681,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,368,Iraq,IRQ,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,97983,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,372,Ireland,IRL,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,3895198,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,372,Ireland,IRL,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,2023,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,376,Israel,ISR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1554478,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,376,Israel,ISR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,2786,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,381,Italy,ITA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,7397004,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,381,Italy,ITA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,81754,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,388,Jamaica,JAM,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,105,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,392,Japan,JPN,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,3453576,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,392,Japan,JPN,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1203846,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,400,Jordan,JOR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,231,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,400,Jordan,JOR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,911,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,410,Rep. of Korea,KOR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1534156,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,410,Rep. of Korea,KOR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,512720,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,417,Kyrgyzstan,KGZ,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1980,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,418,Lao People's Dem. Rep.,LAO,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,69,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,422,Lebanon,LBN,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,48,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,428,Latvia,LVA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,755040,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,428,Latvia,LVA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,965,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,440,Lithuania,LTU,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,2931869,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,440,Lithuania,LTU,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,74310,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,442,Luxembourg,LUX,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,395801,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,442,Luxembourg,LUX,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,526,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,458,Malaysia,MYS,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,457479,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,458,Malaysia,MYS,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,7093,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,470,Malta,MLT,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1600437,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,478,Mauritania,MRT,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,5108,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,484,Mexico,MEX,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,179089,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,484,Mexico,MEX,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1976,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,490,"Other Asia, nes",,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,227725,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,490,"Other Asia, nes",,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,85216,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,504,Morocco,MAR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,10484,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,524,Nepal,NPL,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1446,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,528,Netherlands,NLD,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,49753867,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,528,Netherlands,NLD,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,15371248,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,554,New Zealand,NZL,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,24926,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,554,New Zealand,NZL,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,6160,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,566,Nigeria,NGA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,76,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,579,Norway,NOR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,34212466,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,579,Norway,NOR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,563075,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,586,Pakistan,PAK,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,3568,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,591,Panama,PAN,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,505,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,591,Panama,PAN,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,38161,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,604,Peru,PER,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,27597,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,604,Peru,PER,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,120377,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,608,Philippines,PHL,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,69541,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,608,Philippines,PHL,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,18666,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,616,Poland,POL,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,6974068,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,616,Poland,POL,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,84293,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,620,Portugal,PRT,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,844752,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,620,Portugal,PRT,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,4222,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,642,Romania,ROU,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,188701,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,642,Romania,ROU,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,8236,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,643,Russian Federation,RUS,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,354557,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,643,Russian Federation,RUS,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,75885,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,674,San Marino,SMR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,145,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,682,Saudi Arabia,SAU,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,265747,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,682,Saudi Arabia,SAU,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,16553,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,688,Serbia,SRB,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,427119,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,688,Serbia,SRB,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,131,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,699,India,IND,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1635168,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,699,India,IND,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,367,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,702,Singapore,SGP,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,5061061,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,702,Singapore,SGP,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,9335,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,703,Slovakia,SVK,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,121877,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,703,Slovakia,SVK,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,771,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,704,Viet Nam,VNM,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,17636,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,705,Slovenia,SVN,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,17108,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,705,Slovenia,SVN,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,72012,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,710,South Africa,ZAF,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,56696,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,710,South Africa,ZAF,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,29799,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,724,Spain,ESP,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,6639089,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,724,Spain,ESP,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1036952,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,752,Sweden,SWE,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,48136209,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,752,Sweden,SWE,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,996360,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,757,Switzerland,CHE,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,20264385,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,757,Switzerland,CHE,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,979175,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,764,Thailand,THA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,247890,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,764,Thailand,THA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,6124,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,784,United Arab Emirates,ARE,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,12733,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,784,United Arab Emirates,ARE,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,284671,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,788,Tunisia,TUN,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,553,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,792,Turkey,TUR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,927893,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,792,Turkey,TUR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,23539,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,804,Ukraine,UKR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,15045,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,804,Ukraine,UKR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,1330,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,807,North Macedonia,MKD,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,110,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,818,Egypt,EGY,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,11995,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,826,United Kingdom,GBR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,37378191,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,826,United Kingdom,GBR,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,2617447,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,842,USA,USA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,59597993,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,842,USA,USA,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,6621566,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,862,Venezuela,VEN,,,,,,,,5,"Chemicals and related products, n.e.s.",1,No Quantity,,,0,,0,,653,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,817333861,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,0,World,WLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,2426382495,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,4,Afghanistan,AFG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,7756,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,8,Albania,ALB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,982,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,20,Andorra,AND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,260,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,24,Angola,AGO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,278,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,31,Azerbaijan,AZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,18638,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,32,Argentina,ARG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,65250,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,32,Argentina,ARG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,14923,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,36,Australia,AUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,746850,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,36,Australia,AUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,15731500,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,40,Austria,AUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,10848711,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,40,Austria,AUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,97882,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,48,Bahrain,BHR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,953,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,48,Bahrain,BHR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,21654,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,50,Bangladesh,BGD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,779731,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,56,Belgium,BEL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,14063726,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,56,Belgium,BEL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,17220439,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,68,Bolivia (Plurinational State of),BOL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,109,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,70,Bosnia Herzegovina,BIH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,59504,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,76,Brazil,BRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1518304,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,76,Brazil,BRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,6039173,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,100,Bulgaria,BGR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,511239,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,100,Bulgaria,BGR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,259,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,104,Myanmar,MMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,83,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,112,Belarus,BLR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,363188,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,116,Cambodia,KHM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,2642,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,124,Canada,CAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,9067822,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,124,Canada,CAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,74300316,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,132,Cabo Verde,CPV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,35602,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,144,Sri Lanka,LKA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,239810,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,152,Chile,CHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,311904,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,152,Chile,CHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,32505,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,156,China,CHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,61793141,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,156,China,CHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,23092395,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,170,Colombia,COL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,30734,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,170,Colombia,COL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,437,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,188,Costa Rica,CRI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1761,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,191,Croatia,HRV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,459500,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,191,Croatia,HRV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1701,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,196,Cyprus,CYP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1380,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,203,Czechia,CZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,7073640,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,203,Czechia,CZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,8317705,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,208,Denmark,DNK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,90239085,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,208,Denmark,DNK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,9258219,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,214,Dominican Rep.,DOM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1940,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,218,Ecuador,ECU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,95,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,222,El Salvador,SLV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1063,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,233,Estonia,EST,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,4867151,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,233,Estonia,EST,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,8531,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,234,Faeroe Isds,FRO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1735852,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,234,Faeroe Isds,FRO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,9944893,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,246,Finland,FIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,17836962,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,246,Finland,FIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,112715,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,251,France,FRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,21029172,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,251,France,FRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,82058112,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,262,Djibouti,DJI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,21169,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,276,Germany,DEU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,96731357,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,276,Germany,DEU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,172194218,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,300,Greece,GRC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,556320,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,300,Greece,GRC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,520077,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,304,Greenland,GRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,792,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,304,Greenland,GRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,804901,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,320,Guatemala,GTM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,75,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,332,Haiti,HTI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,306,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,340,Honduras,HND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,723,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1007133,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,159478,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,348,Hungary,HUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1901453,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,348,Hungary,HUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,49868999,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,360,Indonesia,IDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1446225,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,360,Indonesia,IDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,613533,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,364,Iran,IRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,31565,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,372,Ireland,IRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1160046,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,372,Ireland,IRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,155184,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,376,Israel,ISR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,833999,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,376,Israel,ISR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1132,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,381,Italy,ITA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,76812858,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,381,Italy,ITA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,18425272,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,392,Japan,JPN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,4384953,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,392,Japan,JPN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,26530033,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,400,Jordan,JOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,4436,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,404,Kenya,KEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,8349,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,404,Kenya,KEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,592,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,410,Rep. of Korea,KOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,5162541,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,410,Rep. of Korea,KOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,374395,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,417,Kyrgyzstan,KGZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,224,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,428,Latvia,LVA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,26753127,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,428,Latvia,LVA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,3584,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,440,Lithuania,LTU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,36063227,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,440,Lithuania,LTU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,273463,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,442,Luxembourg,LUX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,6031795,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,442,Luxembourg,LUX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,6100,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,446,"China, Macao SAR",MAC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,4809,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,450,Madagascar,MDG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,5898,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,458,Malaysia,MYS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,565211,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,470,Malta,MLT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,4727,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,470,Malta,MLT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,3291,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,484,Mexico,MEX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,543851,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,484,Mexico,MEX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,305630,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,490,"Other Asia, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,8825159,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,490,"Other Asia, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,12080599,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,496,Mongolia,MNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,46441,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,498,Rep. of Moldova,MDA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,3056,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,499,Montenegro,MNE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,8730,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,504,Morocco,MAR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,83776,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,512,Oman,OMN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,2498,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,516,Namibia,NAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1281,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,516,Namibia,NAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,65709,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,524,Nepal,NPL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,17390,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,528,Netherlands,NLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,48185915,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,528,Netherlands,NLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1453007030,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,554,New Zealand,NZL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,137133,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,554,New Zealand,NZL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,44961,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,558,Nicaragua,NIC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,257,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,579,Norway,NOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,30806463,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,579,Norway,NOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,3173754,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,586,Pakistan,PAK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1638946,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,586,Pakistan,PAK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,350,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,598,Papua New Guinea,PNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,930,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,604,Peru,PER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,259305,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,604,Peru,PER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1235,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,608,Philippines,PHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,278816,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,616,Poland,POL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,32321040,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,616,Poland,POL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,9503630,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,620,Portugal,PRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,4739816,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,620,Portugal,PRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,3221874,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,634,Qatar,QAT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1434,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,642,Romania,ROU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,5020433,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,642,Romania,ROU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1317,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,643,Russian Federation,RUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,21846918,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,643,Russian Federation,RUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,5762949,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,674,San Marino,SMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,7242,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,682,Saudi Arabia,SAU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,33439,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,682,Saudi Arabia,SAU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,79572,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,688,Serbia,SRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,623652,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,688,Serbia,SRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,21118,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,699,India,IND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,10172457,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,699,India,IND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,7479872,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,702,Singapore,SGP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,3792613,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,702,Singapore,SGP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,3324,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,703,Slovakia,SVK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,2167368,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,703,Slovakia,SVK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,3773368,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,704,Viet Nam,VNM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,4271173,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,704,Viet Nam,VNM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,29999,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,705,Slovenia,SVN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,839666,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,705,Slovenia,SVN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,31029,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,710,South Africa,ZAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,104944,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,710,South Africa,ZAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,53504,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,724,Spain,ESP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,8201855,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,724,Spain,ESP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,221967892,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,752,Sweden,SWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,45976980,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,752,Sweden,SWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,3642672,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,757,Switzerland,CHE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,10409623,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,757,Switzerland,CHE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,23737720,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,764,Thailand,THA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,2237313,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,764,Thailand,THA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,4513,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,784,United Arab Emirates,ARE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,164518,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,784,United Arab Emirates,ARE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,15276,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,788,Tunisia,TUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,25676,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,792,Turkey,TUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,6148040,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,792,Turkey,TUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,4202527,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,804,Ukraine,UKR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,456358,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,804,Ukraine,UKR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,456,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,807,North Macedonia,MKD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,2620,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,818,Egypt,EGY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,384919,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,818,Egypt,EGY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,58564,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,826,United Kingdom,GBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,38011759,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,826,United Kingdom,GBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,134292559,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,196,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,842,USA,USA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,25364585,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,842,USA,USA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,23574797,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,858,Uruguay,URY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,4694,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,860,Uzbekistan,UZB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,1139,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,862,Venezuela,VEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,0,,0,,10307,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,2635647068,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,0,World,WLD,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,252024293,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,4,Afghanistan,AFG,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,26503,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,8,Albania,ALB,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,4366,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,20,Andorra,AND,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,483,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,31,Azerbaijan,AZE,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,262,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,32,Argentina,ARG,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,12111,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,32,Argentina,ARG,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1055891,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,36,Australia,AUS,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1100054,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,36,Australia,AUS,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1770130,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,40,Austria,AUT,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,12909621,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,40,Austria,AUT,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,997680,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,48,Bahrain,BHR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,23739,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,48,Bahrain,BHR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,140023,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,50,Bangladesh,BGD,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,78421,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,52,Barbados,BRB,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,663,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,52,Barbados,BRB,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,3391,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,56,Belgium,BEL,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,25742272,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,56,Belgium,BEL,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,2050466,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,70,Bosnia Herzegovina,BIH,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,31880,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,76,Brazil,BRA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,840592,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,76,Brazil,BRA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1054512,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,100,Bulgaria,BGR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1712336,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,100,Bulgaria,BGR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,48516,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,104,Myanmar,MMR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,317,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,112,Belarus,BLR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1204,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,116,Cambodia,KHM,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,318555,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,124,Canada,CAN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,34480506,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,124,Canada,CAN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,2722781,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,144,Sri Lanka,LKA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,57875,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,152,Chile,CHL,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,433,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,152,Chile,CHL,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,2568638,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,156,China,CHN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,298505424,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,156,China,CHN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1808929,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,170,Colombia,COL,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,328,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,170,Colombia,COL,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,28379,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,188,Costa Rica,CRI,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,15544,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,188,Costa Rica,CRI,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,10604,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,191,Croatia,HRV,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,2213575,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,191,Croatia,HRV,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,93697,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,196,Cyprus,CYP,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,17894,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,196,Cyprus,CYP,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,22130,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,203,Czechia,CZE,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,47869490,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,203,Czechia,CZE,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,5715,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,208,Denmark,DNK,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,80699401,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,208,Denmark,DNK,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,9504007,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,214,Dominican Rep.,DOM,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,3005,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,218,Ecuador,ECU,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1490,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,218,Ecuador,ECU,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,26865,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,222,El Salvador,SLV,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,378,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,231,Ethiopia,ETH,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,162350,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,233,Estonia,EST,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,2594663,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,233,Estonia,EST,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,717,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,234,Faeroe Isds,FRO,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,430787,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,234,Faeroe Isds,FRO,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,15648369,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,238,Falkland Isds (Malvinas),FLK,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,11164,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,246,Finland,FIN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,24156226,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,246,Finland,FIN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,218597,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,251,France,FRA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,100929072,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,251,France,FRA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,3133203,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,262,Djibouti,DJI,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,159017,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,268,Georgia,GEO,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,112333,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,276,Germany,DEU,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,361416477,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,276,Germany,DEU,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,5120181,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,300,Greece,GRC,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1475687,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,300,Greece,GRC,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,22374,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,304,Greenland,GRL,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,7455,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,304,Greenland,GRL,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,2062059,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,320,Guatemala,GTM,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,333,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,324,Guinea,GIN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,39331,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,332,Haiti,HTI,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,4393,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,340,Honduras,HND,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,253,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,344,"China, Hong Kong SAR",HKG,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,11685645,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,344,"China, Hong Kong SAR",HKG,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,42633,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,348,Hungary,HUN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,22740909,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,348,Hungary,HUN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,4956,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,360,Indonesia,IDN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,4192568,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,364,Iran,IRN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,62003,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,372,Ireland,IRL,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,16324966,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,372,Ireland,IRL,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,453084,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,376,Israel,ISR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,13973880,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,376,Israel,ISR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,6536,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,381,Italy,ITA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,64634438,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,381,Italy,ITA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,753306,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,392,Japan,JPN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,132866005,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,392,Japan,JPN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,135629,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,400,Jordan,JOR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,39354,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,400,Jordan,JOR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,404810,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,410,Rep. of Korea,KOR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,64528504,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,410,Rep. of Korea,KOR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,2803268,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,414,Kuwait,KWT,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1692,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,414,Kuwait,KWT,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,9784,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,417,Kyrgyzstan,KGZ,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,2416,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,418,Lao People's Dem. Rep.,LAO,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,16355,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,422,Lebanon,LBN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,695,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,422,Lebanon,LBN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1684,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,428,Latvia,LVA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,3410965,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,428,Latvia,LVA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1046423,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,440,Lithuania,LTU,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,3990012,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,440,Lithuania,LTU,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,4133703,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,442,Luxembourg,LUX,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,527363,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,442,Luxembourg,LUX,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1369,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,454,Malawi,MWI,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,444,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,458,Malaysia,MYS,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,6231392,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,458,Malaysia,MYS,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,9408,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,470,Malta,MLT,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,22251,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,470,Malta,MLT,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,447339,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,478,Mauritania,MRT,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,301,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,480,Mauritius,MUS,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,961,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,484,Mexico,MEX,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,13435902,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,484,Mexico,MEX,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,605060,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,490,"Other Asia, nes",,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,13332262,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,490,"Other Asia, nes",,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,2721,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,498,Rep. of Moldova,MDA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,50178,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,498,Rep. of Moldova,MDA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,109938,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,499,Montenegro,MNE,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,346488,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,504,Morocco,MAR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,72487,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,504,Morocco,MAR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1412115,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,512,Oman,OMN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,6620,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,516,Namibia,NAM,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,780,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,516,Namibia,NAM,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,2594971,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,524,Nepal,NPL,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1256,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,528,Netherlands,NLD,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,244482607,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,528,Netherlands,NLD,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,38086282,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,554,New Zealand,NZL,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,659352,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,554,New Zealand,NZL,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,512049,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,558,Nicaragua,NIC,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,33490,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,558,Nicaragua,NIC,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,494230,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,566,Nigeria,NGA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,210,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,566,Nigeria,NGA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1866,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,579,Norway,NOR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,152064202,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,579,Norway,NOR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,58514374,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,586,Pakistan,PAK,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,72063,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,591,Panama,PAN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,50,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,591,Panama,PAN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,40126,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,598,Papua New Guinea,PNG,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,125,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,600,Paraguay,PRY,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,4996,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,604,Peru,PER,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,678,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,604,Peru,PER,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,74047,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,608,Philippines,PHL,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,2453433,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,608,Philippines,PHL,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,41726,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,616,Poland,POL,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,78456443,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,616,Poland,POL,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,2396827,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,620,Portugal,PRT,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,3977930,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,620,Portugal,PRT,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1456011,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,634,Qatar,QAT,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,284,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,634,Qatar,QAT,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,2166,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,642,Romania,ROU,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,9424965,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,642,Romania,ROU,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,242429,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,643,Russian Federation,RUS,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,3470854,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,643,Russian Federation,RUS,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,34095957,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,674,San Marino,SMR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,397,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,682,Saudi Arabia,SAU,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,2435,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,682,Saudi Arabia,SAU,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,122176,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,688,Serbia,SRB,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,402023,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,694,Sierra Leone,SLE,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,6340,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,699,India,IND,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,2003882,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,702,Singapore,SGP,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,62026292,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,702,Singapore,SGP,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,132617,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,703,Slovakia,SVK,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,33149605,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,703,Slovakia,SVK,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,2389961,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,704,Viet Nam,VNM,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,7597705,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,704,Viet Nam,VNM,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,227,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,705,Slovenia,SVN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,4693806,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,705,Slovenia,SVN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,105141,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,710,South Africa,ZAF,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,6465918,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,710,South Africa,ZAF,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,5337658,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,724,Spain,ESP,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,46041990,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,724,Spain,ESP,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,3838773,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,752,Sweden,SWE,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,136115984,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,752,Sweden,SWE,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1350830,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,757,Switzerland,CHE,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,12916713,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,757,Switzerland,CHE,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,151445,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,764,Thailand,THA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,8760937,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,764,Thailand,THA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,294905,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,784,United Arab Emirates,ARE,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,12250225,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,784,United Arab Emirates,ARE,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,208911,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,788,Tunisia,TUN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,132044,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,792,Turkey,TUR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,28389466,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,792,Turkey,TUR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,397614,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,804,Ukraine,UKR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,745572,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,807,North Macedonia,MKD,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,33642,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,818,Egypt,EGY,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,112783,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,818,Egypt,EGY,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,31728,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,826,United Kingdom,GBR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,186649356,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,826,United Kingdom,GBR,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,7110660,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,842,USA,USA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,221876545,,,4
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,842,USA,USA,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,28956443,,,4
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,858,Uruguay,URY,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,443,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,858,Uruguay,URY,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,8686,,,0
+S4,2018,2018,2018,1,0,1,Import,352,Iceland,ISL,862,Venezuela,VEN,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,1266,,,0
+S4,2018,2018,2018,1,0,2,Export,352,Iceland,ISL,894,Zambia,ZMB,,,,,,,,7,Machinery and transport equipment,1,No Quantity,,,0,,0,,34407,,,0

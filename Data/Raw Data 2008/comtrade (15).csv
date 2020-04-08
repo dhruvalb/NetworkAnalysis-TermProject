@@ -1,0 +1,1331 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,29973460093,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,31438013801,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,4,Afghanistan,AFG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,223288,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,4,Afghanistan,AFG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2746672,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,8,Albania,ALB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,73445,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,8,Albania,ALB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2089300,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,22129993,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,170556885,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,16,American Samoa,ASM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,59015,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,20,Andorra,AND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19788443,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,20,Andorra,AND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,182302465,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,24,Angola,AGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19553279,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,24,Angola,AGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,43243503,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,28,Antigua and Barbuda,ATG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,143,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,31,Azerbaijan,AZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,50724,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,31,Azerbaijan,AZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2056317,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2823331745,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10385347,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,25647455,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,54313555,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,151838842,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,216318546,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,44,Bahamas,BHS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13879,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,44,Bahamas,BHS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,94134,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,48,Bahrain,BHR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5732,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,48,Bahrain,BHR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6084384,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,50,Bangladesh,BGD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1071104,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,50,Bangladesh,BGD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2352857,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,51,Armenia,ARM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,190703,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,51,Armenia,ARM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4078845,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,52,Barbados,BRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,289627,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,56,Belgium,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,881487192,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,853813117,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,60,Bermuda,BMU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,738,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,68,Bolivia (Plurinational State of),BOL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9320934,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,68,Bolivia (Plurinational State of),BOL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1102442,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,70,Bosnia Herzegovina,BIH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1280,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,70,Bosnia Herzegovina,BIH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12931437,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,72,Botswana,BWA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,110476,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,72,Botswana,BWA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,581373,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,848343559,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,42855053,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,84,Belize,BLZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3964455,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,90,Solomon Isds,SLB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,251944,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,92,Br. Virgin Isds,VGB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,684360,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,41631356,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,68778405,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,104,Myanmar,MMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,538034,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,104,Myanmar,MMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,51957,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,108,Burundi,BDI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,312416,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,108,Burundi,BDI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,54706,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,112,Belarus,BLR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1347949,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,112,Belarus,BLR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,35945345,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,116,Cambodia,KHM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,81794,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,120,Cameroon,CMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,47226962,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,120,Cameroon,CMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8642933,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,129995491,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,84103128,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,132,Cabo Verde,CPV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17647281,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,132,Cabo Verde,CPV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8384482,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,136,Cayman Isds,CYM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1515,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,136,Cayman Isds,CYM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8278,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,140,Central African Rep.,CAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,92060,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,140,Central African Rep.,CAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,72991,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11176505,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,751822,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,148,Chad,TCD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,42534,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,454744163,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,22633758,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,594966207,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,72978989,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,162,Christmas Isds,CXR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16011,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,165970673,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16524824,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,174,Comoros,COM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,86438,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,174,Comoros,COM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,631186,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,175,Mayotte,MYT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5534402,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,175,Mayotte,MYT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,519770,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,178,Congo,COG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1138429,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,178,Congo,COG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3911054,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,180,Dem. Rep. of the Congo,COD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2173349,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,180,Dem. Rep. of the Congo,COD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3272101,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,119619942,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6227900,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,191,Croatia,HRV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6782558,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,191,Croatia,HRV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,75892322,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,192,Cuba,CUB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,67804071,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,192,Cuba,CUB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,40285080,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3784281,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,58641078,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,203,Czechia,CZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,26152289,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,203,Czechia,CZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,314537616,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,204,Benin,BEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8512,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,204,Benin,BEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,36553049,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,637388214,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,337505969,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,212,Dominica,DMA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,28778,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10116253,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21628923,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,508747470,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,59675653,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,222,El Salvador,SLV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,92131645,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,222,El Salvador,SLV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4737520,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,226,Equatorial Guinea,GNQ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3491131,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,226,Equatorial Guinea,GNQ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18126472,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,231,Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12539213,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,231,Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,77326,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,233,Estonia,EST,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12819260,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,233,Estonia,EST,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,31691817,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,234,Faeroe Isds,FRO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,57153764,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,234,Faeroe Isds,FRO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,129,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,238,Falkland Isds (Malvinas),FLK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,133961696,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,242,Fiji,FJI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3071142,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19371186,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,133371215,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5165248734,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6557620018,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,258,French Polynesia,PYF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,27703,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,258,French Polynesia,PYF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1642372,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,262,Djibouti,DJI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1089028,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,266,Gabon,GAB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2830589,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,266,Gabon,GAB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5772704,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,268,Georgia,GEO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1114475,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,268,Georgia,GEO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4842532,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,270,Gambia,GMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2354122,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,270,Gambia,GMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4899846,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,275,State of Palestine,PSE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,955488,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,276,Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2202570085,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,276,Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4150361289,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,80600412,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16632532,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,292,Gibraltar,GIB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,31678,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,292,Gibraltar,GIB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,22530190,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,133697849,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,389439718,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,304,Greenland,GRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2917277,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,308,Grenada,GRD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,74,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,316,Guam,GUM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,57805,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,320,Guatemala,GTM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,62127735,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,320,Guatemala,GTM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8047962,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,324,Guinea,GIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9207975,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,324,Guinea,GIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5481081,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,332,Haiti,HTI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,58974,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,332,Haiti,HTI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2283621,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,340,Honduras,HND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,48587734,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,340,Honduras,HND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1986639,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,754789,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,157835960,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,71085797,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,149698117,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,184469821,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3926688,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,82296885,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4820213,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,93259740,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12256797,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,368,Iraq,IRQ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1566779,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,942611041,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,139379353,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,40329390,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,46421411,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1216993442,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3271311104,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,96512757,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,34312058,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,388,Jamaica,JAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,135009,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,388,Jamaica,JAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1389903,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9494325,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,284558554,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,398,Kazakhstan,KAZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,48160863,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,398,Kazakhstan,KAZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3592874,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,39757,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17068761,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,45676306,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14513049,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,408,Dem. People's Rep. of Korea,PRK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,466597,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,408,Dem. People's Rep. of Korea,PRK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,857461,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,54579659,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,63449615,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,414,Kuwait,KWT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,106463,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,414,Kuwait,KWT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17382271,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,417,Kyrgyzstan,KGZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,69231,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,417,Kyrgyzstan,KGZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,496849,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,418,Lao People's Dem. Rep.,LAO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1523009,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,474324,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,31780136,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,426,Lesotho,LSO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,556,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,428,Latvia,LVA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,22022389,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,428,Latvia,LVA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,46259121,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,430,Liberia,LBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,470997,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,430,Liberia,LBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2540594,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,434,Libya,LBY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16863,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,434,Libya,LBY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,70736144,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,440,Lithuania,LTU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,27591137,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,440,Lithuania,LTU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,87679339,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,442,Luxembourg,LUX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4411010,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,442,Luxembourg,LUX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,30099399,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,446,"China, Macao SAR",MAC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,196061,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,450,Madagascar,MDG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8644024,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,450,Madagascar,MDG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6793449,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,454,Malawi,MWI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4720649,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,454,Malawi,MWI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15380,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,28285129,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17103805,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,462,Maldives,MDV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3802159,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,462,Maldives,MDV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,415920,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,466,Mali,MLI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,614361,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,466,Mali,MLI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9092895,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,404882,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,38877620,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,478,Mauritania,MRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,106803708,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,478,Mauritania,MRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13690373,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,480,Mauritius,MUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,33405502,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,480,Mauritius,MUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,39036817,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,110854568,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,82540692,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2344371,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,27719989,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,496,Mongolia,MNG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,122530,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,498,Rep. of Moldova,MDA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1344219,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,498,Rep. of Moldova,MDA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4248419,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,499,Montenegro,MNE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,53193,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,499,Montenegro,MNE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2953992,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,994685861,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,156027891,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,508,Mozambique,MOZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,44829980,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,508,Mozambique,MOZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1530203,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,512,Oman,OMN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1942645,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,512,Oman,OMN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10408803,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,516,Namibia,NAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,259114401,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,516,Namibia,NAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1453739,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,524,Nepal,NPL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2053,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,524,Nepal,NPL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,453065,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1699847169,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1620600864,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,530,Neth. Antilles,ANT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10139881,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,530,Neth. Antilles,ANT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1452231,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,533,Aruba,ABW,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,485641,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,540,New Caledonia,NCL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,581278,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,166869890,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7302639,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,558,Nicaragua,NIC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,57578530,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,558,Nicaragua,NIC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,568119,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,562,Niger,NER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,367593,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,562,Niger,NER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,760758,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,48197465,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18667772,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,568,"Other Europe, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11099207,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,570,Niue,NIU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,91,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,129236864,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,152865605,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,32110114,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7527995,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,591,Panama,PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,77877506,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,591,Panama,PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10077692,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,598,Papua New Guinea,PNG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2756144,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,600,Paraguay,PRY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,42124993,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,600,Paraguay,PRY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1337541,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,457490966,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10541344,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,32388273,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,27302710,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,206581855,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,682012603,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1522701405,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3962474453,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,624,Guinea-Bissau,GNB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,562404,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,626,Timor-Leste,TLS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,165690,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,626,Timor-Leste,TLS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,65642,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,634,Qatar,QAT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6259714,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,78734126,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,135811437,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,643,Russian Federation,RUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,70969177,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,643,Russian Federation,RUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,515928020,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,646,Rwanda,RWA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,375833,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,646,Rwanda,RWA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,87,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,654,Saint Helena,SHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,315743,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,660,Anguilla,AIA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,22164,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,662,Saint Lucia,LCA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,65633,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,666,Saint Pierre and Miquelon,SPM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2530509,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,674,San Marino,SMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,101300,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,674,San Marino,SMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,418433,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,678,Sao Tome and Principe,STP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,123624,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,678,Sao Tome and Principe,STP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,70347,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,682,Saudi Arabia,SAU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7079728,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,682,Saudi Arabia,SAU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,149709821,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,686,Senegal,SEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,58046522,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,686,Senegal,SEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,23956636,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,688,Serbia,SRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15416968,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,688,Serbia,SRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20947356,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,690,Seychelles,SYC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15352043,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,690,Seychelles,SYC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,79656011,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,694,Sierra Leone,SLE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,946346,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,694,Sierra Leone,SLE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1359855,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,699,India,IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,276764373,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,699,India,IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7476877,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6152453,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,23426484,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,703,Slovakia,SVK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,40943018,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,703,Slovakia,SVK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,72232037,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,399827753,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17744719,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,705,Slovenia,SVN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1482046,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,705,Slovenia,SVN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,50087440,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,710,South Africa,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,237727888,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,710,South Africa,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,31905340,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,716,Zimbabwe,ZWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1479229,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,716,Zimbabwe,ZWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5601,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,736,Fmr Sudan,SDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5528966,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,736,Fmr Sudan,SDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3540594,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,740,Suriname,SUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4573994,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,740,Suriname,SUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,148628,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,748,Eswatini,SWZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16830857,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,162993034,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,334652090,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,182216175,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,349854782,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,760,Syria,SYR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1926513,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,760,Syria,SYR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11981911,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,762,Tajikistan,TJK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,548999,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,242185029,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,45752412,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,768,Togo,TGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4245142,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,768,Togo,TGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3851684,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,780,Trinidad and Tobago,TTO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1543,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,780,Trinidad and Tobago,TTO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3728800,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,877701,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,137602825,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,56962102,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,74772377,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,150021231,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,69609934,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,795,Turkmenistan,TKM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,235845,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,796,Turks and Caicos Isds,TCA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,800,Uganda,UGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,45435853,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,800,Uganda,UGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1778714,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,804,Ukraine,UKR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,524079705,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,804,Ukraine,UKR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,78348878,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,807,North Macedonia,MKD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,358909,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,807,North Macedonia,MKD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6447261,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,28334300,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,28311964,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1111234443,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2736458766,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,31923044,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,602958,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,837,Bunkers,,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3582325,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,842,USA,USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1249793383,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,632723587,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,854,Burkina Faso,BFA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,292191,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,854,Burkina Faso,BFA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11837740,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,156713619,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5894499,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,860,Uzbekistan,UZB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,468992,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,860,Uzbekistan,UZB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1643711,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,25046401,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,55557771,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,882,Samoa,WSM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2311864,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,887,Yemen,YEM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14665421,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,887,Yemen,YEM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3062130,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,894,Zambia,ZMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2193751,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,894,Zambia,ZMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19229,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,899,"Areas, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,24248047,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17239362484,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5711700102,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,4,Afghanistan,AFG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,21782,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,4,Afghanistan,AFG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,31444,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,8,Albania,ALB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,342265,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,8,Albania,ALB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,172244,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,12,Algeria,DZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,60270858,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,12,Algeria,DZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,28374742,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,20,Andorra,AND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5734787,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,20,Andorra,AND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13418114,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,24,Angola,AGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11543971,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,24,Angola,AGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1242843,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,28,Antigua and Barbuda,ATG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,35057,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,31,Azerbaijan,AZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,444,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,31,Azerbaijan,AZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,316783,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,214676811,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17273505,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,175539182,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10464624,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,96056745,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,34009949,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,44,Bahamas,BHS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,43455,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,44,Bahamas,BHS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,22148,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,48,Bahrain,BHR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1284434,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,50,Bangladesh,BGD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4909859,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,50,Bangladesh,BGD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,45429,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,51,Armenia,ARM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2702660,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,51,Armenia,ARM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3152,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,52,Barbados,BRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,25720,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,56,Belgium,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,150904748,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,136841475,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,68,Bolivia (Plurinational State of),BOL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,28943062,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,68,Bolivia (Plurinational State of),BOL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,873534,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,70,Bosnia Herzegovina,BIH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2359559,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,70,Bosnia Herzegovina,BIH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,58646,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,72,Botswana,BWA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,155705,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1994260252,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,31857373,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,92,Br. Virgin Isds,VGB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2159883,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,96,Brunei Darussalam,BRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9234,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16167783,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4128852,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,104,Myanmar,MMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,146376,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,112,Belarus,BLR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2635809,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,112,Belarus,BLR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1770111,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,116,Cambodia,KHM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,179894,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,120,Cameroon,CMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,105462625,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,120,Cameroon,CMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,628622,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,262064481,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10201329,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,132,Cabo Verde,CPV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1209,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,132,Cabo Verde,CPV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,144275,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,136,Cayman Isds,CYM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,38712,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,140,Central African Rep.,CAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6710354,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,140,Central African Rep.,CAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1062,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7712199,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1577064,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,148,Chad,TCD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7526,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,698706353,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6153640,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,225043469,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,473827815,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,70027196,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8548245,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,175,Mayotte,MYT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,31809,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,178,Congo,COG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,25881471,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,178,Congo,COG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,523252,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,180,Dem. Rep. of the Congo,COD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4230159,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,180,Dem. Rep. of the Congo,COD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,149604,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,188,Costa Rica,CRI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4227203,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,188,Costa Rica,CRI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1328083,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,191,Croatia,HRV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5747914,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,191,Croatia,HRV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2838345,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,192,Cuba,CUB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15855231,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,192,Cuba,CUB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6146632,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,822311,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1130182,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,203,Czechia,CZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,40045900,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,203,Czechia,CZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7604370,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,204,Benin,BEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,419350,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,204,Benin,BEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1679481,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,83606250,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,45515947,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,212,Dominica,DMA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,91347,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,214,Dominican Rep.,DOM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3086463,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,214,Dominican Rep.,DOM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10374698,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,218,Ecuador,ECU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,44682054,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,218,Ecuador,ECU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2231586,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,222,El Salvador,SLV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1371356,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,222,El Salvador,SLV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,85443,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,226,Equatorial Guinea,GNQ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,529602,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,226,Equatorial Guinea,GNQ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,916905,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,231,Ethiopia,ETH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,349989,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,231,Ethiopia,ETH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,508362,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,233,Estonia,EST,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,21630082,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,233,Estonia,EST,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,714944,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,234,Faeroe Isds,FRO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,57465,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,234,Faeroe Isds,FRO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1755486,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,242,Fiji,FJI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,176189,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,107569649,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14640743,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1981843529,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,760360420,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,258,French Polynesia,PYF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,117252,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,262,Djibouti,DJI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14366,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,266,Gabon,GAB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,142156817,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,266,Gabon,GAB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,244051,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,268,Georgia,GEO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,20031503,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,268,Georgia,GEO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3373594,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,270,Gambia,GMB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,148636,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,275,State of Palestine,PSE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9555,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,276,Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,567157586,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,276,Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,555784910,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14982291,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2211029,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,292,Gibraltar,GIB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1816960,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,292,Gibraltar,GIB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6387156,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,296,Kiribati,KIR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,18386,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,29120603,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19694713,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,308,Grenada,GRD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19628,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,320,Guatemala,GTM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6303675,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,320,Guatemala,GTM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,601551,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,324,Guinea,GIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,232458243,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,324,Guinea,GIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,148831,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,328,Guyana,GUY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9257437,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,328,Guyana,GUY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,77,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,332,Haiti,HTI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,105224,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,336,Holy See (Vatican City State),VAT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,74423,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,340,Honduras,HND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4979726,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,340,Honduras,HND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,254113,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1461278,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,49430402,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,34178655,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7597920,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,352,Iceland,ISL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11806762,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,352,Iceland,ISL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4232647,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,819727722,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9228561,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3873441,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6532010,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,368,Iraq,IRQ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,778404,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,147199180,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,25431356,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,49473956,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,18419466,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,496730728,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,509107742,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,165428671,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2935746,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,388,Jamaica,JAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1041047,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,388,Jamaica,JAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5432,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,36358451,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,178714976,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,398,Kazakhstan,KAZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,63323807,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,398,Kazakhstan,KAZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,60948,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,400,Jordan,JOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,41433,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,400,Jordan,JOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4368859,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5092597,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,658843,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,408,Dem. People's Rep. of Korea,PRK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1269682,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,408,Dem. People's Rep. of Korea,PRK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,23184,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,44335673,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,61094320,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,414,Kuwait,KWT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1751,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,414,Kuwait,KWT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6253948,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,417,Kyrgyzstan,KGZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,41864,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,417,Kyrgyzstan,KGZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,39703,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,418,Lao People's Dem. Rep.,LAO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,55909,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2115921,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5886894,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,428,Latvia,LVA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,64515140,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,428,Latvia,LVA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,295357,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,430,Liberia,LBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6649,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,430,Liberia,LBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,664916,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,434,Libya,LBY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,31390,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,434,Libya,LBY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4385659,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,440,Lithuania,LTU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,51243358,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,440,Lithuania,LTU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3869757,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,442,Luxembourg,LUX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19923685,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,442,Luxembourg,LUX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,678628,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,446,"China, Macao SAR",MAC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,157535,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,450,Madagascar,MDG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3351977,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,450,Madagascar,MDG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,771546,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,454,Malawi,MWI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,112921,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,36650625,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3895446,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,462,Maldives,MDV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2225,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,466,Mali,MLI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,654761,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,466,Mali,MLI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,154506,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,470,Malta,MLT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,996300,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,470,Malta,MLT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,752305,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,478,Mauritania,MRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,76941428,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,478,Mauritania,MRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1284327,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,480,Mauritius,MUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2249652,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,480,Mauritius,MUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,197933,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,96275288,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,137086072,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16018856,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,34228686,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,496,Mongolia,MNG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,21158,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,498,Rep. of Moldova,MDA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,196769,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,499,Montenegro,MNE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,47509,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,499,Montenegro,MNE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,172526,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,500,Montserrat,MSR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,32907,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,316173307,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,128715113,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,508,Mozambique,MOZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19111114,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,508,Mozambique,MOZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2036504,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,512,Oman,OMN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,381,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,512,Oman,OMN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2776447,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,516,Namibia,NAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,913189,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,516,Namibia,NAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,524,Nepal,NPL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16528,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1098055433,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,507970605,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,530,Neth. Antilles,ANT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,423829,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,533,Aruba,ABW,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,791,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,533,Aruba,ABW,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2199,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,540,New Caledonia,NCL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,94563,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,540,New Caledonia,NCL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,175750,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7511240,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3306390,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,558,Nicaragua,NIC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,139907,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,558,Nicaragua,NIC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,78427,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,562,Niger,NER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,151185,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19449684,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7566728,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,568,"Other Europe, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,65139,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,46796526,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,38738110,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9127222,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9904978,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,591,Panama,PAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,251993,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,591,Panama,PAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2135064,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,598,Papua New Guinea,PNG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,318,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,600,Paraguay,PRY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,168089610,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,600,Paraguay,PRY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,132747,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,581684687,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5022950,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13295301,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1363575,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,111007956,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,176805753,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1204135200,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,672182309,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,634,Qatar,QAT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1557664,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,634,Qatar,QAT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6406158,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,26457252,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6774213,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,643,Russian Federation,RUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,533786741,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,643,Russian Federation,RUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,24459179,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,646,Rwanda,RWA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,33217,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,674,San Marino,SMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,34542,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,674,San Marino,SMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,127245,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,678,Sao Tome and Principe,STP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2000,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,682,Saudi Arabia,SAU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,731790,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,682,Saudi Arabia,SAU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,38334043,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,686,Senegal,SEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12729635,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,686,Senegal,SEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1355292,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,688,Serbia,SRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2133083,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,688,Serbia,SRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2345555,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,690,Seychelles,SYC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,25872,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,694,Sierra Leone,SLE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,68006,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,694,Sierra Leone,SLE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,792021,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,699,India,IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,75416505,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,699,India,IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,33212349,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5083751,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1786642,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,703,Slovakia,SVK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1911773,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,703,Slovakia,SVK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4500835,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,21657038,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1815419,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,705,Slovenia,SVN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2869077,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,705,Slovenia,SVN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7890363,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,706,Somalia,SOM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,38796,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,710,South Africa,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,309317003,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,710,South Africa,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6497196,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,716,Zimbabwe,ZWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5119991,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,716,Zimbabwe,ZWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,20823,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,736,Fmr Sudan,SDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,322682,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,736,Fmr Sudan,SDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,366624,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,740,Suriname,SUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,110081,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,263687318,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,31190521,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17706430,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,23083753,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,760,Syria,SYR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3686806,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,760,Syria,SYR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4200720,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,762,Tajikistan,TJK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,35687,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,145128407,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4605112,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,768,Togo,TGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,663670,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,768,Togo,TGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3514822,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,780,Trinidad and Tobago,TTO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6419110,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,780,Trinidad and Tobago,TTO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,51210,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1152206,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,49527235,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,30160850,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,20393966,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,204772097,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,103965661,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,796,Turks and Caicos Isds,TCA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7475,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,800,Uganda,UGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,82107,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,800,Uganda,UGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5153,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,804,Ukraine,UKR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,120571640,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,804,Ukraine,UKR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5150582,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,807,North Macedonia,MKD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,869205,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,807,North Macedonia,MKD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,183941,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,30046588,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,21882933,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,852499901,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,266965204,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,834,United Rep. of Tanzania,TZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4364869,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,834,United Rep. of Tanzania,TZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7529,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,837,Bunkers,,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,457026,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,842,USA,USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1007336703,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,155349339,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,854,Burkina Faso,BFA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3470,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,854,Burkina Faso,BFA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,167343,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,858,Uruguay,URY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,87196632,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,858,Uruguay,URY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2338930,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,860,Uzbekistan,UZB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,156213,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,860,Uzbekistan,UZB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9176,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,862,Venezuela,VEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,98819493,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,862,Venezuela,VEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11421701,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,887,Yemen,YEM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,145193,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,894,Zambia,ZMB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,131303,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,899,"Areas, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,116829,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,81328426861,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,18259405301,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,4,Afghanistan,AFG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1953363,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,8,Albania,ALB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3821264,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,12,Algeria,DZA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9213726427,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,12,Algeria,DZA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,198686087,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,20,Andorra,AND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2267,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,20,Andorra,AND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,140760280,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,24,Angola,AGO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1768820910,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,24,Angola,AGO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2573537,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,28,Antigua and Barbuda,ATG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,628,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,31,Azerbaijan,AZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,998634918,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,31,Azerbaijan,AZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,79599,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,32,Argentina,ARG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,10551307,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,32,Argentina,ARG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,48997439,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,669343547,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1944279,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,943816,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2577031,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,44,Bahamas,BHS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,61327517,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,44,Bahamas,BHS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,27070210,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,50,Bangladesh,BGD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,582630,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,51,Armenia,ARM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3432453,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,51,Armenia,ARM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,207246,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,56,Belgium,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,353174362,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,526631811,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,60,Bermuda,BMU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,142,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,60,Bermuda,BMU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2560,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,68,Bolivia (Plurinational State of),BOL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2703,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,70,Bosnia Herzegovina,BIH,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,239,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,76,Brazil,BRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,309409746,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,114534032,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,84,Belize,BLZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8277,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,100,Bulgaria,BGR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,35370825,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,100,Bulgaria,BGR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6586077,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,104,Myanmar,MMR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,581179,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,112,Belarus,BLR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,572744600,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,112,Belarus,BLR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,801393,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,120,Cameroon,CMR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1046022512,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,120,Cameroon,CMR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2005863,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,764772768,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,258483592,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,132,Cabo Verde,CPV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2234747,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,140,Central African Rep.,CAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,10346857,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,144,Sri Lanka,LKA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,108993,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,152,Chile,CHL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,11099,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,152,Chile,CHL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1089853,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,63137629,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,17573286,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,170,Colombia,COL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,280503927,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,170,Colombia,COL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,607221,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,178,Congo,COG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,71526322,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,178,Congo,COG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,14859456,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,180,Dem. Rep. of the Congo,COD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9699550,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,188,Costa Rica,CRI,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,285248,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,191,Croatia,HRV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,179,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,191,Croatia,HRV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,10569373,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,192,Cuba,CUB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1148859,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,196,Cyprus,CYP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,74977764,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,203,Czechia,CZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,825,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,203,Czechia,CZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1060504,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,204,Benin,BEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,11071518,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,43785714,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9577858,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,214,Dominican Rep.,DOM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7730603,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,218,Ecuador,ECU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,447655,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,222,El Salvador,SLV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,319027,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,226,Equatorial Guinea,GNQ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2769240003,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,226,Equatorial Guinea,GNQ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,124603,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,231,Ethiopia,ETH,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,233,Estonia,EST,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4988138,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,233,Estonia,EST,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,25983,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,238,Falkland Isds (Malvinas),FLK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8129485,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,239053459,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2550415,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,785897154,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,771847531,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,266,Gabon,GAB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,231226468,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,266,Gabon,GAB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,145848,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,268,Georgia,GEO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,22513245,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,268,Georgia,GEO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,213129,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,276,Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,638938955,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,276,Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,278210200,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,288,Ghana,GHA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,490,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,288,Ghana,GHA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,503945,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,292,Gibraltar,GIB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9618745,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,292,Gibraltar,GIB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1368214088,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,300,Greece,GRC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,45464203,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,300,Greece,GRC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,536627826,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,320,Guatemala,GTM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,14398172,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,324,Guinea,GIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,57479280,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,332,Haiti,HTI,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,222308,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,340,Honduras,HND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,45,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,344,"China, Hong Kong SAR",HKG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,174520,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,348,Hungary,HUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,968142,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,348,Hungary,HUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4052292,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,352,Iceland,ISL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2537652,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,360,Indonesia,IDN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,373236878,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,360,Indonesia,IDN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1409341,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,364,Iran,IRN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4318952657,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,364,Iran,IRN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,929970,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,368,Iraq,IRQ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1813918493,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,372,Ireland,IRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1815597,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,372,Ireland,IRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,11660607,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,376,Israel,ISR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,91747680,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,376,Israel,ISR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,49255164,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4599515316,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,379385732,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,384,Côte d'Ivoire,CIV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,18836707,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,384,Côte d'Ivoire,CIV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3846850,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,388,Jamaica,JAM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8845,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,47040323,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,137041643,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,398,Kazakhstan,KAZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,712566623,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,398,Kazakhstan,KAZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,97741,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,400,Jordan,JOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3213701,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,404,Kenya,KEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,22302,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,408,Dem. People's Rep. of Korea,PRK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,33415,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,408,Dem. People's Rep. of Korea,PRK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,23229112,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,410,Rep. of Korea,KOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,64573693,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,410,Rep. of Korea,KOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,627755,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,414,Kuwait,KWT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,321840905,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,422,Lebanon,LBN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,36365034,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,428,Latvia,LVA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,299197239,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,428,Latvia,LVA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1161263,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,430,Liberia,LBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,207,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,430,Liberia,LBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,17365251,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,434,Libya,LBY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4529652818,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,434,Libya,LBY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3498756,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,440,Lithuania,LTU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,431212058,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,440,Lithuania,LTU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1854398,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,442,Luxembourg,LUX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1078967,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,442,Luxembourg,LUX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,24463,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,446,"China, Macao SAR",MAC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4153,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,450,Madagascar,MDG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,10,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,458,Malaysia,MYS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4642942,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,458,Malaysia,MYS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,474218,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,466,Mali,MLI,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,195706,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,466,Mali,MLI,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1257635,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,470,Malta,MLT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,51933216,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,470,Malta,MLT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,11503601,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,478,Mauritania,MRT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,27452670,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,480,Mauritius,MUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,50494,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,484,Mexico,MEX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3552018741,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,484,Mexico,MEX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,562209007,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,490,"Other Asia, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,37582271,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,490,"Other Asia, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2053299,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,498,Rep. of Moldova,MDA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,11014,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,499,Montenegro,MNE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,11555930,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,504,Morocco,MAR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,17906622,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,504,Morocco,MAR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,777017332,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,512,Oman,OMN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,80766440,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,512,Oman,OMN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,10330,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,516,Namibia,NAM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,236,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,734555292,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,552267607,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,530,Neth. Antilles,ANT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,58687862,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,533,Aruba,ABW,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,52686469,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,540,New Caledonia,NCL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,48306,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,554,New Zealand,NZL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,22540,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,554,New Zealand,NZL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,26064230,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,562,Niger,NER,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4785,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,566,Nigeria,NGA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6823418927,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,566,Nigeria,NGA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4043894,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,568,"Other Europe, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,502759300,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,579,Norway,NOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1789371603,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,579,Norway,NOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,80906398,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,584,Marshall Isds,MHL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,362780,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,586,Pakistan,PAK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1521863,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,591,Panama,PAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,298,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,591,Panama,PAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,12562325,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,600,Paraguay,PRY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6630,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,604,Peru,PER,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1631,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,604,Peru,PER,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,481393,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,608,Philippines,PHL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,676862,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,33258225,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5352799,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,620,Portugal,PRT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,544024479,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,620,Portugal,PRT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1076427727,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,634,Qatar,QAT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1972453279,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,634,Qatar,QAT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,84705,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,37556286,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5332676,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,643,Russian Federation,RUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9328327814,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,643,Russian Federation,RUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4188010,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,646,Rwanda,RWA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,61,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,654,Saint Helena,SHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9006375,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,659,Saint Kitts and Nevis,KNA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2166569,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,670,Saint Vincent and the Grenadines,VCT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,141,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,682,Saudi Arabia,SAU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5694607263,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,682,Saudi Arabia,SAU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2119896,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,686,Senegal,SEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,120,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,686,Senegal,SEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,50955974,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,688,Serbia,SRB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,29342,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,690,Seychelles,SYC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,852444,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,694,Sierra Leone,SLE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5961828,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,699,India,IND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,151618270,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,699,India,IND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,12157176,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,702,Singapore,SGP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,58119814,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,702,Singapore,SGP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,15522683,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,703,Slovakia,SVK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,308915,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,12014,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,705,Slovenia,SVN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,12255255,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,705,Slovenia,SVN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,91890502,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,710,South Africa,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,761382638,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,710,South Africa,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5563551,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,736,Fmr Sudan,SDN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,966,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,166326254,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8576554,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,61524435,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,31274931,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,760,Syria,SYR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,281154365,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,760,Syria,SYR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,48137281,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,764,Thailand,THA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,28490,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,764,Thailand,THA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,599502,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,768,Togo,TGO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,39336360,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,780,Trinidad and Tobago,TTO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1629667928,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,780,Trinidad and Tobago,TTO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,812,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,244705269,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,44613028,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,788,Tunisia,TUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,349069483,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,788,Tunisia,TUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,39184130,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,415402389,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,68446910,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,795,Turkmenistan,TKM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,107816761,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,804,Ukraine,UKR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,243076827,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,804,Ukraine,UKR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3873838,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,807,North Macedonia,MKD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,156360,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,818,Egypt,EGY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1761368665,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,818,Egypt,EGY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8746857,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2145872814,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,744275889,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,834,United Rep. of Tanzania,TZA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,936,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,837,Bunkers,,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2723101294,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,842,USA,USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2090382990,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2023252965,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,854,Burkina Faso,BFA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,593428,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,858,Uruguay,URY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,314871,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,862,Venezuela,VEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1452841423,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,862,Venezuela,VEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,21046959,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,887,Yemen,YEM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5990,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,899,"Areas, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3302993182,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,51213321294,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,50668557958,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,4,Afghanistan,AFG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,52638,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,4,Afghanistan,AFG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1255545,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,8,Albania,ALB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7419405,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,8,Albania,ALB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,44637133,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,12,Algeria,DZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,54855758,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,12,Algeria,DZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1318612051,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,16,American Samoa,ASM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4153,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,20,Andorra,AND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6880929,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,20,Andorra,AND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,157600961,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,24,Angola,AGO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,867813,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,24,Angola,AGO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,115993833,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,28,Antigua and Barbuda,ATG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,153199,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,31,Azerbaijan,AZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15903,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,31,Azerbaijan,AZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11960331,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,32,Argentina,ARG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,48976328,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,32,Argentina,ARG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,164412013,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,36,Australia,AUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,137637341,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,193279252,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,40,Austria,AUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,674737340,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,40,Austria,AUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,352506948,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,44,Bahamas,BHS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,468,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,44,Bahamas,BHS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1719284,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,48,Bahrain,BHR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,141660912,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,48,Bahrain,BHR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,27117118,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,50,Bangladesh,BGD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,46982194,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,50,Bangladesh,BGD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8266471,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,51,Armenia,ARM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12459231,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,51,Armenia,ARM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7610494,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,52,Barbados,BRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8299,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,52,Barbados,BRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3388163,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,56,Belgium,BEL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1858776988,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1419335089,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,60,Bermuda,BMU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2410,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,60,Bermuda,BMU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1208730,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,64,Bhutan,BTN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,444,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,64,Bhutan,BTN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,44353,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,68,Bolivia (Plurinational State of),BOL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,23931042,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,68,Bolivia (Plurinational State of),BOL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8371901,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,70,Bosnia Herzegovina,BIH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6165407,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,70,Bosnia Herzegovina,BIH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,18630132,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,72,Botswana,BWA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,76,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,72,Botswana,BWA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12511,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,76,Brazil,BRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,763250091,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,336982189,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,84,Belize,BLZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,65054,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,84,Belize,BLZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,394070,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,86,Br. Indian Ocean Terr.,IOT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2088,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,90,Solomon Isds,SLB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,206,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,92,Br. Virgin Isds,VGB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,35581,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,92,Br. Virgin Isds,VGB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7092576,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,96,Brunei Darussalam,BRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10388002,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,100,Bulgaria,BGR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,114483588,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,100,Bulgaria,BGR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,90615524,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,104,Myanmar,MMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10691,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,104,Myanmar,MMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2043028,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,108,Burundi,BDI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,175048,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,112,Belarus,BLR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,21247718,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,112,Belarus,BLR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11520639,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,116,Cambodia,KHM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,270314,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,116,Cambodia,KHM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1769597,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,120,Cameroon,CMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9175822,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,120,Cameroon,CMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,22979039,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,124,Canada,CAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,255939912,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,193302794,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,132,Cabo Verde,CPV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,145591,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,132,Cabo Verde,CPV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7956364,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,136,Cayman Isds,CYM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,29977,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,136,Cayman Isds,CYM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,806325,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,140,Central African Rep.,CAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,85642,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,140,Central African Rep.,CAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1243928,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,144,Sri Lanka,LKA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11691434,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,144,Sri Lanka,LKA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13304237,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,148,Chad,TCD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,30129,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,148,Chad,TCD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,494353,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,152,Chile,CHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,602680430,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,152,Chile,CHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,239550777,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,156,China,CHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5200032847,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,361875555,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,162,Christmas Isds,CXR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1992,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,170,Colombia,COL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,115358344,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,170,Colombia,COL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,119006299,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,174,Comoros,COM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1382,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,175,Mayotte,MYT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,508308,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,178,Congo,COG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6936307,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,178,Congo,COG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12790044,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,180,Dem. Rep. of the Congo,COD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,445810,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,180,Dem. Rep. of the Congo,COD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1626000,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,188,Costa Rica,CRI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3321813,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,188,Costa Rica,CRI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,31213709,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,191,Croatia,HRV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14385213,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,191,Croatia,HRV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,62730093,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,192,Cuba,CUB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7932318,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,192,Cuba,CUB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,305806329,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,196,Cyprus,CYP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2030656,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,196,Cyprus,CYP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,91145384,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,203,Czechia,CZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,385585224,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,203,Czechia,CZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,409387832,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,204,Benin,BEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1772,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,204,Benin,BEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4574320,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,208,Denmark,DNK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,152577041,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,208,Denmark,DNK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,204843933,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,212,Dominica,DMA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,64858,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,212,Dominica,DMA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,45903,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,214,Dominican Rep.,DOM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,93790603,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,214,Dominican Rep.,DOM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,127863319,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,218,Ecuador,ECU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12381408,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,218,Ecuador,ECU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,63077516,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,222,El Salvador,SLV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1390275,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,222,El Salvador,SLV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11821215,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,226,Equatorial Guinea,GNQ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14284387,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,226,Equatorial Guinea,GNQ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,53218643,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,231,Ethiopia,ETH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,845756,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,231,Ethiopia,ETH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11333612,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,232,Eritrea,ERI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,66554,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,233,Estonia,EST,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6834848,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,233,Estonia,EST,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,38001130,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,234,Faeroe Isds,FRO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,81833,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,238,Falkland Isds (Malvinas),FLK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,88655,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,238,Falkland Isds (Malvinas),FLK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,142248,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,242,Fiji,FJI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,631,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,242,Fiji,FJI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,47117,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,246,Finland,FIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1141971571,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,246,Finland,FIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,184671500,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,251,France,FRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7047463547,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,251,France,FRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9162835175,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,258,French Polynesia,PYF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,990619,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,258,French Polynesia,PYF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1938377,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,260,Fr. South Antarctic Terr.,ATF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7869,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,262,Djibouti,DJI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,218061,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,262,Djibouti,DJI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1238559,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,266,Gabon,GAB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1784338,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,266,Gabon,GAB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,21919633,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,268,Georgia,GEO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,33738,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,268,Georgia,GEO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8824354,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,270,Gambia,GMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,30864,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,270,Gambia,GMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2383456,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,275,State of Palestine,PSE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13362,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,275,State of Palestine,PSE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,70476,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,276,Germany,DEU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7219437127,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,276,Germany,DEU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5420286980,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,288,Ghana,GHA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7206976,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,288,Ghana,GHA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,27770832,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,292,Gibraltar,GIB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,552333,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,292,Gibraltar,GIB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,54099556,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,300,Greece,GRC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,197385912,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,300,Greece,GRC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,556869402,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,308,Grenada,GRD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,144238,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,316,Guam,GUM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,37371,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,320,Guatemala,GTM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,86855,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,320,Guatemala,GTM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,22964001,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,324,Guinea,GIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,418928,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,324,Guinea,GIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8192132,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,328,Guyana,GUY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,23693,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,328,Guyana,GUY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,480437,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,332,Haiti,HTI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1658,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,332,Haiti,HTI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1919378,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,334,Heard Island and McDonald Islands,HMD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,416,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,336,Holy See (Vatican City State),VAT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5612,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,336,Holy See (Vatican City State),VAT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1167,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,340,Honduras,HND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,147680,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,340,Honduras,HND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15212823,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,39002376,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,150301589,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,348,Hungary,HUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,185379058,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,348,Hungary,HUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,196243015,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,352,Iceland,ISL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5220675,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,352,Iceland,ISL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6931851,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,360,Indonesia,IDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,189775785,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,360,Indonesia,IDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,73851429,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,364,Iran,IRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,29109877,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,364,Iran,IRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,179649863,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,368,Iraq,IRQ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,673,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,368,Iraq,IRQ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6432855,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,372,Ireland,IRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,76985230,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,372,Ireland,IRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,292601017,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,376,Israel,ISR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,84600013,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,376,Israel,ISR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,209639456,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,381,Italy,ITA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6580138565,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,381,Italy,ITA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4744370330,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17541147,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,43564368,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,388,Jamaica,JAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10595,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,388,Jamaica,JAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17453778,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,392,Japan,JPN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,346419348,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,392,Japan,JPN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,167600746,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,398,Kazakhstan,KAZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,178659034,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,398,Kazakhstan,KAZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12981134,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,400,Jordan,JOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,168241,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,400,Jordan,JOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,50735350,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,404,Kenya,KEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1306816,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,404,Kenya,KEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9013945,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,408,Dem. People's Rep. of Korea,PRK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,214769,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,408,Dem. People's Rep. of Korea,PRK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,460491,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,410,Rep. of Korea,KOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,590085741,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,410,Rep. of Korea,KOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,146346158,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,414,Kuwait,KWT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,21895,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,414,Kuwait,KWT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,63942378,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,417,Kyrgyzstan,KGZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,47269,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,417,Kyrgyzstan,KGZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1789982,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,418,Lao People's Dem. Rep.,LAO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1179,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,422,Lebanon,LBN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1560265,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,422,Lebanon,LBN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,55827952,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,428,Latvia,LVA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7832701,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,428,Latvia,LVA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,23552081,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,430,Liberia,LBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2255774,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,434,Libya,LBY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,38489630,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,434,Libya,LBY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,73836993,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,440,Lithuania,LTU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14780283,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,440,Lithuania,LTU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,47246551,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,442,Luxembourg,LUX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,313842697,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,442,Luxembourg,LUX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,94924244,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,446,"China, Macao SAR",MAC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1422518,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,446,"China, Macao SAR",MAC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,638161,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,450,Madagascar,MDG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2027742,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,450,Madagascar,MDG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5053116,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,454,Malawi,MWI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,215306,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,458,Malaysia,MYS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,83713504,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,458,Malaysia,MYS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,103389316,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,462,Maldives,MDV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,221886,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,466,Mali,MLI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,720121,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,466,Mali,MLI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11610730,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,470,Malta,MLT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2219431,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,470,Malta,MLT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,26913799,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,478,Mauritania,MRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,143220,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,478,Mauritania,MRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,41858040,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,480,Mauritius,MUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,631613,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,480,Mauritius,MUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6916533,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,484,Mexico,MEX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,126628056,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,484,Mexico,MEX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,573629048,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,490,"Other Asia, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,332127142,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,490,"Other Asia, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,52794133,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,496,Mongolia,MNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,91342,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,496,Mongolia,MNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,424616,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,498,Rep. of Moldova,MDA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,353552,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,498,Rep. of Moldova,MDA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7276739,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,499,Montenegro,MNE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12093,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,499,Montenegro,MNE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9424873,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,500,Montserrat,MSR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,61142,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,504,Morocco,MAR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,214471709,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,504,Morocco,MAR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1670542087,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,508,Mozambique,MOZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,229580885,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,508,Mozambique,MOZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5720853,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,512,Oman,OMN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,325096,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,512,Oman,OMN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,26970230,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,516,Namibia,NAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,151306,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,516,Namibia,NAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1704253,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,520,Nauru,NRU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,294,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,524,Nepal,NPL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1708016,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,524,Nepal,NPL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,405473,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,528,Netherlands,NLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1242095731,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,528,Netherlands,NLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1220927766,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,530,Neth. Antilles,ANT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7611,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,530,Neth. Antilles,ANT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6410460,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,533,Aruba,ABW,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,189,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,533,Aruba,ABW,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1061236,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,540,New Caledonia,NCL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,122503978,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,540,New Caledonia,NCL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4114881,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,548,Vanuatu,VUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,134772,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,554,New Zealand,NZL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8041235,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,554,New Zealand,NZL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,20427967,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,558,Nicaragua,NIC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,58574,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,558,Nicaragua,NIC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9733116,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,562,Niger,NER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,40928,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,562,Niger,NER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2392374,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,566,Nigeria,NGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,30382128,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,566,Nigeria,NGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,79482549,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,568,"Other Europe, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,597702,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,579,Norway,NOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,447259105,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,579,Norway,NOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,151895561,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,580,N. Mariana Isds,MNP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,983,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,581,United States Minor Outlying Islands,UMI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10509,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,584,Marshall Isds,MHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6559,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,586,Pakistan,PAK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,247951538,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,586,Pakistan,PAK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,31365965,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,591,Panama,PAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,627626,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,591,Panama,PAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,35547844,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,598,Papua New Guinea,PNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,48215,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,598,Papua New Guinea,PNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,231157,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,600,Paraguay,PRY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3579210,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,600,Paraguay,PRY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12611497,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,604,Peru,PER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,58053327,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,604,Peru,PER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,124871837,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,608,Philippines,PHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,53394094,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,608,Philippines,PHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17524267,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,616,Poland,POL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,576176256,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,616,Poland,POL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,893550157,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,620,Portugal,PRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3639951797,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,620,Portugal,PRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5989169912,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,624,Guinea-Bissau,GNB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6415,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,624,Guinea-Bissau,GNB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,258080,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,626,Timor-Leste,TLS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,533,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,626,Timor-Leste,TLS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,963,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,634,Qatar,QAT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,392589,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,634,Qatar,QAT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,63394590,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,642,Romania,ROU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,304805811,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,642,Romania,ROU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,318956141,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,643,Russian Federation,RUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,732606230,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,643,Russian Federation,RUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,580994404,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,646,Rwanda,RWA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,950,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,646,Rwanda,RWA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,56313,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,659,Saint Kitts and Nevis,KNA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,73935,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,660,Anguilla,AIA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,144792,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,662,Saint Lucia,LCA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1145,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,662,Saint Lucia,LCA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,238764,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,666,Saint Pierre and Miquelon,SPM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5280,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,670,Saint Vincent and the Grenadines,VCT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,27814,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,674,San Marino,SMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3035742,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,674,San Marino,SMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5345890,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,678,Sao Tome and Principe,STP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,80221,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,682,Saudi Arabia,SAU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,31369439,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,682,Saudi Arabia,SAU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,453279509,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,686,Senegal,SEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,186686,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,686,Senegal,SEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,55313765,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,688,Serbia,SRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,27849782,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,688,Serbia,SRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,35540347,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,690,Seychelles,SYC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,364,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,690,Seychelles,SYC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1945084,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,694,Sierra Leone,SLE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2418,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,694,Sierra Leone,SLE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,334353,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,699,India,IND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,854765743,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,699,India,IND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,291856911,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,702,Singapore,SGP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19122520,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,702,Singapore,SGP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,96089258,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,703,Slovakia,SVK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,144291065,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,703,Slovakia,SVK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,153082946,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,69234243,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,28871863,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,705,Slovenia,SVN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,82706441,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,705,Slovenia,SVN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,63266266,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,710,South Africa,ZAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,384310010,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,710,South Africa,ZAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,143974120,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,716,Zimbabwe,ZWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,41109693,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,716,Zimbabwe,ZWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,122674,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,736,Fmr Sudan,SDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,115115,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,736,Fmr Sudan,SDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9073589,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,740,Suriname,SUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,31558,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,740,Suriname,SUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2799344,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,748,Eswatini,SWZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,324963,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,748,Eswatini,SWZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12874,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,752,Sweden,SWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,865647602,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,752,Sweden,SWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,564462923,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,757,Switzerland,CHE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,206321457,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,757,Switzerland,CHE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,314293474,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,760,Syria,SYR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9724302,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,760,Syria,SYR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,55505205,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,762,Tajikistan,TJK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,253114,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,762,Tajikistan,TJK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,109724,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,764,Thailand,THA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,173066386,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,764,Thailand,THA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,91779558,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,768,Togo,TGO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,561435,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,768,Togo,TGO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3630665,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,772,Tokelau,TKL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,243033,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,772,Tokelau,TKL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,959,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,780,Trinidad and Tobago,TTO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1301,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,780,Trinidad and Tobago,TTO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10993688,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,42246349,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,421125751,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,788,Tunisia,TUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,103184731,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,788,Tunisia,TUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,334056346,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,792,Turkey,TUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1082505192,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,898066066,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,795,Turkmenistan,TKM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3263966,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,795,Turkmenistan,TKM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,905732,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,796,Turks and Caicos Isds,TCA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,421865,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,800,Uganda,UGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,280386,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,800,Uganda,UGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4148241,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,804,Ukraine,UKR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,235949729,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,804,Ukraine,UKR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,141652372,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,807,North Macedonia,MKD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,88483678,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,807,North Macedonia,MKD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8306566,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,818,Egypt,EGY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,228786235,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,818,Egypt,EGY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,215448543,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1623357210,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3349898480,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,689142,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11036024,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,837,Bunkers,,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,23430044,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,842,USA,USA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1008257996,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1685598564,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,854,Burkina Faso,BFA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,598344,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,854,Burkina Faso,BFA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8657708,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,858,Uruguay,URY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3253860,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,858,Uruguay,URY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17225462,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,860,Uzbekistan,UZB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3083012,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,860,Uzbekistan,UZB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2310514,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,862,Venezuela,VEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,252656071,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,862,Venezuela,VEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,157693320,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,876,Wallis and Futuna Isds,WLF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,21258,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,882,Samoa,WSM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6467,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,887,Yemen,YEM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,33086,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,887,Yemen,YEM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17779889,,,0
+S4,2008,2008,2008,1,0,1,Import,724,Spain,ESP,894,Zambia,ZMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,20267528,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,894,Zambia,ZMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1520022,,,0
+S4,2008,2008,2008,1,0,2,Export,724,Spain,ESP,899,"Areas, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4129953,,,0

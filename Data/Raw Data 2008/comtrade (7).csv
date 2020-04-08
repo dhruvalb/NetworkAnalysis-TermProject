@@ -1,0 +1,606 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9836371709,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8272962290,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,4,Afghanistan,AFG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,893,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,4,Afghanistan,AFG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,383529,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,8,Albania,ALB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,65421,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,8,Albania,ALB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5751235,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10195,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1988349,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,20,Andorra,AND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,62,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,20,Andorra,AND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,22165,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,24,Angola,AGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,217,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,28,Antigua and Barbuda,ATG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,211260,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,31,Azerbaijan,AZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,177085,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,31,Azerbaijan,AZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4368212,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,56786577,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,903449,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5748928,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10281399,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,44,Bahamas,BHS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2386,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,44,Bahamas,BHS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7008,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,48,Bahrain,BHR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,52839,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,48,Bahrain,BHR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,519728,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,50,Bangladesh,BGD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3796247,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,50,Bangladesh,BGD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,42017,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,51,Armenia,ARM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,82594,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3383650,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,52,Barbados,BRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1463,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,56,Belgium,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,179867658,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,56,Belgium,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,84682300,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,60,Bermuda,BMU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,64,Bhutan,BTN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,148046,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,68,Bolivia (Plurinational State of),BOL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,664977,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,68,Bolivia (Plurinational State of),BOL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,106299,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,70,Bosnia Herzegovina,BIH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3752723,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,70,Bosnia Herzegovina,BIH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,47601465,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,72,Botswana,BWA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1812,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,166705760,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2781448,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,84,Belize,BLZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,219782,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,84,Belize,BLZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1490024,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,90,Solomon Isds,SLB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,413,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,92,Br. Virgin Isds,VGB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4422584,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14650886,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,58334409,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,104,Myanmar,MMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,488617,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,108,Burundi,BDI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,305860,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,112,Belarus,BLR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1192985,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,112,Belarus,BLR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11466055,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,116,Cambodia,KHM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1953,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,120,Cameroon,CMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2858704,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6000514,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4968070,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,132,Cabo Verde,CPV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,108180,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,136,Cayman Isds,CYM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,223,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,140,Central African Rep.,CAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,32132,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,140,Central African Rep.,CAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,277,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2972359,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3570084,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,148,Chad,TCD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1362,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,148,Chad,TCD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,251562,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,25664308,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,327919,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,98002711,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6449141,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,26072802,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,211870,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,174,Comoros,COM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1352,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,178,Congo,COG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9660,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,127171,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,180,Dem. Rep. of the Congo,COD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,231450,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,180,Dem. Rep. of the Congo,COD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,58750,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,184,Cook Isds,COK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19002,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,69725206,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,123570,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,191,Croatia,HRV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,59723532,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,191,Croatia,HRV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,134985046,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,192,Cuba,CUB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2619708,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4709672,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10065741,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,203,Czechia,CZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,249978162,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,203,Czechia,CZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,286355765,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,204,Benin,BEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18584,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,204,Benin,BEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,37631,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,85824407,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,53452592,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,212,Dominica,DMA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,44516,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,457741,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5587,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,62852965,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,57832,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,222,El Salvador,SLV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3429165,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,222,El Salvador,SLV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,30827,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,231,Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3210610,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,231,Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7407,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,232,Eritrea,ERI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3744,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,233,Estonia,EST,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5836133,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,233,Estonia,EST,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6562770,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,234,Faeroe Isds,FRO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,71583,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,242,Fiji,FJI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,121335,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,242,Fiji,FJI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,408,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4607648,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19911860,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,303806152,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,198635773,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,258,French Polynesia,PYF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17817,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,262,Djibouti,DJI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,140,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,262,Djibouti,DJI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14441,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,266,Gabon,GAB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,47675,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,266,Gabon,GAB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,72546,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,268,Georgia,GEO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2117082,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,268,Georgia,GEO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12365792,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,270,Gambia,GMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,98914,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,270,Gambia,GMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5601,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,275,State of Palestine,PSE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,28215,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,276,Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4141145335,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,276,Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2823003415,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3034023,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,242395,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,58999277,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,66457932,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,304,Greenland,GRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,802042,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,308,Grenada,GRD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,688204,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,316,Guam,GUM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1881,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,320,Guatemala,GTM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4089509,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,320,Guatemala,GTM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18616,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,324,Guinea,GIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1515136,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,328,Guyana,GUY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,170792,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,332,Haiti,HTI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,29364,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,332,Haiti,HTI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3897,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,336,Holy See (Vatican City State),VAT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,511428,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,340,Honduras,HND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7950239,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,340,Honduras,HND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,136811,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,121130,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7931971,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,438916653,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,383474976,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,771269,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1219005,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19539963,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1423771,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5832311,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1888820,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,368,Iraq,IRQ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2680048,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,101197117,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18345190,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,22099136,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3627114,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,978728410,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1466262821,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,22369404,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,29226,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,388,Jamaica,JAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,36331,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2869195,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,83734540,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,398,Kazakhstan,KAZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4822170,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,398,Kazakhstan,KAZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5918054,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,69729,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5941569,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20597397,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,40053,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,408,Dem. People's Rep. of Korea,PRK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,505,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,408,Dem. People's Rep. of Korea,PRK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9127,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,805415,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,68846071,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,414,Kuwait,KWT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11973,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,414,Kuwait,KWT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2866218,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,417,Kyrgyzstan,KGZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,29327,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,417,Kyrgyzstan,KGZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,363102,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,405779,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,577668,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,428,Latvia,LVA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,982418,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,428,Latvia,LVA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6317121,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,434,Libya,LBY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10378134,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,440,Lithuania,LTU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5562508,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,440,Lithuania,LTU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14980804,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,442,Luxembourg,LUX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4391389,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,442,Luxembourg,LUX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2664448,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,450,Madagascar,MDG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2701335,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,454,Malawi,MWI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,243911,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,454,Malawi,MWI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1602195,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2549268,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,861488,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,462,Maldives,MDV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,350849,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,462,Maldives,MDV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,319802,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,466,Mali,MLI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,59543,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,466,Mali,MLI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5543,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,319430,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4169814,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,478,Mauritania,MRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3244,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,478,Mauritania,MRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,31896,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,480,Mauritius,MUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2721228,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5108728,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1985410,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,581925,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2382736,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,496,Mongolia,MNG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1158,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,496,Mongolia,MNG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,218248,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,498,Rep. of Moldova,MDA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6995249,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,498,Rep. of Moldova,MDA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3125726,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,499,Montenegro,MNE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1064818,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,499,Montenegro,MNE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,36705867,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14676328,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2981727,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,508,Mozambique,MOZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5182,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,512,Oman,OMN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,116,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,512,Oman,OMN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,623010,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,516,Namibia,NAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,690555,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,516,Namibia,NAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,61531,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,524,Nepal,NPL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,40550,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,524,Nepal,NPL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18189,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,607728901,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,247760680,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,530,Neth. Antilles,ANT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,289408,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,530,Neth. Antilles,ANT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16760,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,540,New Caledonia,NCL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,35346,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,540,New Caledonia,NCL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20904,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,40434154,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,308541,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,558,Nicaragua,NIC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2921738,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,558,Nicaragua,NIC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,100237,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,562,Niger,NER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,955,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,562,Niger,NER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4056,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1698091,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,414457,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,577,"Other Africa, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1569,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,577,"Other Africa, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,145652,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14223038,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15190556,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,581,United States Minor Outlying Islands,UMI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,253,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1486394,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1267889,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,591,Panama,PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10370151,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,591,Panama,PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,130135,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,598,Papua New Guinea,PNG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,436336,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,600,Paraguay,PRY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,110772,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,600,Paraguay,PRY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,128852,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13148522,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,523173,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6660092,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,776091,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,367928465,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,156660815,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14399259,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9807625,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,626,Timor-Leste,TLS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,245,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,626,Timor-Leste,TLS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,23,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,634,Qatar,QAT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1256,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,634,Qatar,QAT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,68289,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,29999401,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,193401650,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,643,Russian Federation,RUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5579102,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,643,Russian Federation,RUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,206564841,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,646,Rwanda,RWA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,566623,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,659,Saint Kitts and Nevis,KNA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,95,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,660,Anguilla,AIA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11954,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,660,Anguilla,AIA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15141,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,662,Saint Lucia,LCA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2798,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,674,San Marino,SMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1776,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,674,San Marino,SMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,184664,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,682,Saudi Arabia,SAU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,146403,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,682,Saudi Arabia,SAU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18659964,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,686,Senegal,SEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,607146,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,686,Senegal,SEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16097,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,688,Serbia,SRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,62091281,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,688,Serbia,SRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,57347811,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,690,Seychelles,SYC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,612667,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,690,Seychelles,SYC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,47762,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,694,Sierra Leone,SLE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1237,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,699,India,IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,32579540,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,699,India,IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,534346,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,448667,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2914312,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,703,Slovakia,SVK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,89051874,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,703,Slovakia,SVK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,124348785,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,704,Viet Nam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,67893709,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,704,Viet Nam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,765746,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,705,Slovenia,SVN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,79608146,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,705,Slovenia,SVN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,365285475,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,706,Somalia,SOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,50166,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,710,South Africa,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,37913498,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,710,South Africa,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3463517,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,716,Zimbabwe,ZWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,314313,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,716,Zimbabwe,ZWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4216,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,319530092,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,138822854,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,736,Fmr Sudan,SDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19680,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,736,Fmr Sudan,SDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,867248,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,740,Suriname,SUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,110729,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,748,Eswatini,SWZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,118025,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18897027,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,63556339,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,311906545,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,291988052,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,760,Syria,SYR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,204684,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,760,Syria,SYR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,448309,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,762,Tajikistan,TJK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,29207,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,47803304,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1284983,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,768,Togo,TGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,364291,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,772,Tokelau,TKL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,24783,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,780,Trinidad and Tobago,TTO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,67396,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,784,United Arab Emirates,ARE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,238237,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,784,United Arab Emirates,ARE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10491501,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4046416,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1252109,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,127635004,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5724966,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,795,Turkmenistan,TKM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,491628,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,796,Turks and Caicos Isds,TCA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,800,Uganda,UGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,933749,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,800,Uganda,UGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,57,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,804,Ukraine,UKR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19156790,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,804,Ukraine,UKR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,60903163,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,807,North Macedonia,MKD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3081642,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,807,North Macedonia,MKD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,27394730,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9148080,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2374375,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,72437184,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,150543871,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,330111,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,38484,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,839,Special Categories,,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,40610408,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,842,USA,USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,62941105,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,842,USA,USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,34125215,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,854,Burkina Faso,BFA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,449622,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,854,Burkina Faso,BFA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4167,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2379432,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,216014,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,860,Uzbekistan,UZB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1925244,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,860,Uzbekistan,UZB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19016841,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,477664,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1472376,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,876,Wallis and Futuna Isds,WLF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,889,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,882,Samoa,WSM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,544,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,887,Yemen,YEM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,764,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,887,Yemen,YEM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1853631,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,894,Zambia,ZMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,23033,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,899,"Areas, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,196215,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7319020781,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4558431481,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,4,Afghanistan,AFG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,148169,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,8,Albania,ALB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6962169,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,8,Albania,ALB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,990313,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,12,Algeria,DZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,12,Algeria,DZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,37132986,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,16,American Samoa,ASM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1807,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,28,Antigua and Barbuda,ATG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14589,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,31,Azerbaijan,AZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,107,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,31,Azerbaijan,AZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,109628,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3199074,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,124847,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,23654073,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,23655076,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,44,Bahamas,BHS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,425,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,44,Bahamas,BHS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1795,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,48,Bahrain,BHR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1524250,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,50,Bangladesh,BGD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6122,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,50,Bangladesh,BGD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1615,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,51,Armenia,ARM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2793008,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,85045,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,56,Belgium,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,44629186,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,56,Belgium,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,20385239,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,68,Bolivia (Plurinational State of),BOL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,359503,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,68,Bolivia (Plurinational State of),BOL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,107,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,70,Bosnia Herzegovina,BIH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,52821425,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,70,Bosnia Herzegovina,BIH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8858847,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,72,Botswana,BWA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,20601,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,72,Botswana,BWA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2039,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,62131403,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,346297,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,84,Belize,BLZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,29878,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7836316,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,22568802,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,104,Myanmar,MMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,176042,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,112,Belarus,BLR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,597519,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,112,Belarus,BLR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,167651,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,120,Cameroon,CMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8399898,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,120,Cameroon,CMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14642,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16099083,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,599660,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,140,Central African Rep.,CAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,72300,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,401620,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19325,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,148,Chad,TCD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3494,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9287804,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,150404,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,81967307,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,26348011,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1835235,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,113273,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,178,Congo,COG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,73025,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,180,Dem. Rep. of the Congo,COD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,138,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,184,Cook Isds,COK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,32549,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,188,Costa Rica,CRI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,477032,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,188,Costa Rica,CRI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,56730,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,191,Croatia,HRV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,47715881,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,191,Croatia,HRV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,45794165,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,192,Cuba,CUB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,23086,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,192,Cuba,CUB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1481,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,250995,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,649338,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,203,Czechia,CZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,653400548,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,203,Czechia,CZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,110170260,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,204,Benin,BEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,127411,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,27521136,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7500822,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,212,Dominica,DMA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,205689,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,214,Dominican Rep.,DOM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,82356,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,214,Dominican Rep.,DOM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11191,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,218,Ecuador,ECU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4197042,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,231,Ethiopia,ETH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,428025,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,231,Ethiopia,ETH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1691013,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,233,Estonia,EST,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4080673,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,233,Estonia,EST,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1008293,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,238,Falkland Isds (Malvinas),FLK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1012,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,68790957,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3075674,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,110266822,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,79509134,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,258,French Polynesia,PYF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,30959,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,262,Djibouti,DJI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,259129,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,266,Gabon,GAB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,30013,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,268,Georgia,GEO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,226887,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,268,Georgia,GEO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,740624,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,276,Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2215609470,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,276,Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1192342169,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,557564,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9754,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7327177,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,33792071,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,320,Guatemala,GTM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,212887,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,328,Guyana,GUY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,284326,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,340,Honduras,HND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17244,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,340,Honduras,HND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,680,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,169736,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2777261,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,446440091,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,86641937,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,352,Iceland,ISL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,298779,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,352,Iceland,ISL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,281742,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13805847,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1058915,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,291261,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2524326,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,368,Iraq,IRQ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,291396,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10372972,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4579822,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2154458,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,18021448,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,370531531,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1773406370,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1252527,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8286,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,388,Jamaica,JAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,21,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13788494,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,114717367,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,398,Kazakhstan,KAZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5442618,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,398,Kazakhstan,KAZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1124040,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,400,Jordan,JOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,140097,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,400,Jordan,JOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,282941,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2102157,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,186,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,408,Dem. People's Rep. of Korea,PRK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,82065,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,580900,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2706131,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,414,Kuwait,KWT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,529,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,414,Kuwait,KWT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2243942,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,418,Lao People's Dem. Rep.,LAO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8488,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,848965,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1674761,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,428,Latvia,LVA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5595190,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,428,Latvia,LVA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1009613,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,434,Libya,LBY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7211,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,434,Libya,LBY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8216898,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,440,Lithuania,LTU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7045205,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,440,Lithuania,LTU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4337048,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,442,Luxembourg,LUX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,280857,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,442,Luxembourg,LUX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1349594,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,450,Madagascar,MDG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,554282,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,454,Malawi,MWI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,61308101,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,495394,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,466,Mali,MLI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,60,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,470,Malta,MLT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1871103,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,470,Malta,MLT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5909502,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,480,Mauritius,MUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2512,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2688672,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,604353,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,886829,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4471897,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,496,Mongolia,MNG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,307,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,496,Mongolia,MNG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10468,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,498,Rep. of Moldova,MDA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,32775,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,498,Rep. of Moldova,MDA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,657758,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,499,Montenegro,MNE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,302130,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1969167,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9845756,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,508,Mozambique,MOZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10275,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,512,Oman,OMN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5229,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,512,Oman,OMN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,287947,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,516,Namibia,NAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,71554,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,516,Namibia,NAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,135,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,524,Nepal,NPL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,50,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,335192942,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,51374259,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,530,Neth. Antilles,ANT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,179151,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2672193,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,167822,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,558,Nicaragua,NIC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,33745,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,558,Nicaragua,NIC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15290,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,562,Niger,NER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,67115,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,679581,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1493019,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2763659,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,581,United States Minor Outlying Islands,UMI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,87286,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,846997,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3505575,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,600,Paraguay,PRY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,792738,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,905112,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12551,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3735524,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,277849,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,92521487,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,36759623,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,74423741,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3174868,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,634,Qatar,QAT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,76205,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,634,Qatar,QAT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4250227,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,51938611,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,20447509,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,643,Russian Federation,RUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,83363026,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,643,Russian Federation,RUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19112581,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,646,Rwanda,RWA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,38,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,646,Rwanda,RWA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1174,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,156,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,674,San Marino,SMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,961134,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,682,Saudi Arabia,SAU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,475476,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,682,Saudi Arabia,SAU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14043046,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,688,Serbia,SRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14768841,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,688,Serbia,SRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,18612546,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,690,Seychelles,SYC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,185664,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,699,India,IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8704585,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,699,India,IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3089048,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,248254,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,220569,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,703,Slovakia,SVK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,225325859,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,703,Slovakia,SVK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,61525345,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,704,Viet Nam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3070885,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,704,Viet Nam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,571977,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,705,Slovenia,SVN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,71860030,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,705,Slovenia,SVN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,216176047,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,706,Somalia,SOM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6661,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,706,Somalia,SOM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,104059,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,710,South Africa,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,55993120,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,710,South Africa,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,931342,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,716,Zimbabwe,ZWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,36838,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,716,Zimbabwe,ZWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,66,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,54365242,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,28826040,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,736,Fmr Sudan,SDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,290353,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,736,Fmr Sudan,SDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3505062,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,748,Eswatini,SWZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5004,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,103931664,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14014377,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,157434460,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,197323327,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,760,Syria,SYR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,217979,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,760,Syria,SYR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3585985,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,762,Tajikistan,TJK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,601357,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,762,Tajikistan,TJK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,526,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2378110,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,299085,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,768,Togo,TGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,49110,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,768,Togo,TGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,22868,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,784,United Arab Emirates,ARE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,149835,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,784,United Arab Emirates,ARE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,33129029,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9041886,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3311630,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,58339522,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7414601,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,795,Turkmenistan,TKM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,36941,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,795,Turkmenistan,TKM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,117141,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,800,Uganda,UGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,428784,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,800,Uganda,UGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1224,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,804,Ukraine,UKR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13583911,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,804,Ukraine,UKR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,29922253,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,807,North Macedonia,MKD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,945001,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,807,North Macedonia,MKD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1491723,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3522555,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,764508,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,50753165,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,46946979,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,834,United Rep. of Tanzania,TZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4384,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,839,Special Categories,,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1348532766,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,839,Special Categories,,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,46845249,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,842,USA,USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,64386574,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,842,USA,USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10880384,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,854,Burkina Faso,BFA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,88653,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,858,Uruguay,URY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4248653,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,858,Uruguay,URY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,59711,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,860,Uzbekistan,UZB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12018,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,860,Uzbekistan,UZB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,203922,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,862,Venezuela,VEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,95263,,,0
+S4,2008,2008,2008,1,0,1,Import,40,Austria,AUT,887,Yemen,YEM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,24677,,,0
+S4,2008,2008,2008,1,0,2,Export,40,Austria,AUT,887,Yemen,YEM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1823991,,,0

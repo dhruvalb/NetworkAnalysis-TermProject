@@ -1,0 +1,946 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4752545064,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7197431727,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,8,Albania,ALB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,27356,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,221066,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,24,Angola,AGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,536,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,24,Angola,AGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15821717,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,28,Antigua and Barbuda,ATG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,943710,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,31,Azerbaijan,AZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,111912,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,31,Azerbaijan,AZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1024994,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,24048729,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,895683,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9838672,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,30324407,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19488197,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7162553,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,44,Bahamas,BHS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,955,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,48,Bahrain,BHR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,602677,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,50,Bangladesh,BGD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3513230,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,50,Bangladesh,BGD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8560,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,51,Armenia,ARM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,87375,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,52,Barbados,BRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,798578,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,56,Belgium,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,146471816,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,56,Belgium,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,61449163,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,68,Bolivia (Plurinational State of),BOL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1454774,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,68,Bolivia (Plurinational State of),BOL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17809,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,70,Bosnia Herzegovina,BIH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,493215,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,72,Botswana,BWA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6581500,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,224849476,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,188917845,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,92,Br. Virgin Isds,VGB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3483601,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,96,Brunei Darussalam,BRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,161228,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,582465,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3134404,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,112,Belarus,BLR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,45325091,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,116,Cambodia,KHM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,22862,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,120,Cameroon,CMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18707,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,120,Cameroon,CMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,284935,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,49369095,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,27055798,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2819606,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,70095,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,148,Chad,TCD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,128339,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,66442141,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2197890,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,72082489,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,198500836,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,50165464,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,407534,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,174,Comoros,COM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12435,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,178,Congo,COG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6969319,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,180,Dem. Rep. of the Congo,COD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,22939965,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,184,Cook Isds,COK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4648,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,51929388,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,198100,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,191,Croatia,HRV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1359489,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,191,Croatia,HRV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5180644,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,192,Cuba,CUB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,172458,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,192,Cuba,CUB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2601,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3354528,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2698053,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,203,Czechia,CZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7059429,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,203,Czechia,CZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11166926,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,204,Benin,BEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,25708,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,582504970,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,558335545,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,212,Dominica,DMA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,303300,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2634468,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,37818181,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,24736037,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,24360,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,222,El Salvador,SLV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,42919,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,222,El Salvador,SLV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11217,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,226,Equatorial Guinea,GNQ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,37295,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,231,Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2443625,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,231,Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1297648,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,233,Estonia,EST,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8188397,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,233,Estonia,EST,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14808002,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,234,Faeroe Isds,FRO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,57046819,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,234,Faeroe Isds,FRO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5955787,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,242,Fiji,FJI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,67324,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,43268802,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,151834717,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,192141998,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,729784094,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,258,French Polynesia,PYF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17501,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,260,Fr. South Antarctic Terr.,ATF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,46673,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,266,Gabon,GAB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1787204,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,268,Georgia,GEO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,23218,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,268,Georgia,GEO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2563128,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,270,Gambia,GMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7133,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,270,Gambia,GMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,65052,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,276,Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,352581944,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,276,Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,255571948,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,456802,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,612336,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13596715,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,35790294,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,304,Greenland,GRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2742004,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,304,Greenland,GRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7532,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,308,Grenada,GRD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,129980,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,308,Grenada,GRD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1204438,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,316,Guam,GUM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,403602,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,320,Guatemala,GTM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18583398,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,320,Guatemala,GTM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13343,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,324,Guinea,GIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1124,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,324,Guinea,GIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,51114,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,332,Haiti,HTI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1255,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,332,Haiti,HTI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,294113,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,340,Honduras,HND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1625040,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,693364,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,65629685,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7571014,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,289995,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,97743393,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,30387097,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7766717,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4039347,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1808538,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1437017,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18273441,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3748166,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,24806811,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,38909340,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,201874704,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,242899045,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1760345,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3459894,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,388,Jamaica,JAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,35086,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,388,Jamaica,JAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19838982,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3481018,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,395215437,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,398,Kazakhstan,KAZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6054540,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,398,Kazakhstan,KAZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,25875153,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4336,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2109818,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14324295,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,800563,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2973504,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,44173001,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,414,Kuwait,KWT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1392923,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,417,Kyrgyzstan,KGZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2061615,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,226216,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,917108,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,428,Latvia,LVA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9789218,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,428,Latvia,LVA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,52074941,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,430,Liberia,LBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1200,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,434,Libya,LBY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15416,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,440,Lithuania,LTU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,30098387,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,440,Lithuania,LTU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,63744765,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,442,Luxembourg,LUX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8730051,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,442,Luxembourg,LUX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2432670,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,446,"China, Macao SAR",MAC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,239280,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,450,Madagascar,MDG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,662330,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1054201,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6323427,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,462,Maldives,MDV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5985,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,466,Mali,MLI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,38919,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,36505,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,645304,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,480,Mauritius,MUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,71985,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7849298,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20143419,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1317253,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,41506543,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,498,Rep. of Moldova,MDA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5514096,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,499,Montenegro,MNE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,81939,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9075320,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4330193,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,508,Mozambique,MOZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5413,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,512,Oman,OMN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3714,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,512,Oman,OMN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,37609,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,516,Namibia,NAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19588815,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,516,Namibia,NAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,903,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,524,Nepal,NPL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4806,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,524,Nepal,NPL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,49730,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,339132094,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,248541453,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,530,Neth. Antilles,ANT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,336402,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,33720456,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1007590,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,558,Nicaragua,NIC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1376995,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,558,Nicaragua,NIC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1410713,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,28277,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,126225812,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10278639,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,84354,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,591,Panama,PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14902565,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,591,Panama,PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2105409,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,598,Papua New Guinea,PNG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,74244,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,600,Paraguay,PRY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,22141,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,84916363,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3199167,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5418902,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,75560593,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,439790025,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12129593,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,369428947,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,624,Guinea-Bissau,GNB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,50985,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,634,Qatar,QAT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,275844,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,80155,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20002472,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,643,Russian Federation,RUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,114145746,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,643,Russian Federation,RUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,705035496,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,646,Rwanda,RWA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,53886,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,646,Rwanda,RWA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,26342,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,662,Saint Lucia,LCA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,156073,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,670,Saint Vincent and the Grenadines,VCT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,876771,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,674,San Marino,SMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,115980,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,682,Saudi Arabia,SAU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1039234,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,682,Saudi Arabia,SAU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3091978,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,686,Senegal,SEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,890697,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,686,Senegal,SEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19317,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,688,Serbia,SRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,279112,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,688,Serbia,SRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,120652,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,690,Seychelles,SYC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,90508,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,694,Sierra Leone,SLE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4021,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,699,India,IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,33199165,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,699,India,IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,858766,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1889486,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,23905913,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,703,Slovakia,SVK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2740113,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,703,Slovakia,SVK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,185809,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,704,Viet Nam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19652916,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,704,Viet Nam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12722263,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,705,Slovenia,SVN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,576928,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,705,Slovenia,SVN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7315,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,710,South Africa,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,53794156,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,710,South Africa,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9895401,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,716,Zimbabwe,ZWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,425476,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,716,Zimbabwe,ZWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11687,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,293030408,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,258856097,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,736,Fmr Sudan,SDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,196,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,736,Fmr Sudan,SDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19604,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,740,Suriname,SUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9097,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,740,Suriname,SUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,164555,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,748,Eswatini,SWZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,24991,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,507825584,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,473333611,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,59689368,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,34148665,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,760,Syria,SYR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,344241,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,760,Syria,SYR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,31501,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,73670255,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,55713979,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,780,Trinidad and Tobago,TTO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,716003,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,784,United Arab Emirates,ARE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,178945,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,784,United Arab Emirates,ARE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9957996,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,446726,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,793193,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,34110723,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,42859539,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,800,Uganda,UGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,78499,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,800,Uganda,UGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20782,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,804,Ukraine,UKR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21827399,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,804,Ukraine,UKR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,229104014,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,807,North Macedonia,MKD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,286209,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8192457,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20298225,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,175406707,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,404803115,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,823788,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14080,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,842,USA,USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,230645478,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,842,USA,USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,173551601,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,854,Burkina Faso,BFA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,29020,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18183836,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,354708,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,860,Uzbekistan,UZB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,167110,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,860,Uzbekistan,UZB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1030709,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10287,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2965358,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,887,Yemen,YEM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21356,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,894,Zambia,ZMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,325063,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6835989378,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1628329186,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,8,Albania,ALB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,23158,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,12,Algeria,DZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,67109,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,24,Angola,AGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,126914,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,28,Antigua and Barbuda,ATG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,447174,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,31,Azerbaijan,AZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1495382,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8132762,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,127953,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,115458172,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7506015,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4056082,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2295639,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,50,Bangladesh,BGD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,23410,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,52,Barbados,BRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,373814,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,52,Barbados,BRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19047,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,56,Belgium,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19611791,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,56,Belgium,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,67297932,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,68,Bolivia (Plurinational State of),BOL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2043,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,70,Bosnia Herzegovina,BIH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,25087,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,70,Bosnia Herzegovina,BIH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3161,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,72,Botswana,BWA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,601117480,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,847944021,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11366753,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2934147,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1897451,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,104,Myanmar,MMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1075788,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,112,Belarus,BLR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,42474,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,112,Belarus,BLR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,737317,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2076343732,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4789279,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,268225,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,97300,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,25062771,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8866057,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,27533584,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,107838481,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1209833,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,150010,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,178,Congo,COG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17865,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,188,Costa Rica,CRI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1098897,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,188,Costa Rica,CRI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9347,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,191,Croatia,HRV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,491922,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,191,Croatia,HRV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,201583,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,241952,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,267278,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,203,Czechia,CZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2401935,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,203,Czechia,CZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3587638,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,204,Benin,BEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,31352,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,148684432,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,123981790,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,214,Dominican Rep.,DOM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9344,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,218,Ecuador,ECU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,252833,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,218,Ecuador,ECU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1659,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,231,Ethiopia,ETH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3916113,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,232,Eritrea,ERI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2047,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,233,Estonia,EST,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,31353783,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,233,Estonia,EST,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2079335,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,234,Faeroe Isds,FRO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2404047,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,234,Faeroe Isds,FRO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1924005,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,238,Falkland Isds (Malvinas),FLK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,216842,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,48421395,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,64860156,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,44009001,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,54787453,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,266,Gabon,GAB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,47314706,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,268,Georgia,GEO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,42644,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,270,Gambia,GMB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,26806,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,276,Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,172546290,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,276,Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,301592863,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,27188871,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,44355,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1967102,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1685374,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,304,Greenland,GRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,705777,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,304,Greenland,GRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,34794,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,320,Guatemala,GTM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,43020,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,328,Guyana,GUY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,20075,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,340,Honduras,HND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,512,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,148018,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,40665643,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1072583,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1392896,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,352,Iceland,ISL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9508603,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,352,Iceland,ISL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9211611,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13133413,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2034668,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,52977,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,70318,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,368,Iraq,IRQ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,162478,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,193835157,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7434127,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2646169,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,463926,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,18112699,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,53742321,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,267,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,388,Jamaica,JAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,86358232,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1459331,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,58378869,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,400,Jordan,JOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,22043,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15648419,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,119752,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4052763,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5631895,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,414,Kuwait,KWT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,41713,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2405,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16804,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,428,Latvia,LVA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12256889,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,428,Latvia,LVA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3269862,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,434,Libya,LBY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,232623,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,440,Lithuania,LTU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13890786,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,440,Lithuania,LTU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1775623,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,442,Luxembourg,LUX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2649298,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,442,Luxembourg,LUX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3304625,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,450,Madagascar,MDG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,18481,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,450,Madagascar,MDG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2870,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3542707,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,327060,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,470,Malta,MLT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9654,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,478,Mauritania,MRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3384839,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,480,Mauritius,MUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15058,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,563294,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,142022,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6920448,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11988007,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,496,Mongolia,MNG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,828,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,498,Rep. of Moldova,MDA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,332145,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,77507871,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3838218,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,508,Mozambique,MOZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6556175,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,512,Oman,OMN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2189227,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,516,Namibia,NAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,36968,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,516,Namibia,NAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13674,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,524,Nepal,NPL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5041,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,524,Nepal,NPL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3748,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,213496003,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,160757691,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2619760,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,507330,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2061,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,86202,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,594762,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3198773,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,591,Panama,PAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1350,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,600,Paraguay,PRY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,185920,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4587854,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14789,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1238277,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2191564,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,26514674,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,41389642,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10322232,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3941778,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,624,Guinea-Bissau,GNB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1851,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,634,Qatar,QAT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,42992,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6736035,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,99744,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,643,Russian Federation,RUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,138516192,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,643,Russian Federation,RUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7253748,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,682,Saudi Arabia,SAU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4332,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,682,Saudi Arabia,SAU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,511866,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,686,Senegal,SEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10392,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,688,Serbia,SRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,104392,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,688,Serbia,SRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3202,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,699,India,IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12308246,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,699,India,IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,24084104,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,39090567,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1292350,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,703,Slovakia,SVK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1767686,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,703,Slovakia,SVK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,244811,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,704,Viet Nam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,672774,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,704,Viet Nam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2106660,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,705,Slovenia,SVN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1685005,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,705,Slovenia,SVN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,140386,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,706,Somalia,SOM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9934,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,710,South Africa,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,346548112,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,710,South Africa,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,624694,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,716,Zimbabwe,ZWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1222626,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,716,Zimbabwe,ZWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2709,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,57570068,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,39245639,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,736,Fmr Sudan,SDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,565378,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,736,Fmr Sudan,SDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,299956,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,740,Suriname,SUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,211208078,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,743593950,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,212558343,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2893984,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6630072,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,760,Syria,SYR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11301,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,760,Syria,SYR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,111488,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,762,Tajikistan,TJK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2470966,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2346572,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6745708,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,768,Togo,TGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,874,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,780,Trinidad and Tobago,TTO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,60858,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,784,United Arab Emirates,ARE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,83377,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,784,United Arab Emirates,ARE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1073403,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11058624,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,22130,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8355935,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4987976,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,800,Uganda,UGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2015232,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,800,Uganda,UGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7869,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,804,Ukraine,UKR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14680578,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,804,Ukraine,UKR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,467433,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,807,North Macedonia,MKD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19341,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8750399,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,676250,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,90671559,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,111322451,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,834,United Rep. of Tanzania,TZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4653125,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,834,United Rep. of Tanzania,TZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4071,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,842,USA,USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,37992662,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,842,USA,USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11731116,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,858,Uruguay,URY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,67643783,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,858,Uruguay,URY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,635843,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,860,Uzbekistan,UZB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1433399,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,862,Venezuela,VEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,23304735,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,862,Venezuela,VEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,432406,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,887,Yemen,YEM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4155517,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,894,Zambia,ZMB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,57363,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4275152418,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,119308589048,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,12,Algeria,DZA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,952,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,24,Angola,AGO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,156779872,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,24,Angola,AGO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,26333,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,32,Argentina,ARG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,17505634,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,32,Argentina,ARG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1596345,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8731395,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,52266,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,31254,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,582944527,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,48,Bahrain,BHR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,194,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,56,Belgium,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,217209791,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,56,Belgium,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2997442385,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,76,Brazil,BRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,564498,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,76,Brazil,BRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,99000454,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,100,Bulgaria,BGR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1553,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,39747322,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3705854950,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,13104143,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4492067,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,170,Colombia,COL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8682392,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,191,Croatia,HRV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2890,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,196,Cyprus,CYP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4630,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,196,Cyprus,CYP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9894513,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,203,Czechia,CZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8295570,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,203,Czechia,CZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1356696314,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,716165942,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3221758158,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,214,Dominican Rep.,DOM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7791154,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,233,Estonia,EST,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,13771179,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,233,Estonia,EST,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,36938251,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,234,Faeroe Isds,FRO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,151987784,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,27842486,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1060910045,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,96005626,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,13866899691,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,276,Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,37476427,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,276,Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,15536421909,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,288,Ghana,GHA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,684,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,300,Greece,GRC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4145,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,300,Greece,GRC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,363753458,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,304,Greenland,GRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,23454843,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,340,Honduras,HND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,11194840,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,344,"China, Hong Kong SAR",HKG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,78490,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,344,"China, Hong Kong SAR",HKG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4790,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,352,Iceland,ISL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,912,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,352,Iceland,ISL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,272324138,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,372,Ireland,IRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6042,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,372,Ireland,IRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1341019892,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,303694,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3945734698,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,337192,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,94362237,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,404,Kenya,KEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,31194751,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,410,Rep. of Korea,KOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2262679,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,410,Rep. of Korea,KOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,68060166,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,428,Latvia,LVA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,15978300,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,428,Latvia,LVA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,42780525,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,440,Lithuania,LTU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7713,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,440,Lithuania,LTU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,65507516,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,458,Malaysia,MYS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,167123,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,470,Malta,MLT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,10267873,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,478,Mauritania,MRT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4673,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,480,Mauritius,MUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,31858,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,484,Mexico,MEX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,420818,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,484,Mexico,MEX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,78081456,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,490,"Other Asia, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1914,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,490,"Other Asia, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,72998796,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,504,Morocco,MAR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1309476,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,516,Namibia,NAM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3287,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,78380553,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,13825115618,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,554,New Zealand,NZL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7239,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,566,Nigeria,NGA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1285,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,566,Nigeria,NGA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,38019011,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,591,Panama,PAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,73909,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,608,Philippines,PHL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,61893,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,196665139,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,979996710,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,620,Portugal,PRT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,319926775,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,634,Qatar,QAT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7137,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,882691,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,643,Russian Federation,RUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,364311298,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,643,Russian Federation,RUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1105964,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,682,Saudi Arabia,SAU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,95428,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,682,Saudi Arabia,SAU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5673,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,694,Sierra Leone,SLE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,32421,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,699,India,IND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,11500,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,699,India,IND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,44497694,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,702,Singapore,SGP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,232,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,702,Singapore,SGP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,74541806,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,703,Slovakia,SVK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,34321,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,703,Slovakia,SVK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,759,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,705,Slovenia,SVN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,68232,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,705,Slovenia,SVN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,56082,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,710,South Africa,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,180,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,710,South Africa,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,38789989,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8905247,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1659183209,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1383940798,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5400080335,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,835499,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,655009854,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,764,Thailand,THA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7607,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,764,Thailand,THA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,41618,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,780,Trinidad and Tobago,TTO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,15939,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,784,United Arab Emirates,ARE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1589,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,784,United Arab Emirates,ARE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,89204,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,788,Tunisia,TUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3942774,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,574204,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,52189419,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,804,Ukraine,UKR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3594,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,818,Egypt,EGY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,123904,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,668364133,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,42886747716,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,842,USA,USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,189750601,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,842,USA,USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4260887869,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,858,Uruguay,URY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,580,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,862,Venezuela,VEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1587960,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,862,Venezuela,VEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4478400,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14530387565,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14461756150,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,4,Afghanistan,AFG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,145362,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,4,Afghanistan,AFG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1432688,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,8,Albania,ALB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,91930,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,8,Albania,ALB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,28216,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,12,Algeria,DZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4873,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,12,Algeria,DZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5089457,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,20,Andorra,AND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2815,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,24,Angola,AGO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,122842,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,24,Angola,AGO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,22538573,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,28,Antigua and Barbuda,ATG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,57338,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,28,Antigua and Barbuda,ATG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,27962,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,31,Azerbaijan,AZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,346246,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,31,Azerbaijan,AZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,701449,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,32,Argentina,ARG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6095889,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,32,Argentina,ARG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2914655,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,36,Australia,AUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,44045539,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,36,Australia,AUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,33669841,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,40,Austria,AUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,155044619,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,40,Austria,AUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,248790048,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,44,Bahamas,BHS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,25962,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,44,Bahamas,BHS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,255729,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,48,Bahrain,BHR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17083817,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,48,Bahrain,BHR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1396823,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,50,Bangladesh,BGD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11587852,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,50,Bangladesh,BGD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1698729,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,51,Armenia,ARM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,32506,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,52,Barbados,BRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17698,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,52,Barbados,BRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,179366,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,56,Belgium,BEL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,384647796,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,56,Belgium,BEL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,552139342,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,60,Bermuda,BMU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1193,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,60,Bermuda,BMU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14449,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,64,Bhutan,BTN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,952,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,68,Bolivia (Plurinational State of),BOL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,308232,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,68,Bolivia (Plurinational State of),BOL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,903,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,70,Bosnia Herzegovina,BIH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5153078,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,70,Bosnia Herzegovina,BIH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,521826,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,72,Botswana,BWA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1430,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,76,Brazil,BRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,42522748,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,76,Brazil,BRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,23762483,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,84,Belize,BLZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,370018,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,92,Br. Virgin Isds,VGB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,29426,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,96,Brunei Darussalam,BRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6196,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,96,Brunei Darussalam,BRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,857362,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,100,Bulgaria,BGR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6271427,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,100,Bulgaria,BGR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10226724,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,104,Myanmar,MMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15857,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,104,Myanmar,MMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,133283,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,108,Burundi,BDI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10043,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,112,Belarus,BLR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15052835,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,112,Belarus,BLR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7435269,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,116,Cambodia,KHM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5774,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,116,Cambodia,KHM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,20506,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,120,Cameroon,CMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10285,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,120,Cameroon,CMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,136784,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,124,Canada,CAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,45675957,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,124,Canada,CAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,40375247,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,136,Cayman Isds,CYM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7823,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,144,Sri Lanka,LKA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4208693,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,144,Sri Lanka,LKA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,891746,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,148,Chad,TCD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,115342,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,152,Chile,CHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4534021,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,152,Chile,CHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3221198,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,156,China,CHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,730027421,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,156,China,CHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,161422641,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,170,Colombia,COL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,354246,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,170,Colombia,COL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4544529,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,178,Congo,COG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,830477,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,178,Congo,COG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3353352,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,180,Dem. Rep. of the Congo,COD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8479764,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,180,Dem. Rep. of the Congo,COD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,804,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,184,Cook Isds,COK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7697,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,188,Costa Rica,CRI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,27742,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,188,Costa Rica,CRI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,237055,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,191,Croatia,HRV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3303301,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,191,Croatia,HRV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12167352,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,192,Cuba,CUB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17353,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,192,Cuba,CUB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,93492,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,196,Cyprus,CYP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,455234,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,196,Cyprus,CYP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,709289,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,203,Czechia,CZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,179501802,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,203,Czechia,CZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,88876674,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,204,Benin,BEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12348,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,208,Denmark,DNK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,984720316,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,208,Denmark,DNK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,611763985,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,214,Dominican Rep.,DOM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,54100,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,214,Dominican Rep.,DOM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,490995,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,218,Ecuador,ECU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6227770,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,218,Ecuador,ECU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,350308,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,222,El Salvador,SLV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,35443,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,222,El Salvador,SLV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,434108,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,226,Equatorial Guinea,GNQ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,37777,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,231,Ethiopia,ETH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,34056,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,231,Ethiopia,ETH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,260724,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,232,Eritrea,ERI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,52796,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,233,Estonia,EST,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,130474392,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,233,Estonia,EST,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,35478966,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,234,Faeroe Isds,FRO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,558154,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,234,Faeroe Isds,FRO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6126773,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,238,Falkland Isds (Malvinas),FLK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2070,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,242,Fiji,FJI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,42491,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,246,Finland,FIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,800835484,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,246,Finland,FIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,441758849,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,251,France,FRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,380983138,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,251,France,FRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,714707748,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,258,French Polynesia,PYF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,837,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,258,French Polynesia,PYF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,124295,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,262,Djibouti,DJI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13490,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,266,Gabon,GAB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12332,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,266,Gabon,GAB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,236102,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,268,Georgia,GEO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,53023,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,270,Gambia,GMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4848,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,270,Gambia,GMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,20740,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,276,Germany,DEU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1778112882,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,276,Germany,DEU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2428141940,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,288,Ghana,GHA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,23404,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,288,Ghana,GHA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2519973,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,292,Gibraltar,GIB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,268900,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,300,Greece,GRC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13488191,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,300,Greece,GRC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,78533236,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,304,Greenland,GRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,51502,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,304,Greenland,GRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,201515,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,308,Grenada,GRD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4198,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,316,Guam,GUM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,100914,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,320,Guatemala,GTM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9010,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,320,Guatemala,GTM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,705267,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,324,Guinea,GIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,294,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,324,Guinea,GIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,161176,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,328,Guyana,GUY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,21304,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,328,Guyana,GUY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14926,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,332,Haiti,HTI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5252,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,340,Honduras,HND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2235,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,340,Honduras,HND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,46827,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,27650670,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,95362102,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,348,Hungary,HUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,39740402,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,348,Hungary,HUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,40061943,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,352,Iceland,ISL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,34803531,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,352,Iceland,ISL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,29124448,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,360,Indonesia,IDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,21623571,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,360,Indonesia,IDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4812812,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,364,Iran,IRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4600387,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,364,Iran,IRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8024626,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,368,Iraq,IRQ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,255,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,368,Iraq,IRQ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,78079,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,372,Ireland,IRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,23450097,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,372,Ireland,IRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,20293831,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,376,Israel,ISR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13988995,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,376,Israel,ISR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9440373,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,381,Italy,ITA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,583238296,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,381,Italy,ITA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,535479061,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5201,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1475947,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,388,Jamaica,JAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17434,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,388,Jamaica,JAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,246874,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,392,Japan,JPN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,183720053,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,392,Japan,JPN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,323851052,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,398,Kazakhstan,KAZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8693699,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,398,Kazakhstan,KAZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,20702724,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,400,Jordan,JOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3877,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,400,Jordan,JOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,330805,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,404,Kenya,KEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,74080,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,404,Kenya,KEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,525221,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,410,Rep. of Korea,KOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,77667513,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,410,Rep. of Korea,KOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,223682271,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,414,Kuwait,KWT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,26133,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,414,Kuwait,KWT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,704452,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,418,Lao People's Dem. Rep.,LAO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,131017,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,418,Lao People's Dem. Rep.,LAO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,40859,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,422,Lebanon,LBN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,102961,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,422,Lebanon,LBN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1113016,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,426,Lesotho,LSO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,270852,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,428,Latvia,LVA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,101041498,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,428,Latvia,LVA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,39261829,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,430,Liberia,LBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,265019,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,434,Libya,LBY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13280,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,434,Libya,LBY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1743554,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,440,Lithuania,LTU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,127279666,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,440,Lithuania,LTU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,40763686,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,442,Luxembourg,LUX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,36086927,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,442,Luxembourg,LUX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,42654009,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,446,"China, Macao SAR",MAC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13926,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,450,Madagascar,MDG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13722,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,450,Madagascar,MDG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4933,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,454,Malawi,MWI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1693,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,454,Malawi,MWI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,80472,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,458,Malaysia,MYS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15306529,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,458,Malaysia,MYS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,37496224,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,462,Maldives,MDV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,34969,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,466,Mali,MLI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1197,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,466,Mali,MLI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,110945,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,470,Malta,MLT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3198432,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,470,Malta,MLT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2383299,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,478,Mauritania,MRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,30505,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,480,Mauritius,MUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12063,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,480,Mauritius,MUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,284392,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,484,Mexico,MEX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7235360,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,484,Mexico,MEX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8044421,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,490,"Other Asia, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,112653177,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,490,"Other Asia, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19157982,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,496,Mongolia,MNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,25023,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,498,Rep. of Moldova,MDA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,210742,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,498,Rep. of Moldova,MDA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12846,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,499,Montenegro,MNE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,31271,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,499,Montenegro,MNE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,48105,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,504,Morocco,MAR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,409852,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,504,Morocco,MAR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1111320,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,508,Mozambique,MOZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,219,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,508,Mozambique,MOZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,196353,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,512,Oman,OMN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,65759,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,512,Oman,OMN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4110758,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,516,Namibia,NAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,156958,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,516,Namibia,NAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1458902,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,524,Nepal,NPL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,249036,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,524,Nepal,NPL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,87047,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,528,Netherlands,NLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,716488820,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,528,Netherlands,NLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2032041787,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,530,Neth. Antilles,ANT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,266885,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,533,Aruba,ABW,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,117302,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,540,New Caledonia,NCL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,124646,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,554,New Zealand,NZL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2461987,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,554,New Zealand,NZL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2940362,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,558,Nicaragua,NIC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,130925,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,562,Niger,NER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,341385,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,566,Nigeria,NGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12335,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,566,Nigeria,NGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,26464364,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,584,Marshall Isds,MHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1193,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,586,Pakistan,PAK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,37619538,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,586,Pakistan,PAK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1591068,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,591,Panama,PAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,85244,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,591,Panama,PAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2665956,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,598,Papua New Guinea,PNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3196,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,598,Papua New Guinea,PNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,231021,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,600,Paraguay,PRY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8414,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,600,Paraguay,PRY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,54821,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,604,Peru,PER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2467011,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,604,Peru,PER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1462582,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,608,Philippines,PHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5273074,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,608,Philippines,PHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1184666,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,616,Poland,POL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,549704157,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,616,Poland,POL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,445289520,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,620,Portugal,PRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,55079414,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,620,Portugal,PRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,214530836,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,634,Qatar,QAT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,49863,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,634,Qatar,QAT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,21017107,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,642,Romania,ROU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,24063207,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,642,Romania,ROU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,49740578,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,643,Russian Federation,RUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1159347994,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,643,Russian Federation,RUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,67832453,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,646,Rwanda,RWA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15471,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,662,Saint Lucia,LCA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6212,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,662,Saint Lucia,LCA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,33523,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,670,Saint Vincent and the Grenadines,VCT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4565,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,674,San Marino,SMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7873670,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,682,Saudi Arabia,SAU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1196767,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,682,Saudi Arabia,SAU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,40855326,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,686,Senegal,SEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5327,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,686,Senegal,SEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,27414,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,688,Serbia,SRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3470235,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,688,Serbia,SRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1254757,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,690,Seychelles,SYC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,70915,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,694,Sierra Leone,SLE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,58401,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,699,India,IND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,101794815,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,699,India,IND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,52073594,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,702,Singapore,SGP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7618667,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,702,Singapore,SGP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,147917304,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,703,Slovakia,SVK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,73659002,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,703,Slovakia,SVK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12815394,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,704,Viet Nam,VNM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19324315,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,704,Viet Nam,VNM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8732479,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,705,Slovenia,SVN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12805130,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,705,Slovenia,SVN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3480541,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,706,Somalia,SOM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,34697,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,710,South Africa,ZAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14064581,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,710,South Africa,ZAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,23015347,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,716,Zimbabwe,ZWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1157946,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,716,Zimbabwe,ZWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,25042,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,724,Spain,ESP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,163060566,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,724,Spain,ESP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,651401687,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,736,Fmr Sudan,SDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,196034,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,740,Suriname,SUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2240,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,752,Sweden,SWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2962130053,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,752,Sweden,SWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1437717843,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,757,Switzerland,CHE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,112175430,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,757,Switzerland,CHE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,121419645,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,760,Syria,SYR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,90282,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,760,Syria,SYR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8919,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,762,Tajikistan,TJK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,128643094,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,764,Thailand,THA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,38404668,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,764,Thailand,THA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15391689,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,768,Togo,TGO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6394,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,780,Trinidad and Tobago,TTO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1401,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,780,Trinidad and Tobago,TTO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,253420,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,784,United Arab Emirates,ARE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,132191328,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,784,United Arab Emirates,ARE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,35947846,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,788,Tunisia,TUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,508908,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,788,Tunisia,TUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1077334,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,792,Turkey,TUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,64022584,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,792,Turkey,TUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,94016605,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,795,Turkmenistan,TKM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,116445,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,795,Turkmenistan,TKM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,22515,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,796,Turks and Caicos Isds,TCA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11248,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,800,Uganda,UGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,489290,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,804,Ukraine,UKR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9758953,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,804,Ukraine,UKR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8268782,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,807,North Macedonia,MKD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,569662,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,807,North Macedonia,MKD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,22881,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,818,Egypt,EGY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5039646,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,818,Egypt,EGY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13697688,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,826,United Kingdom,GBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,716800145,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,826,United Kingdom,GBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1069565875,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,53546,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,718487,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,842,USA,USA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,223284899,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,842,USA,USA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,774493274,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,854,Burkina Faso,BFA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2105,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,854,Burkina Faso,BFA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2709,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,858,Uruguay,URY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,471204,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,858,Uruguay,URY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1136614,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,860,Uzbekistan,UZB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1137,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,860,Uzbekistan,UZB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,188936,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,862,Venezuela,VEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4560,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,862,Venezuela,VEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1088752,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,887,Yemen,YEM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,101911,,,0
+S4,2008,2008,2008,1,0,1,Import,579,Norway,NOR,894,Zambia,ZMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9860,,,0
+S4,2008,2008,2008,1,0,2,Export,579,Norway,NOR,894,Zambia,ZMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,115344,,,0

@@ -1,0 +1,562 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,234091136,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,674615360,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1139332,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,896534,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,24,Angola,AGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,106531,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4512823,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,157027,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7219381,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,651564,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,185669,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,130090,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,44,Bahamas,BHS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2159,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,44,Bahamas,BHS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,157809,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,48,Bahrain,BHR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,30539,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,52,Barbados,BRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,475856,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,58,Belgium-Luxembourg,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,645039,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,58,Belgium-Luxembourg,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,23552416,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,60,Bermuda,BMU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3080,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,60,Bermuda,BMU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,149219,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,68,Bolivia (Plurinational State of),BOL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,176073,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2385719,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,25984,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,84,Belize,BLZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21178,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,96,Brunei Darussalam,BRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3106,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,97989,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,104,Myanmar,MMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,88989,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,108,Burundi,BDI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2030,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,120,Cameroon,CMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4689,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,120,Cameroon,CMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,188100,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10030209,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3264825,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,136,Cayman Isds,CYM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,31103,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,136,Cayman Isds,CYM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,376475,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1621189,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1082939,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,438891,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2093462,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,281801,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1876887,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,178,Congo,COG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,139849,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,180,Dem. Rep. of the Congo,COD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,28188,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,180,Dem. Rep. of the Congo,COD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,54175,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,78194,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,114633,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,192,Cuba,CUB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,711282,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1042326,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,537309,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,200,Czechoslovakia,CSK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,46423,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,847643,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,349241,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11456,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15788,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,395105,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15744,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,222,El Salvador,SLV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9793,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,230,Fmr Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7735,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,230,Fmr Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6199,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,238,Falkland Isds (Malvinas),FLK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,523,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,242,Fiji,FJI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6630,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1017704,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11015326,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,36663916,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,258,French Polynesia,PYF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7671,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,270,Gambia,GMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7489,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2557130,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19014900,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2455018,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,516990,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,292,Gibraltar,GIB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,85748,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,370060,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,739095,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,320,Guatemala,GTM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20288,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,320,Guatemala,GTM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,38304,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,324,Guinea,GIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9920,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,328,Guyana,GUY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3815998,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,332,Haiti,HTI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1638,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,340,Honduras,HND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2475,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,33386,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,239546,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,478906,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1252,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19028,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,356,"India, excl. Sikkim",IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8356326,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,356,"India, excl. Sikkim",IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,724,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,379111,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12509,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,59117,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11901,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,368,Iraq,IRQ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13185,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,368,Iraq,IRQ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,131897,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4379113,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,141775,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3284203,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15157115,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8568,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12388,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,388,Jamaica,JAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,68632,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,388,Jamaica,JAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1211229,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,831418,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1422626,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13066,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2279675,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,45526,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,997,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5823,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,414,Kuwait,KWT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,94054,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,37146,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,218916,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,430,Liberia,LBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,30201,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,430,Liberia,LBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,116680,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,434,Libya,LBY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,24142,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,434,Libya,LBY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,408961,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,450,Madagascar,MDG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3898,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,454,Malawi,MWI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,553389,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,454,Malawi,MWI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8091,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,202759,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,220153,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,548551,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,480,Mauritius,MUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,147749,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,480,Mauritius,MUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,49859,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,121503,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1896861,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,32968,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,34540,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,100834,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3665,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,508,Mozambique,MOZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,773944,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,512,Oman,OMN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12747,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4135082,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13350058,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,532,Neth. Antilles and Aruba,ANT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5650,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,532,Neth. Antilles and Aruba,ANT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,67733,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,570433,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,884,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,562,Niger,NER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16127,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4578237,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1377806,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,347333,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3108669,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20837,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11644,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,590,"Fmr Panama, excl.Canal Zone",PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1779293,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,590,"Fmr Panama, excl.Canal Zone",PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,25659,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,598,Papua New Guinea,PNG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,26030,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,598,Papua New Guinea,PNG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5823,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,600,Paraguay,PRY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1746,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2089620,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,193651,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,70650,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,35307,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9990,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,299766,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1071037,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1048571,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,624,Guinea-Bissau,GNB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,241168,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,624,Guinea-Bissau,GNB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8483,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,626,Timor-Leste,TLS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4021,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,634,Qatar,QAT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8066,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,638,Réunion,REU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2593,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,45683,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,646,Rwanda,RWA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17744,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,646,Rwanda,RWA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1352,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,682,Saudi Arabia,SAU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,98191,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,686,Senegal,SEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,105143,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,686,Senegal,SEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3000,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,690,Seychelles,SYC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6902,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,690,Seychelles,SYC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13692,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,694,Sierra Leone,SLE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10119,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,694,Sierra Leone,SLE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,217334,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,52684,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,99258,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,711,So. African Customs Union,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6896430,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,711,So. African Customs Union,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1891719,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4747156,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4853415,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,736,Fmr Sudan,SDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,32429,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,740,Suriname,SUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,120373,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,740,Suriname,SUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7461,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,851090,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1805024,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,299531,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2038902,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,760,Syria,SYR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4457,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,760,Syria,SYR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,225999,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8930,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,768,Togo,TGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,660,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,780,Trinidad and Tobago,TTO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5787,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,780,Trinidad and Tobago,TTO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1090907,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,784,United Arab Emirates,ARE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17274,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2544,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,251924,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1773614,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,800,Uganda,UGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,899406,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,810,Fmr USSR,SUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1489,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,84312,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,250071,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,86574960,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,490267136,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,345016,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3385,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,839,Special Categories,,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,797533,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,841,USA (before 1981),USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,38956344,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,841,USA (before 1981),USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,34743076,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,849,US Misc. Pacific Isds,,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2137,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,850,US Virgin Isds,VIR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17310,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10459,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,38070,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2394,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1522048,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,886,Fmr Arab Rep. of Yemen,YEM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4189,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,890,Fmr Yugoslavia,YUG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20217,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,890,Fmr Yugoslavia,YUG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,748761,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,894,Zambia,ZMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2938,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,894,Zambia,ZMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,104466,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,899,"Areas, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,53921,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,899,"Areas, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,42865,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,111266952,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,92125768,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,572428,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,931020,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,104817,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,170023,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9163,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,52,Barbados,BRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1954,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,58,Belgium-Luxembourg,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1518060,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,58,Belgium-Luxembourg,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6288291,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3396786,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,84,Belize,BLZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,793,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,90,Solomon Isds,SLB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,72971,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1173872,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,104,Myanmar,MMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,185166,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,120,Cameroon,CMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2344,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5538352,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14142,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,180089,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,293535,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2248821,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,178,Congo,COG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,57160,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,148780,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,200,Czechoslovakia,CSK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,309704,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,200,Czechoslovakia,CSK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,994749,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,932972,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,230818,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,218,Ecuador,ECU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,93995,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,230,Fmr Ethiopia,ETH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8132,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,238,Falkland Isds (Malvinas),FLK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,135006,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12298183,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,92614,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1994779,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9567522,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,229768,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1440624,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7977422,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1760216,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,81227,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,324,Guinea,GIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10699,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,328,Guyana,GUY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,20093,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15204,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12211,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11943,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,352,Iceland,ISL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11811,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,356,"India, excl. Sikkim",IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,764916,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,41434,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,85632,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7161,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,26873,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5145,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,881057,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2719534,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,674799,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,388,Jamaica,JAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3043,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,388,Jamaica,JAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7823,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,493717,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,192277,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,380610,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2559,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,414,Kuwait,KWT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,59050,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,434,Libya,LBY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,66076,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,454,Malawi,MWI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2095,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2189062,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,470,Malta,MLT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,38439,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11634,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,496,Mongolia,MNG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10686,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4927301,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,508,Mozambique,MOZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,283433,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4591896,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7761920,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6562049,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,111465,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,425820,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,57458,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,753949,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,633783,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,903923,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,38293,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,103531,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15532,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2293540,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1103776,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16938,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,388821,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,686,Senegal,SEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6944,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,694,Sierra Leone,SLE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,296151,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19531,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,152537,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,711,So. African Customs Union,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1046511,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,711,So. African Customs Union,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,22361,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,146706,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11225117,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,736,Fmr Sudan,SDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,169798,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,740,Suriname,SUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,25374,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15749038,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1762142,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,350915,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,23277,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,760,Syria,SYR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,141490,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,261606,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,768,Togo,TGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,528,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,776,Tonga,TON,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,61436,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,120897,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,810,Fmr USSR,SUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1588797,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13876,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,26327060,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,34340748,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,834,United Rep. of Tanzania,TZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,816354,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,839,Special Categories,,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,47936,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,841,USA (before 1981),USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3757052,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,841,USA (before 1981),USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3430726,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,849,US Misc. Pacific Isds,,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,88826,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,858,Uruguay,URY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,20013,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,862,Venezuela,VEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,59175,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,882,Samoa,WSM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,356296,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,886,Fmr Arab Rep. of Yemen,YEM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,592,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,890,Fmr Yugoslavia,YUG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,78107,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,894,Zambia,ZMB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,78834,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,899,"Areas, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,26811,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,899,"Areas, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3854,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,158354560,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,15779036,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,11261,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,44,Bahamas,BHS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1404,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,52,Barbados,BRB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,535,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,58,Belgium-Luxembourg,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,807316,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,58,Belgium-Luxembourg,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,851,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,60,Bermuda,BMU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2874,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,76,Brazil,BRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6214,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,104,Myanmar,MMR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,16798,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,196,Cyprus,CYP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2373,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,200,Czechoslovakia,CSK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,394247,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1037,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,898237,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1683,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1448926,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,288,Ghana,GHA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1514,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,344,"China, Hong Kong SAR",HKG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1295,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,348,Hungary,HUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2519,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,364,Iran,IRN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,10837247,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,368,Iraq,IRQ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1746,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,434139,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4456,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,414,Kuwait,KWT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,30397714,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,470,Malta,MLT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1803,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,484,Mexico,MEX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,124849,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2577830,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1050633,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,532,Neth. Antilles and Aruba,ANT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,862025,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,554,New Zealand,NZL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,875,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,554,New Zealand,NZL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8010,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,579,Norway,NOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,275498,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,16330880,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,11701,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,620,Portugal,PRT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,286501,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,620,Portugal,PRT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,17236,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,682,Saudi Arabia,SAU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,10067092,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,711,So. African Customs Union,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,276999,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,711,So. African Customs Union,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4264,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,720,Fmr Dem. Yemen,YMD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,979750,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,39006,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9633,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,382629,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4621,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,780,Trinidad and Tobago,TTO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,510,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,784,United Arab Emirates,ARE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,623852,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,810,Fmr USSR,SUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3101960,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,76025224,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,13956045,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,841,USA (before 1981),USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1831388,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,841,USA (before 1981),USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2813,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,899,"Areas, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3252,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,899,"Areas, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2325,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,447973152,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,231179392,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,12,Algeria,DZA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4892,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,32,Argentina,ARG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,53615,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,32,Argentina,ARG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,9693,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,36,Australia,AUS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,243688,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,36,Australia,AUS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1760048,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,40,Austria,AUT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2660516,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,40,Austria,AUT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,871061,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,44,Bahamas,BHS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,124910,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,48,Bahrain,BHR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,40303,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,52,Barbados,BRB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,111014,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,58,Belgium-Luxembourg,BEL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,9948310,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,58,Belgium-Luxembourg,BEL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2041078,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,60,Bermuda,BMU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,140780,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,68,Bolivia (Plurinational State of),BOL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,7594,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,76,Brazil,BRA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1258322,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,84,Belize,BLZ,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1160,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,100,Bulgaria,BGR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,36706,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,104,Myanmar,MMR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4320,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,124,Canada,CAN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5895938,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,124,Canada,CAN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4593808,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,136,Cayman Isds,CYM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,143694,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,144,Sri Lanka,LKA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,23296,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,144,Sri Lanka,LKA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,8837,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,152,Chile,CHL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5393,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,152,Chile,CHL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1397,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,156,China,CHN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1936925,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,170,Colombia,COL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,111906,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,178,Congo,COG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,29965,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,180,Dem. Rep. of the Congo,COD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2346,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,188,Costa Rica,CRI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3367,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,196,Cyprus,CYP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,82999,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,200,Czechoslovakia,CSK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2580074,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,200,Czechoslovakia,CSK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,91873,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,208,Denmark,DNK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3119017,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,208,Denmark,DNK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,520443,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,214,Dominican Rep.,DOM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5106,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,222,El Salvador,SLV,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1158,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,230,Fmr Ethiopia,ETH,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2830,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,242,Fiji,FJI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4620,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,246,Finland,FIN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,12537217,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,246,Finland,FIN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,251950,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,251,France,FRA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,12738828,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,251,France,FRA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1722755,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,262,Djibouti,DJI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1170,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,266,Gabon,GAB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3392,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,270,Gambia,GMB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6773,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,681176,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,64783,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,38164488,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,8188326,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,288,Ghana,GHA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,305828,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,288,Ghana,GHA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2746,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,292,Gibraltar,GIB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,82098,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,300,Greece,GRC,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,40845,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,300,Greece,GRC,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,154614,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,312,Guadeloupe,GLP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,988,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,320,Guatemala,GTM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,7235,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,324,Guinea,GIN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1369,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,328,Guyana,GUY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,126649,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1746273,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,377756,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,348,Hungary,HUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,318517,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,348,Hungary,HUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2112,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,352,Iceland,ISL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,890,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,352,Iceland,ISL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,23638,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,356,"India, excl. Sikkim",IND,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1097566,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,356,"India, excl. Sikkim",IND,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2061,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,360,Indonesia,IDN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5479,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,364,Iran,IRN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,247513,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,364,Iran,IRN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,43690,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,368,Iraq,IRQ,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,35277,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,376,Israel,ISR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,94757,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,376,Israel,ISR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,29697,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,381,Italy,ITA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,7772380,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,381,Italy,ITA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1451628,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,179635,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,388,Jamaica,JAM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,88065,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,392,Japan,JPN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,11399475,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,392,Japan,JPN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,243336,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,400,Jordan,JOR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3550,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,404,Kenya,KEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,13372,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,404,Kenya,KEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,38631,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,34354,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,410,Rep. of Korea,KOR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,159200,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,414,Kuwait,KWT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,51579,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,422,Lebanon,LBN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,239940,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,422,Lebanon,LBN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,80019,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,430,Liberia,LBR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,24150,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,434,Libya,LBY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,37736,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,454,Malawi,MWI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,7773,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,458,Malaysia,MYS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,881775,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,458,Malaysia,MYS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,28561,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,470,Malta,MLT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,67888,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,470,Malta,MLT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,15638,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,478,Mauritania,MRT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3619,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,480,Mauritius,MUS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,8911,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,484,Mexico,MEX,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,49697,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,484,Mexico,MEX,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1110,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,490,"Other Asia, nes",,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,327876,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,496,Mongolia,MNG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,10693,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,504,Morocco,MAR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,15373,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,508,Mozambique,MOZ,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1394,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,528,Netherlands,NLD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,12198068,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,528,Netherlands,NLD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3383735,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,532,Neth. Antilles and Aruba,ANT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,108610,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,554,New Zealand,NZL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,110874,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,554,New Zealand,NZL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,230794,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,566,Nigeria,NGA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,18996,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,566,Nigeria,NGA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,205656,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,579,Norway,NOR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5706963,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,579,Norway,NOR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,203080,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,586,Pakistan,PAK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,949966,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,586,Pakistan,PAK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,7855,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,590,"Fmr Panama, excl.Canal Zone",PAN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,15918,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,604,Peru,PER,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1122,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,604,Peru,PER,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2416,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,608,Philippines,PHL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1132,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,608,Philippines,PHL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,11978,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,616,Poland,POL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2871924,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,616,Poland,POL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,421668,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,620,Portugal,PRT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4830861,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,620,Portugal,PRT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,27469,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,634,Qatar,QAT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1091,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,642,Romania,ROU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,89399,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,654,Saint Helena,SHN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1120,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,682,Saudi Arabia,SAU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,66903,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,686,Senegal,SEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2575,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,694,Sierra Leone,SLE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,24973,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,702,Singapore,SGP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,61732,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,702,Singapore,SGP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,112372,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,706,Somalia,SOM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2343,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,711,So. African Customs Union,ZAF,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,83253,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,711,So. African Customs Union,ZAF,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,716184,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,720,Fmr Dem. Yemen,YMD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2453,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,724,Spain,ESP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6685263,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,724,Spain,ESP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,65846,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,736,Fmr Sudan,SDN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6128,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,740,Suriname,SUR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,53094,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,740,Suriname,SUR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3439,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,752,Sweden,SWE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,9370735,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,752,Sweden,SWE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2220966,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,757,Switzerland,CHE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3791930,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,757,Switzerland,CHE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1927972,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,760,Syria,SYR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,9303,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,764,Thailand,THA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,137690,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,780,Trinidad and Tobago,TTO,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,155235,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,784,United Arab Emirates,ARE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,34322,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,792,Turkey,TUR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,15817,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,800,Uganda,UGA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,9002,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,810,Fmr USSR,SUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,952883,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,818,Egypt,EGY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1791,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,818,Egypt,EGY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,9928,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,826,United Kingdom,GBR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,263915264,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,826,United Kingdom,GBR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,169392480,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,129535,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,839,Special Categories,,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1203929,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,839,Special Categories,,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,7718,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,841,USA (before 1981),USA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,17756388,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,841,USA (before 1981),USA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,27357880,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,849,US Misc. Pacific Isds,,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,20696,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,850,US Virgin Isds,VIR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,215090,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,862,Venezuela,VEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5802,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,882,Samoa,WSM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3107,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,886,Fmr Arab Rep. of Yemen,YEM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2970,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,890,Fmr Yugoslavia,YUG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,131376,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,890,Fmr Yugoslavia,YUG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2221,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,894,Zambia,ZMB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,72852,,,0
+S1,1972,1972,1972,1,0,1,Import,372,Ireland,IRL,899,"Areas, nes",,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,139816,,,0
+S1,1972,1972,1972,1,0,2,Export,372,Ireland,IRL,899,"Areas, nes",,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,41766,,,0

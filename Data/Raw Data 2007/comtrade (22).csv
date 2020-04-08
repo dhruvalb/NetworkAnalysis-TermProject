@@ -1,0 +1,942 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3199513053,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1553168024,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,4,Afghanistan,AFG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9932,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,8,Albania,ALB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8006,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2661,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,112590,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,31,Azerbaijan,AZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2077293,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9476560,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2120885,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,322470,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13666027,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4743618,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,44,Bahamas,BHS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,190723,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,48,Bahrain,BHR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,278960,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,50,Bangladesh,BGD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,584652,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,51,Armenia,ARM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2378538,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,56,Belgium,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,113304366,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,56,Belgium,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,40351642,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,60,Bermuda,BMU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2386,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,68,Bolivia (Plurinational State of),BOL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,124029,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,70,Bosnia Herzegovina,BIH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,79196,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,70,Bosnia Herzegovina,BIH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,196233,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,164806959,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,389457,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,84,Belize,BLZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16323626,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,86,Br. Indian Ocean Terr.,IOT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,174,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,290777,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,100081,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,104,Myanmar,MMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,111,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,108,Burundi,BDI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1254324,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,112,Belarus,BLR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1783459,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,120,Cameroon,CMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,654613,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9160281,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4409658,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1637923,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10206502,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,57221,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21429953,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,32109984,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,52034630,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,174,Comoros,COM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13181,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,29482020,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,203815,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,191,Croatia,HRV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7317,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,191,Croatia,HRV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,208484,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,192,Cuba,CUB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8059913,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2888509,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4529772,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,203,Czechia,CZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10030729,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,203,Czechia,CZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11172371,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,269334318,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,36737460,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,212,Dominica,DMA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,34,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,102205,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18860443,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,175139,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,222,El Salvador,SLV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,471453,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,226,Equatorial Guinea,GNQ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,47600,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,231,Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6506110,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,233,Estonia,EST,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,58208711,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,233,Estonia,EST,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,127559132,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,234,Faeroe Isds,FRO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,329466,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,234,Faeroe Isds,FRO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1544,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,238,Falkland Isds (Malvinas),FLK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,784,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,242,Fiji,FJI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7088,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,133811534,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,33689712,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,258,French Polynesia,PYF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,36032,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,266,Gabon,GAB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,72925,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,268,Georgia,GEO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,23498,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,268,Georgia,GEO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1535320,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,270,Gambia,GMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12775,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,276,Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,471797322,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,276,Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,94492494,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,228814,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21272,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21906862,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13123453,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,304,Greenland,GRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,90484,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,308,Grenada,GRD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10863,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,320,Guatemala,GTM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15613797,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,332,Haiti,HTI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7868,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,340,Honduras,HND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6000332,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,205728,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1921373,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12880798,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,478550,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13020530,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,582953,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5435679,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1132051,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,658021,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,22233678,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7101347,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18906531,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1292261,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,95390387,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6699278,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,54734,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,388,Jamaica,JAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13680337,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1227037,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20793803,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,398,Kazakhstan,KAZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2124226,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,398,Kazakhstan,KAZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7597023,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,98961,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16663832,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5174,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1002651,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12127006,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,414,Kuwait,KWT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,228269,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,417,Kyrgyzstan,KGZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,26646,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,418,Lao People's Dem. Rep.,LAO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,33347,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,32434,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10863194,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,428,Latvia,LVA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10245178,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,428,Latvia,LVA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13141509,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,440,Lithuania,LTU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16112742,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,440,Lithuania,LTU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15881660,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,442,Luxembourg,LUX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1816791,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,442,Luxembourg,LUX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,67858,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,450,Madagascar,MDG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,511015,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,454,Malawi,MWI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1181868,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1417459,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8476103,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,466,Mali,MLI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1592,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,384,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,127327,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,480,Mauritius,MUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,43136,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,480,Mauritius,MUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16118,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1667712,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,60833,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,58322,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1963950,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,496,Mongolia,MNG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,71500,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,498,Rep. of Moldova,MDA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,36323,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,498,Rep. of Moldova,MDA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,459217,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9276330,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4434985,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,508,Mozambique,MOZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2861555,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,512,Oman,OMN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,339,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,516,Namibia,NAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,108194,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,524,Nepal,NPL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,324177579,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,38173638,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,530,Neth. Antilles,ANT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,293648,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,25328691,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6265280,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,558,Nicaragua,NIC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11422691,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13169,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8387085,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,157365044,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,41294081,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,232388,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20550,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,591,Panama,PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14091181,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,591,Panama,PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,65073,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,598,Papua New Guinea,PNG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,56389,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,600,Paraguay,PRY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,46811,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5462410,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4699669,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1810375,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,63963646,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12631759,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3236844,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1082259,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,634,Qatar,QAT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11711,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,158428,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,854168,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,643,Russian Federation,RUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19708371,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,643,Russian Federation,RUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,358151327,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,646,Rwanda,RWA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,522,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,674,San Marino,SMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,678,Sao Tome and Principe,STP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,51452,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,682,Saudi Arabia,SAU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,82797,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,682,Saudi Arabia,SAU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,24963494,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,686,Senegal,SEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,182769,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,688,Serbia,SRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2635336,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,690,Seychelles,SYC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,447042,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,699,India,IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8487856,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,699,India,IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,533990,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,944420,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5188247,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,703,Slovakia,SVK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8743080,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,703,Slovakia,SVK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1179013,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,704,Viet Nam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5186401,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,704,Viet Nam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1169924,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,705,Slovenia,SVN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,71565,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,705,Slovenia,SVN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,151766,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,710,South Africa,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13909931,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,710,South Africa,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2362848,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,716,Zimbabwe,ZWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,426059,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,171424757,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14609277,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,736,Fmr Sudan,SDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18777,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,740,Suriname,SUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,146644,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,748,Eswatini,SWZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,794079,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,433019986,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,247541814,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,24711552,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6532720,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,760,Syria,SYR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6190,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,760,Syria,SYR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,411667,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,762,Tajikistan,TJK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,123765,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,40685471,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,881269,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,768,Togo,TGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,423935,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,784,United Arab Emirates,ARE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,180992,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,784,United Arab Emirates,ARE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1201338,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,71148,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10740887,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12389116,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,527012,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,795,Turkmenistan,TKM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,148873,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,800,Uganda,UGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,205431,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,804,Ukraine,UKR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5333771,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,804,Ukraine,UKR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4098619,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,807,North Macedonia,MKD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6174,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7680819,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7298233,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,69705512,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,46337094,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2388967,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,842,USA,USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,36123946,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,842,USA,USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,58599128,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,854,Burkina Faso,BFA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17180,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,542107,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,860,Uzbekistan,UZB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2415,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,860,Uzbekistan,UZB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,58493,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2512,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,915,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,887,Yemen,YEM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1041,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,887,Yemen,YEM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,705489,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,894,Zambia,ZMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2167902,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,899,"Areas, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,120459968,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8720331291,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5281085163,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,4,Afghanistan,AFG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10828712,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,4,Afghanistan,AFG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,20646,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,8,Albania,ALB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,432,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,8,Albania,ALB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2216248,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,12,Algeria,DZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,133,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,12,Algeria,DZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,164029591,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,16,American Samoa,ASM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,114,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,31,Azerbaijan,AZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,155708,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,112361500,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1117459775,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9073753,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,30809353,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,50977704,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,44,Bahamas,BHS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,440,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,48,Bahrain,BHR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,653991,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,50,Bangladesh,BGD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1543944,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,51,Armenia,ARM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14082,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,56,Belgium,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,56512764,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,56,Belgium,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,57934874,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,68,Bolivia (Plurinational State of),BOL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,25692,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,70,Bosnia Herzegovina,BIH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,155153,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,70,Bosnia Herzegovina,BIH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,287,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,72,Botswana,BWA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,18918070,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,445298927,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1887393,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,92,Br. Virgin Isds,VGB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,416809,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,18583615,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,558963,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,104,Myanmar,MMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1254336,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,112,Belarus,BLR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2641827,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,112,Belarus,BLR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2640150,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,116,Cambodia,KHM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8228,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,120,Cameroon,CMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,179415,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,120,Cameroon,CMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,560650,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,422406940,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3118085,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,132,Cabo Verde,CPV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,101458,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,136,Cayman Isds,CYM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3464,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,459479,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,131430,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,242506903,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,68858,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13330995,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,269828959,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1853790,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,178,Congo,COG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,201814,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,180,Dem. Rep. of the Congo,COD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,53619445,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,188,Costa Rica,CRI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,140237,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,191,Croatia,HRV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3596420,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,191,Croatia,HRV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,300622,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,192,Cuba,CUB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1563679,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,45085,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7309110,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,203,Czechia,CZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6814140,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,203,Czechia,CZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5475563,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,128606328,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,134871207,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,214,Dominican Rep.,DOM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3458,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,218,Ecuador,ECU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,520815,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,222,El Salvador,SLV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,46793,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,231,Ethiopia,ETH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,676311,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,233,Estonia,EST,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,155265250,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,233,Estonia,EST,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,50081689,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,234,Faeroe Isds,FRO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,62997,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16253470,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,337690871,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,266,Gabon,GAB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,349861,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,266,Gabon,GAB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,178481,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,268,Georgia,GEO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7767217,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,268,Georgia,GEO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,266477,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,270,Gambia,GMB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,23050,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,276,Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,396655708,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,276,Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,871929101,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,383501,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1688277,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,96224691,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,304,Greenland,GRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3295,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,320,Guatemala,GTM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,173477,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,332,Haiti,HTI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2743,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,340,Honduras,HND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2343,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,80714,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,136595045,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4597948,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9569105,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,352,Iceland,ISL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2691726,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,352,Iceland,ISL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5183264,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4271027,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12591638,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,333001,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11239841,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,368,Iraq,IRQ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,29620,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,203242917,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,46746260,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2007667,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,53366932,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8082631,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,249759519,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4944963,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6297813,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,339259064,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,398,Kazakhstan,KAZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15458261,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,398,Kazakhstan,KAZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,229722,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,400,Jordan,JOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10243822,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,920002,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1599051,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2916414,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17674091,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,414,Kuwait,KWT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1373332,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,417,Kyrgyzstan,KGZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,87968,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,72058,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1435027,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,428,Latvia,LVA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,167147047,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,428,Latvia,LVA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3779515,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,430,Liberia,LBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,57009,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,434,Libya,LBY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6383901,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,440,Lithuania,LTU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,62946068,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,440,Lithuania,LTU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,20550594,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,442,Luxembourg,LUX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,29684,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,442,Luxembourg,LUX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,32848,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,446,"China, Macao SAR",MAC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,34,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,450,Madagascar,MDG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7909,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,454,Malawi,MWI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,464028,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,55669686,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1193000,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,466,Mali,MLI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,129,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,478,Mauritania,MRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,23748478,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,480,Mauritius,MUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7664,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,65033255,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,128599,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3080930,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10019527,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,498,Rep. of Moldova,MDA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12166,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13498787,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,66809100,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,508,Mozambique,MOZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,65354,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,508,Mozambique,MOZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,99649,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,512,Oman,OMN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5208241,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,516,Namibia,NAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3704,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,524,Nepal,NPL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12978,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1234257557,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,220607197,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,530,Neth. Antilles,ANT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10981113,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,540,New Caledonia,NCL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,684,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2032680,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,21205,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,558,Nicaragua,NIC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15903,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,79011,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,24988,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,61292283,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,56247357,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,519494,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5575515,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,591,Panama,PAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,566526,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,279733652,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,233191,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,783796,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,82450377,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,68514913,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,137085762,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,33255928,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,634,Qatar,QAT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,25,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,978648,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,370909,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,643,Russian Federation,RUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1357281236,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,643,Russian Federation,RUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,112968507,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,674,San Marino,SMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5199166,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,682,Saudi Arabia,SAU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,47231860,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,688,Serbia,SRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,389867,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,694,Sierra Leone,SLE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14973,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,699,India,IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7571123,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,699,India,IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,37577415,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2864120,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1730065,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,703,Slovakia,SVK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1406854,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,703,Slovakia,SVK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3680552,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,704,Viet Nam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5795709,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,704,Viet Nam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17109281,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,705,Slovenia,SVN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,372958,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,705,Slovenia,SVN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,659722,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,706,Somalia,SOM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2722,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,710,South Africa,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,55985765,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,710,South Africa,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,208019,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,716,Zimbabwe,ZWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,32319,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,716,Zimbabwe,ZWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10695,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,28351594,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,114860251,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,736,Fmr Sudan,SDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1665315,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,736,Fmr Sudan,SDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1903306,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,740,Suriname,SUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,64,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,740,Suriname,SUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,187052,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,777826599,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,275475758,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10331716,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,119796761,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,760,Syria,SYR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,271203,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,760,Syria,SYR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13166017,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,762,Tajikistan,TJK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,134155,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2971082,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15025589,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,784,United Arab Emirates,ARE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,706,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,784,United Arab Emirates,ARE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7620175,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,54650613,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,97676671,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,42984716,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,804,Ukraine,UKR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8364289,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,804,Ukraine,UKR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15723038,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,807,North Macedonia,MKD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9790,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,110009,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,169286959,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,128222235,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,560689723,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,834,United Rep. of Tanzania,TZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3552862,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,834,United Rep. of Tanzania,TZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10105,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,842,USA,USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,409309705,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,842,USA,USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,127617540,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,858,Uruguay,URY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,48634612,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,858,Uruguay,URY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1275479,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,860,Uzbekistan,UZB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,88331,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,887,Yemen,YEM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3193434,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,894,Zambia,ZMB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5282,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,899,"Areas, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,46412643,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,899,"Areas, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,61071936,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,11210523681,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4812162853,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,12,Algeria,DZA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6662,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,28,Antigua and Barbuda,ATG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,13215,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,31,Azerbaijan,AZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,213768,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,32,Argentina,ARG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8497,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,82811759,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,79522,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,421383,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,519095,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,44,Bahamas,BHS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7959,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,51,Armenia,ARM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,70865,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,56,Belgium,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,35233759,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,56,Belgium,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,296466054,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,76,Brazil,BRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8166,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,100,Bulgaria,BGR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,133424,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,112,Belarus,BLR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,34382000,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,112,Belarus,BLR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6957019,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,120,Cameroon,CMR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7191,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,98965806,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,286797625,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,136,Cayman Isds,CYM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8484,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1662403,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,102227,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,170,Colombia,COL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7150768,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,196,Cyprus,CYP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,76031,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,203,Czechia,CZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,243067,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,203,Czechia,CZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,30309,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,285391953,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,80400735,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,231,Ethiopia,ETH,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,47764,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,233,Estonia,EST,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,69028704,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,233,Estonia,EST,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,45762302,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,89577065,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,117731393,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,266,Gabon,GAB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,15681,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,268,Georgia,GEO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,231850,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,276,Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,75609617,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,276,Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,368080819,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,292,Gibraltar,GIB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7978683,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,300,Greece,GRC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,558311,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,304,Greenland,GRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1153,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,320,Guatemala,GTM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,23523,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,344,"China, Hong Kong SAR",HKG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,52924,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,348,Hungary,HUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,32058,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,348,Hungary,HUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,173561,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,352,Iceland,ISL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,16893,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,352,Iceland,ISL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,157147,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,360,Indonesia,IDN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,35709,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,364,Iran,IRN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,73303,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,372,Ireland,IRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1540,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,372,Ireland,IRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,34764,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,376,Israel,ISR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1503215,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,742892,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,822541,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,192429,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,614031,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,398,Kazakhstan,KAZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,396961181,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,398,Kazakhstan,KAZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,25345583,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,404,Kenya,KEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,52762,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,410,Rep. of Korea,KOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,82758,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,410,Rep. of Korea,KOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,13599,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,417,Kyrgyzstan,KGZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,190586,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,428,Latvia,LVA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,444,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,428,Latvia,LVA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6468288,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,430,Liberia,LBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,31251,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,440,Lithuania,LTU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4856765,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,442,Luxembourg,LUX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,856,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,458,Malaysia,MYS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,256893,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,458,Malaysia,MYS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3543,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,470,Malta,MLT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,21395,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,484,Mexico,MEX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,11343571,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,484,Mexico,MEX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,62400,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,490,"Other Asia, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7898,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,490,"Other Asia, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,280349,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,498,Rep. of Moldova,MDA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,37407,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,504,Morocco,MAR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,15143,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,512,Oman,OMN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,19526,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,516,Namibia,NAM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,583,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,171707497,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,208366176,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,530,Neth. Antilles,ANT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4432,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,554,New Zealand,NZL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,32772,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,554,New Zealand,NZL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,79617,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,579,Norway,NOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,469734140,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,579,Norway,NOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,19162005,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,591,Panama,PAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,28737,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,31191673,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,384696161,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,620,Portugal,PRT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,543,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,620,Portugal,PRT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,236900,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5353,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6084,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,643,Russian Federation,RUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7818334678,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,643,Russian Federation,RUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,303332169,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,660,Anguilla,AIA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,14341,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,682,Saudi Arabia,SAU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,91494,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,688,Serbia,SRB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8584,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,699,India,IND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,56581,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,699,India,IND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3639,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,702,Singapore,SGP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,304,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,702,Singapore,SGP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3125,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,703,Slovakia,SVK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,34276,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,703,Slovakia,SVK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,28835,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,704,Viet Nam,VNM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,559966,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,705,Slovenia,SVN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6296,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,710,South Africa,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,169226,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,710,South Africa,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,195979,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,70071,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,82866795,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,740,Suriname,SUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2452,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,391818505,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1612091199,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1367588,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,328099,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,760,Syria,SYR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,97,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,762,Tajikistan,TJK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,110278,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,764,Thailand,THA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,16,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,784,United Arab Emirates,ARE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,513,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6330992,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1540786,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,795,Turkmenistan,TKM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1129173,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,800,Uganda,UGA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,491,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,804,Ukraine,UKR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3895615,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,818,Egypt,EGY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,110823,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,818,Egypt,EGY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,89171,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,904833621,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,130281991,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,842,USA,USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,78055626,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,842,USA,USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,807430555,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,858,Uruguay,URY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1214,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,860,Uzbekistan,UZB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8246626,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,860,Uzbekistan,UZB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2393693,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,894,Zambia,ZMB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8200,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,899,"Areas, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,138268359,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10550380766,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,27658406503,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,4,Afghanistan,AFG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,31670,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,4,Afghanistan,AFG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,175515,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,8,Albania,ALB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,69,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,8,Albania,ALB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,436322,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,10,Antarctica,ATA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,686,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,12,Algeria,DZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16317237,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,20,Andorra,AND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6132,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,20,Andorra,AND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2869,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,24,Angola,AGO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,145404,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,28,Antigua and Barbuda,ATG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3495,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,28,Antigua and Barbuda,ATG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,152069,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,31,Azerbaijan,AZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4477,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,31,Azerbaijan,AZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2171191,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,32,Argentina,ARG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2564910,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,32,Argentina,ARG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,51529890,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,36,Australia,AUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,70106026,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,36,Australia,AUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,213524903,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,40,Austria,AUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,138080053,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,40,Austria,AUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,194875942,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,44,Bahamas,BHS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2954227,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,48,Bahrain,BHR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10651747,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,48,Bahrain,BHR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,53364211,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,50,Bangladesh,BGD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2592276,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,50,Bangladesh,BGD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6115292,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,51,Armenia,ARM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1246381,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,52,Barbados,BRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,25,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,52,Barbados,BRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,101529,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,56,Belgium,BEL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,317242619,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,56,Belgium,BEL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,756652877,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,60,Bermuda,BMU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,275892,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,60,Bermuda,BMU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1547,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,68,Bolivia (Plurinational State of),BOL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,435,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,68,Bolivia (Plurinational State of),BOL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,415263,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,70,Bosnia Herzegovina,BIH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,24727,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,70,Bosnia Herzegovina,BIH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1180977,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,72,Botswana,BWA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,739,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,72,Botswana,BWA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2962415,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,76,Brazil,BRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,34141713,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,76,Brazil,BRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,202271691,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,84,Belize,BLZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,46317,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,90,Solomon Isds,SLB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,69428,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,92,Br. Virgin Isds,VGB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,248,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,92,Br. Virgin Isds,VGB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,513358,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,96,Brunei Darussalam,BRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,32416,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,100,Bulgaria,BGR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5891183,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,100,Bulgaria,BGR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,39665580,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,104,Myanmar,MMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,63486,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,104,Myanmar,MMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,75048,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,112,Belarus,BLR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,20245318,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,112,Belarus,BLR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16405011,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,116,Cambodia,KHM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,662,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,116,Cambodia,KHM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,105795,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,120,Cameroon,CMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1566,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,120,Cameroon,CMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2379923,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,124,Canada,CAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19963177,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,124,Canada,CAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,110468150,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,132,Cabo Verde,CPV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4376,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,136,Cayman Isds,CYM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,389,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,140,Central African Rep.,CAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,40,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,144,Sri Lanka,LKA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2682637,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,144,Sri Lanka,LKA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1476816,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,148,Chad,TCD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1234,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,148,Chad,TCD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,48103,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,152,Chile,CHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,35283325,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,152,Chile,CHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,82343353,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,156,China,CHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,413959808,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,156,China,CHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,473714197,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,162,Christmas Isds,CXR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,26,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,166,Cocos Isds,CCK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,30,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,170,Colombia,COL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,316445,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,170,Colombia,COL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,53622162,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,175,Mayotte,MYT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5950,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,178,Congo,COG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,585413,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,180,Dem. Rep. of the Congo,COD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,139236769,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,180,Dem. Rep. of the Congo,COD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,518164,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,188,Costa Rica,CRI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,310,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,188,Costa Rica,CRI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5044507,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,191,Croatia,HRV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6710820,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,191,Croatia,HRV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16503989,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,192,Cuba,CUB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1028,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,192,Cuba,CUB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,748589,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,196,Cyprus,CYP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,30641,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,196,Cyprus,CYP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6246026,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,203,Czechia,CZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,122956571,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,203,Czechia,CZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,202014953,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,204,Benin,BEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,343122,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,208,Denmark,DNK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,172132545,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,208,Denmark,DNK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,653588752,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,212,Dominica,DMA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,516,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,214,Dominican Rep.,DOM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,210290819,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,214,Dominican Rep.,DOM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1381387,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,218,Ecuador,ECU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1450049,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,218,Ecuador,ECU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2541657,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,222,El Salvador,SLV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,116706,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,222,El Salvador,SLV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2296801,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,226,Equatorial Guinea,GNQ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4195,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,231,Ethiopia,ETH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,622627,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,231,Ethiopia,ETH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,766436,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,233,Estonia,EST,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,263137046,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,233,Estonia,EST,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,561140525,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,234,Faeroe Isds,FRO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,823,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,234,Faeroe Isds,FRO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,188037,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,238,Falkland Isds (Malvinas),FLK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,24773,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,242,Fiji,FJI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17750,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,251,France,FRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,430715756,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,251,France,FRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,774148945,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,258,French Polynesia,PYF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,452,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,258,French Polynesia,PYF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,40940,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,260,Fr. South Antarctic Terr.,ATF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,266,Gabon,GAB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,52479,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,268,Georgia,GEO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2985,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,268,Georgia,GEO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4090336,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,270,Gambia,GMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,24115,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,270,Gambia,GMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11320,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,275,State of Palestine,PSE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,496375,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,276,Germany,DEU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1745365920,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,276,Germany,DEU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3272359707,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,288,Ghana,GHA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,524444,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,288,Ghana,GHA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2913622,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,292,Gibraltar,GIB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,292,Gibraltar,GIB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,154228,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,296,Kiribati,KIR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,889,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,300,Greece,GRC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,225519220,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,300,Greece,GRC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,149645917,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,304,Greenland,GRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,82355,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,308,Grenada,GRD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,742,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,308,Grenada,GRD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,26165,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,320,Guatemala,GTM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,38923,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,320,Guatemala,GTM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1442037,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,324,Guinea,GIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,801,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,324,Guinea,GIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19397,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,328,Guyana,GUY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2445,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,332,Haiti,HTI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,289,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,332,Haiti,HTI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9359,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,336,Holy See (Vatican City State),VAT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1145,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,336,Holy See (Vatican City State),VAT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,128937,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,340,Honduras,HND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1065,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,340,Honduras,HND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,606405,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6144795,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,98976313,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,348,Hungary,HUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17108593,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,348,Hungary,HUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,155028745,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,352,Iceland,ISL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5469983,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,352,Iceland,ISL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,23111776,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,360,Indonesia,IDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,20161107,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,360,Indonesia,IDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,41997576,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,364,Iran,IRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,968941,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,364,Iran,IRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,41637184,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,368,Iraq,IRQ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12652,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,372,Ireland,IRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7593480,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,372,Ireland,IRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,64430436,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,376,Israel,ISR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7565262,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,376,Israel,ISR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,48043528,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,381,Italy,ITA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,498249632,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,381,Italy,ITA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,796972285,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,279933,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5920118,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,388,Jamaica,JAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,70366,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,388,Jamaica,JAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,227994,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,392,Japan,JPN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,73477634,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,392,Japan,JPN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,296097708,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,398,Kazakhstan,KAZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7300149,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,398,Kazakhstan,KAZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,53731649,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,400,Jordan,JOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,29056,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,400,Jordan,JOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15834154,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,404,Kenya,KEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,90382,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,404,Kenya,KEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4742357,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,55998,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11444,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,410,Rep. of Korea,KOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,86452962,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,410,Rep. of Korea,KOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,208985525,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,414,Kuwait,KWT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1192,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,414,Kuwait,KWT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6171588,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,417,Kyrgyzstan,KGZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2751043,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,418,Lao People's Dem. Rep.,LAO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5747,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,422,Lebanon,LBN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,216356,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,422,Lebanon,LBN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,34505231,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,428,Latvia,LVA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,52912373,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,428,Latvia,LVA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,121481591,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,430,Liberia,LBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2551,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,434,Libya,LBY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,685517,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,440,Lithuania,LTU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,21686395,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,440,Lithuania,LTU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,118415879,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,442,Luxembourg,LUX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,45961815,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,442,Luxembourg,LUX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,20189283,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,446,"China, Macao SAR",MAC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13272,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,446,"China, Macao SAR",MAC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5979,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,450,Madagascar,MDG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,45,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,450,Madagascar,MDG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,320231,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,454,Malawi,MWI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,170732,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,458,Malaysia,MYS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,20317283,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,458,Malaysia,MYS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,143134848,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,462,Maldives,MDV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,31880,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,466,Mali,MLI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17114,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,470,Malta,MLT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,266977,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,470,Malta,MLT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1938839,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,478,Mauritania,MRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,409222,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,480,Mauritius,MUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15766,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,480,Mauritius,MUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,994780,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,484,Mexico,MEX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6734138,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,484,Mexico,MEX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,111419316,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,490,"Other Asia, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,78948386,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,490,"Other Asia, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,380881991,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,496,Mongolia,MNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4770,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,496,Mongolia,MNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,616514,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,498,Rep. of Moldova,MDA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,150553,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,498,Rep. of Moldova,MDA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3107282,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,499,Montenegro,MNE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19714,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,504,Morocco,MAR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2080764,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,504,Morocco,MAR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15418310,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,508,Mozambique,MOZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,744344,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,512,Oman,OMN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1449938,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,516,Namibia,NAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7923,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,516,Namibia,NAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5387,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,524,Nepal,NPL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,144540,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,524,Nepal,NPL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,215435,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,528,Netherlands,NLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,270667542,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,528,Netherlands,NLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2928809584,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,530,Neth. Antilles,ANT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,116527,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,530,Neth. Antilles,ANT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,299612,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,533,Aruba,ABW,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1023,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,533,Aruba,ABW,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,126126,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,540,New Caledonia,NCL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,111162,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,548,Vanuatu,VUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2014,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,554,New Zealand,NZL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,971582,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,554,New Zealand,NZL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,25033002,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,558,Nicaragua,NIC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1807,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,558,Nicaragua,NIC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,22816,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,562,Niger,NER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,62203,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,566,Nigeria,NGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9980318,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,579,Norway,NOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,398735545,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,579,Norway,NOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,716742258,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,580,N. Mariana Isds,MNP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,786,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,584,Marshall Isds,MHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,761,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,585,Palau,PLW,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,247,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,586,Pakistan,PAK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14211261,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,586,Pakistan,PAK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10557630,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,591,Panama,PAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,18725,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,591,Panama,PAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4861763,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,598,Papua New Guinea,PNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16731,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,600,Paraguay,PRY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7092,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,600,Paraguay,PRY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1105019,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,604,Peru,PER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,908505,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,604,Peru,PER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,31582094,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,608,Philippines,PHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2478969,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,608,Philippines,PHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,57761829,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,616,Poland,POL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,241483913,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,616,Poland,POL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,653277314,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,620,Portugal,PRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,58690093,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,620,Portugal,PRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,47553569,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,624,Guinea-Bissau,GNB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,688,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,634,Qatar,QAT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10280,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,634,Qatar,QAT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7015488,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,642,Romania,ROU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,37918084,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,642,Romania,ROU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,69526150,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,643,Russian Federation,RUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1204654240,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,643,Russian Federation,RUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1451586917,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,646,Rwanda,RWA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,366,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,646,Rwanda,RWA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11095,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,654,Saint Helena,SHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,55,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,659,Saint Kitts and Nevis,KNA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,24020,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,660,Anguilla,AIA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3531,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,662,Saint Lucia,LCA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19027,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,662,Saint Lucia,LCA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,57562,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,694,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,674,San Marino,SMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,27261,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,674,San Marino,SMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1223524,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,678,Sao Tome and Principe,STP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,303,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,682,Saudi Arabia,SAU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,527358,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,682,Saudi Arabia,SAU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,71536026,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,686,Senegal,SEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2906,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,686,Senegal,SEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2820390,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,688,Serbia,SRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4257178,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,688,Serbia,SRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14910649,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,690,Seychelles,SYC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5891,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,694,Sierra Leone,SLE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,561018,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,694,Sierra Leone,SLE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5458,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,699,India,IND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,79250601,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,699,India,IND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,148550221,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,702,Singapore,SGP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2718704,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,702,Singapore,SGP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,71824774,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,703,Slovakia,SVK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,47929838,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,703,Slovakia,SVK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,53269456,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,704,Viet Nam,VNM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7134518,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,704,Viet Nam,VNM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16679057,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,705,Slovenia,SVN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,36172797,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,705,Slovenia,SVN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,85805521,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,706,Somalia,SOM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,646,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,710,South Africa,ZAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,21758598,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,710,South Africa,ZAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,113768558,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,716,Zimbabwe,ZWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,43468,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,716,Zimbabwe,ZWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,620092,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,724,Spain,ESP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,209811195,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,724,Spain,ESP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,905564549,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,736,Fmr Sudan,SDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,23288,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,736,Fmr Sudan,SDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2139579,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,740,Suriname,SUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5979,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,748,Eswatini,SWZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15016,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,748,Eswatini,SWZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5897,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,752,Sweden,SWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1800725247,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,752,Sweden,SWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3239417355,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,757,Switzerland,CHE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,62294813,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,757,Switzerland,CHE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,135399439,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,760,Syria,SYR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16775,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,760,Syria,SYR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,21723604,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,762,Tajikistan,TJK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,714462,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,764,Thailand,THA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,30116711,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,764,Thailand,THA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,56791277,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,768,Togo,TGO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,85,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,768,Togo,TGO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,79618,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,780,Trinidad and Tobago,TTO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,96,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,780,Trinidad and Tobago,TTO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1069864,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,784,United Arab Emirates,ARE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6781614,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,784,United Arab Emirates,ARE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,75105974,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,788,Tunisia,TUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,98224,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,788,Tunisia,TUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11503981,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,792,Turkey,TUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,80454243,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,792,Turkey,TUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,298701115,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,795,Turkmenistan,TKM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,308461,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,795,Turkmenistan,TKM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,158005,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,800,Uganda,UGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5175,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,800,Uganda,UGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,234719,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,804,Ukraine,UKR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,35138726,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,804,Ukraine,UKR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,226096027,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,807,North Macedonia,MKD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,22174,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,807,North Macedonia,MKD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,939460,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,818,Egypt,EGY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10928008,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,818,Egypt,EGY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,40823400,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,826,United Kingdom,GBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,377044034,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,826,United Kingdom,GBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1807180603,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12795,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1799833,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,842,USA,USA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,121129823,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,842,USA,USA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1187162828,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,854,Burkina Faso,BFA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,81460,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,858,Uruguay,URY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,116414,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,858,Uruguay,URY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14055821,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,860,Uzbekistan,UZB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7589427,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,862,Venezuela,VEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,428837,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,862,Venezuela,VEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,20261408,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,887,Yemen,YEM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10052,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,887,Yemen,YEM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,822081,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,894,Zambia,ZMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,136225,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,894,Zambia,ZMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,175673,,,0
+S4,2007,2007,2007,1,0,1,Import,246,Finland,FIN,899,"Areas, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,29889820,,,0
+S4,2007,2007,2007,1,0,2,Export,246,Finland,FIN,899,"Areas, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2237109907,,,0

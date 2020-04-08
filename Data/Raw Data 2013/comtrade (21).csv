@@ -1,0 +1,981 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4796751540,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1828685745,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,4,Afghanistan,AFG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,119517,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,837,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,155081,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,31,Azerbaijan,AZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,115744,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,31,Azerbaijan,AZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3576899,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7562882,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15334,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3492009,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5933092,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,32205057,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7630398,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,44,Bahamas,BHS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,367897,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,48,Bahrain,BHR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,208199,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,50,Bangladesh,BGD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1168630,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,50,Bangladesh,BGD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,25,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,51,Armenia,ARM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1788911,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,52,Barbados,BRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,56,Belgium,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,160593830,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,56,Belgium,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,26584823,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,68,Bolivia (Plurinational State of),BOL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,751524,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,70,Bosnia Herzegovina,BIH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,58813,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,187930810,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,152516,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,84,Belize,BLZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,30201,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,92,Br. Virgin Isds,VGB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,60,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1049923,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,667015,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,104,Myanmar,MMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,74611,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,104,Myanmar,MMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,46528,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,108,Burundi,BDI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,78028,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,112,Belarus,BLR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,98634,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,112,Belarus,BLR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,508782,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,116,Cambodia,KHM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,166343,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,120,Cameroon,CMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15194,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14848711,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3272689,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3575267,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18758,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12781890,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,26070,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,27516398,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,71628563,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,51504668,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1334,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,174,Comoros,COM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16548,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,178,Congo,COG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2484,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,178,Congo,COG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,155955,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,180,Dem. Rep. of the Congo,COD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,833118,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,42017614,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,323963,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,191,Croatia,HRV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,111890,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,191,Croatia,HRV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18770,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,192,Cuba,CUB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,43268672,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3475213,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4623498,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,203,Czechia,CZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,31556312,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,203,Czechia,CZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2729971,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,204,Benin,BEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,35835,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,370778683,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,41621507,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,212,Dominica,DMA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,420,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,171682,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11091642,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,128811,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,222,El Salvador,SLV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2131038,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,222,El Salvador,SLV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3060,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,231,Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5247878,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,233,Estonia,EST,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,155303613,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,233,Estonia,EST,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,132287908,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,234,Faeroe Isds,FRO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,282094,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,234,Faeroe Isds,FRO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,92903,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,242,Fiji,FJI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12921,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,175359889,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14599843,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,258,French Polynesia,PYF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9031,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,262,Djibouti,DJI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1195,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,266,Gabon,GAB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,309751,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,268,Georgia,GEO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,28172,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,268,Georgia,GEO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1325309,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,270,Gambia,GMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,238,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,276,Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,771507380,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,276,Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,89647728,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,432197,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1387,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,28364072,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,926569,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,304,Greenland,GRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,907847,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,304,Greenland,GRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9905,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,308,Grenada,GRD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,23341,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,320,Guatemala,GTM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6125425,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,324,Guinea,GIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6087,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,324,Guinea,GIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,328,Guyana,GUY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,292,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,332,Haiti,HTI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,29611,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,340,Honduras,HND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14119349,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,125166,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5220701,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17856045,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1438053,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14097191,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1015193,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6159137,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,641009,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,774592,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,39,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,368,Iraq,IRQ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,22419757,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,27035037,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16582076,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,987505,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,143959978,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12655970,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,73244,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,388,Jamaica,JAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,81132,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,388,Jamaica,JAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7681,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1640499,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,23688677,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,398,Kazakhstan,KAZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,112694,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,398,Kazakhstan,KAZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5216926,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,183,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,44,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15247152,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19843,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,155,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,840376,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20942984,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,414,Kuwait,KWT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,210116,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,417,Kyrgyzstan,KGZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,199795,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,418,Lao People's Dem. Rep.,LAO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5343,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,23522,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,245747,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,426,Lesotho,LSO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,855,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,428,Latvia,LVA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14972786,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,428,Latvia,LVA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,23552399,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,434,Libya,LBY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,30974,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,440,Lithuania,LTU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,28031786,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,440,Lithuania,LTU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,28023832,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,442,Luxembourg,LUX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1189441,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,442,Luxembourg,LUX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,104637,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,446,"China, Macao SAR",MAC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21956,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,450,Madagascar,MDG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,244711,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,454,Malawi,MWI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1443536,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,454,Malawi,MWI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,35,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,853841,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2639633,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,462,Maldives,MDV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14302,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,466,Mali,MLI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3835,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1265,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,54854,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,478,Mauritania,MRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1340,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,480,Mauritius,MUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8202024,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6710658,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1618,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,351941,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1970361,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,496,Mongolia,MNG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3803,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,496,Mongolia,MNG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,248489,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,498,Rep. of Moldova,MDA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,190561,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,498,Rep. of Moldova,MDA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,346128,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3240564,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,27,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,508,Mozambique,MOZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11587561,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,512,Oman,OMN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,292669,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,512,Oman,OMN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,125620,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,516,Namibia,NAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,922009,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,439302833,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,36747272,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,540,New Caledonia,NCL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,209800,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,23219948,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,26939993,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,558,Nicaragua,NIC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6248109,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,562,Niger,NER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2814,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,39228,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,224,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,270445186,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,48618751,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1330716,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,77,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,591,Panama,PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18233130,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,591,Panama,PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11112,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,598,Papua New Guinea,PNG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,212160,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,600,Paraguay,PRY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1630,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17758739,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,122,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6688926,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4393069,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,154093919,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17425990,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6553597,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,427494,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,634,Qatar,QAT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,28,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,634,Qatar,QAT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,759630,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1185813,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,914228,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,643,Russian Federation,RUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,40838416,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,643,Russian Federation,RUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,521435741,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,646,Rwanda,RWA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,731209,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,682,Saudi Arabia,SAU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4054,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,682,Saudi Arabia,SAU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3231152,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,686,Senegal,SEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,813231,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,688,Serbia,SRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2019531,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,688,Serbia,SRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3573,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,690,Seychelles,SYC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3793225,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,694,Sierra Leone,SLE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3208,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,699,India,IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18085740,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,699,India,IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,589893,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,313097,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11442468,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,703,Slovakia,SVK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20802555,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,703,Slovakia,SVK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1372141,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,704,Viet Nam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11255311,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,704,Viet Nam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,416915,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,705,Slovenia,SVN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,42189,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,705,Slovenia,SVN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,58238,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,706,Somalia,SOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1063,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,710,South Africa,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18766800,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,710,South Africa,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7494612,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,716,Zimbabwe,ZWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,287268,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,255845461,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12245947,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,729,Sudan,SDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16429696,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,740,Suriname,SUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,70485,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,748,Eswatini,SWZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,22259749,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,634195336,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,326296185,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,48411142,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6537316,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,760,Syria,SYR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,48791,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,762,Tajikistan,TJK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,328655,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,74555989,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5111252,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,768,Togo,TGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9422,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,780,Trinidad and Tobago,TTO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6150,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,784,United Arab Emirates,ARE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8511114,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,784,United Arab Emirates,ARE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5992730,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,551493,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6306490,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16768162,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,129496,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,795,Turkmenistan,TKM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1303976,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,796,Turks and Caicos Isds,TCA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,50,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,800,Uganda,UGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,693341,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,800,Uganda,UGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,804,Ukraine,UKR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2677847,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,804,Ukraine,UKR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9155309,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,807,North Macedonia,MKD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,137459,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,807,North Macedonia,MKD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,32,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11897981,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11712612,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,99669208,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,40981279,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7836519,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,842,USA,USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,42565673,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,842,USA,USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,41725032,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,854,Burkina Faso,BFA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,157658,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,854,Burkina Faso,BFA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,25,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2483562,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,860,Uzbekistan,UZB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,34836,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,860,Uzbekistan,UZB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,78,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,100,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,887,Yemen,YEM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,246,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,894,Zambia,ZMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,266077,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,899,"Areas, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,110676376,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5828278751,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6380270265,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,4,Afghanistan,AFG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16931815,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,8,Albania,ALB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3075,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,8,Albania,ALB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1118072,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,12,Algeria,DZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,139405849,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,24,Angola,AGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,757,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,31,Azerbaijan,AZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,60415,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,28907979,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,100168,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,44766884,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9222191,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17326687,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,40625716,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,44,Bahamas,BHS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4796,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,44,Bahamas,BHS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,25350,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,48,Bahrain,BHR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,61738,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,50,Bangladesh,BGD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1797,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,50,Bangladesh,BGD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9076753,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,51,Armenia,ARM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,36623,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,56,Belgium,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19803754,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,56,Belgium,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,68412117,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,68,Bolivia (Plurinational State of),BOL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,39540,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,70,Bosnia Herzegovina,BIH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,20463,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,72,Botswana,BWA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19221136,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,513717445,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17952003,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,96,Brunei Darussalam,BRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,266,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10603102,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,625849,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,104,Myanmar,MMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,346509,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,112,Belarus,BLR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13794629,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,112,Belarus,BLR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2329649,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,116,Cambodia,KHM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4107,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,116,Cambodia,KHM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,990,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,120,Cameroon,CMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1958787,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,120,Cameroon,CMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,273674,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,27095176,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,54486937,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,132,Cabo Verde,CPV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,70847,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,140,Central African Rep.,CAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,203269,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,409692,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,341352,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,148,Chad,TCD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,41529,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,90286009,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,201,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13834811,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1275101725,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1979525,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,242281,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,178,Congo,COG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,41806,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,178,Congo,COG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,664,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,180,Dem. Rep. of the Congo,COD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1561676,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,180,Dem. Rep. of the Congo,COD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1136,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,188,Costa Rica,CRI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,119328,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,191,Croatia,HRV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,243138,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,191,Croatia,HRV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,61434,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,192,Cuba,CUB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,975653,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,45,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2961333,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,203,Czechia,CZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5261782,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,203,Czechia,CZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3437798,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,99382718,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,82161310,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,214,Dominican Rep.,DOM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2392,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,218,Ecuador,ECU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,902005,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,231,Ethiopia,ETH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,513834,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,231,Ethiopia,ETH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14372,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,233,Estonia,EST,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,181190591,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,233,Estonia,EST,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,136357774,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9001462,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,220344808,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,266,Gabon,GAB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1130,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,268,Georgia,GEO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,80625,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,270,Gambia,GMB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,36763,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,276,Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,125084746,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,276,Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,653135085,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,67992,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,65537,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14578436,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,45765740,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,320,Guatemala,GTM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,842,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,324,Guinea,GIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,54302,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,328,Guyana,GUY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,357,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,411128,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,372754112,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,613928,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5405948,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,352,Iceland,ISL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,22935,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,352,Iceland,ISL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2320420,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,24688727,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4969768,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,753379,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3278204,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,368,Iraq,IRQ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,40,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,368,Iraq,IRQ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,48849,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,190908520,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7814939,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,843833,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,92426068,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15652706,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,361665677,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,727177,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,388,Jamaica,JAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,177,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5755710,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,378280279,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,398,Kazakhstan,KAZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3410123,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,398,Kazakhstan,KAZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,524017,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,400,Jordan,JOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2875,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,400,Jordan,JOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15203940,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1908129,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,230089,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,91990,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2494665,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,27228030,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,414,Kuwait,KWT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,697,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,414,Kuwait,KWT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2586401,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,121,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3283217,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,428,Latvia,LVA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,113716129,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,428,Latvia,LVA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8965176,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,430,Liberia,LBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1259493,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,434,Libya,LBY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14935230,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,440,Lithuania,LTU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,62860696,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,440,Lithuania,LTU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,26702760,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,442,Luxembourg,LUX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16180,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,442,Luxembourg,LUX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,32755,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,446,"China, Macao SAR",MAC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,480717,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,450,Madagascar,MDG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7075,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,454,Malawi,MWI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,283606,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,24291815,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3061065,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,462,Maldives,MDV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,71267,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,478,Mauritania,MRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,145983,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,480,Mauritius,MUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,34447,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3693538,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,18560,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7150956,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10357866,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,496,Mongolia,MNG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2905012,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,496,Mongolia,MNG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,411370,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,498,Rep. of Moldova,MDA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3424,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,20612,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,59345710,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,508,Mozambique,MOZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12951494,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,508,Mozambique,MOZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,116915,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,512,Oman,OMN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3089247,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,516,Namibia,NAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1475,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,524,Nepal,NPL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,49,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,524,Nepal,NPL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,40,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,253737034,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,162293899,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,540,New Caledonia,NCL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,29242,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2357907,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,23706,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,558,Nicaragua,NIC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,83733,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,562,Niger,NER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,31741,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1065120,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,936762,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,92283456,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,37316437,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,299760,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13688623,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,591,Panama,PAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4669,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,598,Papua New Guinea,PNG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,27191,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,600,Paraguay,PRY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1339,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,476995191,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17865,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,99603,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,356955,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,133890784,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,142476360,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,162890154,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,34278298,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,634,Qatar,QAT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3220595,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,634,Qatar,QAT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,27,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1580957,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,20992006,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,643,Russian Federation,RUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,661525459,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,643,Russian Federation,RUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,358311263,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,662,Saint Lucia,LCA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,266,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,674,San Marino,SMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2431987,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,682,Saudi Arabia,SAU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1335,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,682,Saudi Arabia,SAU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,90368525,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,686,Senegal,SEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,68938,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,686,Senegal,SEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11802,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,688,Serbia,SRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,83324,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,694,Sierra Leone,SLE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,45595,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,694,Sierra Leone,SLE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,134239,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,699,India,IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15600193,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,699,India,IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,42411041,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,84750,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,281613,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,703,Slovakia,SVK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5164909,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,703,Slovakia,SVK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11309218,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,704,Viet Nam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3540984,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,704,Viet Nam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19933719,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,705,Slovenia,SVN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,705,Slovenia,SVN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2734458,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,706,Somalia,SOM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,18463,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,710,South Africa,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,349614116,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,710,South Africa,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,32613828,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,49328969,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,106678140,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,729,Sudan,SDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,484896,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,729,Sudan,SDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2074101,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,546736664,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,252856081,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2839555,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19283748,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,760,Syria,SYR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,76,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,760,Syria,SYR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6685803,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,260506,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10084738,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,768,Togo,TGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,182080,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,780,Trinidad and Tobago,TTO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1076302,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,784,United Arab Emirates,ARE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1168,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,784,United Arab Emirates,ARE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13784677,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,42010,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,32488676,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,29045787,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,101367774,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,795,Turkmenistan,TKM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,66995,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,796,Turks and Caicos Isds,TCA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,429819,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,800,Uganda,UGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,470,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,800,Uganda,UGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14332,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,804,Ukraine,UKR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,673221,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,804,Ukraine,UKR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13909851,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,65674,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,227492849,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,49958725,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,302050596,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,834,United Rep. of Tanzania,TZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,71941,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,842,USA,USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,127446906,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,842,USA,USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,20429618,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,854,Burkina Faso,BFA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,60537,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,858,Uruguay,URY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13540077,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,858,Uruguay,URY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,81517,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,860,Uzbekistan,UZB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,533967,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,862,Venezuela,VEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1024,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,862,Venezuela,VEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,887,Yemen,YEM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5499528,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,894,Zambia,ZMB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,66,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,899,"Areas, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1106826933,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,899,"Areas, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,119303035,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,17725499106,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9094094598,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,8,Albania,ALB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,17026,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,12,Algeria,DZA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,187638719,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,12,Algeria,DZA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,36368387,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,31,Azerbaijan,AZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,29272,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,37916938,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,58372,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,221048,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,27746,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,48,Bahrain,BHR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,453218,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,50,Bangladesh,BGD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,39846,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,51,Armenia,ARM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,635,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,56,Belgium,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,118749525,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,56,Belgium,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,710315318,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,70,Bosnia Herzegovina,BIH,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,17864,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,76,Brazil,BRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,639,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,100,Bulgaria,BGR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,37973,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,112,Belarus,BLR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2716968,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,112,Belarus,BLR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6915294,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,70442401,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,390180656,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,144,Sri Lanka,LKA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,37,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,152,Chile,CHL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3165,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,989592,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,15400,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,170,Colombia,COL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,15,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,170,Colombia,COL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,243,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,191,Croatia,HRV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1764,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,191,Croatia,HRV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4294,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,203,Czechia,CZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3004855,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,203,Czechia,CZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,88353,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,643410356,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,285472303,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,233,Estonia,EST,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,42038160,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,233,Estonia,EST,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,461853426,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,96313896,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,438359563,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,268,Georgia,GEO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1091,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,276,Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,64008019,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,276,Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,375064806,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,288,Ghana,GHA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,15142071,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,292,Gibraltar,GIB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,42248587,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,300,Greece,GRC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,27548,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,300,Greece,GRC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,404040,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,320,Guatemala,GTM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,69,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,344,"China, Hong Kong SAR",HKG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,109,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,348,Hungary,HUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9264,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,348,Hungary,HUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,15379,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,352,Iceland,ISL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,92862,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,360,Indonesia,IDN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,27380,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,364,Iran,IRN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,372,Ireland,IRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,36,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,372,Ireland,IRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,40095,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,376,Israel,ISR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,770613,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6298257,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1177901,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,834462,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,167703,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,398,Kazakhstan,KAZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,630014840,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,398,Kazakhstan,KAZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,31513825,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,400,Jordan,JOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,73924,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,404,Kenya,KEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,47898,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1833,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,410,Rep. of Korea,KOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,147336,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,410,Rep. of Korea,KOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2288483,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,414,Kuwait,KWT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3720,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,417,Kyrgyzstan,KGZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3657,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,418,Lao People's Dem. Rep.,LAO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,930,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,422,Lebanon,LBN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,73051839,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,428,Latvia,LVA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,182261,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,428,Latvia,LVA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,306319231,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,440,Lithuania,LTU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,12578150,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,440,Lithuania,LTU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,92362947,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,458,Malaysia,MYS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,806,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,462,Maldives,MDV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,108,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,466,Mali,MLI,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,50399,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,484,Mexico,MEX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,143,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,484,Mexico,MEX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,110608214,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,490,"Other Asia, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2499,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,490,"Other Asia, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,311881,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,496,Mongolia,MNG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3600,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,498,Rep. of Moldova,MDA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,34332,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,512,Oman,OMN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,42384,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,516,Namibia,NAM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,484,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,388694705,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1030002626,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,554,New Zealand,NZL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1893,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,579,Norway,NOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,489548332,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,579,Norway,NOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,76800192,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,586,Pakistan,PAK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5490,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,591,Panama,PAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8052,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,80389183,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,21619211,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,620,Portugal,PRT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,94642,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,620,Portugal,PRT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,238332,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,634,Qatar,QAT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,240193678,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,634,Qatar,QAT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,30433,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,41397,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,784732,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,643,Russian Federation,RUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,11583314684,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,643,Russian Federation,RUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,441276832,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,682,Saudi Arabia,SAU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,22011,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,688,Serbia,SRB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,20219,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,699,India,IND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,255249720,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,699,India,IND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4351,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,702,Singapore,SGP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,88883254,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,702,Singapore,SGP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,30768,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,703,Slovakia,SVK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,19935,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,703,Slovakia,SVK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,113857,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,704,Viet Nam,VNM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1312,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,710,South Africa,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,127130,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,710,South Africa,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,95136,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6629934,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,906613,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2073193439,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2360909117,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1335740,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,503036,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,762,Tajikistan,TJK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1361,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,764,Thailand,THA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,65,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,764,Thailand,THA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,32099,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,768,Togo,TGO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,35477182,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,784,United Arab Emirates,ARE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,54596,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,788,Tunisia,TUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,404,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2181131,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2210501,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,795,Turkmenistan,TKM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,32,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,804,Ukraine,UKR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,370223,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,804,Ukraine,UKR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,41831788,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,818,Egypt,EGY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4037522,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,818,Egypt,EGY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,181,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,264732485,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,973999564,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,842,USA,USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,79881641,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,842,USA,USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,725301683,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,858,Uruguay,URY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,367,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,860,Uzbekistan,UZB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,160831,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,862,Venezuela,VEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2188687,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,899,"Areas, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,246362086,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8364124093,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,21778031617,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,4,Afghanistan,AFG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,46909,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,4,Afghanistan,AFG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,473150,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,8,Albania,ALB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2997,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,8,Albania,ALB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,603592,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,12,Algeria,DZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,12,Algeria,DZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,34721714,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,20,Andorra,AND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13645,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,20,Andorra,AND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4138,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,24,Angola,AGO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1448068,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,28,Antigua and Barbuda,ATG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6453,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,31,Azerbaijan,AZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,530,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,31,Azerbaijan,AZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7096509,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,32,Argentina,ARG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1683381,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,32,Argentina,ARG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,57395117,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,36,Australia,AUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1983621,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,36,Australia,AUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,232145642,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,40,Austria,AUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,125345496,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,40,Austria,AUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,87896318,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,44,Bahamas,BHS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17981,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,44,Bahamas,BHS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8901155,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,48,Bahrain,BHR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1404753,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,48,Bahrain,BHR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1591196,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,50,Bangladesh,BGD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14410250,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,50,Bangladesh,BGD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10928660,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,51,Armenia,ARM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4878766,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,52,Barbados,BRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,622,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,56,Belgium,BEL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,170823485,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,56,Belgium,BEL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,838441341,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,64,Bhutan,BTN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3371,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,68,Bolivia (Plurinational State of),BOL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7807,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,68,Bolivia (Plurinational State of),BOL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,352635,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,70,Bosnia Herzegovina,BIH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,562685,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,70,Bosnia Herzegovina,BIH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,351552,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,72,Botswana,BWA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,280,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,72,Botswana,BWA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,198,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,76,Brazil,BRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,28442293,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,76,Brazil,BRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,153824179,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,84,Belize,BLZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9683,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,92,Br. Virgin Isds,VGB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,121,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,92,Br. Virgin Isds,VGB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16536,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,96,Brunei Darussalam,BRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,23190,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,100,Bulgaria,BGR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7794700,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,100,Bulgaria,BGR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,18814467,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,104,Myanmar,MMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,249535,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,112,Belarus,BLR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,18038750,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,112,Belarus,BLR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,25815015,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,116,Cambodia,KHM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7240,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,116,Cambodia,KHM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,31375,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,120,Cameroon,CMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,905,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,120,Cameroon,CMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6051266,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,124,Canada,CAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,18389724,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,124,Canada,CAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,68328691,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,136,Cayman Isds,CYM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1049,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,140,Central African Rep.,CAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,26086,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,140,Central African Rep.,CAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1915,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,144,Sri Lanka,LKA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3879816,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,144,Sri Lanka,LKA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3593084,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,148,Chad,TCD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3361,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,152,Chile,CHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,302511,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,152,Chile,CHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,77931341,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,156,China,CHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,558659009,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,156,China,CHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,480310619,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,170,Colombia,COL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,175308,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,170,Colombia,COL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,50888978,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,175,Mayotte,MYT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3015,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,178,Congo,COG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1256567,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,180,Dem. Rep. of the Congo,COD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,153394206,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,180,Dem. Rep. of the Congo,COD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,956457,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,188,Costa Rica,CRI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2199,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,188,Costa Rica,CRI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2328589,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,191,Croatia,HRV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1299405,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,191,Croatia,HRV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5584840,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,192,Cuba,CUB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1129,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,192,Cuba,CUB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,528468,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,196,Cyprus,CYP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,24898,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,196,Cyprus,CYP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4344494,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,203,Czechia,CZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,110470520,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,203,Czechia,CZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,117915804,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,204,Benin,BEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,79261,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,208,Denmark,DNK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,186666887,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,208,Denmark,DNK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,424000124,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,214,Dominican Rep.,DOM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12075,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,214,Dominican Rep.,DOM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2515105,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,218,Ecuador,ECU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,127519,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,218,Ecuador,ECU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4307937,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,222,El Salvador,SLV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15837,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,222,El Salvador,SLV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2021358,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,226,Equatorial Guinea,GNQ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,106,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,231,Ethiopia,ETH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,99367,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,231,Ethiopia,ETH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,256393,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,233,Estonia,EST,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,347832465,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,233,Estonia,EST,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,381021941,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,234,Faeroe Isds,FRO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,403480,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,242,Fiji,FJI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1315,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,242,Fiji,FJI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,675,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,251,France,FRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,355940339,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,251,France,FRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,423071705,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,258,French Polynesia,PYF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,331942,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,260,Fr. South Antarctic Terr.,ATF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,205342,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,262,Djibouti,DJI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1277,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,262,Djibouti,DJI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12927,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,266,Gabon,GAB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,292,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,266,Gabon,GAB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,30275,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,268,Georgia,GEO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,266700,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,268,Georgia,GEO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2830667,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,270,Gambia,GMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,591,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,270,Gambia,GMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,89668,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,275,State of Palestine,PSE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,382441,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,276,Germany,DEU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1347435167,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,276,Germany,DEU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3085912904,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,288,Ghana,GHA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8765,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,288,Ghana,GHA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6046908,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,292,Gibraltar,GIB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,494,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,292,Gibraltar,GIB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,330868,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,300,Greece,GRC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8925671,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,300,Greece,GRC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,61066209,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,304,Greenland,GRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,20942,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,308,Grenada,GRD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,120,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,316,Guam,GUM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,61272,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,320,Guatemala,GTM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,506,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,320,Guatemala,GTM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2396264,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,324,Guinea,GIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,87244,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,332,Haiti,HTI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,336,Holy See (Vatican City State),VAT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,82395,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,340,Honduras,HND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,858,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,340,Honduras,HND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1363132,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4134397,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,54865569,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,348,Hungary,HUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,27779580,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,348,Hungary,HUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,111207502,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,352,Iceland,ISL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1824519,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,352,Iceland,ISL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10143605,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,360,Indonesia,IDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11351347,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,360,Indonesia,IDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,35931909,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,364,Iran,IRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,740820,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,364,Iran,IRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17214957,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,368,Iraq,IRQ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1039,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,368,Iraq,IRQ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3170332,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,372,Ireland,IRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7324298,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,372,Ireland,IRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,34890095,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,376,Israel,ISR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7435128,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,376,Israel,ISR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,39332175,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,381,Italy,ITA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,340496470,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,381,Italy,ITA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,715300029,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,97846,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3265022,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,388,Jamaica,JAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,428,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,388,Jamaica,JAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,90774,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,392,Japan,JPN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,41479505,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,392,Japan,JPN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,351152290,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,398,Kazakhstan,KAZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1396756,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,398,Kazakhstan,KAZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,27547351,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,400,Jordan,JOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12580,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,400,Jordan,JOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11868657,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,404,Kenya,KEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,26182,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,404,Kenya,KEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11538496,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4280,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19619,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,410,Rep. of Korea,KOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,57204699,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,410,Rep. of Korea,KOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,235054000,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,414,Kuwait,KWT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,389,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,414,Kuwait,KWT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6371662,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,417,Kyrgyzstan,KGZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1425681,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,418,Lao People's Dem. Rep.,LAO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,32272,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,418,Lao People's Dem. Rep.,LAO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2686,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,422,Lebanon,LBN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,63636,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,422,Lebanon,LBN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17057108,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,428,Latvia,LVA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,86789216,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,428,Latvia,LVA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,83874473,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,430,Liberia,LBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2738,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,434,Libya,LBY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,961468,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,440,Lithuania,LTU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,53368259,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,440,Lithuania,LTU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,82052592,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,442,Luxembourg,LUX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,39353124,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,442,Luxembourg,LUX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10955589,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,446,"China, Macao SAR",MAC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7818,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,446,"China, Macao SAR",MAC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,46,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,450,Madagascar,MDG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,21285,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,450,Madagascar,MDG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,363268,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,454,Malawi,MWI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10427,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,458,Malaysia,MYS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9577298,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,458,Malaysia,MYS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,190021471,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,462,Maldives,MDV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,23692,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,466,Mali,MLI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14239,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,470,Malta,MLT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,191983,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,470,Malta,MLT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1365443,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,478,Mauritania,MRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,57214,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,480,Mauritius,MUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3328,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,480,Mauritius,MUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,358674,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,484,Mexico,MEX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2945810,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,484,Mexico,MEX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,118424785,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,490,"Other Asia, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,84849260,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,490,"Other Asia, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,96405656,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,496,Mongolia,MNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1249,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,496,Mongolia,MNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,622360,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,498,Rep. of Moldova,MDA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1468716,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,498,Rep. of Moldova,MDA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5016354,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,499,Montenegro,MNE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,849,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,504,Morocco,MAR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,178053,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,504,Morocco,MAR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,33466827,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,508,Mozambique,MOZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,101,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,508,Mozambique,MOZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,218625,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,512,Oman,OMN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,58256,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,512,Oman,OMN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1896891,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,516,Namibia,NAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19776,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,516,Namibia,NAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,67688,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,524,Nepal,NPL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,195982,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,524,Nepal,NPL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,26414,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,528,Netherlands,NLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,238228343,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,528,Netherlands,NLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2104823258,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,531,Curaçao,CUW,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5320,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,533,Aruba,ABW,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,263,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,534,Saint Maarten,SXM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,18868,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,540,New Caledonia,NCL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9432,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,554,New Zealand,NZL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2054980,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,554,New Zealand,NZL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,30986870,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,558,Nicaragua,NIC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,33868,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,562,Niger,NER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,566,Nigeria,NGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7691,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,566,Nigeria,NGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19414372,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,579,Norway,NOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,242413987,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,579,Norway,NOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,589839758,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,580,N. Mariana Isds,MNP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,302,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,585,Palau,PLW,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,510,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,586,Pakistan,PAK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13997109,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,586,Pakistan,PAK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8979013,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,591,Panama,PAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19546,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,591,Panama,PAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2157741,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,598,Papua New Guinea,PNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,77255,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,600,Paraguay,PRY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3301135,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,604,Peru,PER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1019788,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,604,Peru,PER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,41309941,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,608,Philippines,PHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,32901223,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,608,Philippines,PHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,67230773,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,616,Poland,POL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,269999214,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,616,Poland,POL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,734245779,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,620,Portugal,PRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,40607276,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,620,Portugal,PRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,37702435,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,626,Timor-Leste,TLS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,76964,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,626,Timor-Leste,TLS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,646,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,634,Qatar,QAT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,185,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,634,Qatar,QAT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5654673,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,642,Romania,ROU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,26474370,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,642,Romania,ROU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,65156510,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,643,Russian Federation,RUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,480188580,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,643,Russian Federation,RUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1373637162,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,646,Rwanda,RWA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,75500,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,662,Saint Lucia,LCA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3838,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,674,San Marino,SMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,58031,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,682,Saudi Arabia,SAU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,818828,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,682,Saudi Arabia,SAU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,104570951,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,686,Senegal,SEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3332,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,686,Senegal,SEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1532855,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,688,Serbia,SRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2577099,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,688,Serbia,SRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14541764,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,690,Seychelles,SYC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,44232,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,694,Sierra Leone,SLE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,102771,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,694,Sierra Leone,SLE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3388,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,699,India,IND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,92005485,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,699,India,IND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,150426155,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,702,Singapore,SGP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1669961,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,702,Singapore,SGP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,46754040,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,703,Slovakia,SVK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,38201246,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,703,Slovakia,SVK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,56460257,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,704,Viet Nam,VNM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17146142,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,704,Viet Nam,VNM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,23603950,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,705,Slovenia,SVN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13769781,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,705,Slovenia,SVN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,40829433,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,706,Somalia,SOM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,44557,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,710,South Africa,ZAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13651083,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,710,South Africa,ZAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,108706729,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,716,Zimbabwe,ZWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,187410,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,716,Zimbabwe,ZWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,793677,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,724,Spain,ESP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,126120969,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,724,Spain,ESP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,482426347,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,729,Sudan,SDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,441849,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,729,Sudan,SDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,400415,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,740,Suriname,SUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2315,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,740,Suriname,SUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,93455,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,752,Sweden,SWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1325729277,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,752,Sweden,SWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2013403843,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,757,Switzerland,CHE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,67809219,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,757,Switzerland,CHE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,87481345,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,760,Syria,SYR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1414981,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,762,Tajikistan,TJK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3348,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,762,Tajikistan,TJK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,641572,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,764,Thailand,THA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,34095504,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,764,Thailand,THA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,63316287,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,768,Togo,TGO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,152280,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,780,Trinidad and Tobago,TTO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,52740,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,784,United Arab Emirates,ARE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3148363,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,784,United Arab Emirates,ARE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,76525072,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,788,Tunisia,TUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,103416,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,788,Tunisia,TUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,20360611,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,792,Turkey,TUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,95580992,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,792,Turkey,TUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,381489871,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,795,Turkmenistan,TKM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,51998,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,795,Turkmenistan,TKM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5397866,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,796,Turks and Caicos Isds,TCA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,113,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,800,Uganda,UGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,935,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,800,Uganda,UGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2152632,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,804,Ukraine,UKR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,36958401,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,804,Ukraine,UKR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,181138984,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,807,North Macedonia,MKD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,124364,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,807,North Macedonia,MKD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1020017,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,818,Egypt,EGY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6963414,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,818,Egypt,EGY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,60432442,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,826,United Kingdom,GBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,238937059,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,826,United Kingdom,GBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1302861612,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1469,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4137659,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,842,USA,USA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,157503875,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,842,USA,USA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1319141961,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,854,Burkina Faso,BFA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,263,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,858,Uruguay,URY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,186802,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,858,Uruguay,URY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8536271,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,860,Uzbekistan,UZB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,478,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,860,Uzbekistan,UZB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11854075,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,862,Venezuela,VEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,82,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,862,Venezuela,VEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10429144,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,876,Wallis and Futuna Isds,WLF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,149,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,882,Samoa,WSM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10668,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,887,Yemen,YEM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2081040,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,894,Zambia,ZMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1288102,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,894,Zambia,ZMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10330800,,,0
+S3,2013,2013,2013,1,0,1,Import,246,Finland,FIN,899,"Areas, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,495847614,,,0
+S3,2013,2013,2013,1,0,2,Export,246,Finland,FIN,899,"Areas, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1079189604,,,0

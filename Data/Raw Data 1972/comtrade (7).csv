@@ -1,0 +1,638 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,234304192,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,217239008,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,8,Albania,ALB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6833,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,8,Albania,ALB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20277,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,26126,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,298374,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,24,Angola,AGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,216925,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17325080,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,136440,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18509236,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2065407,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1136181,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3976671,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,48,Bahrain,BHR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10262,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,58,Belgium-Luxembourg,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8360715,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,58,Belgium-Luxembourg,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1658385,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,60,Bermuda,BMU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,944,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,68,Bolivia (Plurinational State of),BOL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2043,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12124760,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,557814,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5279238,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1656454,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,108,Burundi,BDI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,40336,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,116,Cambodia,KHM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,966,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,120,Cameroon,CMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,321518,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,120,Cameroon,CMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8075,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1253045,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2463806,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,330860,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9114,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,154840,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,299229,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,178,Congo,COG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11834,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,180,Dem. Rep. of the Congo,COD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,26857,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,180,Dem. Rep. of the Congo,COD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,806618,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18693,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,568,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,192,Cuba,CUB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3113,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,431024,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1013240,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,200,Czechoslovakia,CSK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1032045,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,200,Czechoslovakia,CSK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4885919,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,204,Benin,BEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,27000,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3300116,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,670761,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4527,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1193701,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,222,El Salvador,SLV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,410925,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,230,Fmr Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,317370,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,230,Fmr Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,74445,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,242,Fiji,FJI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4036,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2167677,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,216011,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16179311,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14088349,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,262,Djibouti,DJI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2392,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,262,Djibouti,DJI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14293,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,266,Gabon,GAB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17564,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9516,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11564008,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6696075,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,57009736,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2766468,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,292,Gibraltar,GIB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,669,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,312,Guadeloupe,GLP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1639,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,320,Guatemala,GTM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11785,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,324,Guinea,GIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,65612,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,324,Guinea,GIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,100179,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,340,Honduras,HND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,31630,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,340,Honduras,HND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7806,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4611,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3299,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,355706,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2994179,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1043835,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7081,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,356,"India, excl. Sikkim",IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,73002,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,356,"India, excl. Sikkim",IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3953,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,45485,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5602,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,31438,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,368,Iraq,IRQ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6059,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1234511,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,454415,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4213345,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,333386,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5237517,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21705226,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2093402,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1611343,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2107190,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,54027,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,82973,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18885,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,408,Dem. People's Rep. of Korea,PRK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2097,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2584,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,414,Kuwait,KWT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,731372,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,418,Lao People's Dem. Rep.,LAO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12245,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,94920,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,990624,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,430,Liberia,LBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9388,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,430,Liberia,LBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2029,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,434,Libya,LBY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3941667,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,450,Madagascar,MDG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,750840,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,454,Malawi,MWI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,984,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,234813,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6041,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1219,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,890708,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,478,Mauritania,MRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,39326,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,48109,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,81892,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6824,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,565387,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,29813,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,508,Mozambique,MOZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,25495,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,512,Oman,OMN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8148,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,33054784,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11758585,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12806474,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,27003,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,558,Nicaragua,NIC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5078,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,562,Niger,NER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1815,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,698627,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19227,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4405721,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,190174,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3784,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,590,"Fmr Panama, excl.Canal Zone",PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3010,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,590,"Fmr Panama, excl.Canal Zone",PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,42268,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,592,Fmr Panama-Canal-Zone,PCZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4882,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,600,Paraguay,PRY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1253070,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,600,Paraguay,PRY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,510,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,987144,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5024,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2314837,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4643130,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,575826,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,423737,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,624,Guinea-Bissau,GNB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,30334,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,634,Qatar,QAT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4188,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,25024,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3873527,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,682,Saudi Arabia,SAU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,91072,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,682,Saudi Arabia,SAU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1294298,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,686,Senegal,SEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5955,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,686,Senegal,SEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5247,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,694,Sierra Leone,SLE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,139552,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,694,Sierra Leone,SLE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,41399,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,352450,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,22381,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,706,Somalia,SOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,175877,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,711,So. African Customs Union,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9145306,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,711,So. African Customs Union,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,57463,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2571668,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1544759,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,732,Western Sahara,ESH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,204989,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,736,Fmr Sudan,SDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5862,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,740,Suriname,SUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,48507,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,740,Suriname,SUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7611,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,151998,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,296036,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1355411,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,811272,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,760,Syria,SYR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19054,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,760,Syria,SYR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,117838,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,990,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1261,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,768,Togo,TGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5719,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,780,Trinidad and Tobago,TTO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,736,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,780,Trinidad and Tobago,TTO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,201804,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,57845,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,516935,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,783759,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,664,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,800,Uganda,UGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,132544,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,810,Fmr USSR,SUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,765344,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,810,Fmr USSR,SUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10567988,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,191905,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,435296,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4627613,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19619510,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,266386,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,49683,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,837,Bunkers,,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1668,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,839,Special Categories,,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,624,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,841,USA (before 1981),USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12704685,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,841,USA (before 1981),USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11594118,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,849,US Misc. Pacific Isds,,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,649,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3147196,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17853,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,93471,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,868,Fmr Rep. of Vietnam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,836,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,890,Fmr Yugoslavia,YUG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,23451424,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,890,Fmr Yugoslavia,YUG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10970409,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,894,Zambia,ZMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,26545,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,899,"Areas, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,29036,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,899,"Areas, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,24439,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,203734704,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,122601936,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,4,Afghanistan,AFG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,466663,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,8,Albania,ALB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,55809,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,12,Algeria,DZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,617,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,12,Algeria,DZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,65069,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,24,Angola,AGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,655986,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,490340,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,698942,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9626367,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,60367,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3934796,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2187362,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,58,Belgium-Luxembourg,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2906193,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,58,Belgium-Luxembourg,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1186859,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,803517,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1742252,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3976222,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,104,Myanmar,MMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,100941,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,116,Cambodia,KHM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,669,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,120,Cameroon,CMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,322948,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7426136,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1555472,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,140,Central African Rep.,CAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2161,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,38973,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,148,Chad,TCD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8926,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9722,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2916,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1305,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,178,Congo,COG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,857784,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,180,Dem. Rep. of the Congo,COD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,349567,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,180,Dem. Rep. of the Congo,COD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7773,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1354883,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,190082,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,200,Czechoslovakia,CSK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1933126,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,200,Czechoslovakia,CSK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3696619,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,204,Benin,BEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1005771,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,125384,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,143723,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,226,Equatorial Guinea,GNQ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1459,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,230,Fmr Ethiopia,ETH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2118493,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8805583,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,29124,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13811146,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6674783,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,254,French Guiana,GUF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1547,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,266,Gabon,GAB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6875137,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,266,Gabon,GAB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,22255,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,270,Gambia,GMB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11847,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,263338,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,573287,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6720017,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15689184,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,295123,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,312,Guadeloupe,GLP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,28466,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,324,Guinea,GIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1674,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,328,Guyana,GUY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8987,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,24671,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3836904,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3846510,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,356,"India, excl. Sikkim",IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,126426,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,356,"India, excl. Sikkim",IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,49654,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,823157,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,255175,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9448,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,368,Iraq,IRQ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,75935,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,368,Iraq,IRQ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,843230,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,60270,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,650,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4066562,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,549439,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5820168,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15035176,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3471339,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4542200,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2406342,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,400,Jordan,JOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10215,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,566995,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,414,Kuwait,KWT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,60899,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,418,Lao People's Dem. Rep.,LAO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6117,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,410046,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,427040,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,430,Liberia,LBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1676808,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,434,Libya,LBY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,287961,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,434,Libya,LBY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,225831,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,450,Madagascar,MDG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,494766,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,454,Malawi,MWI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,242900,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1886663,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2593,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,466,Mali,MLI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,410212,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,470,Malta,MLT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,41287,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,478,Mauritania,MRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,35120,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,22670,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4939,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6323,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3631163,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,25419,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,508,Mozambique,MOZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,82988,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,512,Oman,OMN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5951,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,524,Nepal,NPL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,90729,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3817702,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3217833,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,532,Neth. Antilles and Aruba,ANT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4163,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13347437,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2615,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,558,Nicaragua,NIC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2106,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,562,Niger,NER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,145374,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2004576,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,205357,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2521230,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,419445,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2625072,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14049,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,590,"Fmr Panama, excl.Canal Zone",PAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4897,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,600,Paraguay,PRY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13649,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,91340,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,73676,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4221,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2231775,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5697594,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,313294,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1426889,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,634,Qatar,QAT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,56973,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1715569,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4725378,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,682,Saudi Arabia,SAU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15604,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,682,Saudi Arabia,SAU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,26472,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,686,Senegal,SEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,657956,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,686,Senegal,SEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,29360,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,160198,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,24951,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,706,Somalia,SOM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,792576,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,711,So. African Customs Union,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2362965,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,711,So. African Customs Union,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13269,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,864722,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9146277,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,732,Western Sahara,ESH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3560,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,732,Western Sahara,ESH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17779,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,736,Fmr Sudan,SDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1055278,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,736,Fmr Sudan,SDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2558,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,740,Suriname,SUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2756,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11877147,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,471239,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,335607,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2466460,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,760,Syria,SYR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,176398,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,760,Syria,SYR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,134552,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,520149,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1063,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,780,Trinidad and Tobago,TTO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3596,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1778653,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,134283,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5625821,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,396114,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,800,Uganda,UGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,532567,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,810,Fmr USSR,SUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10102579,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,810,Fmr USSR,SUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10424361,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3896818,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,90614,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11063907,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4357210,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,834,United Rep. of Tanzania,TZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,454367,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,837,Bunkers,,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2908,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,841,USA (before 1981),USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10052746,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,841,USA (before 1981),USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9707079,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,854,Burkina Faso,BFA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,85225,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,858,Uruguay,URY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1372839,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,862,Venezuela,VEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3720,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,886,Fmr Arab Rep. of Yemen,YEM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,206219,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,890,Fmr Yugoslavia,YUG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4650683,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,890,Fmr Yugoslavia,YUG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8965977,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,894,Zambia,ZMB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11140,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,899,"Areas, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,44215,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,899,"Areas, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,109301,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,231171280,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,10901041,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,4,Afghanistan,AFG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3241311,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,8,Albania,ALB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1550647,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9985242,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,121598,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7082,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,48669,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,58,Belgium-Luxembourg,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1049710,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,58,Belgium-Luxembourg,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,63305,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,60,Bermuda,BMU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,573,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,100,Bulgaria,BGR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,23099,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,100,Bulgaria,BGR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,216532,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,104,Myanmar,MMR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,839,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2690,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,87412,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,152,Chile,CHL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,574,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,180,Dem. Rep. of the Congo,COD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,152805,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,196,Cyprus,CYP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,85078,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,196,Cyprus,CYP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,805959,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,200,Czechoslovakia,CSK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1433806,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,200,Czechoslovakia,CSK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,89343,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,675,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,211507,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,230,Fmr Ethiopia,ETH,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,297364,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1591,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,17665,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4633659,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,679692,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,262,Djibouti,DJI,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2127,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,13743,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,997,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2956211,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,224114,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,288,Ghana,GHA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,641731,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,348,Hungary,HUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,13839,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,348,Hungary,HUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,45039,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,360,Indonesia,IDN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1722,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,364,Iran,IRN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7567917,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,364,Iran,IRN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,45064,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,368,Iraq,IRQ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,30317096,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,372,Ireland,IRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7221,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,376,Israel,ISR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,399999,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,376,Israel,ISR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,42269,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,33738432,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,655045,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9270,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,28394,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,400,Jordan,JOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,84432,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,404,Kenya,KEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,24750,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,414,Kuwait,KWT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,86690,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,422,Lebanon,LBN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,10990910,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,422,Lebanon,LBN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1108662,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,430,Liberia,LBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,398994,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,434,Libya,LBY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3091552,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,434,Libya,LBY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,442208,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,458,Malaysia,MYS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,882,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,504,Morocco,MAR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,252270,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4400684,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,475464,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,532,Neth. Antilles and Aruba,ANT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,534162,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,566,Nigeria,NGA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,718469,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,579,Norway,NOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4061,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,579,Norway,NOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,25816,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,586,Pakistan,PAK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1853,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,590,"Fmr Panama, excl.Canal Zone",PAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,103788,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7938,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,13966,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8757968,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,682,Saudi Arabia,SAU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,37444448,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,682,Saudi Arabia,SAU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5135,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,702,Singapore,SGP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,72133,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,706,Somalia,SOM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8887,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,711,So. African Customs Union,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,993431,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,711,So. African Customs Union,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,121403,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,720,Fmr Dem. Yemen,YMD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8256,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,659911,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1651,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,732,Western Sahara,ESH,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,49731,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,736,Fmr Sudan,SDN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,13950,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4096,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,163015,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,20981,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,865449,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,760,Syria,SYR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,32639120,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,760,Syria,SYR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,56205,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,768,Togo,TGO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,16669,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,780,Trinidad and Tobago,TTO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5847,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,788,Tunisia,TUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,553500,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,788,Tunisia,TUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6907,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4151120,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,33345,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,810,Fmr USSR,SUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,20602512,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,818,Egypt,EGY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2618795,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,818,Egypt,EGY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,276238,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2068557,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,742827,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,834,United Rep. of Tanzania,TZA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,39645,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,841,USA (before 1981),USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3015892,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,841,USA (before 1981),USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1315601,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,890,Fmr Yugoslavia,YUG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,136652,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,890,Fmr Yugoslavia,YUG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,191199,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,894,Zambia,ZMB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2376,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,899,"Areas, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,23980,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,899,"Areas, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,98677,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,402075104,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,229952000,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,8,Albania,ALB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,12122,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,8,Albania,ALB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,265806,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,12,Algeria,DZA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2909370,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,24,Angola,AGO,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1943,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,24,Angola,AGO,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,22137,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,32,Argentina,ARG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,25836,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,36,Australia,AUS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,467844,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,36,Australia,AUS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,162833,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,40,Austria,AUT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,14512565,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,40,Austria,AUT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2283646,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,48,Bahrain,BHR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,21262,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,58,Belgium-Luxembourg,BEL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,34608152,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,58,Belgium-Luxembourg,BEL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,11849270,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,60,Bermuda,BMU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3762,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,76,Brazil,BRA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,46887,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,100,Bulgaria,BGR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2472728,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,100,Bulgaria,BGR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,874010,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,104,Myanmar,MMR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1535,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,108,Burundi,BDI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,11990,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,116,Cambodia,KHM,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1000,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,120,Cameroon,CMR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1936,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,120,Cameroon,CMR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,32375,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,124,Canada,CAN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4577346,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,124,Canada,CAN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1140736,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,140,Central African Rep.,CAF,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,18858,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,152,Chile,CHL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,222977,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,156,China,CHN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,69384,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,178,Congo,COG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1822033,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,178,Congo,COG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3309,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,180,Dem. Rep. of the Congo,COD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4166004,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,180,Dem. Rep. of the Congo,COD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,151511,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,196,Cyprus,CYP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,60243,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,196,Cyprus,CYP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,9017972,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,200,Czechoslovakia,CSK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,9392688,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,204,Benin,BEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,8569,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,208,Denmark,DNK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,816302,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,208,Denmark,DNK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1779847,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,218,Ecuador,ECU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1085,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,230,Fmr Ethiopia,ETH,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4022,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,230,Fmr Ethiopia,ETH,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,24276,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,246,Finland,FIN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,8328324,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,246,Finland,FIN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1526149,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,251,France,FRA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,49595504,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,251,France,FRA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,38127656,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,262,Djibouti,DJI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1031,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,266,Gabon,GAB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,159504,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,270,Gambia,GMB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,9814,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1698401,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,239605,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,93093456,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,59910268,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,288,Ghana,GHA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4975,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,288,Ghana,GHA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,41498,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,312,Guadeloupe,GLP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1515,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,324,Guinea,GIN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,894,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1888055,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,11115,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,348,Hungary,HUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5276821,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,348,Hungary,HUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,831105,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,352,Iceland,ISL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,9366,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,356,"India, excl. Sikkim",IND,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,917574,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,360,Indonesia,IDN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,31821,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,360,Indonesia,IDN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,655,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,364,Iran,IRN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,9777,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,364,Iran,IRN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2623393,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,368,Iraq,IRQ,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,703891,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,372,Ireland,IRL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,121482,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,372,Ireland,IRL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4716,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,376,Israel,ISR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1388519,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,376,Israel,ISR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,962477,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,381,Italy,ITA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,43396300,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,381,Italy,ITA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,22280778,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6215,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,392,Japan,JPN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,24098404,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,392,Japan,JPN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,354087,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,400,Jordan,JOR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,250804,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,404,Kenya,KEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1660,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,404,Kenya,KEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,130314,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,408,Dem. People's Rep. of Korea,PRK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,45938,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,410,Rep. of Korea,KOR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,453577,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,414,Kuwait,KWT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,675,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,414,Kuwait,KWT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,602546,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,422,Lebanon,LBN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,47159,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,422,Lebanon,LBN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2895036,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,430,Liberia,LBR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,181095,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,434,Libya,LBY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,10428964,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,450,Madagascar,MDG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,11282,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,458,Malaysia,MYS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,834200,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,466,Mali,MLI,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3501,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,470,Malta,MLT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,560799,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,484,Mexico,MEX,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,78978,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,490,"Other Asia, nes",,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1057619,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,504,Morocco,MAR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,207509,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,508,Mozambique,MOZ,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,62579,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,512,Oman,OMN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,82368,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,528,Netherlands,NLD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,8766171,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,528,Netherlands,NLD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,10298231,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,554,New Zealand,NZL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5833,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,554,New Zealand,NZL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,17887,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,566,Nigeria,NGA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,17835,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,566,Nigeria,NGA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,799860,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,579,Norway,NOR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2390886,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,579,Norway,NOR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,595412,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,586,Pakistan,PAK,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,27831,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,590,"Fmr Panama, excl.Canal Zone",PAN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,639,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,600,Paraguay,PRY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,7154,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,604,Peru,PER,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,183882,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,608,Philippines,PHL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3595,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,616,Poland,POL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3093292,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,616,Poland,POL,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,288908,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,620,Portugal,PRT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1155545,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,620,Portugal,PRT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,199564,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,624,Guinea-Bissau,GNB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1836,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,626,Timor-Leste,TLS,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1661,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,634,Qatar,QAT,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,39888,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,642,Romania,ROU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,922391,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,642,Romania,ROU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,359626,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,682,Saudi Arabia,SAU,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,366138,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,694,Sierra Leone,SLE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,80133,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,702,Singapore,SGP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,19414,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,702,Singapore,SGP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2454,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,711,So. African Customs Union,ZAF,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1823249,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,711,So. African Customs Union,ZAF,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,249219,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,720,Fmr Dem. Yemen,YMD,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3893,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,724,Spain,ESP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4898580,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,724,Spain,ESP,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,689630,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,732,Western Sahara,ESH,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,115026,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,736,Fmr Sudan,SDN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,122456,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,752,Sweden,SWE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4938891,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,752,Sweden,SWE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,7035242,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,757,Switzerland,CHE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,7757605,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,757,Switzerland,CHE,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1305024,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,760,Syria,SYR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,2307,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,760,Syria,SYR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1562557,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,764,Thailand,THA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,43309,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,764,Thailand,THA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,915,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,788,Tunisia,TUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1533012,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,788,Tunisia,TUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,263096,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,792,Turkey,TUR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,910159,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,792,Turkey,TUR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1429744,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,800,Uganda,UGA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,512,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,810,Fmr USSR,SUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1276813,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,810,Fmr USSR,SUN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,10400,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,818,Egypt,EGY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,35346,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,818,Egypt,EGY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,5319485,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,826,United Kingdom,GBR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,30050340,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,826,United Kingdom,GBR,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1608280,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,514,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,841,USA (before 1981),USA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,17295022,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,841,USA (before 1981),USA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,16660267,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,854,Burkina Faso,BFA,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,7674,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,858,Uruguay,URY,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,1053,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,862,Venezuela,VEN,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,25716,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,890,Fmr Yugoslavia,YUG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,3379860,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,890,Fmr Yugoslavia,YUG,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,6480681,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,894,Zambia,ZMB,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,4964955,,,0
+S1,1972,1972,1972,1,0,1,Import,300,Greece,GRC,899,"Areas, nes",,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,636524,,,0
+S1,1972,1972,1972,1,0,2,Export,300,Greece,GRC,899,"Areas, nes",,,,,,,,,6,Manufact goods classified chiefly by material,1,No Quantity,,,,,,,485771,,,0

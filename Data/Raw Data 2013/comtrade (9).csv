@@ -1,0 +1,789 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1964675877,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1039163998,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,4,Afghanistan,AFG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,358,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,8,Albania,ALB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9575,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,8,Albania,ALB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,10,Antarctica,ATA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1779,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,27358,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,371,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,16,American Samoa,ASM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,397,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,20,Andorra,AND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,138,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,28,Antigua and Barbuda,ATG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,280,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,31,Azerbaijan,AZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3267832,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4265444,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,118,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9241502,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10759,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4440472,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10741484,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,44,Bahamas,BHS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2205,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,48,Bahrain,BHR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,84,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,50,Bangladesh,BGD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,607733,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,51,Armenia,ARM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1184,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,51,Armenia,ARM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,66,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,52,Barbados,BRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8728,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,56,Belgium,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,606867525,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,56,Belgium,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,152834646,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,60,Bermuda,BMU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1448,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,60,Bermuda,BMU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,159,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,64,Bhutan,BTN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,162,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,68,Bolivia (Plurinational State of),BOL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,32440,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,70,Bosnia Herzegovina,BIH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,43165,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,72,Botswana,BWA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16253,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1004402,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,52147,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,86,Br. Indian Ocean Terr.,IOT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,34900,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,96,Brunei Darussalam,BRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,175,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,35543,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,247836,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,112,Belarus,BLR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3574,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,120,Cameroon,CMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3639,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5186371,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,301,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,132,Cabo Verde,CPV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,577,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,65069,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,991405,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,104,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5361307,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,311,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,381490,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,38,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,178,Congo,COG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2083,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,180,Dem. Rep. of the Congo,COD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,22992,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3699597,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,191,Croatia,HRV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4515,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,191,Croatia,HRV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,339225,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,192,Cuba,CUB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11425,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,532445,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,526119,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,203,Czechia,CZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10663495,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,203,Czechia,CZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,976196,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,204,Benin,BEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1098,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2840173,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1115432,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,43065,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,938576,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,39,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,222,El Salvador,SLV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,592,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,231,Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,90394,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,231,Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,43,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,232,Eritrea,ERI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,287,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,233,Estonia,EST,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,193803,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,233,Estonia,EST,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,39542,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,234,Faeroe Isds,FRO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,121884,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,313111,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,954937,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,577997445,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,159038350,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,258,French Polynesia,PYF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,722,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,258,French Polynesia,PYF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11755,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,266,Gabon,GAB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,31,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,268,Georgia,GEO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6462,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,268,Georgia,GEO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,105694,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,276,Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,296211570,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,276,Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,565230299,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,71903,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,744550,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1521012,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11273291,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,304,Greenland,GRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,216367,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,320,Guatemala,GTM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,23440,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,324,Guinea,GIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2509,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1965,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13519,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1761567,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,444370,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4361693,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12891,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,678272,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,290958,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,118,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5025892,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1579021,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,933389,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,879,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,105686381,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16943682,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,521348,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,388,Jamaica,JAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8903,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,438681,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,148661,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,398,Kazakhstan,KAZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6292,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,134,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,780390,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,408,Dem. People's Rep. of Korea,PRK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11384,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4082,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,74,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,414,Kuwait,KWT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,195,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,417,Kyrgyzstan,KGZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,245,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,417,Kyrgyzstan,KGZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,85,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1497,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7912,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,428,Latvia,LVA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6781,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,434,Libya,LBY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,514877,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,440,Lithuania,LTU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,213921,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,440,Lithuania,LTU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,230675,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,450,Madagascar,MDG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,436308,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,454,Malawi,MWI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,281,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,27338,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1203,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,462,Maldives,MDV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,914657,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,462,Maldives,MDV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,65,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,466,Mali,MLI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,86128,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6960,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,58533,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,478,Mauritania,MRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1801,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,478,Mauritania,MRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,32310,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,480,Mauritius,MUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,51435,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,480,Mauritius,MUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,182,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,603653,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,191,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,23409,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,48,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,496,Mongolia,MNG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,66,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,498,Rep. of Moldova,MDA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,499,Montenegro,MNE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,68102,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,500,Montserrat,MSR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,232,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1476111,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,994,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,508,Mozambique,MOZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,162,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,512,Oman,OMN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,231,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,512,Oman,OMN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,22151,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,516,Namibia,NAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,118100,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,82963536,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,58609953,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,531,Curaçao,CUW,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,114,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,540,New Caledonia,NCL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,25495,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2438557,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,558,Nicaragua,NIC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,38330,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,562,Niger,NER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7541,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,41953,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,773510,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,568,"Other Europe, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11189781,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3638322,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10755525,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,583,FS Micronesia,FSM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,400,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,59489,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,591,Panama,PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,69,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,598,Papua New Guinea,PNG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,199,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,600,Paraguay,PRY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,30481,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,600,Paraguay,PRY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,69,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2308704,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1792,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,42055,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,223,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10557340,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5146084,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,22314801,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1364894,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,634,Qatar,QAT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,52,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,169012,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1833468,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,643,Russian Federation,RUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,164550,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,643,Russian Federation,RUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11772182,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,654,Saint Helena,SHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,32,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,670,Saint Vincent and the Grenadines,VCT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6100,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,682,Saudi Arabia,SAU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,469,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,682,Saudi Arabia,SAU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,796,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,686,Senegal,SEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,487772,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,688,Serbia,SRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,596,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,688,Serbia,SRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,699,India,IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21542773,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,699,India,IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2109,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,52330,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2013,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,703,Slovakia,SVK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12104,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,703,Slovakia,SVK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,693499,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,704,Viet Nam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3823229,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,705,Slovenia,SVN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4253,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,705,Slovenia,SVN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,586883,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,706,Somalia,SOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,262,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,710,South Africa,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2931277,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,710,South Africa,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,313,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,23427984,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9070827,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,921621,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2602406,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13082552,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,665230,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,760,Syria,SYR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,182343,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,762,Tajikistan,TJK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,230,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,762,Tajikistan,TJK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,66,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,984821,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,50,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,768,Togo,TGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1085,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,776,Tonga,TON,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,515961,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,784,United Arab Emirates,ARE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5320,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,784,United Arab Emirates,ARE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1224,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,120853,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,84,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1183932,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,127,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,800,Uganda,UGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,107568,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,804,Ukraine,UKR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,224313,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,804,Ukraine,UKR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,96330,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,807,North Macedonia,MKD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,35,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,269827,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1157,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12364499,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7442415,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,915323,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,838,Free Zones,,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,696,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,842,USA,USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,84503698,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,842,USA,USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7385,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,854,Burkina Faso,BFA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3771,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,391785,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,69,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,860,Uzbekistan,UZB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,356,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8031,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,882,Samoa,WSM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,159,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,899,"Areas, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2099616,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,899,"Areas, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,52,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1840681898,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,406186903,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,31,Azerbaijan,AZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3727,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2750740,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,79886,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,112,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1673800,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,744954,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,48,Bahrain,BHR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3656497,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,51,Armenia,ARM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,56,Belgium,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,195194841,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,56,Belgium,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,59418836,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,68,Bolivia (Plurinational State of),BOL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1605,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,70,Bosnia Herzegovina,BIH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,425237,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,383973,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12538,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,48,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,104,Myanmar,MMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3450,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,112,Belarus,BLR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,33262,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,120,Cameroon,CMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9922553,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1781394,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,450290,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11225,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,827857,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2829,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1935384,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,178,Congo,COG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6813,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,188,Costa Rica,CRI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,985,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,191,Croatia,HRV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,214266,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,191,Croatia,HRV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,154379,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,117,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13484,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,203,Czechia,CZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3411427,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,203,Czechia,CZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7786482,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6809869,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,153651,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,233,Estonia,EST,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,173848,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,233,Estonia,EST,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5256,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,26185,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,388546447,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,69020773,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,268,Georgia,GEO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,179,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,276,Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,733703792,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,276,Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,231803376,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,331103,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,606,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,157176,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7444,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,26426,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,62,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12639,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,241334,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,352,Iceland,ISL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,252,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,166348167,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,378,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,310554,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12695,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1506966,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,42,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5690160,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1650583,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,29039802,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5533482,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,400,Jordan,JOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,709043,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5979,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,69730,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,561,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,414,Kuwait,KWT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,204480,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,428,Latvia,LVA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,108259,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,428,Latvia,LVA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,153827,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,430,Liberia,LBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4863243,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,434,Libya,LBY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,48,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,440,Lithuania,LTU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,228763,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,440,Lithuania,LTU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,92821,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,450,Madagascar,MDG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,479,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,41289794,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,470,Malta,MLT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,33970,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,296,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1268,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,390,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,31,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,81916465,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6863131,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,108193,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1977,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,992,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,568,"Other Europe, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3938444,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,269120,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4099,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1755,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,210,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3356,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,106,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8809787,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7225698,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,496664,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16219,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,634,Qatar,QAT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,171284,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,634,Qatar,QAT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,30,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2625500,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,55788,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,643,Russian Federation,RUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9612356,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,643,Russian Federation,RUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,72915,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,659,Saint Kitts and Nevis,KNA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1142,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,682,Saudi Arabia,SAU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5955298,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,686,Senegal,SEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,108,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,688,Serbia,SRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,386972,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,699,India,IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,112064,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,699,India,IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,52,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,54860,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,703,Slovakia,SVK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,541412,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,704,Viet Nam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,414,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,704,Viet Nam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,705,Slovenia,SVN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,28717,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,705,Slovenia,SVN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4605252,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,710,South Africa,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,614498,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,710,South Africa,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,635300,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3159150,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,392998,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,895754,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11045,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10365603,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13639,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1291650,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,784,United Arab Emirates,ARE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6742039,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,784,United Arab Emirates,ARE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,806,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,145408,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1634,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15059,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2772383,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,804,Ukraine,UKR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1889422,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,804,Ukraine,UKR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,63579,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6730,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,185,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8523825,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9631064,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,838,Free Zones,,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6768309,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,842,USA,USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,72022638,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,842,USA,USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2067268,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,887,Yemen,YEM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1025183,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,899,"Areas, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4153951,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2614866562,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,125696425,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,31,Azerbaijan,AZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,37089,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,19937,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,22403,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,51,Armenia,ARM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1889,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,56,Belgium,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2040605900,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,56,Belgium,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,116279002,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,70,Bosnia Herzegovina,BIH,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,78,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,100,Bulgaria,BGR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,12915,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,112,Belarus,BLR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1650,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,120,Cameroon,CMR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2627,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5864,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,262,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,144,Sri Lanka,LKA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,76,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1468,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8997,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,180,Dem. Rep. of the Congo,COD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,491,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,203,Czechia,CZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,22844,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,203,Czechia,CZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6359,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4577,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,630,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,542,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,25897,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1727,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,10830869,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3594664,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,276,Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,445869028,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,276,Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4160088,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,288,Ghana,GHA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,417,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,300,Greece,GRC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2197,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,348,Hungary,HUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5119,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,360,Indonesia,IDN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2783,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,364,Iran,IRN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5117,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,368,Iraq,IRQ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2337,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,372,Ireland,IRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,684,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,376,Israel,ISR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,54,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,162305,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,18871,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,384,Côte d'Ivoire,CIV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,404,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,50780,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4817,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,398,Kazakhstan,KAZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2033,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,404,Kenya,KEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2834,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,410,Rep. of Korea,KOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2724,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,414,Kuwait,KWT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,106,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,417,Kyrgyzstan,KGZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1821,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,428,Latvia,LVA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,24,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,440,Lithuania,LTU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1493,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,458,Malaysia,MYS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,127,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,458,Malaysia,MYS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,104,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,480,Mauritius,MUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1315,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,484,Mexico,MEX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9277,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,504,Morocco,MAR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6930,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,109954613,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,176677,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,554,New Zealand,NZL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,986,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,566,Nigeria,NGA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,33,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,568,"Other Europe, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,991964,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,579,Norway,NOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7381,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,586,Pakistan,PAK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,56,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,586,Pakistan,PAK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,27550,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,608,Philippines,PHL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,138,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,14593,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,840459,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,620,Portugal,PRT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,159765,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,52,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,122130,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,643,Russian Federation,RUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1551,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,682,Saudi Arabia,SAU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,12194,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,688,Serbia,SRB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,274,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,699,India,IND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6615,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,705,Slovenia,SVN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1315,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,710,South Africa,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5859079,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,710,South Africa,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4470,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,29637,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,27396,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,732,Western Sahara,ESH,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1046,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,26110,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2663,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,12826,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1577,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,764,Thailand,THA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,160,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,784,United Arab Emirates,ARE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2227,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,788,Tunisia,TUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1760,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4016,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2384,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,795,Turkmenistan,TKM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2309,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,800,Uganda,UGA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3885,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,804,Ukraine,UKR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2228,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,818,Egypt,EGY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,369,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,160962,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,31806,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,834,United Rep. of Tanzania,TZA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7177,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,842,USA,USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,176901,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,842,USA,USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5567,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,854,Burkina Faso,BFA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,31300,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,854,Burkina Faso,BFA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,21000,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,860,Uzbekistan,UZB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,21220,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,887,Yemen,YEM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1469,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,894,Zambia,ZMB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,82,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,899,"Areas, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,471,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3581337959,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5927949715,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,4,Afghanistan,AFG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,604,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,4,Afghanistan,AFG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9197,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,8,Albania,ALB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5484,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,8,Albania,ALB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2590,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,12,Algeria,DZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13836083,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,20,Andorra,AND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13644,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,20,Andorra,AND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,133,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,24,Angola,AGO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1187914,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,31,Azerbaijan,AZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,25312,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,31,Azerbaijan,AZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6743264,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,32,Argentina,ARG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,902196,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,32,Argentina,ARG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4416521,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,36,Australia,AUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,97755,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,36,Australia,AUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,23760496,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,40,Austria,AUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,56744505,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,40,Austria,AUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,95391289,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,48,Bahrain,BHR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1507,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,48,Bahrain,BHR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1785896,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,50,Bangladesh,BGD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,32028,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,50,Bangladesh,BGD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,57256,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,51,Armenia,ARM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2138,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,51,Armenia,ARM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4720,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,52,Barbados,BRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1870,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,52,Barbados,BRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,136276,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,56,Belgium,BEL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,727835452,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,56,Belgium,BEL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,447693695,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,68,Bolivia (Plurinational State of),BOL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1995,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,70,Bosnia Herzegovina,BIH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4265390,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,70,Bosnia Herzegovina,BIH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,703472,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,72,Botswana,BWA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6564,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,74,Bouvet Island,BVT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5861,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,76,Brazil,BRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9659559,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,76,Brazil,BRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,21877418,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,84,Belize,BLZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5421,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,92,Br. Virgin Isds,VGB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,133,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,96,Brunei Darussalam,BRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9410,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,96,Brunei Darussalam,BRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,886578,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,100,Bulgaria,BGR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,568222,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,100,Bulgaria,BGR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4950720,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,108,Burundi,BDI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,31348,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,112,Belarus,BLR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4741673,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,112,Belarus,BLR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19421513,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,116,Cambodia,KHM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,295,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,116,Cambodia,KHM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,788485,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,120,Cameroon,CMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1172725,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,120,Cameroon,CMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1371540,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,124,Canada,CAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4345816,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,124,Canada,CAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,77781293,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,132,Cabo Verde,CPV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,948,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,132,Cabo Verde,CPV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4547,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,140,Central African Rep.,CAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6432,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,144,Sri Lanka,LKA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,41462,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,144,Sri Lanka,LKA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7481,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,152,Chile,CHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,70100,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,152,Chile,CHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9139224,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,156,China,CHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,42247644,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,156,China,CHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,124629254,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,170,Colombia,COL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4201,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,170,Colombia,COL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6015828,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,175,Mayotte,MYT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14453,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,178,Congo,COG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1243,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,178,Congo,COG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,758680,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,180,Dem. Rep. of the Congo,COD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,29157,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,184,Cook Isds,COK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6404,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,188,Costa Rica,CRI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13602,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,188,Costa Rica,CRI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,31899,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,191,Croatia,HRV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,680227,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,191,Croatia,HRV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1807442,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,192,Cuba,CUB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,83618,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,196,Cyprus,CYP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2508,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,196,Cyprus,CYP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1965017,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,203,Czechia,CZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,21809614,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,203,Czechia,CZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,58956899,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,204,Benin,BEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,109508,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,208,Denmark,DNK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8042601,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,208,Denmark,DNK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,71567831,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,214,Dominican Rep.,DOM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1331047,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,218,Ecuador,ECU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,154179,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,218,Ecuador,ECU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10494240,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,222,El Salvador,SLV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,36,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,231,Ethiopia,ETH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,132,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,232,Eritrea,ERI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,74,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,232,Eritrea,ERI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,864993,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,233,Estonia,EST,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,232346,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,233,Estonia,EST,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6924715,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,242,Fiji,FJI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,156,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,246,Finland,FIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19431018,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,246,Finland,FIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,35350112,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,251,France,FRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,660571723,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,251,France,FRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,859269740,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,258,French Polynesia,PYF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1252653,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,262,Djibouti,DJI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4545917,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,266,Gabon,GAB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,105,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,266,Gabon,GAB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,420199,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,268,Georgia,GEO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5622,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,268,Georgia,GEO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,153062,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,270,Gambia,GMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17740,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,270,Gambia,GMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,28421,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,276,Germany,DEU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1038286314,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,276,Germany,DEU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1599251630,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,288,Ghana,GHA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3178723,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,292,Gibraltar,GIB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1774,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,300,Greece,GRC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,692591,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,300,Greece,GRC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8433715,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,316,Guam,GUM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,33,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,320,Guatemala,GTM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1245,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,320,Guatemala,GTM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,173900,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,324,Guinea,GIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1272092,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,328,Guyana,GUY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6520499,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,332,Haiti,HTI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2723,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,340,Honduras,HND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,573058,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,619757,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12075693,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,348,Hungary,HUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,56977781,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,348,Hungary,HUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,20973694,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,352,Iceland,ISL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12975223,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,352,Iceland,ISL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1726981,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,360,Indonesia,IDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5351186,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,360,Indonesia,IDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3078425,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,364,Iran,IRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,62238,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,364,Iran,IRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,400958,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,368,Iraq,IRQ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1151809,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,372,Ireland,IRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12813218,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,372,Ireland,IRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15944983,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,376,Israel,ISR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1106147,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,376,Israel,ISR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7707168,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,381,Italy,ITA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,124676581,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,381,Italy,ITA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,225164529,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1204156,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,388,Jamaica,JAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,576514,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,392,Japan,JPN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10938431,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,392,Japan,JPN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,48686546,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,398,Kazakhstan,KAZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,735,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,398,Kazakhstan,KAZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,758601,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,400,Jordan,JOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14343,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,400,Jordan,JOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,557545,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,404,Kenya,KEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,187,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,404,Kenya,KEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,212880,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,408,Dem. People's Rep. of Korea,PRK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7823,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,410,Rep. of Korea,KOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16411687,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,410,Rep. of Korea,KOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,30315761,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,414,Kuwait,KWT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,456446,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,417,Kyrgyzstan,KGZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17641,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,418,Lao People's Dem. Rep.,LAO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,794,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,422,Lebanon,LBN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,55484,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,422,Lebanon,LBN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2658371,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,428,Latvia,LVA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3265352,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,428,Latvia,LVA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7124195,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,430,Liberia,LBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,109,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,430,Liberia,LBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,672199,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,434,Libya,LBY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,45867,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,440,Lithuania,LTU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,279246,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,440,Lithuania,LTU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4331112,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,446,"China, Macao SAR",MAC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,57,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,446,"China, Macao SAR",MAC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1820,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,450,Madagascar,MDG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1407,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,450,Madagascar,MDG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,901839,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,454,Malawi,MWI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,663,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,458,Malaysia,MYS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,819905,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,458,Malaysia,MYS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3817666,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,466,Mali,MLI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,713,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,466,Mali,MLI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,34116,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,470,Malta,MLT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,117090,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,470,Malta,MLT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,288534,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,478,Mauritania,MRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2940,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,478,Mauritania,MRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,479779,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,480,Mauritius,MUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,114,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,480,Mauritius,MUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1289985,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,484,Mexico,MEX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,89162,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,484,Mexico,MEX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,44266792,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,490,"Other Asia, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11585718,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,490,"Other Asia, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6634513,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,496,Mongolia,MNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,18957,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,498,Rep. of Moldova,MDA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,164073,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,499,Montenegro,MNE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,94208,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,504,Morocco,MAR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,82122,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,504,Morocco,MAR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12091702,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,508,Mozambique,MOZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,21837051,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,508,Mozambique,MOZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,173896,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,512,Oman,OMN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,198476,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,516,Namibia,NAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,36906,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,516,Namibia,NAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,429024,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,524,Nepal,NPL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9979,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,524,Nepal,NPL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,172,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,528,Netherlands,NLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,131490073,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,528,Netherlands,NLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,392445435,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,540,New Caledonia,NCL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,515741,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,548,Vanuatu,VUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1264,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,554,New Zealand,NZL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4784,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,554,New Zealand,NZL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,536381,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,558,Nicaragua,NIC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,442,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,558,Nicaragua,NIC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,37726,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,562,Niger,NER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,20065,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,566,Nigeria,NGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5312268,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,568,"Other Europe, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,57648315,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,570,Niue,NIU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,579,Norway,NOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,32089142,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,579,Norway,NOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,53356177,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,586,Pakistan,PAK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,857389,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,586,Pakistan,PAK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6223103,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,591,Panama,PAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,263,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,591,Panama,PAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,289518,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,600,Paraguay,PRY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,163381,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,604,Peru,PER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,540,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,604,Peru,PER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2930092,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,608,Philippines,PHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,223328,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,608,Philippines,PHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2732864,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,616,Poland,POL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,48881432,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,616,Poland,POL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,193814306,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,620,Portugal,PRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6974551,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,620,Portugal,PRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,18977895,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,634,Qatar,QAT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,299,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,634,Qatar,QAT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1598581,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,642,Romania,ROU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8590151,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,642,Romania,ROU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,26401441,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,643,Russian Federation,RUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5039104,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,643,Russian Federation,RUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,120032837,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,646,Rwanda,RWA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,94,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,654,Saint Helena,SHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,115,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,670,Saint Vincent and the Grenadines,VCT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,682,Saudi Arabia,SAU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17781,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,682,Saudi Arabia,SAU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,22241485,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,686,Senegal,SEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5231,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,686,Senegal,SEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3940442,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,688,Serbia,SRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,118702,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,688,Serbia,SRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2462036,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,690,Seychelles,SYC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3427,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,690,Seychelles,SYC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,84,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,694,Sierra Leone,SLE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,61528,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,699,India,IND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9020835,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,699,India,IND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3132695,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,702,Singapore,SGP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,422254,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,702,Singapore,SGP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,24754619,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,703,Slovakia,SVK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4343672,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,703,Slovakia,SVK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,30990042,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,704,Viet Nam,VNM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,51994755,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,704,Viet Nam,VNM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4141150,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,705,Slovenia,SVN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11040185,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,705,Slovenia,SVN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19943149,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,710,South Africa,ZAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10697595,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,710,South Africa,ZAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,31252857,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,716,Zimbabwe,ZWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,222824,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,724,Spain,ESP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,42709362,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,724,Spain,ESP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,142230295,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,729,Sudan,SDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,510,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,732,Western Sahara,ESH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1768,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,740,Suriname,SUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1202432,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,748,Eswatini,SWZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,182,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,752,Sweden,SWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17539202,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,752,Sweden,SWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,127050539,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,757,Switzerland,CHE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12310484,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,757,Switzerland,CHE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,74092528,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,762,Tajikistan,TJK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5117,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,764,Thailand,THA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6063907,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,764,Thailand,THA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5651024,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,768,Togo,TGO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1211,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,768,Togo,TGO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,540448,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,772,Tokelau,TKL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6633,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,780,Trinidad and Tobago,TTO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1682,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,780,Trinidad and Tobago,TTO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2731222,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,784,United Arab Emirates,ARE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13451488,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,784,United Arab Emirates,ARE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,26358870,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,788,Tunisia,TUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,64634,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,788,Tunisia,TUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1703762,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,792,Turkey,TUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,44366055,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,792,Turkey,TUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,84821466,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,795,Turkmenistan,TKM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1168,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,795,Turkmenistan,TKM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,232058,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,800,Uganda,UGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,114,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,800,Uganda,UGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,124683,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,804,Ukraine,UKR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13476415,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,804,Ukraine,UKR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3956149,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,807,North Macedonia,MKD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,324240,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,807,North Macedonia,MKD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,325588,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,818,Egypt,EGY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,37127,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,818,Egypt,EGY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5649086,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,826,United Kingdom,GBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,119130328,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,826,United Kingdom,GBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,219416060,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,643147,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,838,Free Zones,,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,386172,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,839,Special Categories,,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1760,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,842,USA,USA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,48481658,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,842,USA,USA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,258314358,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,854,Burkina Faso,BFA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,93,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,854,Burkina Faso,BFA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8068972,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,858,Uruguay,URY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9184,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,858,Uruguay,URY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,398,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,860,Uzbekistan,UZB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,807267,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,862,Venezuela,VEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17637,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,862,Venezuela,VEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,864710,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,882,Samoa,WSM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,139,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,887,Yemen,YEM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,110189,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,894,Zambia,ZMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,79442,,,0
+S3,2013,2013,2013,1,0,1,Import,442,Luxembourg,LUX,899,"Areas, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,291447,,,0
+S3,2013,2013,2013,1,0,2,Export,442,Luxembourg,LUX,899,"Areas, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1407,,,0

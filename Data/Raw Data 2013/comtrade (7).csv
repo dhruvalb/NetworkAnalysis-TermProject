@@ -1,0 +1,619 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,420038301,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2199601501,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5573,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,20,Andorra,AND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,371111,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1884074,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13442,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,79807,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,210382,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2125198,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,452359,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,50,Bangladesh,BGD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,129045,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,56,Belgium,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14438431,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,56,Belgium,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,74956475,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,68,Bolivia (Plurinational State of),BOL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,104808,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,70,Bosnia Herzegovina,BIH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11625,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3812771,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5258592,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,92,Br. Virgin Isds,VGB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,291,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,92,Br. Virgin Isds,VGB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,66919,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,29299,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,377389,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,104,Myanmar,MMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,845,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,112,Belarus,BLR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2007044,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19307903,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17475533,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,255083,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2897096,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4117408,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4296848,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,46785800,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1160600,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2411610,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,123171,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,191,Croatia,HRV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4620,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,191,Croatia,HRV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2648436,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,192,Cuba,CUB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3052,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,192,Cuba,CUB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,914495,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,36549,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,61798,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,203,Czechia,CZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,696269,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,203,Czechia,CZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1317069,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,47177224,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,75152726,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,41513,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3393571,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,222,El Salvador,SLV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11209,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,231,Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,170916,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,233,Estonia,EST,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11475716,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,233,Estonia,EST,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2316462,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,234,Faeroe Isds,FRO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9301764,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,234,Faeroe Isds,FRO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14063212,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,986730,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13371632,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12339193,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,161176582,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,266,Gabon,GAB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,150527,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,268,Georgia,GEO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2004140,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,276,Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,36636744,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,276,Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,157256091,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6329,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,654903,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,622905,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8583570,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,304,Greenland,GRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6581847,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,304,Greenland,GRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,957177,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,320,Guatemala,GTM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,610387,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,332,Haiti,HTI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,45,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,340,Honduras,HND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,91742,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19768,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9932846,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1344179,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,31978,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,475637,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,64324,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,450498,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,138332,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9922786,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4437743,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1099873,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,476861,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11921373,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,27414316,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2220265,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,388,Jamaica,JAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4227,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,327146,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,64610916,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,398,Kazakhstan,KAZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,163390,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,316,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,254445,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,580609,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4341329,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10977858,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,327,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,428,Latvia,LVA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,96580,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,428,Latvia,LVA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3489641,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,440,Lithuania,LTU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,499475,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,440,Lithuania,LTU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,83640618,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,442,Luxembourg,LUX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1264,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,442,Luxembourg,LUX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,39553,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,446,"China, Macao SAR",MAC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,249,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,450,Madagascar,MDG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,23275,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,454,Malawi,MWI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4942,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,65368,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1962791,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,462,Maldives,MDV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,142287,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,466,Mali,MLI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,50119,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,890,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2489702,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,480,Mauritius,MUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,105118,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,480,Mauritius,MUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11064,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,644315,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,65822,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1624302,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7997113,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,496,Mongolia,MNG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4647,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,498,Rep. of Moldova,MDA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14311,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,333638,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,516,Namibia,NAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,168186,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,516,Namibia,NAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,60347,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,40135140,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,130490188,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,903994,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,558,Nicaragua,NIC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,607662,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,480,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,99290261,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7859640,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,114257397,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3617,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,591,Panama,PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1317611,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,598,Papua New Guinea,PNG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,351,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,600,Paraguay,PRY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17376,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2020568,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,661579,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13902,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16633693,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,48826489,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,473573,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,52875075,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,634,Qatar,QAT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,23597,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,62665,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,36474,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,643,Russian Federation,RUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1008674,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,643,Russian Federation,RUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,156823159,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,646,Rwanda,RWA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,119040,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,674,San Marino,SMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,294133,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,686,Senegal,SEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,97683,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,688,Serbia,SRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,43124,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,688,Serbia,SRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,123442,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,690,Seychelles,SYC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,241,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,699,India,IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1405777,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,53810,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,380278,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,703,Slovakia,SVK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,29852,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,703,Slovakia,SVK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,906468,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,704,Viet Nam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1334199,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,704,Viet Nam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12366723,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,705,Slovenia,SVN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,41655,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,705,Slovenia,SVN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,218674,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,710,South Africa,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3369102,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,710,South Africa,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,54165,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,716,Zimbabwe,ZWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,29031,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17088771,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,154420454,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,729,Sudan,SDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,877,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,740,Suriname,SUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,352,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,748,Eswatini,SWZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8241,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,19733649,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11479081,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4677837,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14448229,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,760,Syria,SYR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1740,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6065669,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3039161,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,784,United Arab Emirates,ARE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,70357,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,784,United Arab Emirates,ARE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18074413,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,109140,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1401792,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9338858,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,800,Uganda,UGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15621,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,804,Ukraine,UKR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,69061,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,804,Ukraine,UKR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,64460587,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,807,North Macedonia,MKD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7442,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,807,North Macedonia,MKD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,211752,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,975947,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1663044,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,35886720,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,355409350,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1631,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,842,USA,USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,36001496,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,842,USA,USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,138967394,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,854,Burkina Faso,BFA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14009,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,52960,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2666,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,894,Zambia,ZMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,302,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,596380469,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,79402976,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,8,Albania,ALB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,292,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4270,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,86235,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,100625,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,239413,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,50,Bangladesh,BGD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,132079,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,56,Belgium,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,354719,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,56,Belgium,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11050,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,68,Bolivia (Plurinational State of),BOL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,272,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,70,Bosnia Herzegovina,BIH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6367,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,362953353,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2046,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,104,Myanmar,MMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,33645,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,112,Belarus,BLR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5686,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,120,Cameroon,CMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,95529,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2611602,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1469157,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1373,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,46661,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,189,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,654319,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,377595,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,982,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,188,Costa Rica,CRI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,58191,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6112,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,203,Czechia,CZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,122539,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3736624,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,24711601,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,218,Ecuador,ECU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,26723,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,222,El Salvador,SLV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,148,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,231,Ethiopia,ETH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,53788,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,233,Estonia,EST,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3321026,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,234,Faeroe Isds,FRO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5193448,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,234,Faeroe Isds,FRO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2111690,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4672376,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15215,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,354315,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1929606,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,266,Gabon,GAB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2256,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,276,Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2213593,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,276,Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4087944,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,72229,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1160,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,304,Greenland,GRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9116808,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,304,Greenland,GRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2178692,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,320,Guatemala,GTM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3307,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,340,Honduras,HND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,112,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8741,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,266830,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,28982,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,137994,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,46464,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8107927,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4393089,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,41302,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,527962,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,33269,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8081,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,388,Jamaica,JAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,41293741,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,78136,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2805744,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,398,Kazakhstan,KAZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14360,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,32888,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,213696,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8154,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,428,Latvia,LVA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4831448,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,440,Lithuania,LTU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1222153,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,440,Lithuania,LTU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,280176,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,446,"China, Macao SAR",MAC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,131,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,450,Madagascar,MDG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1002,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,31215,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,470,Malta,MLT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,898,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3189,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,21530,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,496,Mongolia,MNG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7234,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,498,Rep. of Moldova,MDA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3874,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,500,Montserrat,MSR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,44845,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3415,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,127589,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,516,Namibia,NAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7416,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,524,Nepal,NPL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,974,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4967287,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4886156,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1036966,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,268,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,558,Nicaragua,NIC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,276,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,496,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15034656,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1398841,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,600,Paraguay,PRY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7082,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6225,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,263351,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1645411,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1247711,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,35252,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1911760,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,18745,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,643,Russian Federation,RUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6220804,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,643,Russian Federation,RUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,94986,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,688,Serbia,SRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,27153,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,699,India,IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,204473,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1054,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4952,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,703,Slovakia,SVK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3841,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,704,Viet Nam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8408,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,705,Slovenia,SVN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7022,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,710,South Africa,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7143,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,716,Zimbabwe,ZWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7302,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9451774,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6088737,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,729,Sudan,SDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,186479,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,740,Suriname,SUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5162633,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6994663,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,841464,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,136771,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,441375,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,56883,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6410925,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4128157,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2519706,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,800,Uganda,UGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,27821,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,804,Ukraine,UKR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,221,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,807,North Macedonia,MKD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1566,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19781,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,37180,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1698295,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12989396,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,834,United Rep. of Tanzania,TZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,218,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,842,USA,USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,79887634,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,842,USA,USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1841037,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,854,Burkina Faso,BFA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,325,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,894,Zambia,ZMB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1369,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,955673894,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,79904189,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,28,Antigua and Barbuda,ATG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1907399,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4112,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,12158,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2551,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,150177,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,44,Bahamas,BHS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1942985,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,48,Bahrain,BHR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,27175,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,56,Belgium,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1244356,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,56,Belgium,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,210035,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,60,Bermuda,BMU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,70238,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,76,Brazil,BRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1896,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,92,Br. Virgin Isds,VGB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,112726,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,100,Bulgaria,BGR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,53,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5110371,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2819990,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,144,Sri Lanka,LKA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7375,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,152,Chile,CHL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2776,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6062,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,274802,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,178,Congo,COG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2353,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,191,Croatia,HRV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,20076,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,192,Cuba,CUB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,28226,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,196,Cyprus,CYP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,815039,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,203,Czechia,CZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,361646,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,203,Czechia,CZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,32166,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,144948017,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7576813,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,233,Estonia,EST,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,60276,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,233,Estonia,EST,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4390607,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,234,Faeroe Isds,FRO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,302573,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,234,Faeroe Isds,FRO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,664158,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1091386,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,30851,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,13951207,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,372295,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,276,Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6441612,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,276,Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1951943,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,292,Gibraltar,GIB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,172705,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,300,Greece,GRC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3429,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,300,Greece,GRC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1465930,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,304,Greenland,GRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1021925,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,304,Greenland,GRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,11543706,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,344,"China, Hong Kong SAR",HKG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,460,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,348,Hungary,HUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,47824,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,372,Ireland,IRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,703,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,372,Ireland,IRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,56521,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,376,Israel,ISR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1568,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,376,Israel,ISR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3380,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,50166,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,78359,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,47430,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,404,Kenya,KEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1554,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,410,Rep. of Korea,KOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,42047,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,428,Latvia,LVA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,28211,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,428,Latvia,LVA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,729243,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,430,Liberia,LBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,68304,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,434,Libya,LBY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8673,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,440,Lithuania,LTU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,611904,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,440,Lithuania,LTU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,254220,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,442,Luxembourg,LUX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,130258,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,458,Malaysia,MYS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,10764,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,462,Maldives,MDV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1465,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,466,Mali,MLI,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,10088,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,470,Malta,MLT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1041392,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,480,Mauritius,MUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1877,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,484,Mexico,MEX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,26272,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,490,"Other Asia, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,440,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,500,Montserrat,MSR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,15528,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,504,Morocco,MAR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,96236,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,19499958,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3824592,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,533,Aruba,ABW,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,14267,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,554,New Zealand,NZL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,358123,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,558,Nicaragua,NIC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1023813,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,579,Norway,NOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,483035673,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,579,Norway,NOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5251026,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,584,Marshall Isds,MHL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1987931,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,591,Panama,PAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,487360,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,591,Panama,PAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,461321,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6497863,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,620,Portugal,PRT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5361,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,620,Portugal,PRT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,30546,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,634,Qatar,QAT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3664,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5225,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,643,Russian Federation,RUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,21789676,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,643,Russian Federation,RUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5978042,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,659,Saint Kitts and Nevis,KNA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,23199,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,69619,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,682,Saudi Arabia,SAU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,30256,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,682,Saudi Arabia,SAU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,78698,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,688,Serbia,SRB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1282,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,699,India,IND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,22264,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,702,Singapore,SGP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,407744,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,703,Slovakia,SVK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7395,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,705,Slovenia,SVN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,46284,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,710,South Africa,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,824,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,447437,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,318684,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,16463290,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,278645,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,633318,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,297645,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,764,Thailand,THA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8157,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,780,Trinidad and Tobago,TTO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,105336,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,784,United Arab Emirates,ARE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,712456,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,784,United Arab Emirates,ARE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,229541,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,788,Tunisia,TUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,176473,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,211,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,376464,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,804,Ukraine,UKR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8688,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,807,North Macedonia,MKD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6325,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,818,Egypt,EGY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1857533,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,818,Egypt,EGY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,15310,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,82849764,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,15770622,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,842,USA,USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,138835834,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,842,USA,USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4888704,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,862,Venezuela,VEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5834576,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,537886598,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,0,World,WLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2054650520,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,8,Albania,ALB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2438,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,24,Angola,AGO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13769,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,32,Argentina,ARG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,191890,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,32,Argentina,ARG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,319423,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,36,Australia,AUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,499330,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,36,Australia,AUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,541624,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,40,Austria,AUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3725070,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,40,Austria,AUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,55067,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,50,Bangladesh,BGD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,679792,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,56,Belgium,BEL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7229539,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,56,Belgium,BEL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7592991,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,70,Bosnia Herzegovina,BIH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,18303,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,76,Brazil,BRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,178339,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,76,Brazil,BRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6937,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,100,Bulgaria,BGR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,423966,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,100,Bulgaria,BGR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2542,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,104,Myanmar,MMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1168,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,112,Belarus,BLR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8257,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,116,Cambodia,KHM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,159,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,124,Canada,CAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11965368,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,124,Canada,CAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7064202,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,144,Sri Lanka,LKA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,191131,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,152,Chile,CHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,31703,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,152,Chile,CHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3038,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,156,China,CHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,38937967,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,156,China,CHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,157216,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,170,Colombia,COL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,71171,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,188,Costa Rica,CRI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1961,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,191,Croatia,HRV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19181,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,191,Croatia,HRV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1639,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,196,Cyprus,CYP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,485,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,196,Cyprus,CYP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,24670,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,203,Czechia,CZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5392044,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,203,Czechia,CZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2690808,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,208,Denmark,DNK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,59374485,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,208,Denmark,DNK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,991574,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,212,Dominica,DMA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,542488,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,218,Ecuador,ECU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,339,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,222,El Salvador,SLV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,432,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,233,Estonia,EST,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3558246,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,233,Estonia,EST,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,36250,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,234,Faeroe Isds,FRO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1066820,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,234,Faeroe Isds,FRO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5189409,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,246,Finland,FIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13964652,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,246,Finland,FIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,495286,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,251,France,FRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,18440078,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,251,France,FRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,49105975,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,266,Gabon,GAB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4934,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,276,Germany,DEU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,65698272,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,276,Germany,DEU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,419571001,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,300,Greece,GRC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,473065,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,300,Greece,GRC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5747,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,304,Greenland,GRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6078,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,304,Greenland,GRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1971504,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,320,Guatemala,GTM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,248,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,340,Honduras,HND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,445,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,644776,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,196182,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,348,Hungary,HUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,823688,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,348,Hungary,HUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,45578981,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,360,Indonesia,IDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,262680,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,360,Indonesia,IDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8072,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,364,Iran,IRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,24395,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,364,Iran,IRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,99,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,368,Iraq,IRQ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,570816,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,372,Ireland,IRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,546267,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,372,Ireland,IRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,163354,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,376,Israel,ISR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,465968,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,376,Israel,ISR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,501,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,381,Italy,ITA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,75688639,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,381,Italy,ITA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,79229711,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1231,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9691,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,392,Japan,JPN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4430133,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,392,Japan,JPN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,18514932,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,400,Jordan,JOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,257,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,404,Kenya,KEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,25918,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,404,Kenya,KEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6311,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,410,Rep. of Korea,KOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3037318,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,410,Rep. of Korea,KOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,719673,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,414,Kuwait,KWT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1461,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,422,Lebanon,LBN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12248,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,422,Lebanon,LBN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6148,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,428,Latvia,LVA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10948093,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,428,Latvia,LVA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4532,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,440,Lithuania,LTU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9245621,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,440,Lithuania,LTU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,283408,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,442,Luxembourg,LUX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2166203,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,446,"China, Macao SAR",MAC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,211,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,450,Madagascar,MDG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1993,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,454,Malawi,MWI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,96,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,458,Malaysia,MYS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,382017,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,458,Malaysia,MYS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,77849,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,470,Malta,MLT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,30140,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,470,Malta,MLT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6137,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,480,Mauritius,MUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,626,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,484,Mexico,MEX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,328656,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,484,Mexico,MEX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7704,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,490,"Other Asia, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3936566,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,498,Rep. of Moldova,MDA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,31204,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,500,Montserrat,MSR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,972786,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,504,Morocco,MAR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,22660,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,512,Oman,OMN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7205,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,516,Namibia,NAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,240,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,524,Nepal,NPL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8072,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,528,Netherlands,NLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,37363965,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,528,Netherlands,NLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1250908575,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,554,New Zealand,NZL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,103670,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,554,New Zealand,NZL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,27093,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,566,Nigeria,NGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3903,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,566,Nigeria,NGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,282,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,579,Norway,NOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,18307381,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,579,Norway,NOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4259081,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,586,Pakistan,PAK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,991691,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,586,Pakistan,PAK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2897,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,604,Peru,PER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,776601,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,604,Peru,PER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5792,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,608,Philippines,PHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,107309,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,608,Philippines,PHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1945,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,616,Poland,POL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13095884,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,616,Poland,POL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6699021,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,620,Portugal,PRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2226119,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,620,Portugal,PRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3307026,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,634,Qatar,QAT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,348,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,634,Qatar,QAT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10813,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,642,Romania,ROU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,432533,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,642,Romania,ROU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1287,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,643,Russian Federation,RUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1802664,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,643,Russian Federation,RUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,682497,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,674,San Marino,SMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2169,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,682,Saudi Arabia,SAU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,104099,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,688,Serbia,SRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,239574,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,688,Serbia,SRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,50516,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,699,India,IND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5018647,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,699,India,IND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4547,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,702,Singapore,SGP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,409138,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,702,Singapore,SGP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2566,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,703,Slovakia,SVK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1257047,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,703,Slovakia,SVK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17807107,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,704,Viet Nam,VNM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1205778,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,705,Slovenia,SVN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,340670,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,710,South Africa,ZAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,112241,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,710,South Africa,ZAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,23347,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,724,Spain,ESP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6108240,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,724,Spain,ESP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,30083224,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,752,Sweden,SWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,44258725,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,752,Sweden,SWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2065498,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,757,Switzerland,CHE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2208561,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,757,Switzerland,CHE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,34394677,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,764,Thailand,THA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1001784,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,764,Thailand,THA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,47499,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,784,United Arab Emirates,ARE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,113041,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,784,United Arab Emirates,ARE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,68750,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,788,Tunisia,TUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10683,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,792,Turkey,TUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3524332,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,792,Turkey,TUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,772286,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,795,Turkmenistan,TKM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4301,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,800,Uganda,UGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,628,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,804,Ukraine,UKR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,177877,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,804,Ukraine,UKR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7019,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,807,North Macedonia,MKD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5214,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,818,Egypt,EGY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,313525,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,826,United Kingdom,GBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,30601856,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,826,United Kingdom,GBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,50273063,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,842,USA,USA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,20421778,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,842,USA,USA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10295086,,,0
+S3,2013,2013,2013,1,0,1,Import,352,Iceland,ISL,858,Uruguay,URY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4147,,,0
+S3,2013,2013,2013,1,0,2,Export,352,Iceland,ISL,858,Uruguay,URY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,107520,,,0

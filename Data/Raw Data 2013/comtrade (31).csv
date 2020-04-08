@@ -1,0 +1,843 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1538984907,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1448438766,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,4,Afghanistan,AFG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,93,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,8,Albania,ALB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,30089,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,8,Albania,ALB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6426,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,12,Algeria,DZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,103371,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,28,Antigua and Barbuda,ATG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,123390,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,31,Azerbaijan,AZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,398018,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,31,Azerbaijan,AZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1502344,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7664386,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,271868,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,755682,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10069178,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,469707,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,50,Bangladesh,BGD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,776003,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,51,Armenia,ARM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1558,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,51,Armenia,ARM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,913917,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,56,Belgium,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,26299408,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,56,Belgium,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8256073,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,68,Bolivia (Plurinational State of),BOL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,123152,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,70,Bosnia Herzegovina,BIH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3743,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,70,Bosnia Herzegovina,BIH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,403711,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12523485,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,632032,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1105878,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,104,Myanmar,MMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6007,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,112,Belarus,BLR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5430625,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,112,Belarus,BLR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,27285553,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,116,Cambodia,KHM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,748115,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,120,Cameroon,CMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5291142,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6704930,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7050305,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,132,Cabo Verde,CPV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,252,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2006844,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3923567,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7515,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11370304,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,18282063,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4756187,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,174,Comoros,COM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8136,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4517930,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,81525,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,191,Croatia,HRV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,446136,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,191,Croatia,HRV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,549217,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,192,Cuba,CUB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9561,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,129194,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,339000,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,203,Czechia,CZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4800477,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,203,Czechia,CZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1779587,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,44872596,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,31000226,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,34253,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2963969,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,222,El Salvador,SLV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4646,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,226,Equatorial Guinea,GNQ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6357,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,231,Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,42182,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,233,Estonia,EST,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2822545,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,234,Faeroe Isds,FRO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1643129,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,234,Faeroe Isds,FRO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,643631,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7729,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,112868360,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,185576605,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21625233,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12646626,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,266,Gabon,GAB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,50128,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,268,Georgia,GEO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1086196,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,268,Georgia,GEO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,88705,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,270,Gambia,GMB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1141,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,275,State of Palestine,PSE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1291,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,276,Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,111529616,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,276,Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,45927460,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,93253325,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,41681,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,292,Gibraltar,GIB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,48675,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2429194,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,985850,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,304,Greenland,GRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,478534,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,308,Grenada,GRD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15774,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,316,Guam,GUM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8917,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,320,Guatemala,GTM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,146820,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,320,Guatemala,GTM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20072,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,332,Haiti,HTI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,28943,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,340,Honduras,HND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,331785,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,68497,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1325968,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12346494,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,975769,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3777717,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9103962,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,23502472,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,364,Iran,IRN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1638028,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,368,Iraq,IRQ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20497423,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1709746,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9120366,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2606076,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,376,Israel,ISR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,63899,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,25691667,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10205986,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,68128284,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,366779,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,388,Jamaica,JAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,954,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,177000,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,217067,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,398,Kazakhstan,KAZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4418828,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,398,Kazakhstan,KAZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,29961515,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2487,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,39010,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,440099,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,408,Dem. People's Rep. of Korea,PRK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3457,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,144453,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,540193,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,414,Kuwait,KWT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20410,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,418,Lao People's Dem. Rep.,LAO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,103252,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,422,Lebanon,LBN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,47814,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,428,Latvia,LVA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,227376413,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,428,Latvia,LVA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,218072933,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,430,Liberia,LBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,126550,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,430,Liberia,LBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11153,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,440,Lithuania,LTU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,133449234,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,440,Lithuania,LTU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,166839077,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,442,Luxembourg,LUX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8510,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,442,Luxembourg,LUX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,208992,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,450,Madagascar,MDG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2918724,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,454,Malawi,MWI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1072,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,29436343,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4464,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,462,Maldives,MDV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,423,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,466,Mali,MLI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,178,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2472,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2267428,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,480,Mauritius,MUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,16492,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1607075,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,226208,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,74615,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,170676,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,498,Rep. of Moldova,MDA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,652050,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,498,Rep. of Moldova,MDA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2678546,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,499,Montenegro,MNE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,26506,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6434994,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,194267,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,508,Mozambique,MOZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10094,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,516,Namibia,NAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,51514,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,524,Nepal,NPL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1131,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,54468906,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,26690770,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,531,Curaçao,CUW,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,29928,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,533,Aruba,ABW,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,275184,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,535,Bonaire,BES,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15422,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1650039,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,558,Nicaragua,NIC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12411,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,562,Niger,NER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2840,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11530574,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,963145,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,568,"Other Europe, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,56339707,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,33528785,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,22863678,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,333678,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,591,Panama,PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,560917,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,598,Papua New Guinea,PNG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6641,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2268255,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,121006,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,53538,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,111348798,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13286494,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1043471,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,480251,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,935221,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1501952,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,643,Russian Federation,RUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,22952696,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,643,Russian Federation,RUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,323539891,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,670,Saint Vincent and the Grenadines,VCT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1086,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,674,San Marino,SMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8251,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,682,Saudi Arabia,SAU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1374,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,682,Saudi Arabia,SAU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,31645051,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,686,Senegal,SEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,440272,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,688,Serbia,SRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,283598,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,688,Serbia,SRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2598292,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,690,Seychelles,SYC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,76727,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,694,Sierra Leone,SLE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8229,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,699,India,IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9500465,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,699,India,IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,94782,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,475776,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2720,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,703,Slovakia,SVK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2660775,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,703,Slovakia,SVK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,27827446,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,704,Viet Nam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7581739,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,704,Viet Nam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,736134,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,705,Slovenia,SVN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10858,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,705,Slovenia,SVN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,352033,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,710,South Africa,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5587419,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,710,South Africa,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,371672,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,716,Zimbabwe,ZWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,221479,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,44698601,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7593465,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,748,Eswatini,SWZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5053,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,49897888,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,78690444,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8239245,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11052451,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,760,Syria,SYR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,97338,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,760,Syria,SYR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,60745,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,762,Tajikistan,TJK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,46,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,762,Tajikistan,TJK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,105081,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6523548,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,384841,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,768,Togo,TGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,486,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,780,Trinidad and Tobago,TTO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,683,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,784,United Arab Emirates,ARE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,784,United Arab Emirates,ARE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,131746,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,98270,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6409854,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,381657,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,795,Turkmenistan,TKM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,58188,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,796,Turks and Caicos Isds,TCA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11267,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,800,Uganda,UGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,515,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,804,Ukraine,UKR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10177320,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,804,Ukraine,UKR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,62599808,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,807,North Macedonia,MKD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,482039,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,807,North Macedonia,MKD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,112232,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1423467,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,223992,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15316328,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9090892,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6504,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,837,Bunkers,,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,151015,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,842,USA,USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17613441,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,842,USA,USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4467647,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,854,Burkina Faso,BFA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3412,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1030482,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,860,Uzbekistan,UZB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,778140,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,860,Uzbekistan,UZB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,834324,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,77161,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,596641332,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1238616612,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,8,Albania,ALB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6918,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,20,Andorra,AND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3948,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,24,Angola,AGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,324100,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,31,Azerbaijan,AZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,351429,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,31,Azerbaijan,AZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,305205,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5250867,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,177361,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17990991,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2437321,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5817291,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,48,Bahrain,BHR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,211,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,48,Bahrain,BHR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,959983,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,50,Bangladesh,BGD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2024256,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,51,Armenia,ARM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,46413,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,56,Belgium,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4498180,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,56,Belgium,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14033223,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,68,Bolivia (Plurinational State of),BOL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14297,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,70,Bosnia Herzegovina,BIH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6096,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,290599,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,215,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,84,Belize,BLZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5029,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,805044,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,147147,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,112,Belarus,BLR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10614394,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,112,Belarus,BLR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,872424,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,120,Cameroon,CMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,46029,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2429793,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,140895,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,30725,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,25070,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,169356,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7215,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4820516,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,29005937,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,695371,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,175,Mayotte,MYT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5363,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,178,Congo,COG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9476,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,180,Dem. Rep. of the Congo,COD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9508,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,188,Costa Rica,CRI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,18803,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,191,Croatia,HRV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14911,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,191,Croatia,HRV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,52252,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1996624,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,122454,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,203,Czechia,CZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2048168,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,203,Czechia,CZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7291651,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,204,Benin,BEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2013116,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5292289,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,84669470,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,218,Ecuador,ECU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,411956,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,222,El Salvador,SLV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1460,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,231,Ethiopia,ETH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1559,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,233,Estonia,EST,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,887636,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,112981716,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,191626862,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1040894,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,29025160,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,260,Fr. South Antarctic Terr.,ATF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2045697,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,268,Georgia,GEO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,18314,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,268,Georgia,GEO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,251252,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,276,Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,20778124,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,276,Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,101150173,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,87855,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,91916,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,96977,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,320,Guatemala,GTM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,18903,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,324,Guinea,GIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5265,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,340,Honduras,HND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,934,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,152556,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1016955,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,301576,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4259826,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,352,Iceland,ISL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,352,Iceland,ISL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2869658,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,782206,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,56033,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,81606,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1060130,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,368,Iraq,IRQ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,44795,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,167807,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2147255,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,133550,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,376,Israel,ISR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,558948,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2987848,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,34146371,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,322418,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16323,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17306820,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,398,Kazakhstan,KAZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2502501,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,398,Kazakhstan,KAZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4055696,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,400,Jordan,JOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1787,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,400,Jordan,JOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1100688,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,117587,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5265187,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,20774678,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,414,Kuwait,KWT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5854,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,417,Kyrgyzstan,KGZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,21781,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15973,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,422,Lebanon,LBN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,48061,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,428,Latvia,LVA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,75594857,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,428,Latvia,LVA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,74754767,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,440,Lithuania,LTU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,27404952,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,440,Lithuania,LTU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,19979184,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,442,Luxembourg,LUX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,312857,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,450,Madagascar,MDG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,122,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,454,Malawi,MWI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,159800,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5034,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1317131,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,470,Malta,MLT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2366,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,480,Mauritius,MUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,34534,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4577,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,111387,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8609581,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,697517,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,498,Rep. of Moldova,MDA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,53094,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,498,Rep. of Moldova,MDA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5322,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,499,Montenegro,MNE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,202,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,45413,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,787122,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,508,Mozambique,MOZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,112325,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,20688867,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,39538528,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1798544,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,54012,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,558,Nicaragua,NIC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,86517,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3704662,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,77,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,568,"Other Europe, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,71356884,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12262574,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,45821511,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9729,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2025893,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,591,Panama,PAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,122909,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,600,Paraguay,PRY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,365798,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,18266,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5093,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7751351,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,28488762,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5835,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1170642,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,57109,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,643,Russian Federation,RUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,125348396,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,643,Russian Federation,RUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,41445669,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,670,Saint Vincent and the Grenadines,VCT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,96,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,674,San Marino,SMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,115807,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,682,Saudi Arabia,SAU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,755782,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,686,Senegal,SEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6398,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,688,Serbia,SRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,22635,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,688,Serbia,SRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,467,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,699,India,IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,611830,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,699,India,IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,25479012,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,390,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,251886,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,703,Slovakia,SVK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,291593,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,703,Slovakia,SVK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4634716,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,704,Viet Nam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,529932,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,704,Viet Nam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1573346,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,705,Slovenia,SVN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6163,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,705,Slovenia,SVN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,830584,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,710,South Africa,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4567,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,716,Zimbabwe,ZWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,60,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1588303,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3146359,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17256223,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,145755157,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,137724,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2013369,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1262469,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,586831,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,784,United Arab Emirates,ARE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8974,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,784,United Arab Emirates,ARE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,169332,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,788,Tunisia,TUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1397961,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1456560,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,157295005,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,800,Uganda,UGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16160,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,804,Ukraine,UKR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8444095,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,804,Ukraine,UKR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3232538,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,807,North Macedonia,MKD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,11344,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,75916,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1106405,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1309804,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,43262014,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,837,Bunkers,,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16979,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,842,USA,USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17157963,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,842,USA,USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9605768,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,854,Burkina Faso,BFA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,390879,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,887,Yemen,YEM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,575718,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2798832465,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1870981387,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,4,Afghanistan,AFG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,40733463,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,8,Albania,ALB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7324,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,12,Algeria,DZA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,16101238,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,24,Angola,AGO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,39458123,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,28,Antigua and Barbuda,ATG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1841,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,31,Azerbaijan,AZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,61548,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,32,Argentina,ARG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,541806,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,202897,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,653758,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,644354,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,48,Bahrain,BHR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,184057,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,50,Bangladesh,BGD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,17677,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,51,Armenia,ARM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7296,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,56,Belgium,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,15042798,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,56,Belgium,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,156768435,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,70,Bosnia Herzegovina,BIH,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6205,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,76,Brazil,BRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,63,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,76,Brazil,BRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,45481,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,84,Belize,BLZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,845,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,100,Bulgaria,BGR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,25467,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,112,Belarus,BLR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,84865648,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,112,Belarus,BLR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,902387,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,19024,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8102145,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,144,Sri Lanka,LKA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,144,Sri Lanka,LKA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2811,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,152,Chile,CHL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,534736,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,301614,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,18703600,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,170,Colombia,COL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,134832,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,191,Croatia,HRV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,47976,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,192,Cuba,CUB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6664515,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,196,Cyprus,CYP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,579788,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,196,Cyprus,CYP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,14542995,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,203,Czechia,CZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,79972,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,203,Czechia,CZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,632439,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2919519,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,40097784,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,214,Dominican Rep.,DOM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,27579,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,218,Ecuador,ECU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,30565,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,231,Ethiopia,ETH,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5938,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,233,Estonia,EST,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,16453,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,419676370,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,107240412,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2444052,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5840146,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,260,Fr. South Antarctic Terr.,ATF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3065,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,268,Georgia,GEO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5371,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,275,State of Palestine,PSE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,14937,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,276,Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,37452415,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,276,Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,16022998,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,288,Ghana,GHA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,25697282,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,292,Gibraltar,GIB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3187,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,300,Greece,GRC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,55437,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,300,Greece,GRC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1547130,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,320,Guatemala,GTM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,33355,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,340,Honduras,HND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,33141,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,344,"China, Hong Kong SAR",HKG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,26181,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,348,Hungary,HUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9906,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,348,Hungary,HUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,415843,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,352,Iceland,ISL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,166436,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,364,Iran,IRN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,29288,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,368,Iraq,IRQ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6658,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,372,Ireland,IRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,139519,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,376,Israel,ISR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1653356,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,13526303,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2644333,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,160942,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1618783,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,398,Kazakhstan,KAZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4846262,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,398,Kazakhstan,KAZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,99324,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,400,Jordan,JOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,872889,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,404,Kenya,KEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,43350,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,410,Rep. of Korea,KOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,37655,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,410,Rep. of Korea,KOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,44346454,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,414,Kuwait,KWT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,291738,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,417,Kyrgyzstan,KGZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,685,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,422,Lebanon,LBN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,69439,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,428,Latvia,LVA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,36348796,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,428,Latvia,LVA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,288802650,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,430,Liberia,LBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,138137,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,434,Libya,LBY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,42609,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,440,Lithuania,LTU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,655927549,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,440,Lithuania,LTU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,104777829,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,458,Malaysia,MYS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,65252,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,470,Malta,MLT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,435814,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,480,Mauritius,MUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4371,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,484,Mexico,MEX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,401,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,484,Mexico,MEX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1652872,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,490,"Other Asia, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3355,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,490,"Other Asia, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,807023,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,498,Rep. of Moldova,MDA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,144831,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,499,Montenegro,MNE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5906,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,504,Morocco,MAR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,805437,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,512,Oman,OMN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,203553,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,516,Namibia,NAM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,246272,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,21516315,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,162870715,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,533,Aruba,ABW,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5301,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,554,New Zealand,NZL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,17137,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,558,Nicaragua,NIC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,67414,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,566,Nigeria,NGA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,20681257,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,568,"Other Europe, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,163013692,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,579,Norway,NOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5479625,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,579,Norway,NOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2197952,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,584,Marshall Isds,MHL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,29800,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,586,Pakistan,PAK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,31676,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,591,Panama,PAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,36348,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,604,Peru,PER,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,314491,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2091202,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,26526909,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,620,Portugal,PRT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,897824,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,634,Qatar,QAT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,193129,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,18383,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,559432,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,643,Russian Federation,RUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1185012127,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,643,Russian Federation,RUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,36980672,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,670,Saint Vincent and the Grenadines,VCT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7254,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,682,Saudi Arabia,SAU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,943803,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,688,Serbia,SRB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,171944,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,699,India,IND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,14993991,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,699,India,IND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,18709,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,702,Singapore,SGP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3458483,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,702,Singapore,SGP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,733945,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,703,Slovakia,SVK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,234,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,703,Slovakia,SVK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,98779,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,705,Slovenia,SVN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,39657,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,705,Slovenia,SVN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,406725,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,710,South Africa,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,438841,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,716,Zimbabwe,ZWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,75846,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,147830,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6499233,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,62132199,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,103793417,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,73906,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7232173,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,760,Syria,SYR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,108640,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,762,Tajikistan,TJK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,53865,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,764,Thailand,THA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,331116,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,784,United Arab Emirates,ARE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,45533,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,784,United Arab Emirates,ARE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,937199,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,788,Tunisia,TUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,33487,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,16450,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,548304,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,804,Ukraine,UKR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5524134,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,804,Ukraine,UKR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,18684623,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,807,North Macedonia,MKD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,15526,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,818,Egypt,EGY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,34392,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,818,Egypt,EGY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,76411,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,53118647,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,16308176,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,834,United Rep. of Tanzania,TZA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,306159,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,837,Bunkers,,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,169215181,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,842,USA,USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,483063,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,842,USA,USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,346421508,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,858,Uruguay,URY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,91530,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,860,Uzbekistan,UZB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,409407,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,894,Zambia,ZMB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,37829,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2804042538,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2797922301,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,4,Afghanistan,AFG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,142,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,4,Afghanistan,AFG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,279,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,8,Albania,ALB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,597,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,8,Albania,ALB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,278419,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,12,Algeria,DZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,172,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,12,Algeria,DZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1362534,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,20,Andorra,AND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7508,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,24,Angola,AGO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,708393,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,31,Azerbaijan,AZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2115666,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,32,Argentina,ARG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,37618,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,32,Argentina,ARG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,125184,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,36,Australia,AUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,464289,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,36,Australia,AUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1939228,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,40,Austria,AUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,30315477,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,40,Austria,AUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8733823,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,44,Bahamas,BHS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2579700,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,44,Bahamas,BHS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,305399,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,48,Bahrain,BHR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,33965,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,50,Bangladesh,BGD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,459517,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,50,Bangladesh,BGD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,262805,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,51,Armenia,ARM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4520,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,51,Armenia,ARM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16654,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,56,Belgium,BEL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,57940845,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,56,Belgium,BEL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,67730920,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,64,Bhutan,BTN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1805,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,68,Bolivia (Plurinational State of),BOL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4791,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,70,Bosnia Herzegovina,BIH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7669,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,70,Bosnia Herzegovina,BIH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,713642,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,76,Brazil,BRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19734435,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,76,Brazil,BRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8233052,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,84,Belize,BLZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,477,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,92,Br. Virgin Isds,VGB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,743443,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,96,Brunei Darussalam,BRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2188,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,100,Bulgaria,BGR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2148987,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,100,Bulgaria,BGR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1942313,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,112,Belarus,BLR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,33057688,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,112,Belarus,BLR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11123554,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,116,Cambodia,KHM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,38494,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,116,Cambodia,KHM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1203,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,120,Cameroon,CMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,70859,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,120,Cameroon,CMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2213642,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,124,Canada,CAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3764627,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,124,Canada,CAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2528766,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,144,Sri Lanka,LKA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,735122,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,144,Sri Lanka,LKA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2347062,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,152,Chile,CHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,111651,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,152,Chile,CHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,446901,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,156,China,CHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,195214160,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,156,China,CHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16975699,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,170,Colombia,COL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,21673,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,170,Colombia,COL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,878,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,175,Mayotte,MYT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,61662,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,178,Congo,COG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,319,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,188,Costa Rica,CRI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6804,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,188,Costa Rica,CRI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,26612,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,191,Croatia,HRV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1365735,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,191,Croatia,HRV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,650097,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,192,Cuba,CUB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,625,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,192,Cuba,CUB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4287691,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,196,Cyprus,CYP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,66900,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,196,Cyprus,CYP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6505899,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,203,Czechia,CZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,31952633,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,203,Czechia,CZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,20858340,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,204,Benin,BEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,729923,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,208,Denmark,DNK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,31167717,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,208,Denmark,DNK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,59370406,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,214,Dominican Rep.,DOM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,818507,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,218,Ecuador,ECU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,130918,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,218,Ecuador,ECU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3416,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,222,El Salvador,SLV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3827,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,222,El Salvador,SLV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,42596,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,233,Estonia,EST,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3761984,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,234,Faeroe Isds,FRO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,193325,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,37065,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,246,Finland,FIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,382324195,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,246,Finland,FIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,454896880,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,251,France,FRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,42775736,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,251,France,FRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,25020769,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,260,Fr. South Antarctic Terr.,ATF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,149,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,260,Fr. South Antarctic Terr.,ATF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10497,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,266,Gabon,GAB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10036,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,268,Georgia,GEO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6713,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,268,Georgia,GEO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1094885,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,270,Gambia,GMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,23318,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,276,Germany,DEU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,233171414,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,276,Germany,DEU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,111414866,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,288,Ghana,GHA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,137510,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,292,Gibraltar,GIB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,21407,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,296,Kiribati,KIR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17425,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,300,Greece,GRC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1132641,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,300,Greece,GRC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2297660,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,304,Greenland,GRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,230,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,320,Guatemala,GTM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,137715,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,324,Guinea,GIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,41621,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,328,Guyana,GUY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,278130,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,340,Honduras,HND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,42,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,340,Honduras,HND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,42882,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1735033,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,437513,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,348,Hungary,HUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6654535,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,348,Hungary,HUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4986299,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,352,Iceland,ISL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,18633,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,352,Iceland,ISL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2759664,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,360,Indonesia,IDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11366262,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,360,Indonesia,IDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,678015,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,364,Iran,IRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5495,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,364,Iran,IRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,216869,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,368,Iraq,IRQ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5404,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,372,Ireland,IRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2730056,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,372,Ireland,IRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3341593,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,376,Israel,ISR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2851204,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,376,Israel,ISR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2147615,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,381,Italy,ITA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,99909687,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,381,Italy,ITA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,24534287,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2999,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,384139,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,392,Japan,JPN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,170567087,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,392,Japan,JPN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,39932414,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,398,Kazakhstan,KAZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,68414,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,398,Kazakhstan,KAZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19976495,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,400,Jordan,JOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,524419,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,404,Kenya,KEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1916477,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,408,Dem. People's Rep. of Korea,PRK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,292,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,410,Rep. of Korea,KOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,61920840,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,410,Rep. of Korea,KOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,28418947,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,414,Kuwait,KWT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,929000,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,417,Kyrgyzstan,KGZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4242,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,417,Kyrgyzstan,KGZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9199337,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,418,Lao People's Dem. Rep.,LAO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,240,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,422,Lebanon,LBN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10287,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,422,Lebanon,LBN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1207890,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,428,Latvia,LVA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,151010075,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,428,Latvia,LVA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,227252259,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,430,Liberia,LBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6289,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,440,Lithuania,LTU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,62385892,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,440,Lithuania,LTU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,109322360,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,442,Luxembourg,LUX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6901424,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,442,Luxembourg,LUX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,64176,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,446,"China, Macao SAR",MAC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,127,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,458,Malaysia,MYS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1638338,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,458,Malaysia,MYS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,377040,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,466,Mali,MLI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,39,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,466,Mali,MLI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,886724,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,470,Malta,MLT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1045,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,470,Malta,MLT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,54799,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,478,Mauritania,MRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,30617,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,480,Mauritius,MUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,486,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,480,Mauritius,MUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8480,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,484,Mexico,MEX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1238752,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,484,Mexico,MEX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1482846,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,490,"Other Asia, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,35157339,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,490,"Other Asia, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1059151,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,496,Mongolia,MNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,24,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,496,Mongolia,MNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2642,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,498,Rep. of Moldova,MDA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,381656,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,498,Rep. of Moldova,MDA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,487809,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,499,Montenegro,MNE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,189,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,499,Montenegro,MNE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,29147,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,504,Morocco,MAR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,190779,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,504,Morocco,MAR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,732450,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,512,Oman,OMN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,373502,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,512,Oman,OMN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,364566,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,516,Namibia,NAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3594,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,516,Namibia,NAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7430,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,524,Nepal,NPL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,33077,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,528,Netherlands,NLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,39456895,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,528,Netherlands,NLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,28632983,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,548,Vanuatu,VUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4595,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,554,New Zealand,NZL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19990,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,554,New Zealand,NZL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,607341,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,558,Nicaragua,NIC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,91,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,558,Nicaragua,NIC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,325643,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,562,Niger,NER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12523,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,566,Nigeria,NGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5678,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,568,"Other Europe, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,153560015,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,579,Norway,NOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19693354,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,579,Norway,NOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,128475803,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,584,Marshall Isds,MHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,348528,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,586,Pakistan,PAK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14227549,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,586,Pakistan,PAK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,530240,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,591,Panama,PAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,113,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,591,Panama,PAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1494196,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,604,Peru,PER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,179795,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,604,Peru,PER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2807,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,608,Philippines,PHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,149230,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,608,Philippines,PHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,52748,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,616,Poland,POL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,196314563,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,616,Poland,POL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,49628000,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,620,Portugal,PRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9614586,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,620,Portugal,PRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6421680,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,642,Romania,ROU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5118717,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,642,Romania,ROU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1757118,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,643,Russian Federation,RUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,231553140,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,643,Russian Federation,RUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,750632102,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,646,Rwanda,RWA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,88131,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,670,Saint Vincent and the Grenadines,VCT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5476,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,674,San Marino,SMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13513,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,682,Saudi Arabia,SAU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,215717,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,682,Saudi Arabia,SAU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,739408,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,686,Senegal,SEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,254,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,688,Serbia,SRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1914783,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,688,Serbia,SRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1253973,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,690,Seychelles,SYC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,297,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,694,Sierra Leone,SLE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,43441,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,694,Sierra Leone,SLE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1958,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,699,India,IND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,18662394,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,699,India,IND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7382414,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,702,Singapore,SGP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,360762,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,702,Singapore,SGP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5110476,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,703,Slovakia,SVK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9735619,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,703,Slovakia,SVK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,27753057,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,704,Viet Nam,VNM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1156419,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,704,Viet Nam,VNM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,872011,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,705,Slovenia,SVN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7133787,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,705,Slovenia,SVN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2191669,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,710,South Africa,ZAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3049805,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,710,South Africa,ZAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1637149,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,716,Zimbabwe,ZWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2745,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,716,Zimbabwe,ZWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,25,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,724,Spain,ESP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17709598,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,724,Spain,ESP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9407487,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,729,Sudan,SDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10224,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,748,Eswatini,SWZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6538,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,752,Sweden,SWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,199530969,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,752,Sweden,SWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,277991643,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,757,Switzerland,CHE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14356058,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,757,Switzerland,CHE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9290160,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,760,Syria,SYR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12880,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,762,Tajikistan,TJK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,778244,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,764,Thailand,THA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15602546,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,764,Thailand,THA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,153359,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,784,United Arab Emirates,ARE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,414150,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,784,United Arab Emirates,ARE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2416399,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,788,Tunisia,TUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,403628,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,788,Tunisia,TUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,623529,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,792,Turkey,TUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,64522637,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,792,Turkey,TUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,31448956,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,795,Turkmenistan,TKM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2189,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,795,Turkmenistan,TKM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,115964,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,796,Turks and Caicos Isds,TCA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,800,Uganda,UGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,244,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,800,Uganda,UGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,231640,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,804,Ukraine,UKR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,41902555,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,804,Ukraine,UKR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,57443033,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,807,North Macedonia,MKD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,71871,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,807,North Macedonia,MKD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9644,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,818,Egypt,EGY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1277698,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,818,Egypt,EGY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14293984,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,826,United Kingdom,GBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,27686245,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,826,United Kingdom,GBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,42925990,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,612,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,837,Bunkers,,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,326752,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,842,USA,USA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16593813,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,842,USA,USA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,27609232,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,854,Burkina Faso,BFA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5721,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,858,Uruguay,URY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15306,,,0
+S3,2013,2013,2013,1,0,1,Import,233,Estonia,EST,860,Uzbekistan,UZB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3643,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,860,Uzbekistan,UZB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3116007,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,862,Venezuela,VEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,73326,,,0
+S3,2013,2013,2013,1,0,2,Export,233,Estonia,EST,887,Yemen,YEM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,86,,,0

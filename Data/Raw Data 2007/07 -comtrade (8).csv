@@ -1,0 +1,803 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2652439000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,0,World,WLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1416060000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,31,Azerbaijan,AZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,92000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,31,Azerbaijan,AZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,116000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,123540000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,32,Argentina,ARG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,784000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,47647000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,36,Australia,AUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6101000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14145000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,40,Austria,AUT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12565000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,51,Armenia,ARM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,51,Armenia,ARM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,449000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,56,Belgium,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,50718000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,56,Belgium,BEL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,76060000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,60,Bermuda,BMU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6175000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,68,Bolivia (Plurinational State of),BOL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1114000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,70,Bosnia Herzegovina,BIH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,118287000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,76,Brazil,BRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1282000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,92,Br. Virgin Isds,VGB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,551000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2499000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,100,Bulgaria,BGR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2145000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,104,Myanmar,MMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,222000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,112,Belarus,BLR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1572000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,112,Belarus,BLR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,764000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,120,Cameroon,CMR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,215000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9968000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,124,Canada,CAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10834000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2962000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,144,Sri Lanka,LKA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,315000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7948000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,152,Chile,CHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,81000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,67652000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,156,China,CHN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12077000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5935000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,170,Colombia,COL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,114000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,178,Congo,COG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,180,Dem. Rep. of the Congo,COD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,81000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,188,Costa Rica,CRI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1158000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,191,Croatia,HRV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,101000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,191,Croatia,HRV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1997000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,192,Cuba,CUB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,686000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9239000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,196,Cyprus,CYP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5365000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,203,Czechia,CZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1721000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,203,Czechia,CZE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4663000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,204,Benin,BEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,25407000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,208,Denmark,DNK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6035000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,34000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,214,Dominican Rep.,DOM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,100000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3148000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,218,Ecuador,ECU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,43000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,226,Equatorial Guinea,GNQ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,72000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,231,Ethiopia,ETH,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4588000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,232,Eritrea,ERI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,25000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,233,Estonia,EST,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,48000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,233,Estonia,EST,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,953000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,234,Faeroe Isds,FRO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,22000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1268000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,246,Finland,FIN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11011000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,93864000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,251,France,FRA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,122441000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,262,Djibouti,DJI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,53000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,268,Georgia,GEO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,287000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,268,Georgia,GEO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,284000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,276,Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,135624000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,276,Germany,DEU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,114457000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2658000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,288,Ghana,GHA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,290000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,292,Gibraltar,GIB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13820000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,300,Greece,GRC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13839000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,320,Guatemala,GTM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3282000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,332,Haiti,HTI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3015000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,340,Honduras,HND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,447000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6050000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,344,"China, Hong Kong SAR",HKG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2145000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,23652000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,348,Hungary,HUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3173000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6282000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,352,Iceland,ISL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,45000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,360,Indonesia,IDN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5602000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,71384000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,372,Ireland,IRL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,6572000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,73488000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,381,Italy,ITA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,48255000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,384,Côte d'Ivoire,CIV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4238000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,388,Jamaica,JAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4833000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,392,Japan,JPN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15771000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,398,Kazakhstan,KAZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1397000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9612000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,400,Jordan,JOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12448000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20566000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,404,Kenya,KEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,389000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10116000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,410,Rep. of Korea,KOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4149000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,428,Latvia,LVA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1728000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,428,Latvia,LVA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3741000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,440,Lithuania,LTU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8596000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,440,Lithuania,LTU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1352000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,442,Luxembourg,LUX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,28793000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,442,Luxembourg,LUX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,313000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,454,Malawi,MWI,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,372000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7950000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,458,Malaysia,MYS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,608000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,462,Maldives,MDV,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,14000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1517000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,470,Malta,MLT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,132000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,478,Mauritania,MRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,32000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,480,Mauritius,MUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,894000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,480,Mauritius,MUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,77000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3986000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,484,Mexico,MEX,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,4797000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,721000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,490,"Other Asia, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8951000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,498,Rep. of Moldova,MDA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,125000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,498,Rep. of Moldova,MDA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,170000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1799000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,504,Morocco,MAR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,512,Oman,OMN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,26000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,516,Namibia,NAM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,928000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,520,Nauru,NRU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,82000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,524,Nepal,NPL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1583000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,226911000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,528,Netherlands,NLD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,233834000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,530,Neth. Antilles,ANT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,210000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1913000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,554,New Zealand,NZL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,174000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,562,Niger,NER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,220000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,107000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,566,Nigeria,NGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,728000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,568,"Other Europe, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1417000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,577,"Other Africa, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,36000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,577,"Other Africa, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,82000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13280000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,579,Norway,NOR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,9063000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,586,Pakistan,PAK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,25000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,591,Panama,PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7109000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,591,Panama,PAN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,112000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,598,Papua New Guinea,PNG,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,600,Paraguay,PRY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,8455000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,600,Paraguay,PRY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,604,Peru,PER,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1157000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11991000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,608,Philippines,PHL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1211000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15997000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,616,Poland,POL,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7129000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,23136000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,620,Portugal,PRT,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2097000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,571000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,642,Romania,ROU,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1672000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,643,Russian Federation,RUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,20213000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,643,Russian Federation,RUS,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,134454000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,646,Rwanda,RWA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,291000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,646,Rwanda,RWA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,686,Senegal,SEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,546000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,688,Serbia,SRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,482000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,688,Serbia,SRB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,434000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,690,Seychelles,SYC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,223000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,690,Seychelles,SYC,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,60000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,699,India,IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,28344000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,699,India,IND,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,990000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17778000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,702,Singapore,SGP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,3810000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,703,Slovakia,SVK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,703,Slovakia,SVK,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1598000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,704,Viet Nam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,37238000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,704,Viet Nam,VNM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2121000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,705,Slovenia,SVN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,926000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,705,Slovenia,SVN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,22232000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,710,South Africa,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,13626000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,710,South Africa,ZAF,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7168000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,716,Zimbabwe,ZWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,46000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,35930000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,724,Spain,ESP,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,37606000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,748,Eswatini,SWZ,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,131000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,874000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,752,Sweden,SWE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,21093000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,317810000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,757,Switzerland,CHE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,15243000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,79335000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,764,Thailand,THA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,1644000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,768,Togo,TGO,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,37000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,784,United Arab Emirates,ARE,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,429000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,788,Tunisia,TUN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,247000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,67952000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,792,Turkey,TUR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,5686000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,795,Turkmenistan,TKM,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,12000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,800,Uganda,UGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7678000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,800,Uganda,UGA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,2000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,804,Ukraine,UKR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,11930000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,804,Ukraine,UKR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,17739000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,807,North Macedonia,MKD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,130000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,807,North Macedonia,MKD,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,493000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,10979000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,818,Egypt,EGY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,203000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,222723000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,826,United Kingdom,GBR,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,232540000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,834,United Rep. of Tanzania,TZA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,7044000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,842,USA,USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,355667000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,842,USA,USA,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,127530000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,51604000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,858,Uruguay,URY,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,34000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,860,Uzbekistan,UZB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,41000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,860,Uzbekistan,UZB,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,113000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,39000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,862,Venezuela,VEN,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,57000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,899,"Areas, nes",,,,,,,,,0,Food and live animals,1,No Quantity,,,,,,,123000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1164772000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,0,World,WLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,700721000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,4,Afghanistan,AFG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3898000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,8,Albania,ALB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,224000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,28,Antigua and Barbuda,ATG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,31,Azerbaijan,AZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,31,Azerbaijan,AZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,85000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5907000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,32,Argentina,ARG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1278000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2979000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,36,Australia,AUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2027000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,28392000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,40,Austria,AUT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,132000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,51,Armenia,ARM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,52,Barbados,BRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,91000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,56,Belgium,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13349000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,56,Belgium,BEL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,24912000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,68,Bolivia (Plurinational State of),BOL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,102000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,68,Bolivia (Plurinational State of),BOL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,28000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,70,Bosnia Herzegovina,BIH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,122000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,70,Bosnia Herzegovina,BIH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,43000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,72,Botswana,BWA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,62000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,50465000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,76,Brazil,BRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5383000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,84,Belize,BLZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,84,Belize,BLZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1773000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,100,Bulgaria,BGR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1146000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,112,Belarus,BLR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2923000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,112,Belarus,BLR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,20000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,116,Cambodia,KHM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,120,Cameroon,CMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,9000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,120,Cameroon,CMR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,546000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,43257000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,124,Canada,CAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2027000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,136,Cayman Isds,CYM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,30000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,136,Cayman Isds,CYM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,140,Central African Rep.,CAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,140,Central African Rep.,CAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1129000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,144,Sri Lanka,LKA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2765000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,152,Chile,CHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,597000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,35135000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,156,China,CHN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,36029000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,592000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,170,Colombia,COL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1706000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,178,Congo,COG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,221000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,188,Costa Rica,CRI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,188,Costa Rica,CRI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,333000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,191,Croatia,HRV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,489000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,191,Croatia,HRV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,27000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5094000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,196,Cyprus,CYP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2356000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,203,Czechia,CZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4379000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,203,Czechia,CZE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,707000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6486000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,208,Denmark,DNK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10205000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,214,Dominican Rep.,DOM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,454000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,214,Dominican Rep.,DOM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2868000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,218,Ecuador,ECU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,28000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,218,Ecuador,ECU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1554000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,222,El Salvador,SLV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,22000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,226,Equatorial Guinea,GNQ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,67000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,231,Ethiopia,ETH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,21261000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,231,Ethiopia,ETH,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,30000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,233,Estonia,EST,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,65000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,75977000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,246,Finland,FIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,945000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,20811000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,251,France,FRA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,21494000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,262,Djibouti,DJI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,266,Gabon,GAB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,268,Georgia,GEO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,838000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,268,Georgia,GEO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,59000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,276,Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,62059000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,276,Germany,DEU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,39448000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,764000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,288,Ghana,GHA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,64000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,292,Gibraltar,GIB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,21000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,24191000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,300,Greece,GRC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,18084000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,308,Grenada,GRD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,13000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,320,Guatemala,GTM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,320,Guatemala,GTM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,170000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,324,Guinea,GIN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,25000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,328,Guyana,GUY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,333000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,332,Haiti,HTI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,248000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,340,Honduras,HND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,715000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2807000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,344,"China, Hong Kong SAR",HKG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6151000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6551000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,348,Hungary,HUN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,619000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,352,Iceland,ISL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,315000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,352,Iceland,ISL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10862000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,360,Indonesia,IDN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,49000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,364,Iran,IRN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2740000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,372,Ireland,IRL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1857000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,36827000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,381,Italy,ITA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,39193000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,718000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,384,Côte d'Ivoire,CIV,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,438000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,388,Jamaica,JAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,37000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1554000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,392,Japan,JPN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,29102000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,398,Kazakhstan,KAZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,958000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,398,Kazakhstan,KAZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,406000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,400,Jordan,JOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,979000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,400,Jordan,JOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,218000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,381000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,404,Kenya,KEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,799000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16509000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,410,Rep. of Korea,KOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,33053000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,417,Kyrgyzstan,KGZ,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,428,Latvia,LVA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2433000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,428,Latvia,LVA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,440,Lithuania,LTU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,65000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,440,Lithuania,LTU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,36000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,442,Luxembourg,LUX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,101000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,442,Luxembourg,LUX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,29000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,450,Madagascar,MDG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,112000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,450,Madagascar,MDG,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,604000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,454,Malawi,MWI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,16000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1376000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,458,Malaysia,MYS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1244000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,466,Mali,MLI,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,150000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,470,Malta,MLT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,84000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,480,Mauritius,MUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,6000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,480,Mauritius,MUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,321000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,294000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,484,Mexico,MEX,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,886000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,29919000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,490,"Other Asia, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3803000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,498,Rep. of Moldova,MDA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,504,Morocco,MAR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,66000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,516,Namibia,NAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,204000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,516,Namibia,NAM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,524,Nepal,NPL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,41166000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,528,Netherlands,NLD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,146344000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,315000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,554,New Zealand,NZL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,450000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,558,Nicaragua,NIC,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,67000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,566,Nigeria,NGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,949000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,577,"Other Africa, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,290000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,597000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,579,Norway,NOR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1963000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,304000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,586,Pakistan,PAK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,23000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,591,Panama,PAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,93000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,591,Panama,PAN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,97000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,600,Paraguay,PRY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14135000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,100000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,604,Peru,PER,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2167000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,558000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,608,Philippines,PHL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,595000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,992000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,616,Poland,POL,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2139000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,17396000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,620,Portugal,PRT,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3998000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,637,"North America and Central America, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1812000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,10835000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,642,Romania,ROU,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,871000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,643,Russian Federation,RUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,100170000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,643,Russian Federation,RUS,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5604000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,646,Rwanda,RWA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,662,Saint Lucia,LCA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,69000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,686,Senegal,SEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,323000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,688,Serbia,SRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,329000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,688,Serbia,SRB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,242000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,699,India,IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,24414000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,699,India,IND,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15046000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,31890000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,702,Singapore,SGP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,556000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,703,Slovakia,SVK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,222000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,703,Slovakia,SVK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,704,Viet Nam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,159000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,704,Viet Nam,VNM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,114000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,705,Slovenia,SVN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,8579000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,705,Slovenia,SVN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,134000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,710,South Africa,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1685000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,710,South Africa,ZAF,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2314000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,716,Zimbabwe,ZWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,70000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,21823000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,724,Spain,ESP,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,35866000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,20691000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,752,Sweden,SWE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,1370000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,63341000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,757,Switzerland,CHE,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,4566000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,762,Tajikistan,TJK,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,43000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,15301000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,764,Thailand,THA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,5750000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,768,Togo,TGO,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,317000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,24040000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,792,Turkey,TUR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,90016000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,795,Turkmenistan,TKM,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,175000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,800,Uganda,UGA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,804,Ukraine,UKR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,14445000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,804,Ukraine,UKR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,312000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,807,North Macedonia,MKD,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,3036000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,818,Egypt,EGY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,115000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,29337000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,826,United Kingdom,GBR,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,29726000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,834,United Rep. of Tanzania,TZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,7000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,834,United Rep. of Tanzania,TZA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,2000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,842,USA,USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,159839000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,842,USA,USA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,49200000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,854,Burkina Faso,BFA,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,115000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,858,Uruguay,URY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12620000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,858,Uruguay,URY,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,271000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,860,Uzbekistan,UZB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,829000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,860,Uzbekistan,UZB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,960000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,862,Venezuela,VEN,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,788000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,894,Zambia,ZMB,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,208000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,899,"Areas, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,12973000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,899,"Areas, nes",,,,,,,,,2,"Crude materials, inedible, except fuels",1,No Quantity,,,,,,,170000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8926382000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,0,World,WLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,82190000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,36,Australia,AUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,23306000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,40,Austria,AUT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,29000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,56,Belgium,BEL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,10879000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,76,Brazil,BRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,139000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,76,Brazil,BRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8343000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,100,Bulgaria,BGR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8032000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,104,Myanmar,MMR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,55000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,58289000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,124,Canada,CAN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,757000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,156,China,CHN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,8000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,170,Colombia,COL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,570264000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,191,Croatia,HRV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,191,Croatia,HRV,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,64000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,196,Cyprus,CYP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7220000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,196,Cyprus,CYP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,326000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,203,Czechia,CZE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,443000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,208,Denmark,DNK,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,27000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,214,Dominican Rep.,DOM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,168000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,233,Estonia,EST,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1521000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,246,Finland,FIN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1848000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,30793000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,251,France,FRA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,52000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,262,Djibouti,DJI,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,155000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,268,Georgia,GEO,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,39000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,276,Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,10382000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,276,Germany,DEU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,33208000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,288,Ghana,GHA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,685000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,300,Greece,GRC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,9416000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,300,Greece,GRC,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1528000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,320,Guatemala,GTM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,29000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,344,"China, Hong Kong SAR",HKG,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,76000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,348,Hungary,HUN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,107000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,352,Iceland,ISL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,360,Indonesia,IDN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,17604000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,372,Ireland,IRL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1061000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,103211000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,381,Italy,ITA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3810000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,392,Japan,JPN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,236000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,398,Kazakhstan,KAZ,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,400,Jordan,JOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,77000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,400,Jordan,JOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,21000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,404,Kenya,KEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,4290000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,410,Rep. of Korea,KOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,918000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,410,Rep. of Korea,KOR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,46000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,428,Latvia,LVA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,246203000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,440,Lithuania,LTU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,362000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,440,Lithuania,LTU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,18000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,458,Malaysia,MYS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,24000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,470,Malta,MLT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,16310000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,470,Malta,MLT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,49000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,484,Mexico,MEX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,770000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,484,Mexico,MEX,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,583000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,490,"Other Asia, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,136000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,512,Oman,OMN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1396000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,35456000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,528,Netherlands,NLD,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,568,"Other Europe, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,16000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,577,"Other Africa, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,54000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,616,Poland,POL,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,68000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,620,Portugal,PRT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,11000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,620,Portugal,PRT,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1115000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,6958000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,642,Romania,ROU,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,585000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,643,Russian Federation,RUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,10478000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,643,Russian Federation,RUS,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,55000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,662,Saint Lucia,LCA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,688,Serbia,SRB,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,29000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,699,India,IND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1428000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,699,India,IND,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,25000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,702,Singapore,SGP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,80000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,702,Singapore,SGP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,64000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,704,Viet Nam,VNM,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,70000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,705,Slovenia,SVN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,38000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,705,Slovenia,SVN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,106000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,710,South Africa,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1669000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,710,South Africa,ZAF,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,5347000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,573000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,724,Spain,ESP,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,227000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,752,Sweden,SWE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,661000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,334415000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,757,Switzerland,CHE,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,2000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,764,Thailand,THA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,30905000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,792,Turkey,TUR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,1651000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,804,Ukraine,UKR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,36000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,818,Egypt,EGY,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,13766000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,826,United Kingdom,GBR,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,26026000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,842,USA,USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,320787000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,842,USA,USA,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,3967000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,862,Venezuela,VEN,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,843000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,899,"Areas, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,7021869000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,899,"Areas, nes",,,,,,,,,3,"Mineral fuels, lubricants and related materials",1,No Quantity,,,,,,,13861000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16170736000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,0,World,WLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,21392691000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,4,Afghanistan,AFG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,8,Albania,ALB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,224000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,12,Algeria,DZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,100000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,24,Angola,AGO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,23000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,31,Azerbaijan,AZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,23000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,31,Azerbaijan,AZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2177000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,32,Argentina,ARG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3118000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,32,Argentina,ARG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5131000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,36,Australia,AUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,31819000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,36,Australia,AUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,140197000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,40,Austria,AUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,95343000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,40,Austria,AUT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19753000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,44,Bahamas,BHS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,48000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,50,Bangladesh,BGD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,51,Armenia,ARM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14661000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,51,Armenia,ARM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,30304000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,52,Barbados,BRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,769000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,56,Belgium,BEL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3381053000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,56,Belgium,BEL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3227778000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,60,Bermuda,BMU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,68,Bolivia (Plurinational State of),BOL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,34000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,68,Bolivia (Plurinational State of),BOL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,80000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,72,Botswana,BWA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,72,Botswana,BWA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,33640000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,76,Brazil,BRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,39101000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,76,Brazil,BRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19372000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,84,Belize,BLZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,326000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,92,Br. Virgin Isds,VGB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,116000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,96,Brunei Darussalam,BRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,100,Bulgaria,BGR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,24361000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,100,Bulgaria,BGR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14215000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,104,Myanmar,MMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,89000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,112,Belarus,BLR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,46000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,112,Belarus,BLR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2716000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,116,Cambodia,KHM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,120,Cameroon,CMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,120,Cameroon,CMR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,495000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,124,Canada,CAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,61866000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,124,Canada,CAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,120366000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,140,Central African Rep.,CAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,33000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,144,Sri Lanka,LKA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,29598000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,144,Sri Lanka,LKA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,38156000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,148,Chad,TCD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,50000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,152,Chile,CHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1666000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,152,Chile,CHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5554000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,156,China,CHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,883728000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,156,China,CHN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,230242000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,170,Colombia,COL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1367000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,170,Colombia,COL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3792000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,174,Comoros,COM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,837000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,178,Congo,COG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,459000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,178,Congo,COG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2288000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,188,Costa Rica,CRI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,188,Costa Rica,CRI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3305000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,191,Croatia,HRV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,669000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,191,Croatia,HRV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,829000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,192,Cuba,CUB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,196,Cyprus,CYP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10894000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,196,Cyprus,CYP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,23082000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,203,Czechia,CZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,21115000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,203,Czechia,CZE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13972000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,208,Denmark,DNK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8727000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,208,Denmark,DNK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,11065000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,212,Dominica,DMA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,212,Dominica,DMA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,214,Dominican Rep.,DOM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,163000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,214,Dominican Rep.,DOM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1015000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,218,Ecuador,ECU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,218,Ecuador,ECU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1427000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,222,El Salvador,SLV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,222,El Salvador,SLV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,36000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,226,Equatorial Guinea,GNQ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1645000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,231,Ethiopia,ETH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,18000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,231,Ethiopia,ETH,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2516000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,233,Estonia,EST,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1127000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,233,Estonia,EST,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5337000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,234,Faeroe Isds,FRO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,242,Fiji,FJI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,246,Finland,FIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,62929000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,246,Finland,FIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10079000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,251,France,FRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,192549000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,251,France,FRA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,382638000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,258,French Polynesia,PYF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,262,Djibouti,DJI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13563000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,266,Gabon,GAB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,229000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,266,Gabon,GAB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,391000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,268,Georgia,GEO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,507000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,268,Georgia,GEO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8578000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,270,Gambia,GMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,276,Germany,DEU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,478686000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,276,Germany,DEU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,280102000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,288,Ghana,GHA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,288,Ghana,GHA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5098000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,292,Gibraltar,GIB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,973000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,292,Gibraltar,GIB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,139000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,300,Greece,GRC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,78623000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,300,Greece,GRC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,44193000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,320,Guatemala,GTM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,320,Guatemala,GTM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2436000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,324,Guinea,GIN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3177000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,328,Guyana,GUY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5623000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,332,Haiti,HTI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,835000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,340,Honduras,HND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,760000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1018965000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,344,"China, Hong Kong SAR",HKG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2792420000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,348,Hungary,HUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7890000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,348,Hungary,HUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6877000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,352,Iceland,ISL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5917000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,352,Iceland,ISL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,234000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,360,Indonesia,IDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9488000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,360,Indonesia,IDN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,513000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,364,Iran,IRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,364,Iran,IRN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,134000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,368,Iraq,IRQ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,372,Ireland,IRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4974000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,372,Ireland,IRL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7059000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,381,Italy,ITA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,501071000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,381,Italy,ITA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,213257000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,65000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,384,Côte d'Ivoire,CIV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,808000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,388,Jamaica,JAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,35000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,388,Jamaica,JAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3638000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,392,Japan,JPN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,70354000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,392,Japan,JPN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,160873000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,398,Kazakhstan,KAZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1646000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,398,Kazakhstan,KAZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2346000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,400,Jordan,JOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13703000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,400,Jordan,JOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,40025000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,404,Kenya,KEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,403000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,404,Kenya,KEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,12579000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,410,Rep. of Korea,KOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,101244000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,410,Rep. of Korea,KOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,51889000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,417,Kyrgyzstan,KGZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,417,Kyrgyzstan,KGZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,88000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,418,Lao People's Dem. Rep.,LAO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,29000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,428,Latvia,LVA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2118000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,428,Latvia,LVA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5715000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,430,Liberia,LBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1116000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,440,Lithuania,LTU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,173000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,440,Lithuania,LTU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1018000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,442,Luxembourg,LUX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,46660000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,442,Luxembourg,LUX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,98000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,446,"China, Macao SAR",MAC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,32000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,446,"China, Macao SAR",MAC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,450,Madagascar,MDG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,572000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,450,Madagascar,MDG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,88000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,454,Malawi,MWI,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,43000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,458,Malaysia,MYS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3326000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,458,Malaysia,MYS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,648000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,462,Maldives,MDV,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,150000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,470,Malta,MLT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1440000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,470,Malta,MLT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1181000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,478,Mauritania,MRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,127000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,480,Mauritius,MUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,57000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,480,Mauritius,MUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2669000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,484,Mexico,MEX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3143000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,484,Mexico,MEX,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,42314000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,490,"Other Asia, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,95149000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,490,"Other Asia, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,36936000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,496,Mongolia,MNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,489000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,498,Rep. of Moldova,MDA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,124000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,498,Rep. of Moldova,MDA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1126000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,504,Morocco,MAR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,491000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,504,Morocco,MAR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,452000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,512,Oman,OMN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,112000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,516,Namibia,NAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,516,Namibia,NAM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,73437000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,524,Nepal,NPL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,45000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,524,Nepal,NPL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,36000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,527,"Oceania, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,115000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,528,Netherlands,NLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,110196000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,528,Netherlands,NLD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,61777000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,530,Neth. Antilles,ANT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,530,Neth. Antilles,ANT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,42000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,533,Aruba,ABW,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,745000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,540,New Caledonia,NCL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,84000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,554,New Zealand,NZL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1135000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,554,New Zealand,NZL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6331000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,558,Nicaragua,NIC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,558,Nicaragua,NIC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,54000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,566,Nigeria,NGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,30000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,566,Nigeria,NGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15696000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,568,"Other Europe, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,577,"Other Africa, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,14750000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,579,Norway,NOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16191000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,579,Norway,NOR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8044000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,584,Marshall Isds,MHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,65000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,586,Pakistan,PAK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3436000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,586,Pakistan,PAK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,99000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,591,Panama,PAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1109000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,591,Panama,PAN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1117000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,598,Papua New Guinea,PNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,598,Papua New Guinea,PNG,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,33000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,600,Paraguay,PRY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,604,Peru,PER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,348000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,604,Peru,PER,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1964000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,608,Philippines,PHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1432000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,608,Philippines,PHL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4242000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,616,Poland,POL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,28621000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,616,Poland,POL,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,15767000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,620,Portugal,PRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,51028000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,620,Portugal,PRT,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,7522000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,637,"North America and Central America, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1489000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,642,Romania,ROU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,43983000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,642,Romania,ROU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,40970000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,643,Russian Federation,RUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1207440000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,643,Russian Federation,RUS,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,39609000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,646,Rwanda,RWA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,646,Rwanda,RWA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,621000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,660,Anguilla,AIA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,266000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,662,Saint Lucia,LCA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,791000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,682,Saudi Arabia,SAU,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,686,Senegal,SEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,919000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,688,Serbia,SRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6134000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,688,Serbia,SRB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,260000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,690,Seychelles,SYC,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,694,Sierra Leone,SLE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,699,India,IND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1270829000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,699,India,IND,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,915487000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,702,Singapore,SGP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,17266000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,702,Singapore,SGP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,61785000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,703,Slovakia,SVK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,6087000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,703,Slovakia,SVK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,597000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,704,Viet Nam,VNM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,5341000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,704,Viet Nam,VNM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1895000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,705,Slovenia,SVN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,19719000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,705,Slovenia,SVN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,10367000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,710,South Africa,ZAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,75418000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,710,South Africa,ZAF,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,152879000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,716,Zimbabwe,ZWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,43000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,724,Spain,ESP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,138958000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,724,Spain,ESP,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,91840000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,740,Suriname,SUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,748,Eswatini,SWZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,43000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,748,Eswatini,SWZ,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,46000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,752,Sweden,SWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,112604000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,752,Sweden,SWE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,13339000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,757,Switzerland,CHE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1132470000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,757,Switzerland,CHE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,889910000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,762,Tajikistan,TJK,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,36000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,764,Thailand,THA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,150442000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,764,Thailand,THA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,331174000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,768,Togo,TGO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,355000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,780,Trinidad and Tobago,TTO,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,415000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,784,United Arab Emirates,ARE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1636000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,784,United Arab Emirates,ARE,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,38747000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,788,Tunisia,TUN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,792,Turkey,TUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,708219000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,792,Turkey,TUR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,170200000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,795,Turkmenistan,TKM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,652000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,795,Turkmenistan,TKM,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,41000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,796,Turks and Caicos Isds,TCA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,800,Uganda,UGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,8000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,800,Uganda,UGA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,812000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,804,Ukraine,UKR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,107139000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,804,Ukraine,UKR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,42345000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,807,North Macedonia,MKD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,195000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,807,North Macedonia,MKD,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,96000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,818,Egypt,EGY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,26720000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,818,Egypt,EGY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,47353000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,826,United Kingdom,GBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1143574000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,826,United Kingdom,GBR,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,461527000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,87000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,834,United Rep. of Tanzania,TZA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3859000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,842,USA,USA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1601770000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,842,USA,USA,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,9739082000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,858,Uruguay,URY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,3656000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,858,Uruguay,URY,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,749000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,860,Uzbekistan,UZB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,1051000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,860,Uzbekistan,UZB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,197000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,862,Venezuela,VEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,4403000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,862,Venezuela,VEN,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,2226000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,894,Zambia,ZMB,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,810000,,,0
+S4,2007,2007,2007,1,0,1,Import,376,Israel,ISR,899,"Areas, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,849952000,,,0
+S4,2007,2007,2007,1,0,2,Export,376,Israel,ISR,899,"Areas, nes",,,,,,,,,6,Manufactured goods classified chiefly by material,1,No Quantity,,,,,,,16556000,,,0
