@@ -2,12 +2,12 @@
 *Testing World System Theory using Block Model Approach*
 
 
-## Project Information
+### Project Information
 
 **Class:** Network Analysis (SOCI 50096/1) @ University of Chicago
 
 **Data sets:** UN Comtrade Data
 
-## Quick Links
+### Quick Links
 
-## Table of Contents
+### Table of Contents
