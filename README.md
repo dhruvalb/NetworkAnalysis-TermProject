@@ -1,4 +1,4 @@
-# NetworkAnalysis-TermProject
+# Network Analysis Term Project
 *Testing World System Theory using Block Model Approach*
 
 
