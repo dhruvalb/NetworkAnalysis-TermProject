@@ -1,0 +1,28 @@
+﻿COLUMN MATRICES WITHIN AND BETWEEN DATASETS
+--------------------------------------------------------------------------------
+
+Datasets to correlate:                  raw1972
+                                        man1972
+                                        enr1972
+                                        agr1972
+Output Dataset:                         1972_MatCorrs (C:\Users\Dhruval\Documents\UCINET data\1972_MatCorrs)
+(for square mats) Include diagonal?     NO
+
+
+Correlation Matrix
+
+                    1     2     3     4
+                raw19 man19 enr19 agr19
+                ----- ----- ----- -----
+    1  raw1972  1.000 0.868 0.795 0.683
+    2  man1972  0.868 1.000 0.835 0.759
+    3  enr1972  0.795 0.835 1.000 0.851
+    4  agr1972  0.683 0.759 0.851 1.000
+
+Correlation matrix saved as dataset 1972_MatCorrs
+
+----------------------------------------
+Running time:  00:00:01
+Output generated:  29 Mar 20 18:49:14
+UCINET 6.689 Copyright (c) 2002-19 Analytic Technologies
+

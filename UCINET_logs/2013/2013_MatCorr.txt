@@ -1,0 +1,28 @@
+﻿COLUMN MATRICES WITHIN AND BETWEEN DATASETS
+--------------------------------------------------------------------------------
+
+Datasets to correlate:                  C:\Users\Dhruval\Documents\UCINET data\2013\agr2013
+                                        C:\Users\Dhruval\Documents\UCINET data\2013\enr2013
+                                        C:\Users\Dhruval\Documents\UCINET data\2013\man2013
+                                        C:\Users\Dhruval\Documents\UCINET data\2013\raw2013
+Output Dataset:                         2013_MatCorrs (C:\Users\Dhruval\Documents\UCINET data\2013_MatCorrs)
+(for square mats) Include diagonal?     NO
+
+
+Correlation Matrix
+
+                    1     2     3     4
+                agr20 enr20 man20 raw20
+                ----- ----- ----- -----
+    1  agr2013  1.000 0.718 0.674 0.318
+    2  enr2013  0.718 1.000 0.529 0.228
+    3  man2013  0.674 0.529 1.000 0.283
+    4  raw2013  0.318 0.228 0.283 1.000
+
+Correlation matrix saved as dataset 2013_MatCorrs
+
+----------------------------------------
+Running time:  00:00:01
+Output generated:  30 Mar 20 12:08:41
+UCINET 6.689 Copyright (c) 2002-19 Analytic Technologies
+
