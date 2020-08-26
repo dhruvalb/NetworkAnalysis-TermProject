@@ -10,6 +10,6 @@
 
 ### Quick Links
 - **[Data](Data/)**
-- **[Code](Code/)** *Code files for data prep and preliminary analysis *
+- **[Code](Code/)** *Code files for data prep and preliminary analysis*
 - **[Final Project Report](Documents/DhruvalBhatt_NetworkAnalysis_TermProjectReport.pdf)**
 - **[Presentation Slides](Documents/DhruvalBhatt_TermProjectPresentation.pdf)**
