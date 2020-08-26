@@ -9,5 +9,7 @@
 **Data sets:** UN Comtrade Data
 
 ### Quick Links
-- **[Final Project Write-up](https://github.com/dhruvalb/NetworkAnalysis-TermProject/blob/master/Documents/DhruvalBhatt_NetworkAnalysis_TermProjectReport.pdf)**
-- **[Presentation Slides]()**
+- **[Data](Data/)**
+- **[Code](Code/)** *Code files for data prep and preliminary analysis *
+- **[Final Project Report](Documents/DhruvalBhatt_NetworkAnalysis_TermProjectReport.pdf)**
+- **[Presentation Slides](Documents/DhruvalBhatt_TermProjectPresentation.pdf)**
